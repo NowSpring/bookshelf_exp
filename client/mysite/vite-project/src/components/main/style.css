@@ -1,0 +1,118 @@
+/* BookCard.tsx */
+.bookCard {
+  padding: 10px 25px;
+  margin: 10px 1%;
+  background-color: rgb(228,228,228);
+  border-radius: 5px;
+}
+
+.bookCard.highlight {
+  background-color: rgb(251, 209, 209);
+}
+
+.flexContainer {
+  display: flex;
+  align-items: center; /* 垂直方向に中央寄せ */
+  width: 100%;
+}
+
+/* Books.tsx */
+.books {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  flex-wrap: wrap;
+}
+
+/* Book.tsx */
+.bookBox {
+  position: relative;
+  width: 100px;
+  height: 192px;
+  padding: 5px 5px;
+  margin: 4px;
+  background-color: white;
+  border-radius: 5px;
+  box-shadow: 1px 1px 1px 1px rgb(75,75,75);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.bookHeader {
+  width: 35px;
+  height: 100%;
+  margin-top: 4px;
+  margin-bottom: 4px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  background-color: white;
+}
+
+.bookText {
+  writing-mode: vertical-rl;
+  text-orientation: upright;
+}
+
+.kebabMenu {
+  position: absolute;
+  top: 6px;
+  right: 6px;
+  cursor: pointer;
+}
+
+
+/* DetailDialog.tsx SearchResult.tsx*/
+
+.layout {
+  display: flex;
+  height: 50vh; /* ビューポートの高さに合わせる */
+  padding: 10px;
+}
+
+.sidebar {
+  flex: 2;
+  display: flex; /* Flex コンテナとして設定 */
+  justify-content: center; /* 垂直方向の中央揃え */
+}
+
+.imageArea {
+  /* 画像領域のスタイルを定義 */
+  height: 100%; /* 親要素と同じ高さ */
+  padding: 10px;
+}
+
+.mainContent {
+  flex: 3;
+  display: flex;
+  flex-direction: column; /* コンテンツを縦に並べる */
+}
+
+.header {
+  display: flex;
+  padding: 10px; /* 余白を追加 */
+  align-items: center; /* 垂直方向の中央揃え */
+}
+
+.title {
+  flex-grow: 1;
+  font-weight: bold; /* タイトルを太文字に */
+  font-size: 30px; /* フォントサイズを大きく設定 */
+  white-space: nowrap; /* テキストを一行で表示 */
+  overflow: hidden; /* コンテンツがオーバーフローした場合に隠す */
+  text-overflow: ellipsis; /* オーバーフローしたテキストを省略記号で表示 */
+}
+
+.description {
+  flex-grow: 1; /* 残りのスペースをディスクリプションで埋める */
+  /* background-color: palegreen; ディスクリプションの背景色 */
+  padding: 10px; /* 余白を追加 */
+}
+
+.tooltip {
+  width: 500px;
+}

@@ -1,0 +1,88 @@
+POST http://localhost:8000/api-token-auth/
+Content-Type: application/json
+
+{
+    "username": "admin",
+    "password": "admin"
+}
+
+###
+
+POST http://localhost:8000/api/member/
+Content-Type: application/json
+
+{
+  "username": "tester02",
+  "email": "test02@co.jp",
+  "password": "test"
+}
+
+###
+# @prompt token
+
+GET http://localhost:8000/api/member/
+Content-Type: application/json
+Authorization: Token {{token}}
+
+###
+# @prompt token
+
+GET http://localhost:8000/api/booklisttype/
+Content-Type: application/json
+Authorization: Token {{token}}
+
+
+###
+# @prompt token
+
+GET http://localhost:8000/api/booklist/?booklisttype_id=a2c0dae1-03ac-4a2f-9b92-105a27dc6912
+Content-Type: application/json
+Authorization: Token {{token}}
+
+
+###
+# @prompt token
+
+PUT http://localhost:8000/api/book/bulk_update/
+Content-Type: application/json
+Authorization: Token {{token}}
+
+# [
+#   {
+#     "id": "18d5d9c7-4dfc-4cbf-acfb-e1fbee68adbf",
+#     "title": "Updated Title 1",
+#     "description": "Updated Description 1",
+#     "image": "http://localhost:8000/media/example.png",
+#     "order": 1,
+#     "booklist": "129d24e7-dd56-413f-80a5-37a3aaa64cfd"
+#   },
+#   {
+#     "id": "346c3fe3-4d8f-4fbf-8c03-e4ee785c7438",
+#     "title": "Updated Title 2",
+#     "description": "Updated Description 2",
+#     "image": "http://localhost:8000/media/example.png",
+#     "order": 0,
+#     "booklist": "129d24e7-dd56-413f-80a5-37a3aaa64cfd"
+#   }
+# ]
+
+{
+  "books": [
+    {
+      "id": "18d5d9c7-4dfc-4cbf-acfb-e1fbee68adbf",
+      "booklist": "129d24e7-dd56-413f-80a5-37a3aaa64cfd",
+      "title": "Updated Title 1",
+      "description": "Updated Description 1",
+      "image": "http://0.0.0.0:8000/media/example.png",
+      "order": 1
+    },
+    {
+      "id": "346c3fe3-4d8f-4fbf-8c03-e4ee785c7438",
+      "booklist":"129d24e7-dd56-413f-80a5-37a3aaa64cfd",
+      "title": "Updated Title 2",
+      "description": "Updated Description 2",
+      "image": "http://0.0.0.0:8000/media/example.png",
+      "order": 0
+    }
+  ]
+}

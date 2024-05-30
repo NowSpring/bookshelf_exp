@@ -1,0 +1,20 @@
+/* ダイアログのコンテナに適用するCSS */
+.dialog {
+  position: fixed;     /* 画面に固定 */
+  top: 50%;            /* 上端から画面の中央までの位置に */
+  left: 50%;           /* 左端から画面の中央までの位置に */
+  transform: translate(-50%, -50%); /* 実際の中心を計算して補正 */
+  padding: 20px;       /* パディングで内側の余白を調整 */
+  background: white;   /* 背景色 */
+  border-radius: 8px;  /* 角の丸み */
+}
+
+/* 背景のスタイルも必要な場合 */
+.background {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.5); /* 半透明の黒で覆う */
+}
