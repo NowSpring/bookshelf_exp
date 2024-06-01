@@ -20,6 +20,7 @@ const NavigationBar = () => {
   const location = useLocation();
   const [bookListTypes, setBookListTypes] = useState<GenreType[]>([])
   const [localStorageId, setLocalStorageId] = useState<string | null>(null);
+  const [lastSegment, setLastSegment] = useState<string | null>(null);
 
   useEffect(() => {
     const id = window.localStorage.getItem('id');
@@ -45,6 +46,11 @@ const NavigationBar = () => {
     fetchBookListTypes();
   }, [location.pathname, localStorageId]);
 
+  useEffect(() => {
+    const urlSegments = location.pathname.split('/');
+    const lastSegment = urlSegments[urlSegments.length - 1];
+    setLastSegment(lastSegment);
+  }, [location]);
 
   const handleItemClick = (bookListType: GenreType) => {
     navigate(`/display/${bookListType.id}`, { state: { bookListType } });
@@ -83,7 +89,10 @@ const NavigationBar = () => {
                       />
                     )}
                   </ListItemIcon>
-                  <ListItemText primary={bookListType.type} />
+                  <ListItemText
+                    primary={bookListType.type}
+                    style={{ color: bookListType.id === lastSegment ? 'red' : 'inherit' }}
+                  />
                 </ListItemButton>
               </ListItem>
             ))}
