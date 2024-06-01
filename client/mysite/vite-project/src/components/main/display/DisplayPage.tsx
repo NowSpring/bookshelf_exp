@@ -11,12 +11,10 @@ const DisplayPage = () => {
   const [ownerBookLists, setOwnerBookLists] = useState<BookListType[]>([]);
   const [otherBookLists, setOtherBookLists] = useState<BookListType[]>([]);
   const [localStorageId, setLocalStorageId] = useState<string | null>(null);
-  const [isLoading, setIsLoading] = useState(true);
 
   useEffect(() => {
     const id = window.localStorage.getItem('id');
     setLocalStorageId(id);
-    setIsLoading(false);
   }, []);
 
   const getBookLists = async (id: string | null) => {
@@ -57,10 +55,6 @@ const DisplayPage = () => {
   useEffect(() => {
     console.log("otherBookLists:", otherBookLists);
   }, [otherBookLists]);
-
-  if (isLoading) {
-    return <div>Loading...</div>; // ローディング状態の表示
-  }
 
   return (
     <>

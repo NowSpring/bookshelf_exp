@@ -1,11 +1,9 @@
 import EventService from '@/EventService';
 import { useLocation, useNavigate } from 'react-router-dom';
 import Books from "./Books";
-import { useState } from 'react';
+import { useEffect, useState } from 'react';
 import { BookType } from '../types';
 import { Button } from "@/components/ui/button";
-
-const localStorageId = window.localStorage.getItem('id');
 
 const EditPage = () => {
 
@@ -14,6 +12,12 @@ const EditPage = () => {
   const bookList = location.state?.bookList;
   const bookListType = location.state?.bookListType;
   const [books, setBooks] = useState<BookType[]>(bookList.books);
+  const [localStorageId, setLocalStorageId] = useState<string | null>(null);
+
+  useEffect(() => {
+    const id = window.localStorage.getItem('id');
+    setLocalStorageId(id);
+  }, []);
 
   const putBookList = async () => {
     const newBooks = books.map((book: BookType, index: number) => ({
@@ -25,8 +29,13 @@ const EditPage = () => {
       order: index,
     }));
 
-    const newBookList = { books: newBooks };
-    console.log("newBookList:", newBookList);
+    const isCompleted = newBooks.every(book => book.title !== "未登録");
+
+    const newBookList = {
+      books: newBooks,
+      id: bookList.id,
+      is_completed: isCompleted
+    };
 
     try {
       await EventService.putBookList(newBookList);
@@ -38,21 +47,25 @@ const EditPage = () => {
 
   return (
     <div>
-      <p>
+      <h1>
         { bookListType.type }
-      </p>
+      </h1>
       <div
-        key={bookList.id}
-        className={`bookCard ${bookList.owner.id === localStorageId ? 'highlight' : ''}`}
+        style={{ display: 'flex', flexDirection: 'column', alignItems: 'center' }}
       >
-        <Books
-          books={books}
-          setBooks={setBooks}
-        />
+        <div
+          key={bookList.id}
+          className={`bookCard ${bookList.owner.id === localStorageId ? 'highlight' : ''}`}
+        >
+          <Books
+            books={books}
+            setBooks={setBooks}
+          />
+        </div>
+        <Button className="h-12 w-96" onClick={putBookList}>
+          保存
+        </Button>
       </div>
-      <Button className="h-12 w-96" onClick={putBookList}>
-        保存
-      </Button>
 
     </div>
   );
