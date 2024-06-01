@@ -4,13 +4,12 @@ import { BookListType, GenreType } from "../types"
 import { useNavigate } from "react-router-dom";
 import { Pen } from "lucide-react"
 import "@/components/main/style.css"
+import { useEffect, useState } from "react";
 
 type BookListsProps = {
   bookLists: BookListType[];
   bookListType?: GenreType;
 }
-
-const localStorageId = window.localStorage.getItem('id');
 
 const BookCards: React.FC<BookListsProps> = ({ bookLists, bookListType }) => {
 
@@ -18,6 +17,12 @@ const BookCards: React.FC<BookListsProps> = ({ bookLists, bookListType }) => {
   const navigateToEditPage = (bookList: BookListType, bookListType: GenreType) => {
     navigate(`/edit/${bookListType.id}`, { state: { bookList, bookListType } });
   }
+
+  const [localStorageId, setLocalStorageId] = useState<string | null>(null);
+  useEffect(() => {
+    const id = window.localStorage.getItem('id');
+    setLocalStorageId(id);
+  }, []);
 
   return (
     <div>

@@ -31,25 +31,19 @@ const Login = () => {
   const [alertDescription, setAlertDescription] = useState('');
   const [bookListTypes, setBookListTypes] = useState<BookListType[]>([])
 
-  const getBookListTypes = async() => {
+  const getBookListTypes = async (): Promise<BookListType[]> => {
     try {
       const response = await EventService.getBookListTypes();
-      setBookListTypes(response.data);
+      return response.data;
     } catch (error) {
       console.error('Error fetching book list types:', error);
+      throw error;
     }
   };
 
   useEffect(() => {
     setIsValid(username !== '' && password !== '');
   }, [username, password]);
-
-  useEffect(() => {
-    if (bookListTypes.length > 0) {
-      const bookListType = bookListTypes[0];
-      navigate(`/display/${bookListType.id}`, { state: { bookListType } });
-    }
-  }, [bookListTypes, navigate]);
 
   const submitLogin = async () => {
     try {
@@ -63,7 +57,15 @@ const Login = () => {
       window.localStorage.setItem('username', response.data.user.username);
       window.localStorage.setItem('email', response.data.user.email);
       setIsShowLoginAlert(false);
-      await getBookListTypes()
+
+      const fetchedBookListTypes = await getBookListTypes();
+      setBookListTypes(fetchedBookListTypes);
+
+      if (fetchedBookListTypes.length > 0) {
+        const bookListType = fetchedBookListTypes[0];
+        navigate(`/display/${bookListType.id}`, { state: { bookListType } });
+      }
+
     } catch (error) {
       if (axios.isAxiosError(error)) {
         if (error.response && error.response.data) {
