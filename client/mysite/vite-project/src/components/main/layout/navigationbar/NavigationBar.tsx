@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react';
-import { useNavigate } from 'react-router-dom';
+import { useLocation, useNavigate } from 'react-router-dom';
 import Box from '@mui/material/Box';
 import Drawer from '@mui/material/Drawer';
 import Toolbar from '@mui/material/Toolbar';
@@ -17,6 +17,7 @@ const drawerWidth = 200;
 const NavigationBar = () => {
 
   const navigate = useNavigate();
+  const location = useLocation();
   const [bookListTypes, setBookListTypes] = useState<GenreType[]>([])
   const [localStorageId, setLocalStorageId] = useState<string | null>(null);
 
@@ -35,18 +36,23 @@ const NavigationBar = () => {
   };
 
   useEffect(() => {
-    if (localStorageId) {
-      getBookListTypes(localStorageId);
-    }
-  }, [localStorageId]);
+    const fetchBookListTypes = async () => {
+      if (localStorageId) {
+        await getBookListTypes(localStorageId);
+      }
+    };
+
+    fetchBookListTypes();
+  }, [location.pathname, localStorageId]);
+
 
   const handleItemClick = (bookListType: GenreType) => {
     navigate(`/display/${bookListType.id}`, { state: { bookListType } });
   };
 
-  useEffect(() =>{
-    console.log("bookListTypes:", bookListTypes)
-  }, [bookListTypes])
+  // useEffect(() =>{
+  //   console.log("bookListTypes:", bookListTypes)
+  // }, [bookListTypes])
 
   return (
     <div style={{ zIndex: 1, position: 'relative' }}>
@@ -65,10 +71,17 @@ const NavigationBar = () => {
               <ListItem key={bookListType.id} disablePadding>
                 <ListItemButton onClick={() => handleItemClick(bookListType)}>
                   <ListItemIcon>
-                    <CircleAlert
-                      className="mr-2"
-                      style={{ width: '20px', height: '20px', fontWeight: 'bold', color: 'red' }}
-                    />
+                    {bookListType.booklist.is_completed ? (
+                      <Check
+                        className="mr-2"
+                        style={{ width: '20px', height: '20px', fontWeight: 'bold', color: 'green' }}
+                      />
+                    ) : (
+                      <CircleAlert
+                        className="mr-2"
+                        style={{ width: '20px', height: '20px', fontWeight: 'bold', color: 'red' }}
+                      />
+                    )}
                   </ListItemIcon>
                   <ListItemText primary={bookListType.type} />
                 </ListItemButton>

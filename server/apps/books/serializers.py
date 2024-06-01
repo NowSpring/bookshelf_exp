@@ -71,14 +71,14 @@ class BookListSerializer(serializers.ModelSerializer):
 
 class BookListTypeSerializer(serializers.ModelSerializer):
 
-  is_completed = serializers.SerializerMethodField()
+  booklist = serializers.SerializerMethodField()
 
   class Meta:
 
     model = BookListType
-    fields = ['id', 'type', 'is_completed']
+    fields = ['id', 'type', 'booklist']
 
-  def get_is_completed(self, obj):
+  def get_booklist(self, obj):
 
     owner_id = self.context.get('owner_id')
 
@@ -88,10 +88,12 @@ class BookListTypeSerializer(serializers.ModelSerializer):
 
         booklist = BookList.objects.get(type=obj, owner_id=owner_id)
 
-        return booklist.is_completed
+        return {
+          'is_completed': booklist.is_completed
+        }
 
       except BookList.DoesNotExist:
 
-        return None
+        return {'is_completed': None}
 
-    return None
+    return {'is_completed': None}

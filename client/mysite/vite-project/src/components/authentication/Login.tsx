@@ -31,9 +31,9 @@ const Login = () => {
   const [alertDescription, setAlertDescription] = useState('');
   const [bookListTypes, setBookListTypes] = useState<BookListType[]>([])
 
-  const getBookListTypes = async (): Promise<BookListType[]> => {
+  const getBookListTypes = async (id: string): Promise<BookListType[]> => {
     try {
-      const response = await EventService.getBookListTypes();
+      const response = await EventService.getBookListTypes(id);
       return response.data;
     } catch (error) {
       console.error('Error fetching book list types:', error);
@@ -58,7 +58,7 @@ const Login = () => {
       window.localStorage.setItem('email', response.data.user.email);
       setIsShowLoginAlert(false);
 
-      const fetchedBookListTypes = await getBookListTypes();
+      const fetchedBookListTypes = await getBookListTypes(response.data.user.id);
       setBookListTypes(fetchedBookListTypes);
 
       if (fetchedBookListTypes.length > 0) {

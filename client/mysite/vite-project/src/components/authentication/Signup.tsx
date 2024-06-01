@@ -33,9 +33,11 @@ const Signup = () => {
   }, [username, email, password]);
 
   const submitSignup = async () => {
-    console.log("username:", username)
-    console.log("email:", email)
-    console.log("password:", password)
+
+    // console.log("username:", username)
+    // console.log("email:", email)
+    // console.log("password:", password)
+
     try {
       const formState = {
         username: username,

@@ -23,6 +23,9 @@ export type BookListType = {
 export type GenreType = {
   id: string;
   type: string;
+  booklist: {
+    is_completed: boolean;
+  }
 }
 
 export type SearchBookType = {

@@ -5,6 +5,7 @@ import { useEffect, useState } from 'react';
 import { BookType } from '../types';
 import { Button } from "@/components/ui/button";
 
+
 const EditPage = () => {
 
   const location = useLocation();
@@ -39,7 +40,9 @@ const EditPage = () => {
 
     try {
       await EventService.putBookList(newBookList);
-      navigate(-1); // 前の画面に戻る
+
+      // navigate(-1); // 前の画面に戻る
+      navigate(`/display/${bookListType.id}`, { state: { bookListType } });
     } catch (error) {
       console.error("Failed to update book list:", error);
     }
