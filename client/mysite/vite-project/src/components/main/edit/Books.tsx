@@ -1,6 +1,7 @@
 import { DragDropContext, DropResult, Droppable, Draggable } from "react-beautiful-dnd";
 import { BookType } from "../types"
-import Book from "../commons/Book";
+// import Book from "../commons/Book";
+import Book from "./Book";
 import "@/components/main/style.css"
 import { useCallback } from "react";
 

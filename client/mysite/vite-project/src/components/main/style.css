@@ -114,5 +114,7 @@
 }
 
 .tooltip {
-  width: 500px;
+  position: fixed;
+  width: 450px;
+  z-index: 2000; /* ダイアログの z-index よりも大きくする */
 }

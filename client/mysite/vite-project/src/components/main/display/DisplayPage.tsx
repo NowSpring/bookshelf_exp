@@ -58,9 +58,9 @@ const DisplayPage = () => {
 
   return (
     <>
-      <p>
-        { bookListType.type }
-      </p>
+      <h1 style={{ fontSize: '2rem', fontWeight: 'bold' }}>
+        Display : {bookListType.type}
+      </h1>
       <BookCards
         bookLists={ownerBookLists}
         bookListType={bookListType}

@@ -59,7 +59,7 @@ const SearchResult: React.FC<SearchResultProps> = ({item, book, setBook, closeDi
                   <TextWithEllipsis text={item.title || ''} maxLength={maxTitleLength} />
                 </Heading>
               </TooltipTrigger>
-              <TooltipContent>
+              <TooltipContent className="tooltip">
                 { item.title }
               </TooltipContent>
               <Button onClick={setNewBook}>
@@ -77,7 +77,7 @@ const SearchResult: React.FC<SearchResultProps> = ({item, book, setBook, closeDi
                   <TextWithEllipsis text={item.description || ''} maxLength={maxDescriptionLength} />
                 </Text>
                 </TooltipTrigger>
-                <TooltipContent>
+                <TooltipContent className="tooltip">
                   { item.description }
                 </TooltipContent>
               </Tooltip>

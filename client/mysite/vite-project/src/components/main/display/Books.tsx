@@ -1,5 +1,6 @@
 import { BookType } from "../types"
-import Book from "../commons/Book";
+// import Book from "../commons/Book";
+import Book from "./Book";
 import "@/components/main/style.css"
 
 type BooksProps = {

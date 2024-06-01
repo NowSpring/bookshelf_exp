@@ -50,8 +50,8 @@ const EditPage = () => {
 
   return (
     <div>
-      <h1>
-        { bookListType.type }
+      <h1 style={{ fontSize: '2rem', fontWeight: 'bold' }}>
+        Edit : {bookListType.type}
       </h1>
       <div
         style={{ display: 'flex', flexDirection: 'column', alignItems: 'center' }}

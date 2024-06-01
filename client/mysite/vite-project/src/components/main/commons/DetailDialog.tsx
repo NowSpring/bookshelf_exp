@@ -1,4 +1,4 @@
-import { BookType } from "../../types"
+import { BookType } from "../types"
 import { Text } from '@chakra-ui/react';
 import { Heading } from '@chakra-ui/react';
 import {
@@ -29,7 +29,7 @@ const DetailDialog: React.FC<BookProps> = ({book}) => {
   return (
 
     <DialogContent
-      style={{ zIndex: 1000, position: 'fixed', top: '50%', left: '50%', transform: 'translate(-50%, -50%)' }}
+      style={{ zIndex: 1000, position: 'fixed', top: '50%', left: '50%', transform: 'translate(-50%, -50%)', overflow: 'visible'}}
       className="sm:max-w-[1000px] max-h-[90%] overflow-hidden"
     >
 
