@@ -87,8 +87,8 @@ export default {
   getMembers() {
     return apiClient.get("member/")
   },
-  getBookListTypes() {
-    return apiClient.get("booklisttype/")
+  getBookListTypes(owner_id: string) {
+    return apiClient.get(`booklisttype/?owner_id=${owner_id}`)
   },
   getBookLists(booklisttype_id: string) {
     return apiClient.get(`booklist/?booklisttype_id=${booklisttype_id}`)

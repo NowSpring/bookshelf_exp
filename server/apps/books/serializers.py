@@ -71,7 +71,27 @@ class BookListSerializer(serializers.ModelSerializer):
 
 class BookListTypeSerializer(serializers.ModelSerializer):
 
+  is_completed = serializers.SerializerMethodField()
+
   class Meta:
 
     model = BookListType
-    fields = "__all__"
+    fields = ['id', 'type', 'is_completed']
+
+  def get_is_completed(self, obj):
+
+    owner_id = self.context.get('owner_id')
+
+    if owner_id:
+
+      try:
+
+        booklist = BookList.objects.get(type=obj, owner_id=owner_id)
+
+        return booklist.is_completed
+
+      except BookList.DoesNotExist:
+
+        return None
+
+    return None

@@ -8,9 +8,9 @@ import ListItem from '@mui/material/ListItem';
 import ListItemButton from '@mui/material/ListItemButton';
 import ListItemIcon from '@mui/material/ListItemIcon';
 import ListItemText from '@mui/material/ListItemText';
-import InboxIcon from '@mui/icons-material/MoveToInbox';
 import EventService from '@/EventService';
 import { GenreType } from '../../types';
+import { Check, CircleAlert } from "lucide-react";
 
 const drawerWidth = 200;
 
@@ -18,10 +18,16 @@ const NavigationBar = () => {
 
   const navigate = useNavigate();
   const [bookListTypes, setBookListTypes] = useState<GenreType[]>([])
+  const [localStorageId, setLocalStorageId] = useState<string | null>(null);
 
-  const getBookListTypes = async () => {
+  useEffect(() => {
+    const id = window.localStorage.getItem('id');
+    setLocalStorageId(id);
+  }, []);
+
+  const getBookListTypes = async(id: string) => {
     try {
-      const response = await EventService.getBookListTypes();
+      const response = await EventService.getBookListTypes(id);
       setBookListTypes(response.data);
     } catch (error) {
       console.error('Error fetching book list types:', error);
@@ -29,12 +35,18 @@ const NavigationBar = () => {
   };
 
   useEffect(() => {
-    getBookListTypes();
-  }, []);
+    if (localStorageId) {
+      getBookListTypes(localStorageId);
+    }
+  }, [localStorageId]);
 
   const handleItemClick = (bookListType: GenreType) => {
     navigate(`/display/${bookListType.id}`, { state: { bookListType } });
   };
+
+  useEffect(() =>{
+    console.log("bookListTypes:", bookListTypes)
+  }, [bookListTypes])
 
   return (
     <div style={{ zIndex: 1, position: 'relative' }}>
@@ -53,7 +65,10 @@ const NavigationBar = () => {
               <ListItem key={bookListType.id} disablePadding>
                 <ListItemButton onClick={() => handleItemClick(bookListType)}>
                   <ListItemIcon>
-                    <InboxIcon />
+                    <CircleAlert
+                      className="mr-2"
+                      style={{ width: '20px', height: '20px', fontWeight: 'bold', color: 'red' }}
+                    />
                   </ListItemIcon>
                   <ListItemText primary={bookListType.type} />
                 </ListItemButton>

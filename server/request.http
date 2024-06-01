@@ -27,7 +27,7 @@ Authorization: Token {{token}}
 ###
 # @prompt token
 
-GET http://localhost:8000/api/booklisttype/
+GET http://localhost:8000/api/booklisttype/?owner_id=bb3aa992-ac9f-4303-9aaa-84e7ab67b9ec
 Content-Type: application/json
 Authorization: Token {{token}}
 

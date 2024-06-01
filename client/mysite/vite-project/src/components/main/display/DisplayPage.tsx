@@ -34,10 +34,6 @@ const DisplayPage = () => {
     }
   }
 
-  // useEffect(() => {
-  //   getBookLists();
-  // }, [bookListType.id]);
-
   useEffect(() => {
     if (localStorageId) {
       getBookLists(localStorageId);
@@ -45,16 +41,20 @@ const DisplayPage = () => {
   }, [localStorageId, bookListType?.id]);
 
   // useEffect(() => {
+  //   getBookLists();
+  // }, [bookListType.id]);
+
+  // useEffect(() => {
   //   console.log("bookListType:", bookListType);
   // }, [bookListType]);
 
-  useEffect(() => {
-    console.log("ownerBookLists:", ownerBookLists);
-  }, [ownerBookLists]);
+  // useEffect(() => {
+  //   console.log("ownerBookLists:", ownerBookLists);
+  // }, [ownerBookLists]);
 
-  useEffect(() => {
-    console.log("otherBookLists:", otherBookLists);
-  }, [otherBookLists]);
+  // useEffect(() => {
+  //   console.log("otherBookLists:", otherBookLists);
+  // }, [otherBookLists]);
 
   return (
     <>

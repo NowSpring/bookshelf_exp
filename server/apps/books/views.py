@@ -12,6 +12,13 @@ class BookListTypeViewSet(viewsets.ModelViewSet):
   queryset = BookListType.objects.all()
   serializer_class = BookListTypeSerializer
 
+  def get_serializer_context(self):
+
+    context = super().get_serializer_context()
+    context['owner_id'] = self.request.query_params.get('owner_id')
+
+    return context
+
 
 class BookListViewSet(viewsets.ModelViewSet):
 
