@@ -38,6 +38,8 @@ const EditPage = () => {
       is_completed: isCompleted
     };
 
+    console.log("newBookList:", newBookList)
+
     try {
       await EventService.putBookList(newBookList);
 

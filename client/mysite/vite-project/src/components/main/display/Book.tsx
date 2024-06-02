@@ -46,7 +46,7 @@ const Book: React.FC<BookProps> = ({ book }) => {
       className="bookBox"
       style={{
         backgroundImage: `url(${book.image})`,
-        backgroundSize: '100%',
+        backgroundSize: '120%',
         backgroundPosition: 'center 50%',
       }}
     >
@@ -54,7 +54,7 @@ const Book: React.FC<BookProps> = ({ book }) => {
       <div className="kebabMenu">
         <DropdownMenu>
           <DropdownMenuTrigger>
-            <span>
+            <span className="kebabButton">
               <MdMoreVert size={20} />
             </span>
           </DropdownMenuTrigger>
