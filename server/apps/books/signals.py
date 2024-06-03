@@ -55,7 +55,7 @@ def create_booklist_books(sender, instance, **kwargs):
 
   books = []
 
-  for i in range(10):
+  for i in range(5):
 
     xBook = Book(booklist = instance, order = i)
     books.append(xBook)

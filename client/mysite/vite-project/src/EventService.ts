@@ -90,8 +90,8 @@ export default {
   getBookListTypes(owner_id: string) {
     return apiClient.get(`booklisttype/?owner_id=${owner_id}`)
   },
-  getBookLists(booklisttype_id: string) {
-    return apiClient.get(`booklist/?booklisttype_id=${booklisttype_id}`)
+  getBookLists(booklisttype_id: string, member_id: string) {
+    return apiClient.get(`booklist/?booklisttype_id=${booklisttype_id}&member_id=${member_id}`)
   },
   putBookList(bookListInfo: bookListInfo){
     return apiClient.put("book/bulk_update/", bookListInfo)

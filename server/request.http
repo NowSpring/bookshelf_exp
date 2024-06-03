@@ -6,7 +6,7 @@ Content-Type: application/json
     "password": "admin"
 }
 
-### a0a7a99f3644f28605db62a8f3033a02e64ae655
+### c8b1210075a4fe55141616826ae6413282057032
 
 POST http://localhost:8000/api/member/
 Content-Type: application/json
@@ -27,7 +27,7 @@ Authorization: Token {{token}}
 ###
 # @prompt token
 
-GET http://localhost:8000/api/booklisttype/?owner_id=bb3aa992-ac9f-4303-9aaa-84e7ab67b9ec
+GET http://localhost:8000/api/booklisttype/?owner_id=da810266-c792-45f3-850a-1ab4a73ebeaf
 Content-Type: application/json
 Authorization: Token {{token}}
 
@@ -35,7 +35,7 @@ Authorization: Token {{token}}
 ###
 # @prompt token
 
-GET http://localhost:8000/api/booklist/?booklisttype_id=f3dcf884-4401-477a-96da-eec37e345a8c
+GET http://localhost:8000/api/booklist/?booklisttype_id=e1a98696-bad2-4836-9133-df62f5ebf156&member_id=da810266-c792-45f3-850a-1ab4a73ebeaf
 Content-Type: application/json
 Authorization: Token {{token}}
 

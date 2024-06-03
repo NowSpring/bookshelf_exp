@@ -31,7 +31,7 @@ class Book(models.Model):
   booklist = models.ForeignKey(BookList, on_delete=models.CASCADE, related_name='booklist')
   title = models.CharField(verbose_name = "タイトル", max_length = 100, default = "未登録")
   description = models.CharField(verbose_name = "概要", max_length = 2000, default = "未登録")
-  image = models.CharField(verbose_name = "イメージ図", max_length = 500, default = "http://0.0.0.0:8000/media/no_image.jpg")
+  image = models.CharField(verbose_name="イメージ図", max_length=500, null=True, blank=True, default=None)
   order = models.IntegerField(verbose_name = "本順")
 
   class Meta:

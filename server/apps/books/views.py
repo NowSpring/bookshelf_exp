@@ -29,10 +29,15 @@ class BookListViewSet(viewsets.ModelViewSet):
 
     queryset = super().get_queryset().select_related('owner').prefetch_related('booklist')
     booklisttype_id = self.request.query_params.get('booklisttype_id', None)
+    member_id = self.request.query_params.get('member_id', None)
 
     if booklisttype_id is not None:
 
       queryset = queryset.filter(type__id=booklisttype_id)
+
+    if member_id is not None:
+
+      queryset = queryset.filter(owner__id=member_id)
 
     return queryset
 

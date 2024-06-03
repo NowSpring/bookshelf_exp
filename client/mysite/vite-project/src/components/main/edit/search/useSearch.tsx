@@ -34,7 +34,7 @@ const useSearch = () => {
         id: bookId,
         title: Info.title,
         description: Info.description ? Info.description : '概要情報なし',
-        image: Info.imageLinks && Info.imageLinks.smallThumbnail ? Info.imageLinks.smallThumbnail : 'http://0.0.0.0:8000/media/no_image.jpg',
+        image: Info.imageLinks && Info.imageLinks.smallThumbnail,
       };
     });
 

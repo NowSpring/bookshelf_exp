@@ -11,6 +11,7 @@ import {
 } from "@/components/ui/dropdown-menu"
 import { MdMoreVert } from 'react-icons/md';
 import "@/components/main/style.css"
+import NoImage from "@/assets/no_image.jpg"
 
 
 type BookProps = {
@@ -45,7 +46,7 @@ const Book: React.FC<BookProps> = ({ book }) => {
     <div
       className="bookBox"
       style={{
-        backgroundImage: `url(${book.image})`,
+        backgroundImage: `url(${book.image ? book.image : NoImage})`,
         backgroundSize: '120%',
         backgroundPosition: 'center 50%',
       }}
