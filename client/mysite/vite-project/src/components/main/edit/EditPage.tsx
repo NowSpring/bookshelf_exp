@@ -3,7 +3,12 @@ import { useLocation } from 'react-router-dom';
 import Books from "./Books";
 import { useEffect, useState } from 'react';
 import { BookListType, BookType } from '../types';
-
+import { Button } from "@/components/ui/button";
+import {
+  Dialog,
+  DialogTrigger,
+} from "@/components/ui/dialog";
+import AlertDialog from "../../common/AlertDialog";
 
 const EditPage = () => {
 
@@ -13,6 +18,10 @@ const EditPage = () => {
 
   const [bookList, setBookList] = useState<BookListType>();
   const [books, setBooks] = useState<BookType[]>([]);
+
+  const [isUpdateAlert, setIsUpdateAlert] = useState(false);
+  const [alertTitle, setAlertTitle] = useState('');
+  const [alertDescription, setAlertDescription] = useState('');
 
   const getBookLists = async (id: string | null) => {
     if (bookListType?.id && id && localStorageId) {
@@ -40,7 +49,7 @@ const EditPage = () => {
     const isCompleted = newBooks.every(book => book.title !== "未登録");
 
     if (!bookList) {
-      console.error("bookList is undefined");
+      // console.error("bookList is undefined");
       return;
     }
 
@@ -50,14 +59,26 @@ const EditPage = () => {
       is_completed: isCompleted
     };
 
-    console.log("newBookList:", newBookList)
-
     try {
       await EventService.putBookList(newBookList);
     } catch (error) {
       console.error("Failed to update book list:", error);
     }
   };
+
+  const clickSaveButton = async () => {
+    try {
+      await putBookList()
+      setAlertTitle("保存完了")
+      setAlertDescription("編集内容を保存しました")
+      setIsUpdateAlert(true)
+    } catch (error) {
+      const err = error as Error;
+      setAlertTitle("登録エラー");
+      setAlertDescription(`エラーが発生しました: ${err.message}`);
+      setIsUpdateAlert(true);
+    }
+  }
 
   useEffect(() => {
     const id = window.localStorage.getItem('id');
@@ -96,8 +117,28 @@ const EditPage = () => {
             />
           </div>
         )}
-      </div>
 
+        <Dialog open={isUpdateAlert} onOpenChange={setIsUpdateAlert}>
+          <DialogTrigger asChild>
+            <Button
+              className="h-12 w-96"
+              onClick={clickSaveButton}
+            >
+              保存
+            </Button>
+          </DialogTrigger>
+
+          {
+            isUpdateAlert &&
+            <AlertDialog
+              title={alertTitle}
+              description={alertDescription}
+            />
+          }
+
+        </Dialog>
+
+      </div>
     </div>
   );
 };

@@ -15,7 +15,7 @@ import {
 import { Input } from "@/components/ui/input"
 import { Label } from "@/components/ui/label"
 import EventService from '@/EventService'
-import AlertDialog from "./AlertDialog";
+import AlertDialog from "../common/AlertDialog";
 
 
 const Signup = () => {
