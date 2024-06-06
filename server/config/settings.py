@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-_x^04@l0bss&609xt(2(^ey4_!d839@k5#p(g*+y!g18s_dg*m
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["*"]
+ALLOWED_HOSTS = ["*", "django-backend-4z2i5enysq-an.a.run.app"]
 
 
 # Application definition
@@ -91,9 +91,13 @@ WSGI_APPLICATION = 'config.wsgi.application'
 # https://docs.djangoproject.com/en/3.2/ref/settings/#databases
 
 DATABASES = {
-    'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': BASE_DIR / 'db.sqlite3',
+  'default': {
+    'ENGINE': 'django.db.backends.postgresql',
+    'NAME': 'bookshelf',
+    'HOST' : '/cloudsql/elite-fabric-425215-v3:us-central1:django-backend',
+    'PORT': '5432',
+    'USER': 'bookshelf-user',
+    'PASSWORD': 'test',
     }
 }
 
@@ -148,10 +152,13 @@ CORS_ALLOWED_ORIGINS = [
     'http://localhost:5173',
     'http://0.0.0.0:5173',
     'http://127.0.0.1:5173',
+    'https://django-frontend-4z2i5enysq-uc.a.run.app',
 ]
 
 CORS_ALLOW_ALL_ORIGIN = True
 # CORS_ALLOW_CREDENTIALS = True
+
+CSRF_TRUSTED_ORIGINS = ['https://django-backend-4z2i5enysq-an.a.run.app']
 
 REST_FRAMEWORK = {
     'DEFAULT_AUTHENTICATION_CLASSES': [
@@ -173,3 +180,14 @@ DBBACKUP_STORAGE_OPTIONS = {'location': BASE_DIR/'dump'}
 MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
 
 MEDIA_URL = '/media/'
+
+# セッションの保存方法
+SESSION_COOKIE_SECURE = True
+CSRF_COOKIE_SECURE = True
+
+# セッションエンジンの設定
+SESSION_ENGINE = 'django.contrib.sessions.backends.db'
+
+# CSRFクッキーの設定
+CSRF_COOKIE_HTTPONLY = True
+CSRF_COOKIE_SAMESITE = 'Lax'

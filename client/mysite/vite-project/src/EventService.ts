@@ -2,8 +2,9 @@ import axios from "axios";
 
 // ログイン用のaxiosインスタンス
 const loginClient = axios.create({
-  baseURL: "http://0.0.0.0:8000/", // mac
+  // baseURL: "http://0.0.0.0:8000/", // mac
   // baseURL: "http://127.0.0.1:8000/", // windows
+  baseURL: "https://django-backend-4z2i5enysq-an.a.run.app", //gcp
   withCredentials: false,
   headers: {
     Accept: "application/json",
@@ -13,8 +14,9 @@ const loginClient = axios.create({
 
 // サインアップ用のaxiosインスタンス
 const signupClient = axios.create({
-  baseURL: "http://0.0.0.0:8000/api", // mac
+  // baseURL: "http://0.0.0.0:8000/api", // mac
   // baseURL: "http://127.0.0.1:8000/api", //windows
+  baseURL: "https://django-backend-4z2i5enysq-an.a.run.app/api", //gcp
   headers: {
     "Content-Type": "application/json",
   },
@@ -22,8 +24,9 @@ const signupClient = axios.create({
 
 // API用のaxiosインスタンス
 const apiClient = axios.create({
-  baseURL: "http://0.0.0.0:8000/api", // mac
+  // baseURL: "http://0.0.0.0:8000/api", // mac
   // baseURL: "http://127.0.0.1:8000/api", //windows
+  baseURL: "https://django-backend-4z2i5enysq-an.a.run.app", //gcp
   headers: {
     "Content-Type": "application/json",
   },
@@ -67,12 +70,11 @@ type bookInfo = {
   description: string;
   image: string;
   order: number;
-}
+};
 
 type bookListInfo = {
-  books: bookInfo[]
-}
-
+  books: bookInfo[];
+};
 
 export default {
   submitLogin(loginInfo: loginInfo) {
@@ -85,15 +87,17 @@ export default {
     return apiClient.patch(`member/${id}/`, profileInfo);
   },
   getMembers() {
-    return apiClient.get("member/")
+    return apiClient.get("member/");
   },
   getBookListTypes(owner_id: string) {
-    return apiClient.get(`booklisttype/?owner_id=${owner_id}`)
+    return apiClient.get(`booklisttype/?owner_id=${owner_id}`);
   },
   getBookLists(booklisttype_id: string, member_id: string) {
-    return apiClient.get(`booklist/?booklisttype_id=${booklisttype_id}&member_id=${member_id}`)
+    return apiClient.get(
+      `booklist/?booklisttype_id=${booklisttype_id}&member_id=${member_id}`
+    );
   },
-  putBookList(bookListInfo: bookListInfo){
-    return apiClient.put("book/bulk_update/", bookListInfo)
-  }
+  putBookList(bookListInfo: bookListInfo) {
+    return apiClient.put("book/bulk_update/", bookListInfo);
+  },
 };

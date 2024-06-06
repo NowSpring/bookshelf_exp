@@ -17,6 +17,7 @@ djangorestframework==3.12.4
 drf-writable-nested==0.6.3
 filelock==3.4.0
 httpie==3.0.2
+gunicorn
 idna==3.3
 multidict==6.0.2
 pillow==10.2.0
