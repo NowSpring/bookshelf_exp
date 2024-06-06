@@ -13,7 +13,7 @@ import { Input } from "@/components/ui/input"
 import { Label } from "@/components/ui/label"
 import { useNavigate } from 'react-router-dom';
 import EventService from '@/EventService'
-import AlertDialog from "./AlertDialog";
+import AlertDialog from "../common/AlertDialog";
 
 type BookListType = {
   id: string;

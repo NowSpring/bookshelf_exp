@@ -1,3 +1,5 @@
+import React from 'react';
+import DOMPurify from 'dompurify';
 import {
   DialogContent,
   DialogHeader,
@@ -10,18 +12,21 @@ type AlertProps = {
   description: string;
 }
 
-const AlertDialog: React.FC<AlertProps> = ({title, description}) => {
+const AlertDialog: React.FC<AlertProps> = ({ title, description }) => {
+  const sanitizedDescription = DOMPurify.sanitize(description);
+
   return (
     <DialogContent>
       <DialogHeader>
         <DialogTitle>
-          { title }
+          {title}
         </DialogTitle>
         <DialogDescription>
-          <div dangerouslySetInnerHTML={{ __html: description }} />
+          <div dangerouslySetInnerHTML={{ __html: sanitizedDescription }} />
         </DialogDescription>
       </DialogHeader>
     </DialogContent>
-  )
+  );
 }
-export default AlertDialog
+
+export default AlertDialog;
