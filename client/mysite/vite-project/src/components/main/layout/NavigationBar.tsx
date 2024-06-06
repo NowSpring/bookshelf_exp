@@ -9,7 +9,7 @@ import ListItemButton from '@mui/material/ListItemButton';
 import ListItemIcon from '@mui/material/ListItemIcon';
 import ListItemText from '@mui/material/ListItemText';
 import EventService from '@/EventService';
-import { GenreType } from '../../types';
+import { GenreType } from '../types';
 import { Check, CircleAlert } from "lucide-react";
 
 const drawerWidth = 200;
@@ -53,7 +53,7 @@ const NavigationBar = () => {
   }, [location]);
 
   const handleItemClick = (bookListType: GenreType) => {
-    navigate(`/display/${bookListType.id}`, { state: { bookListType } });
+    navigate(`/edit/${bookListType.id}`, { state: { bookListType } });
   };
 
   // useEffect(() =>{

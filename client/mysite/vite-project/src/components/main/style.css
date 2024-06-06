@@ -1,4 +1,4 @@
-/* BookCard.tsx */
+/* BookCard.tsx Books.tsx*/
 .bookCard {
   padding: 10px 25px;
   margin: 10px 1%;
@@ -27,8 +27,8 @@
 /* Book.tsx */
 .bookBox {
   position: relative;
-  width: 115px;
-  height: 192px;
+  width: 200px;
+  height: 400px;
   padding: 5px 5px;
   margin: 4px;
   background-color: white;
@@ -43,7 +43,7 @@
 
 .bookHeader {
   width: 35px;
-  height: 100%;
+  height: 350px;
   margin-top: 4px;
   margin-bottom: 4px;
   display: flex;
@@ -51,11 +51,29 @@
   justify-content: space-between;
   align-items: center;
   background-color: white;
+  border: 2px solid #000; /* 枠を追加する */
 }
 
-.bookText {
+.bookTitle {
+  width: 35px;
+  height: 350px;
+  margin-top: 10px;
   writing-mode: vertical-rl;
   text-orientation: upright;
+  font-size: 24px; /* 文字を大きくする */
+  font-weight: bold; /* 太字にする */
+}
+
+.bookFooter {
+  margin-top: auto; /* フッターをボックスの下部に配置する */
+  background-color: #feffa6;
+  height: 35px;
+  text-align: center;
+}
+
+.bookOrder {
+  font-size: 20px; /* 文字を大きくする */
+  font-weight: bold; /* 太字にする */
 }
 
 .kebabMenu {

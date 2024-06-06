@@ -13,7 +13,7 @@ import { Input } from "@/components/ui/input"
 import { Label } from "@/components/ui/label"
 import { useNavigate } from 'react-router-dom';
 import EventService from '@/EventService'
-import AlertDialog from "../commons/AlertDialog";
+import AlertDialog from "./AlertDialog";
 
 type BookListType = {
   id: string;
@@ -63,7 +63,7 @@ const Login = () => {
 
       if (fetchedBookListTypes.length > 0) {
         const bookListType = fetchedBookListTypes[0];
-        navigate(`/display/${bookListType.id}`, { state: { bookListType } });
+        navigate(`/edit/${bookListType.id}`, { state: { bookListType } });
       }
 
     } catch (error) {

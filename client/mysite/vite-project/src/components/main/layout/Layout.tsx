@@ -1,8 +1,8 @@
 import * as React from 'react';
 import Box from '@mui/material/Box';
 import Toolbar from '@mui/material/Toolbar';
-import Header from './header/Header';
-import NavigationBar from './navigationbar/NavigationBar';
+import Header from './Header';
+import NavigationBar from './NavigationBar';
 
 type LayoutProps = {
   children: React.ReactNode;
