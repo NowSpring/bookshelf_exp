@@ -4,7 +4,6 @@ import "./App.css";
 
 import Authentication from "./components/authentication/AuthenticationPage";
 import Layout from "./components/main/layout/Layout";
-import DisplayPage from "./components/main/display/DisplayPage";
 import EditPage from "./components/main/edit/EditPage";
 
 
@@ -38,14 +37,6 @@ function App() {
         <Route path="/" element={<Navigate to="/authentication" />} />
         <Route path="/authentication" element={<Authentication />} />
         <Route element={<LayoutWithHeaderAndNav />}>
-          <Route
-            path="/display/:id"
-            element={
-              <RequireAuth>
-                <DisplayPage />
-              </RequireAuth>
-            }
-          />
           <Route
             path="/edit/:id"
             element={

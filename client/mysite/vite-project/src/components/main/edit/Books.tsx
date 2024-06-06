@@ -72,6 +72,7 @@ const Books: React.FC<BooksProps> = ({ books, setBooks }) => {
                     {...provided.dragHandleProps}
                   >
                     <Book
+                      index={index}
                       book={book}
                       updateBook={updateBook}
                     />

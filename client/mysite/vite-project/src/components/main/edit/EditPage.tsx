@@ -1,24 +1,31 @@
 import EventService from '@/EventService';
-import { useLocation, useNavigate } from 'react-router-dom';
+import { useLocation } from 'react-router-dom';
 import Books from "./Books";
 import { useEffect, useState } from 'react';
-import { BookType } from '../types';
-import { Button } from "@/components/ui/button";
+import { BookListType, BookType } from '../types';
 
 
 const EditPage = () => {
 
   const location = useLocation();
-  const navigate = useNavigate();
-  const bookList = location.state?.bookList;
   const bookListType = location.state?.bookListType;
-  const [books, setBooks] = useState<BookType[]>(bookList.books);
   const [localStorageId, setLocalStorageId] = useState<string | null>(null);
 
-  useEffect(() => {
-    const id = window.localStorage.getItem('id');
-    setLocalStorageId(id);
-  }, []);
+  const [bookList, setBookList] = useState<BookListType>();
+  const [books, setBooks] = useState<BookType[]>([]);
+
+  const getBookLists = async (id: string | null) => {
+    if (bookListType?.id && id && localStorageId) {
+      try{
+        const response = await EventService.getBookLists(bookListType.id, localStorageId);
+        if (response.data && response.data.length > 0) {
+          setBookList(response.data[0]);
+        }
+      } catch (error) {
+        console.error("Error fetching book lists:", error);
+      }
+    }
+  }
 
   const putBookList = async () => {
     const newBooks = books.map((book: BookType, index: number) => ({
@@ -32,6 +39,11 @@ const EditPage = () => {
 
     const isCompleted = newBooks.every(book => book.title !== "未登録");
 
+    if (!bookList) {
+      console.error("bookList is undefined");
+      return;
+    }
+
     const newBookList = {
       books: newBooks,
       id: bookList.id,
@@ -42,34 +54,48 @@ const EditPage = () => {
 
     try {
       await EventService.putBookList(newBookList);
-
-      // navigate(-1); // 前の画面に戻る
-      navigate(`/display/${bookListType.id}`, { state: { bookListType } });
     } catch (error) {
       console.error("Failed to update book list:", error);
     }
   };
 
+  useEffect(() => {
+    const id = window.localStorage.getItem('id');
+    setLocalStorageId(id);
+  }, []);
+
+  useEffect(() => {
+    if (localStorageId) {
+      getBookLists(localStorageId);
+    }
+  }, [localStorageId, bookListType?.id]);
+
+  useEffect(() => {
+    if (bookList && bookList.books) {
+      setBooks(bookList.books);
+    }
+  }, [bookList]);
+
+  useEffect(() => {
+    putBookList();
+  }, [location]);
+
   return (
     <div>
-      <h1 style={{ fontSize: '2rem', fontWeight: 'bold' }}>
-        Edit : {bookListType.type}
-      </h1>
       <div
         style={{ display: 'flex', flexDirection: 'column', alignItems: 'center' }}
       >
-        <div
-          key={bookList.id}
-          className={`bookCard ${bookList.owner.id === localStorageId ? 'highlight' : ''}`}
-        >
-          <Books
-            books={books}
-            setBooks={setBooks}
-          />
-        </div>
-        <Button className="h-12 w-96" onClick={putBookList}>
-          保存
-        </Button>
+        {bookList && (
+          <div
+            key={bookList.id}
+            className={`bookCard ${bookList.owner.id === localStorageId ? 'highlight' : ''}`}
+          >
+            <Books
+              books={books}
+              setBooks={setBooks}
+            />
+          </div>
+        )}
       </div>
 
     </div>
