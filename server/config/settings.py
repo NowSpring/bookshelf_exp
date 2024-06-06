@@ -152,7 +152,7 @@ CORS_ALLOWED_ORIGINS = [
     'http://localhost:5173',
     'http://0.0.0.0:5173',
     'http://127.0.0.1:5173',
-    'https://django-frontend-4z2i5enysq-uc.a.run.app',
+    'https://react-frontend-4z2i5enysq-uc.a.run.app',
 ]
 
 CORS_ALLOW_ALL_ORIGIN = True

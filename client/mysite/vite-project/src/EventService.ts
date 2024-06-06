@@ -4,7 +4,7 @@ import axios from "axios";
 const loginClient = axios.create({
   // baseURL: "http://0.0.0.0:8000/", // mac
   // baseURL: "http://127.0.0.1:8000/", // windows
-  baseURL: "https://django-backend-4z2i5enysq-an.a.run.app", //gcp
+  baseURL: "https://django-backend-4z2i5enysq-an.a.run.app/", //gcp
   withCredentials: false,
   headers: {
     Accept: "application/json",
@@ -26,7 +26,7 @@ const signupClient = axios.create({
 const apiClient = axios.create({
   // baseURL: "http://0.0.0.0:8000/api", // mac
   // baseURL: "http://127.0.0.1:8000/api", //windows
-  baseURL: "https://django-backend-4z2i5enysq-an.a.run.app", //gcp
+  baseURL: "https://django-backend-4z2i5enysq-an.a.run.app/api", //gcp
   headers: {
     "Content-Type": "application/json",
   },
