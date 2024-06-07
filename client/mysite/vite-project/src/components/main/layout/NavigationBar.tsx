@@ -20,11 +20,14 @@ const NavigationBar = () => {
   const location = useLocation();
   const [bookListTypes, setBookListTypes] = useState<GenreType[]>([])
   const [localStorageId, setLocalStorageId] = useState<string | null>(null);
+  const [localStorageIsSuperuser, setLocalStorageIsSuperuser] = useState<boolean | null>(null);
   const [lastSegment, setLastSegment] = useState<string | null>(null);
 
   useEffect(() => {
     const id = window.localStorage.getItem('id');
     setLocalStorageId(id);
+    const isSuperUser = window.localStorage.getItem('is_superuser') === 'true';
+    setLocalStorageIsSuperuser(isSuperUser);
   }, []);
 
   const getBookListTypes = async(id: string) => {
@@ -53,7 +56,11 @@ const NavigationBar = () => {
   }, [location]);
 
   const handleItemClick = (bookListType: GenreType) => {
-    navigate(`/edit/${bookListType.id}`, { state: { bookListType } });
+    if (localStorageIsSuperuser) {
+      navigate(`/admin/${bookListType.id}`, { state: { bookListType } });
+    } else {
+      navigate(`/edit/${bookListType.id}`, { state: { bookListType } });
+    }
   };
 
   // useEffect(() =>{

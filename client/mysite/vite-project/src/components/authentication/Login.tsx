@@ -56,6 +56,7 @@ const Login = () => {
       window.localStorage.setItem('id', response.data.user.id);
       window.localStorage.setItem('username', response.data.user.username);
       window.localStorage.setItem('email', response.data.user.email);
+      window.localStorage.setItem('is_superuser', response.data.user.is_superuser);
       setIsShowLoginAlert(false);
 
       const fetchedBookListTypes = await getBookListTypes(response.data.user.id);
@@ -63,7 +64,12 @@ const Login = () => {
 
       if (fetchedBookListTypes.length > 0) {
         const bookListType = fetchedBookListTypes[0];
-        navigate(`/edit/${bookListType.id}`, { state: { bookListType } });
+
+        if (response.data.user.is_superuser) {
+          navigate(`/admin/${bookListType.id}`, { state: { bookListType } });
+        } else {
+          navigate(`/edit/${bookListType.id}`, { state: { bookListType } });
+        }
       }
 
     } catch (error) {
