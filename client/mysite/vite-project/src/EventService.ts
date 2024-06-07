@@ -67,12 +67,11 @@ type bookInfo = {
   description: string;
   image: string;
   order: number;
-}
+};
 
 type bookListInfo = {
-  books: bookInfo[]
-}
-
+  books: bookInfo[];
+};
 
 export default {
   submitLogin(loginInfo: loginInfo) {
@@ -85,21 +84,18 @@ export default {
     return apiClient.patch(`member/${id}/`, profileInfo);
   },
   getMembers() {
-    return apiClient.get("member/")
+    return apiClient.get("member/");
   },
   getBookListTypes(owner_id: string) {
-    return apiClient.get(`booklisttype/?owner_id=${owner_id}`)
+    return apiClient.get(`booklisttype/?owner_id=${owner_id}`);
   },
-  // getBookLists(booklisttype_id: string, member_id: string) {
-  //   return apiClient.get(`booklist/?booklisttype_id=${booklisttype_id}&member_id=${member_id}`)
-  // },
   getBookLists(booklisttype_id: string, member_id?: string) {
     const url = member_id
       ? `booklist/?booklisttype_id=${booklisttype_id}&member_id=${member_id}`
       : `booklist/?booklisttype_id=${booklisttype_id}`;
     return apiClient.get(url);
   },
-  putBookList(bookListInfo: bookListInfo){
-    return apiClient.put("book/bulk_update/", bookListInfo)
-  }
+  putBookList(bookListInfo: bookListInfo) {
+    return apiClient.put("book/bulk_update/", bookListInfo);
+  },
 };
