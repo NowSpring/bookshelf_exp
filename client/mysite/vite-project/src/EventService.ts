@@ -98,4 +98,7 @@ export default {
       : `booklist/?booklisttype_id=${booklisttype_id}`;
     return apiClient.get(url);
   },
+  putBookList(bookListInfo: bookListInfo) {
+    return apiClient.put("book/bulk_update/", bookListInfo);
+  },
 };
