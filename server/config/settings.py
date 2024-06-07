@@ -94,9 +94,9 @@ DATABASES = {
   'default': {
     'ENGINE': 'django.db.backends.postgresql',
     'NAME': 'bookshelf',
-    'HOST' : '/cloudsql/elite-fabric-425215-v3:us-central1:django-backend',
+    'HOST' : '/cloudsql/elite-fabric-425215-v3:asia-northeast1:django-backend',
     'PORT': '5432',
-    'USER': 'bookshelf-user',
+    'USER': 'test',
     'PASSWORD': 'test',
     }
 }
@@ -152,7 +152,7 @@ CORS_ALLOWED_ORIGINS = [
     'http://localhost:5173',
     'http://0.0.0.0:5173',
     'http://127.0.0.1:5173',
-    'https://react-frontend-4z2i5enysq-uc.a.run.app',
+    'https://react-frontend-4z2i5enysq-an.a.run.app',
 ]
 
 CORS_ALLOW_ALL_ORIGIN = True
