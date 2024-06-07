@@ -10,11 +10,6 @@ type BooksProps = {
   setBooks: React.Dispatch<React.SetStateAction<BookType[]>>;
 }
 
-// const reorder = (books: BookType[], startIndex: number, endIndex: number) => {
-//   const remove = books.splice(startIndex, 1);
-//   books.splice(endIndex, 0, remove[0]);
-// };
-
 const reorder = (books: BookType[], startIndex: number, endIndex: number): BookType[] => {
   const result = Array.from(books);
   const [removed] = result.splice(startIndex, 1);
@@ -25,12 +20,6 @@ const reorder = (books: BookType[], startIndex: number, endIndex: number): BookT
 const Books: React.FC<BooksProps> = ({ books, setBooks }) => {
 
   const handleDragEnd = (result: DropResult) => {
-    // if (!setBooks) return;
-    // const { destination, source } = result;
-    // if (destination && destination.index !== source.index) {
-    //   reorder(books, source.index, destination.index);
-    //   setBooks(books);
-    // }
     if (!result.destination) return;
     const { source, destination } = result;
     if (destination.index !== source.index) {
@@ -38,10 +27,6 @@ const Books: React.FC<BooksProps> = ({ books, setBooks }) => {
       if (setBooks) {
         setBooks(reorderedBooks);
       }
-      // console.log(`Moved from index ${source.index} to ${destination.index}`);
-      // reorderedBooks.forEach((book: BookType, index: number) => {
-      //   console.log(`Book ID ${book.id} is now at index ${index}`);
-      // });
     }
   };
 

@@ -5,6 +5,7 @@ import "./App.css";
 import Authentication from "./components/authentication/AuthenticationPage";
 import Layout from "./components/main/layout/Layout";
 import EditPage from "./components/main/edit/EditPage";
+import AdminPage from "./components/main/admin/AdminPage";
 
 
 
@@ -42,6 +43,14 @@ function App() {
             element={
               <RequireAuth>
                 <EditPage />
+              </RequireAuth>
+            }
+          />
+          <Route
+            path="/admin/:id"
+            element={
+              <RequireAuth>
+                <AdminPage />
               </RequireAuth>
             }
           />
