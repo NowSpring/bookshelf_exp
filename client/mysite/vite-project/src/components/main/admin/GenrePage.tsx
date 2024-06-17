@@ -6,7 +6,7 @@ import { BookListType } from '../types';
 import { Button } from '@/components/ui/button';
 import { FileDown } from "lucide-react";
 
-const AdminPage = () => {
+const GenrePage = () => {
 
   const location = useLocation();
   const bookListType = location.state?.bookListType;
@@ -41,6 +41,10 @@ const AdminPage = () => {
     document.body.removeChild(link);
   };
 
+  // useEffect(() => {
+  //   console.log("allBookLists:", allBookLists);
+  // }, [allBookLists]);
+
   return (
     <div>
       <div style={{ display: 'flex', alignItems: 'center' }}>
@@ -69,4 +73,4 @@ const AdminPage = () => {
   );
 };
 
-export default AdminPage;
+export default GenrePage;

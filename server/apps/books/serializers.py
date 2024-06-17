@@ -1,7 +1,7 @@
 from django.db import transaction
 from rest_framework import serializers
 
-from members.serializers import MemberSerializer
+from members.serializers import MemberGetSerializer
 from books.models import Book, BookList, BookListType
 
 import logging
@@ -54,7 +54,7 @@ class BulkBookUpdateSerializer(serializers.Serializer):
 
 class BookListSerializer(serializers.ModelSerializer):
 
-  owner = MemberSerializer(read_only=True)
+  owner = MemberGetSerializer(read_only=True)
   books = BookSerializer(many=True, read_only=True, source='booklist')
 
   class Meta:

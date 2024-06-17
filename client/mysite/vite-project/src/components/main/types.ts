@@ -1,6 +1,7 @@
 export type MemberType = {
   id: string;
   username: string;
+  is_superuser: boolean;
 }
 
 export type BookType = {
