@@ -46,15 +46,17 @@ const GenrePage = () => {
     document.body.removeChild(link);
   };
 
-  const handleSearch = (searchTerm: string) => {
-    if (searchTerm === '') {
+  const handleSearch = (searchTerm1: string, searchTerm2: string) => {
+    if (searchTerm1 === '' && searchTerm2 === '') {
       setFilteredBookLists(allBookLists);
     } else {
-      const filteredLists = allBookLists.filter((bookList) =>
-        bookList.books.some((book) =>
-          book.title.includes(searchTerm)
-        )
-      );
+      const filteredLists = allBookLists.filter((bookList) => {
+        const bookTitles = bookList.books.map((book) => book.title);
+        return (
+          bookTitles.some((title) => title.includes(searchTerm1)) &&
+          (searchTerm2 === '' || bookTitles.some((title) => title.includes(searchTerm2)))
+        );
+      });
       setFilteredBookLists(filteredLists);
     }
   };
@@ -75,6 +77,10 @@ const GenrePage = () => {
       </div>
 
       <SearchComponent onSearch={handleSearch} />
+
+      <div style={{ fontWeight: 'bold', textAlign: 'center' }}>
+        {filteredBookLists.length} 件の結果が見つかりました
+      </div>
 
       <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
         {filteredBookLists.length > 0 && filteredBookLists.map((bookList) => (
