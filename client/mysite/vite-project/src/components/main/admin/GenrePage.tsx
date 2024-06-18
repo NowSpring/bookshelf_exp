@@ -5,12 +5,14 @@ import { useEffect, useState } from 'react';
 import { BookListType } from '../types';
 import { Button } from '@/components/ui/button';
 import { FileDown } from "lucide-react";
+import SearchComponent from './SearchComponent';
 
 const GenrePage = () => {
 
   const location = useLocation();
   const bookListType = location.state?.bookListType;
   const [allBookLists, setAllBookLists] = useState<BookListType[]>([]);
+  const [filteredBookLists, setFilteredBookLists] = useState<BookListType[]>([]);
 
   const getBookLists = async () => {
     if (bookListType.id) {
@@ -20,6 +22,7 @@ const GenrePage = () => {
         });
         if (response.data && response.data.length > 0) {
           setAllBookLists(response.data);
+          setFilteredBookLists(response.data);
         }
       } catch (error) {
         console.error("Error fetching book lists:", error);
@@ -43,13 +46,26 @@ const GenrePage = () => {
     document.body.removeChild(link);
   };
 
+  const handleSearch = (searchTerm: string) => {
+    if (searchTerm === '') {
+      setFilteredBookLists(allBookLists);
+    } else {
+      const filteredLists = allBookLists.filter((bookList) =>
+        bookList.books.some((book) =>
+          book.title.includes(searchTerm)
+        )
+      );
+      setFilteredBookLists(filteredLists);
+    }
+  };
+
   // useEffect(() => {
   //   console.log("allBookLists:", allBookLists);
   // }, [allBookLists]);
 
   return (
     <div>
-      <div style={{ display: 'flex', alignItems: 'center' }}>
+      <div style={{ display: 'flex', alignItems: 'center', marginBottom: '20px' }}>
         <p style={{ fontWeight: 'bold', fontSize: '24px', marginRight: '10px' }}>
           「{ bookListType.type }」の推し棚
         </p>
@@ -57,17 +73,19 @@ const GenrePage = () => {
           <FileDown />
         </Button>
       </div>
-      <div
-        style={{ display: 'flex', flexDirection: 'column', alignItems: 'center' }}
-      >
-        {allBookLists.length > 0 && allBookLists.map((bookList) => (
+
+      <SearchComponent onSearch={handleSearch} />
+
+      <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
+        {filteredBookLists.length > 0 && filteredBookLists.map((bookList) => (
           <div
             key={bookList.id}
             className={`bookCard ${bookList.owner.id === localStorage.getItem('id') ? 'highlight' : ''}`}
           >
             <Books
               title={bookList.owner.username}
-              books={bookList.books} />
+              books={bookList.books}
+            />
           </div>
         ))}
       </div>

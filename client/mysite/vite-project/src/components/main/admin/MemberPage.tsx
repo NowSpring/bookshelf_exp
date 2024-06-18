@@ -5,12 +5,14 @@ import { useEffect, useState } from 'react';
 import { BookListType } from '../types';
 import { Button } from '@/components/ui/button';
 import { FileDown } from "lucide-react";
+import SearchComponent from './SearchComponent';
 
 const MemberPage = () => {
 
   const location = useLocation();
   const member = location.state?.member;
   const [allBookLists, setAllBookLists] = useState<BookListType[]>([]);
+  const [filteredBookLists, setFilteredBookLists] = useState<BookListType[]>([]);
 
   const getBookLists = async () => {
     if (member.id) {
@@ -18,6 +20,7 @@ const MemberPage = () => {
         const response = await EventService.getBookLists({member_id:member.id});
         if (response.data && response.data.length > 0) {
           setAllBookLists(response.data);
+          setFilteredBookLists(response.data);
         }
       } catch (error) {
         console.error("Error fetching book lists:", error);
@@ -41,13 +44,26 @@ const MemberPage = () => {
     document.body.removeChild(link);
   };
 
-  // useEffect(() => {
-  //   console.log("allBookLists:", allBookLists);
-  // }, [allBookLists]);
+  const handleSearch = (searchTerm: string) => {
+    if (searchTerm === '') {
+      setFilteredBookLists(allBookLists);
+    } else {
+      const filteredLists = allBookLists.filter((bookList) =>
+        bookList.books.some((book) =>
+          book.title.includes(searchTerm)
+        )
+      );
+      setFilteredBookLists(filteredLists);
+    }
+  };
+
+  useEffect(() => {
+    console.log("allBookLists:", allBookLists);
+  }, [allBookLists]);
 
   return (
     <div>
-      <div style={{ display: 'flex', alignItems: 'center' }}>
+      <div style={{ display: 'flex', alignItems: 'center', marginBottom: '20px' }}>
         <p style={{ fontWeight: 'bold', fontSize: '24px', marginRight: '10px' }}>
           「{ member.username }」の推し棚
         </p>
@@ -55,17 +71,19 @@ const MemberPage = () => {
           <FileDown />
         </Button>
       </div>
-      <div
-        style={{ display: 'flex', flexDirection: 'column', alignItems: 'center' }}
-      >
-        {allBookLists.length > 0 && allBookLists.map((bookList) => (
+
+      <SearchComponent onSearch={handleSearch} />
+
+      <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
+        {filteredBookLists.length > 0 && filteredBookLists.map((bookList) => (
           <div
             key={bookList.id}
-            className={"bookCard"}
+            className={'bookCard'}
           >
             <Books
               title={bookList.type.type}
-              books={bookList.books} />
+              books={bookList.books}
+            />
           </div>
         ))}
       </div>
