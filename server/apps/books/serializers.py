@@ -1,7 +1,7 @@
 from django.db import transaction
 from rest_framework import serializers
 
-from members.serializers import MemberSerializer
+from members.serializers import MemberGetSerializer
 from books.models import Book, BookList, BookListType
 
 import logging
@@ -52,23 +52,6 @@ class BulkBookUpdateSerializer(serializers.Serializer):
     return books_to_update
 
 
-class BookListSerializer(serializers.ModelSerializer):
-
-  owner = MemberSerializer(read_only=True)
-  books = BookSerializer(many=True, read_only=True, source='booklist')
-
-  class Meta:
-
-    model = BookList
-    fields = "__all__"
-
-  def get_books(self, obj):
-
-    books = obj.booklist.order_by('order')
-
-    return BookSerializer(books, many=True, read_only=True).data
-
-
 class BookListTypeSerializer(serializers.ModelSerializer):
 
   booklist = serializers.SerializerMethodField()
@@ -97,3 +80,21 @@ class BookListTypeSerializer(serializers.ModelSerializer):
         return {'is_completed': None}
 
     return {'is_completed': None}
+
+
+class BookListSerializer(serializers.ModelSerializer):
+
+  type = BookListTypeSerializer(read_only=True)
+  owner = MemberGetSerializer(read_only=True)
+  books = BookSerializer(many=True, read_only=True, source='booklist')
+
+  class Meta:
+
+    model = BookList
+    fields = "__all__"
+
+  def get_books(self, obj):
+
+    books = obj.booklist.order_by('order')
+
+    return BookSerializer(books, many=True, read_only=True).data

@@ -66,7 +66,7 @@ const Login = () => {
         const bookListType = fetchedBookListTypes[0];
 
         if (response.data.user.is_superuser) {
-          navigate(`/admin/${bookListType.id}`, { state: { bookListType } });
+          navigate(`/admin/genre/${bookListType.id}`, { state: { bookListType } });
         } else {
           navigate(`/edit/${bookListType.id}`, { state: { bookListType } });
         }

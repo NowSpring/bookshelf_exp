@@ -6,7 +6,7 @@ import { BookListType } from '../types';
 import { Button } from '@/components/ui/button';
 import { FileDown } from "lucide-react";
 
-const AdminPage = () => {
+const GenrePage = () => {
 
   const location = useLocation();
   const bookListType = location.state?.bookListType;
@@ -15,7 +15,9 @@ const AdminPage = () => {
   const getBookLists = async () => {
     if (bookListType.id) {
       try{
-        const response = await EventService.getBookLists(bookListType.id);
+        const response = await EventService.getBookLists({
+          booklisttype_id: bookListType.id
+        });
         if (response.data && response.data.length > 0) {
           setAllBookLists(response.data);
         }
@@ -41,6 +43,10 @@ const AdminPage = () => {
     document.body.removeChild(link);
   };
 
+  // useEffect(() => {
+  //   console.log("allBookLists:", allBookLists);
+  // }, [allBookLists]);
+
   return (
     <div>
       <div style={{ display: 'flex', alignItems: 'center' }}>
@@ -60,7 +66,7 @@ const AdminPage = () => {
             className={`bookCard ${bookList.owner.id === localStorage.getItem('id') ? 'highlight' : ''}`}
           >
             <Books
-              memberName={bookList.owner.username}
+              title={bookList.owner.username}
               books={bookList.books} />
           </div>
         ))}
@@ -69,4 +75,4 @@ const AdminPage = () => {
   );
 };
 
-export default AdminPage;
+export default GenrePage;

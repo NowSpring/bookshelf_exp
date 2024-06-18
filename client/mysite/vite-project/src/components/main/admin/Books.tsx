@@ -3,16 +3,16 @@ import Book from "./Book";
 import "@/components/main/style.css"
 
 type BooksProps = {
-  memberName: string;
+  title: string;
   books: BookType[];
 }
 
-const Books: React.FC<BooksProps> = ({ memberName, books }) => {
+const Books: React.FC<BooksProps> = ({ title, books }) => {
 
   return (
     <div>
       <p style={{ fontWeight: 'bold' }}>
-        { memberName }
+        { title }
       </p>
       <div className="books">
         {books.map((book, index) => (

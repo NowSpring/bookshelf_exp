@@ -9,6 +9,7 @@ import {
 } from "@/components/ui/tooltip"
 import { DialogContent } from "@/components/ui/dialog"
 import "@/components/main/style.css"
+import NoImage from "@/assets/no_image.jpg"
 
 type BookProps = {
   book: BookType;
@@ -36,7 +37,7 @@ const DetailDialog: React.FC<BookProps> = ({book}) => {
       <div className="layout">
 
         <div className="sidebar">
-          <img className="imageArea" src={book.image} />
+          <img className="imageArea" src={book.image ? book.image : NoImage} />
         </div>
 
         <div className="mainContent">

@@ -92,10 +92,17 @@ export default {
   getBookListTypes(owner_id: string) {
     return apiClient.get(`booklisttype/?owner_id=${owner_id}`);
   },
-  getBookLists(booklisttype_id: string, member_id?: string) {
-    const url = member_id
-      ? `booklist/?booklisttype_id=${booklisttype_id}&member_id=${member_id}`
-      : `booklist/?booklisttype_id=${booklisttype_id}`;
+  getBookLists({ booklisttype_id, member_id }: { booklisttype_id?: string, member_id?: string }) {
+    let url = 'booklist/?';
+
+    if (booklisttype_id) {
+      url += `booklisttype_id=${booklisttype_id}`;
+    }
+
+    if (member_id) {
+      url += (booklisttype_id ? '&' : '') + `member_id=${member_id}`;
+    }
+
     return apiClient.get(url);
   },
   putBookList(bookListInfo: bookListInfo) {

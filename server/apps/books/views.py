@@ -39,6 +39,8 @@ class BookListViewSet(viewsets.ModelViewSet):
 
       queryset = queryset.filter(owner__id=member_id)
 
+    queryset = queryset.order_by('owner__username')
+
     return queryset
 
 
