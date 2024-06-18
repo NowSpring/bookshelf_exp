@@ -22,10 +22,10 @@ const EditPage = () => {
   const getBookLists = async (id: string | null) => {
     if (bookListType?.id && id && localStorageId) {
       try {
-        const response = await EventService.getBookLists(
-          bookListType.id,
-          localStorageId
-        );
+        const response = await EventService.getBookLists({
+          booklisttype_id: bookListType.id,
+          member_id: localStorageId
+        });
         if (response.data && response.data.length > 0) {
           setBookList(response.data[0]);
         }

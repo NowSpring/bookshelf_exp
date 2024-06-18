@@ -12,34 +12,34 @@ const MemberPage = () => {
   const member = location.state?.member;
   const [allBookLists, setAllBookLists] = useState<BookListType[]>([]);
 
-  // const getBookLists = async () => {
-  //   if (member.id) {
-  //     try{
-  //       const response = await EventService.getBookLists(member_id:member.id);
-  //       if (response.data && response.data.length > 0) {
-  //         setAllBookLists(response.data);
-  //       }
-  //     } catch (error) {
-  //       console.error("Error fetching book lists:", error);
-  //     }
-  //   }
-  // }
+  const getBookLists = async () => {
+    if (member.id) {
+      try{
+        const response = await EventService.getBookLists({member_id:member.id});
+        if (response.data && response.data.length > 0) {
+          setAllBookLists(response.data);
+        }
+      } catch (error) {
+        console.error("Error fetching book lists:", error);
+      }
+    }
+  }
 
-  // useEffect(() => {
-  //   getBookLists();
-  // }, [member]);
+  useEffect(() => {
+    getBookLists();
+  }, [member]);
 
-  // const downloadJsonFile = () => {
-  //   const dataStr = JSON.stringify(allBookLists, null, 2);
-  //   const blob = new Blob([dataStr], { type: 'application/json' });
-  //   const url = URL.createObjectURL(blob);
-  //   const link = document.createElement('a');
-  //   link.href = url;
-  //   link.download = `${member.username}_book_lists.json`;
-  //   document.body.appendChild(link);
-  //   link.click();
-  //   document.body.removeChild(link);
-  // };
+  const downloadJsonFile = () => {
+    const dataStr = JSON.stringify(allBookLists, null, 2);
+    const blob = new Blob([dataStr], { type: 'application/json' });
+    const url = URL.createObjectURL(blob);
+    const link = document.createElement('a');
+    link.href = url;
+    link.download = `${member.username}_book_lists.json`;
+    document.body.appendChild(link);
+    link.click();
+    document.body.removeChild(link);
+  };
 
   // useEffect(() => {
   //   console.log("allBookLists:", allBookLists);
@@ -47,9 +47,9 @@ const MemberPage = () => {
 
   return (
     <div>
-      {/* <div style={{ display: 'flex', alignItems: 'center' }}>
+      <div style={{ display: 'flex', alignItems: 'center' }}>
         <p style={{ fontWeight: 'bold', fontSize: '24px', marginRight: '10px' }}>
-          「{ bookListType.type }」の推し棚
+          「{ member.username }」の推し棚
         </p>
         <Button size="icon" onClick={downloadJsonFile} className="rounded-md">
           <FileDown />
@@ -61,15 +61,14 @@ const MemberPage = () => {
         {allBookLists.length > 0 && allBookLists.map((bookList) => (
           <div
             key={bookList.id}
-            className={`bookCard ${bookList.owner.id === localStorage.getItem('id') ? 'highlight' : ''}`}
+            className={"bookCard"}
           >
             <Books
-              memberName={bookList.owner.username}
+              title={bookList.type.type}
               books={bookList.books} />
           </div>
         ))}
-      </div> */}
-      Hello
+      </div>
     </div>
   );
 };

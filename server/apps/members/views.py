@@ -11,7 +11,7 @@ from members.serializers import MemberGetSerializer, MemberPostSerializer
 
 class MemberViewSet(viewsets.ModelViewSet):
 
-  queryset = Member.objects.all()
+  queryset = Member.objects.all().order_by('username')
   authentication_classes = (TokenAuthentication,)
   # permission_classes = (IsAuthenticated, )
 

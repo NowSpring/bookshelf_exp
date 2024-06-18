@@ -15,7 +15,9 @@ const GenrePage = () => {
   const getBookLists = async () => {
     if (bookListType.id) {
       try{
-        const response = await EventService.getBookLists(bookListType.id);
+        const response = await EventService.getBookLists({
+          booklisttype_id: bookListType.id
+        });
         if (response.data && response.data.length > 0) {
           setAllBookLists(response.data);
         }
@@ -64,7 +66,7 @@ const GenrePage = () => {
             className={`bookCard ${bookList.owner.id === localStorage.getItem('id') ? 'highlight' : ''}`}
           >
             <Books
-              memberName={bookList.owner.username}
+              title={bookList.owner.username}
               books={bookList.books} />
           </div>
         ))}

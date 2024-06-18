@@ -84,9 +84,9 @@ const NavigationBar = () => {
   //   console.log("bookListTypes:", bookListTypes)
   // }, [bookListTypes])
 
-  useEffect(() => {
-    console.log("members:", members);
-  }, [members]);
+  // useEffect(() => {
+  //   console.log("members:", members);
+  // }, [members]);
 
   return (
     <div style={{ zIndex: 1, position: 'relative' }}>
