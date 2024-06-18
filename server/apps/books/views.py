@@ -10,6 +10,7 @@ from books.serializers import BookListTypeSerializer, BookListSerializer, BookSe
 class BookListTypeViewSet(viewsets.ModelViewSet):
 
   queryset = BookListType.objects.all()
+  queryset = queryset.order_by('type')
   serializer_class = BookListTypeSerializer
 
   def get_serializer_context(self):
@@ -39,7 +40,7 @@ class BookListViewSet(viewsets.ModelViewSet):
 
       queryset = queryset.filter(owner__id=member_id)
 
-    queryset = queryset.order_by('owner__username')
+    queryset = queryset.order_by('owner__username', 'type__type')
 
     return queryset
 
