@@ -1,6 +1,6 @@
 import { BookType } from "../types";
 import { Dialog } from "@/components/ui/dialog";
-import DetailDialog from "../commons/DetailDialog";
+import DetailDialog from "./DetailDialog";
 import { Check } from "lucide-react";
 import { useEffect, useState } from "react";
 import {
@@ -11,15 +11,17 @@ import {
 } from "@/components/ui/dropdown-menu"
 import { MdMoreVert } from 'react-icons/md';
 import SearchDialog from "../edit/search/SearchDialog";
+import NoImage from "@/assets/no_image.jpg"
 import "@/components/main/style.css"
 
 
 type BookProps = {
+  index: number;
   book: BookType;
   updateBook: (updatedBook: BookType) => void;
 };
 
-const maxTitleLength = 15;
+const maxTitleLength = 10;
 
 const TextWithEllipsis = ({ text, maxLength }: { text: string; maxLength: number }) => {
   if (text.length > maxLength) {
@@ -28,7 +30,7 @@ const TextWithEllipsis = ({ text, maxLength }: { text: string; maxLength: number
   return text;
 };
 
-const Book: React.FC<BookProps> = ({ book, updateBook }) => {
+const Book: React.FC<BookProps> = ({ index, book, updateBook }) => {
 
   const [attentionBook, setAttentionBook] = useState<BookType>(book)
 
@@ -62,12 +64,12 @@ const Book: React.FC<BookProps> = ({ book, updateBook }) => {
   }
 
   return (
-
+    <>
     <div
       className="bookBox"
       style={{
-        backgroundImage: `url(${attentionBook.image})`,
-        backgroundSize: '120%',
+        backgroundImage: `url(${book.image ? book.image : NoImage})`,
+        backgroundSize: '140%',
         backgroundPosition: 'center 50%',
       }}
     >
@@ -93,25 +95,32 @@ const Book: React.FC<BookProps> = ({ book, updateBook }) => {
       </div>
 
       <div className="bookHeader">
-        <p className="bookText">
+        <p className="bookTitle">
           <TextWithEllipsis text={attentionBook.title || ''} maxLength={maxTitleLength} />
         </p>
       </div>
 
-      <Dialog
-        open={isDetailDialog}
-        onOpenChange={setIsDetailDialog}
-      >
-        {showDetailDialog()}
-      </Dialog>
-      <Dialog
-        open={isSearchDialog}
-        onOpenChange={setIsSearchDialog}
-      >
-        {showSearchDialog()}
-      </Dialog>
+      <div className="bookFooter">
+        <p className="bookOrder">
+          {index + 1}位
+        </p>
+      </div>
 
     </div>
+
+    <Dialog
+    open={isDetailDialog}
+    onOpenChange={setIsDetailDialog}
+    >
+    {showDetailDialog()}
+    </Dialog>
+    <Dialog
+    open={isSearchDialog}
+    onOpenChange={setIsSearchDialog}
+    >
+    {showSearchDialog()}
+    </Dialog>
+    </>
   );
 };
 export default Book

@@ -3,7 +3,16 @@ from django.contrib.auth import password_validation
 from rest_framework import serializers, fields
 from members.models import Member
 
-class MemberSerializer(serializers.ModelSerializer):
+
+class MemberGetSerializer(serializers.ModelSerializer):
+
+  class Meta:
+
+    model = Member
+    fields = ['id', 'username', 'is_superuser']
+
+
+class MemberPostSerializer(serializers.ModelSerializer):
 
   class Meta:
 

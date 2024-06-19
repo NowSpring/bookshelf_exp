@@ -4,8 +4,9 @@ import "./App.css";
 
 import Authentication from "./components/authentication/AuthenticationPage";
 import Layout from "./components/main/layout/Layout";
-import DisplayPage from "./components/main/display/DisplayPage";
 import EditPage from "./components/main/edit/EditPage";
+import GenrePage from "./components/main/admin/GenrePage";
+import MemberPage from "./components/main/admin/MemberPage";
 
 
 
@@ -39,18 +40,26 @@ function App() {
         <Route path="/authentication" element={<Authentication />} />
         <Route element={<LayoutWithHeaderAndNav />}>
           <Route
-            path="/display/:id"
-            element={
-              <RequireAuth>
-                <DisplayPage />
-              </RequireAuth>
-            }
-          />
-          <Route
             path="/edit/:id"
             element={
               <RequireAuth>
                 <EditPage />
+              </RequireAuth>
+            }
+          />
+          <Route
+            path="/admin/genre/:id"
+            element={
+              <RequireAuth>
+                <GenrePage />
+              </RequireAuth>
+            }
+          />
+          <Route
+            path="/admin/member/:id"
+            element={
+              <RequireAuth>
+                <MemberPage />
               </RequireAuth>
             }
           />

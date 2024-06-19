@@ -1,6 +1,6 @@
 import { BookType } from "../types";
 import { Dialog } from "@/components/ui/dialog";
-import DetailDialog from "../commons/DetailDialog";
+import DetailDialog from "./DetailDialog";
 import { Check } from "lucide-react";
 import { useState } from "react";
 import {
@@ -10,15 +10,16 @@ import {
   DropdownMenuTrigger,
 } from "@/components/ui/dropdown-menu"
 import { MdMoreVert } from 'react-icons/md';
-import "@/components/main/style.css"
 import NoImage from "@/assets/no_image.jpg"
+import "@/components/main/style.css"
 
 
 type BookProps = {
+  index: number;
   book: BookType;
 };
 
-const maxTitleLength = 15;
+const maxTitleLength = 10;
 
 const TextWithEllipsis = ({ text, maxLength }: { text: string; maxLength: number }) => {
   if (text.length > maxLength) {
@@ -27,7 +28,7 @@ const TextWithEllipsis = ({ text, maxLength }: { text: string; maxLength: number
   return text;
 };
 
-const Book: React.FC<BookProps> = ({ book }) => {
+const Book: React.FC<BookProps> = ({ index, book }) => {
 
   const [isDetailDialog, setIsDetailDialog] = useState(false)
 
@@ -42,12 +43,12 @@ const Book: React.FC<BookProps> = ({ book }) => {
   }
 
   return (
-
+    <>
     <div
       className="bookBox"
       style={{
         backgroundImage: `url(${book.image ? book.image : NoImage})`,
-        backgroundSize: '120%',
+        backgroundSize: '140%',
         backgroundPosition: 'center 50%',
       }}
     >
@@ -69,19 +70,26 @@ const Book: React.FC<BookProps> = ({ book }) => {
       </div>
 
       <div className="bookHeader">
-        <p className="bookText">
+        <p className="bookTitle">
           <TextWithEllipsis text={book.title || ''} maxLength={maxTitleLength} />
         </p>
       </div>
 
-      <Dialog
-        open={isDetailDialog}
-        onOpenChange={setIsDetailDialog}
-      >
-        {showDetailDialog()}
-      </Dialog>
+      <div className="bookFooter">
+        <p className="bookOrder">
+          {index + 1}位
+        </p>
+      </div>
 
     </div>
+
+    <Dialog
+    open={isDetailDialog}
+    onOpenChange={setIsDetailDialog}
+    >
+    {showDetailDialog()}
+    </Dialog>
+    </>
   );
 };
 export default Book

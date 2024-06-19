@@ -1,24 +1,39 @@
-import EventService from '@/EventService';
-import { useLocation, useNavigate } from 'react-router-dom';
+import EventService from "@/EventService";
+import { useLocation } from "react-router-dom";
 import Books from "./Books";
-import { useEffect, useState } from 'react';
-import { BookType } from '../types';
+import { useEffect, useState } from "react";
+import { BookListType, BookType } from "../types";
 import { Button } from "@/components/ui/button";
-
+import { Dialog, DialogTrigger } from "@/components/ui/dialog";
+import AlertDialog from "../../common/AlertDialog";
 
 const EditPage = () => {
-
   const location = useLocation();
-  const navigate = useNavigate();
-  const bookList = location.state?.bookList;
   const bookListType = location.state?.bookListType;
-  const [books, setBooks] = useState<BookType[]>(bookList.books);
   const [localStorageId, setLocalStorageId] = useState<string | null>(null);
 
-  useEffect(() => {
-    const id = window.localStorage.getItem('id');
-    setLocalStorageId(id);
-  }, []);
+  const [bookList, setBookList] = useState<BookListType>();
+  const [books, setBooks] = useState<BookType[]>([]);
+
+  const [isUpdateAlert, setIsUpdateAlert] = useState(false);
+  const [alertTitle, setAlertTitle] = useState("");
+  const [alertDescription, setAlertDescription] = useState("");
+
+  const getBookLists = async (id: string | null) => {
+    if (bookListType?.id && id && localStorageId) {
+      try {
+        const response = await EventService.getBookLists({
+          booklisttype_id: bookListType.id,
+          member_id: localStorageId
+        });
+        if (response.data && response.data.length > 0) {
+          setBookList(response.data[0]);
+        }
+      } catch (error) {
+        console.error("Error fetching book lists:", error);
+      }
+    }
+  };
 
   const putBookList = async () => {
     const newBooks = books.map((book: BookType, index: number) => ({
@@ -30,48 +45,96 @@ const EditPage = () => {
       order: index,
     }));
 
-    const isCompleted = newBooks.every(book => book.title !== "未登録");
+    const isCompleted = newBooks.every((book) => book.title !== "未登録");
+
+    if (!bookList) {
+      // console.error("bookList is undefined");
+      return;
+    }
 
     const newBookList = {
       books: newBooks,
       id: bookList.id,
-      is_completed: isCompleted
+      is_completed: isCompleted,
     };
-
-    console.log("newBookList:", newBookList)
 
     try {
       await EventService.putBookList(newBookList);
-
-      // navigate(-1); // 前の画面に戻る
-      navigate(`/display/${bookListType.id}`, { state: { bookListType } });
     } catch (error) {
       console.error("Failed to update book list:", error);
     }
   };
 
+  const clickSaveButton = async () => {
+    try {
+      await putBookList();
+      setAlertTitle("保存完了");
+      setAlertDescription("編集内容を保存しました");
+      setIsUpdateAlert(true);
+    } catch (error) {
+      const err = error as Error;
+      setAlertTitle("登録エラー");
+      setAlertDescription(`エラーが発生しました: ${err.message}`);
+      setIsUpdateAlert(true);
+    }
+  };
+
+  useEffect(() => {
+    const id = window.localStorage.getItem("id");
+    setLocalStorageId(id);
+  }, []);
+
+  useEffect(() => {
+    if (localStorageId) {
+      getBookLists(localStorageId);
+    }
+  }, [localStorageId, bookListType?.id]);
+
+  useEffect(() => {
+    if (bookList && bookList.books) {
+      setBooks(bookList.books);
+    }
+  }, [bookList]);
+
+  useEffect(() => {
+    putBookList();
+  }, [location]);
+
   return (
     <div>
-      <h1 style={{ fontSize: '2rem', fontWeight: 'bold' }}>
-        Edit : {bookListType.type}
-      </h1>
+      <p style={{ fontWeight: "bold", fontSize: "24px", marginRight: "10px" }}>
+        「{bookListType.type}」の推し棚
+      </p>
       <div
-        style={{ display: 'flex', flexDirection: 'column', alignItems: 'center' }}
+        style={{
+          display: "flex",
+          flexDirection: "column",
+          alignItems: "center",
+        }}
       >
-        <div
-          key={bookList.id}
-          className={`bookCard ${bookList.owner.id === localStorageId ? 'highlight' : ''}`}
-        >
-          <Books
-            books={books}
-            setBooks={setBooks}
-          />
-        </div>
-        <Button className="h-12 w-96" onClick={putBookList}>
-          保存
-        </Button>
-      </div>
+        {bookList && (
+          <div
+            key={bookList.id}
+            className={`bookCard ${
+              bookList.owner.id === localStorageId ? "highlight" : ""
+            }`}
+          >
+            <Books books={books} setBooks={setBooks} />
+          </div>
+        )}
 
+        <Dialog open={isUpdateAlert} onOpenChange={setIsUpdateAlert}>
+          <DialogTrigger asChild>
+            <Button className="h-12 w-96" onClick={clickSaveButton}>
+              保存
+            </Button>
+          </DialogTrigger>
+
+          {isUpdateAlert && (
+            <AlertDialog title={alertTitle} description={alertDescription} />
+          )}
+        </Dialog>
+      </div>
     </div>
   );
 };
