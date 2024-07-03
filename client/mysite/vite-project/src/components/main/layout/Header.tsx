@@ -16,7 +16,7 @@ const Header = () => {
       >
         <Toolbar>
           <Typography variant="h6" noWrap component="div">
-            BookShelf_exp
+            ComicFaves
           </Typography>
         </Toolbar>
       </AppBar>

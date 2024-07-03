@@ -87,6 +87,7 @@ class BookListSerializer(serializers.ModelSerializer):
   type = BookListTypeSerializer(read_only=True)
   owner = MemberGetSerializer(read_only=True)
   books = BookSerializer(many=True, read_only=True, source='booklist')
+  likes = serializers.SerializerMethodField()
 
   class Meta:
 
@@ -98,3 +99,29 @@ class BookListSerializer(serializers.ModelSerializer):
     books = obj.booklist.order_by('order')
 
     return BookSerializer(books, many=True, read_only=True).data
+
+  def get_likes(self, obj):
+
+    request = self.context.get('request', None)
+    member_id = request.query_params.get('member_id', None)
+    mode = request.query_params.get('mode', 'edit')
+
+    if mode == 'edit' or mode is None:
+        
+      return None  # likesフィールドを返さない
+    
+    elif mode == 'display':
+      
+      if member_id:
+        
+        # member_idが合致するBookListはlikesを除外
+        if str(obj.owner.id) == member_id:
+          
+          return None
+        
+        # 他のBookListはlikes情報を含む
+        else:
+          
+          return str(member_id) in [str(user.id) for user in obj.likes.all()]
+
+    return [user.username for user in obj.likes.all()]

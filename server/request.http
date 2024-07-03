@@ -2,11 +2,11 @@ POST http://localhost:8000/api-token-auth/
 Content-Type: application/json
 
 {
-    "username": "admin",
-    "password": "admin"
+    "username": "test01",
+    "password": "test"
 }
 
-### c8b1210075a4fe55141616826ae6413282057032
+### a31e7d9154fb9cb6e9a61fb9d29f47f45e829783
 
 POST http://localhost:8000/api/member/
 Content-Type: application/json
@@ -27,14 +27,14 @@ Authorization: Token {{token}}
 ###
 # @prompt token
 
-GET http://localhost:8000/api/booklisttype/?owner_id=da810266-c792-45f3-850a-1ab4a73ebeaf
+GET http://localhost:8000/api/booklisttype/?owner_id=0fbbe10c-3b6b-4d4d-813f-50663c83732b
 Content-Type: application/json
 Authorization: Token {{token}}
 
 ###
 # @prompt token
 
-GET http://localhost:8000/api/booklist/?booklisttype_id=e1a98696-bad2-4836-9133-df62f5ebf156
+GET http://localhost:8000/api/booklist/?booklisttype_id=ad385e66-5135-4157-8967-aa2d6c594122
 Content-Type: application/json
 Authorization: Token {{token}}
 
@@ -42,7 +42,23 @@ Authorization: Token {{token}}
 ###
 # @prompt token
 
-GET http://localhost:8000/api/booklist/?booklisttype_id=e1a98696-bad2-4836-9133-df62f5ebf156&member_id=da810266-c792-45f3-850a-1ab4a73ebeaf
+GET http://localhost:8000/api/booklist/?booklisttype_id=ad385e66-5135-4157-8967-aa2d6c594122&member_id=0fbbe10c-3b6b-4d4d-813f-50663c83732b
+Content-Type: application/json
+Authorization: Token {{token}}
+
+
+###
+# @prompt token
+
+GET http://localhost:8000/api/booklist/?booklisttype_id=ad385e66-5135-4157-8967-aa2d6c594122&member_id=0fbbe10c-3b6b-4d4d-813f-50663c83732b&mode=edit
+Content-Type: application/json
+Authorization: Token {{token}}
+
+
+###
+# @prompt token
+
+GET http://localhost:8000/api/booklist/?booklisttype_id=ad385e66-5135-4157-8967-aa2d6c594122&member_id=0fbbe10c-3b6b-4d4d-813f-50663c83732b&mode=display
 Content-Type: application/json
 Authorization: Token {{token}}
 

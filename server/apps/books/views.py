@@ -31,14 +31,29 @@ class BookListViewSet(viewsets.ModelViewSet):
     queryset = super().get_queryset().select_related('owner').prefetch_related('booklist')
     booklisttype_id = self.request.query_params.get('booklisttype_id', None)
     member_id = self.request.query_params.get('member_id', None)
+    mode = self.request.query_params.get('mode', 'edit')
 
     if booklisttype_id is not None:
 
       queryset = queryset.filter(type__id=booklisttype_id)
 
-    if member_id is not None:
+    if mode == 'edit' or mode is None:
+            
+      if member_id is not None:
+        
+        queryset = queryset.filter(owner__id=member_id)
+    
+    elif mode == 'display':
+            
+      if member_id is not None:
 
-      queryset = queryset.filter(owner__id=member_id)
+        # member_idが合致するBookListはlikesを除外
+        member_booklists = queryset.filter(owner__id=member_id)
+        
+        # 他のBookListはlikes情報を含む
+        other_booklists = queryset.exclude(owner__id=member_id)
+        
+        return member_booklists | other_booklists
 
     queryset = queryset.order_by('owner__username', 'type__type')
 
