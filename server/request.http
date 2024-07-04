@@ -66,6 +66,30 @@ Authorization: Token {{token}}
 ###
 # @prompt token
 
+GET http://localhost:8000/api/booklist/?member_id=0fbbe10c-3b6b-4d4d-813f-50663c83732b&mode=display
+Content-Type: application/json
+Authorization: Token {{token}}
+
+
+###
+# @prompt token
+
+GET http://localhost:8000/api/booklist/?booklisttype_id=ad385e66-5135-4157-8967-aa2d6c594122&mode=display
+Content-Type: application/json
+Authorization: Token {{token}}
+
+
+###
+# @prompt token
+
+GET http://localhost:8000/api/booklist/?booklisttype_id=ad385e66-5135-4157-8967-aa2d6c594122&member_id=0fbbe10c-3b6b-4d4d-813f-50663c83732b&mode=admin
+Content-Type: application/json
+Authorization: Token {{token}}
+
+
+###
+# @prompt token
+
 PUT http://localhost:8000/api/book/bulk_update/
 Content-Type: application/json
 Authorization: Token {{token}}

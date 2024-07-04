@@ -2,8 +2,8 @@ import axios from "axios";
 
 // ログイン用のaxiosインスタンス
 const loginClient = axios.create({
-  baseURL: "http://0.0.0.0:8000/", // mac
-  // baseURL: "http://127.0.0.1:8000/", // windows
+  // baseURL: "http://0.0.0.0:8000/", // mac
+  baseURL: "http://127.0.0.1:8000/", // windows
   withCredentials: false,
   headers: {
     Accept: "application/json",
@@ -13,8 +13,8 @@ const loginClient = axios.create({
 
 // サインアップ用のaxiosインスタンス
 const signupClient = axios.create({
-  baseURL: "http://0.0.0.0:8000/api", // mac
-  // baseURL: "http://127.0.0.1:8000/api", //windows
+  // baseURL: "http://0.0.0.0:8000/api", // mac
+  baseURL: "http://127.0.0.1:8000/api", //windows
   headers: {
     "Content-Type": "application/json",
   },
@@ -22,8 +22,8 @@ const signupClient = axios.create({
 
 // API用のaxiosインスタンス
 const apiClient = axios.create({
-  baseURL: "http://0.0.0.0:8000/api", // mac
-  // baseURL: "http://127.0.0.1:8000/api", //windows
+  // baseURL: "http://0.0.0.0:8000/api", // mac
+  baseURL: "http://127.0.0.1:8000/api", //windows
   headers: {
     "Content-Type": "application/json",
   },
@@ -89,8 +89,8 @@ export default {
   getBookListTypes(owner_id: string) {
     return apiClient.get(`booklisttype/?owner_id=${owner_id}`);
   },
-  getBookLists({ booklisttype_id, member_id }: { booklisttype_id?: string, member_id?: string }) {
-    let url = 'booklist/?';
+  getBookLists({ booklisttype_id, member_id, mode }: { booklisttype_id?: string, member_id?: string, mode: string}) {
+    let url = `booklist/?mode=${mode}&`;
 
     if (booklisttype_id) {
       url += `booklisttype_id=${booklisttype_id}`;
@@ -99,6 +99,8 @@ export default {
     if (member_id) {
       url += (booklisttype_id ? '&' : '') + `member_id=${member_id}`;
     }
+
+    console.log("url:", url)
 
     return apiClient.get(url);
   },

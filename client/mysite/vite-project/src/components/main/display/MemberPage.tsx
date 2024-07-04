@@ -7,18 +7,19 @@ import { Button } from '@/components/ui/button';
 import { FileDown } from "lucide-react";
 import SearchComponent from './SearchComponent';
 
-const GenrePage = () => {
+const MemberPage = () => {
 
   const location = useLocation();
-  const bookListType = location.state?.bookListType;
+  const member = location.state?.member;
   const [allBookLists, setAllBookLists] = useState<BookListType[]>([]);
   const [filteredBookLists, setFilteredBookLists] = useState<BookListType[]>([]);
 
   const getBookLists = async () => {
-    if (bookListType.id) {
+    if (member.id) {
       try{
         const response = await EventService.getBookLists({
-          booklisttype_id: bookListType.id
+          member_id:member.id,
+          mode: "display"
         });
         if (response.data && response.data.length > 0) {
           setAllBookLists(response.data);
@@ -32,7 +33,7 @@ const GenrePage = () => {
 
   useEffect(() => {
     getBookLists();
-  }, [bookListType]);
+  }, [member]);
 
   const downloadJsonFile = () => {
     const dataStr = JSON.stringify(allBookLists, null, 2);
@@ -40,7 +41,7 @@ const GenrePage = () => {
     const url = URL.createObjectURL(blob);
     const link = document.createElement('a');
     link.href = url;
-    link.download = `${bookListType.type}_book_lists.json`;
+    link.download = `${member.username}_book_lists.json`;
     document.body.appendChild(link);
     link.click();
     document.body.removeChild(link);
@@ -69,7 +70,7 @@ const GenrePage = () => {
     <div>
       <div style={{ display: 'flex', alignItems: 'center', marginBottom: '20px' }}>
         <p style={{ fontWeight: 'bold', fontSize: '24px', marginRight: '10px' }}>
-          「{ bookListType.type }」の推し棚
+          「{ member.username }」の推し棚
         </p>
         <Button size="icon" onClick={downloadJsonFile} className="rounded-md">
           <FileDown />
@@ -86,10 +87,10 @@ const GenrePage = () => {
         {filteredBookLists.length > 0 && filteredBookLists.map((bookList) => (
           <div
             key={bookList.id}
-            className={`bookCard ${bookList.owner.id === localStorage.getItem('id') ? 'highlight' : ''}`}
+            className={'bookCard'}
           >
             <Books
-              title={bookList.owner.username}
+              title={bookList.type.type}
               books={bookList.books}
             />
           </div>
@@ -99,4 +100,4 @@ const GenrePage = () => {
   );
 };
 
-export default GenrePage;
+export default MemberPage;

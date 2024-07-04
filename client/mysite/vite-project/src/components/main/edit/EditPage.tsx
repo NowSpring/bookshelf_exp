@@ -24,7 +24,8 @@ const EditPage = () => {
       try {
         const response = await EventService.getBookLists({
           booklisttype_id: bookListType.id,
-          member_id: localStorageId
+          member_id: localStorageId,
+          mode: "edit"
         });
         if (response.data && response.data.length > 0) {
           setBookList(response.data[0]);

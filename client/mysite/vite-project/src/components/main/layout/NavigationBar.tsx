@@ -63,21 +63,21 @@ const NavigationBar = () => {
   }, [location]);
 
   useEffect(() => {
-    if (location.pathname.includes('admin')) {
+    if (location.pathname.includes('display')) {
       getMembers();
     }
   }, [location]);
 
   const handleItemClick = (bookListType: GenreType) => {
     if (localStorageIsSuperuser) {
-      navigate(`/admin/genre/${bookListType.id}`, { state: { bookListType } });
+      navigate(`/display/genre/${bookListType.id}`, { state: { bookListType } });
     } else {
       navigate(`/edit/${bookListType.id}`, { state: { bookListType } });
     }
   };
 
   const handleMemberClick = (member: MemberType) => {
-    navigate(`/admin/member/${member.id}`, { state: { member } });
+    navigate(`/display/member/${member.id}`, { state: { member } });
   }
 
   // useEffect(() =>{
@@ -124,7 +124,7 @@ const NavigationBar = () => {
                 </ListItemButton>
               </ListItem>
             ))}
-            {location.pathname.includes('admin') &&
+            {location.pathname.includes('display') &&
               <>
                 <Separator />
                 {members.map((member) => (

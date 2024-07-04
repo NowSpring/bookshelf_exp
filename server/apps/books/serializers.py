@@ -107,21 +107,25 @@ class BookListSerializer(serializers.ModelSerializer):
     mode = request.query_params.get('mode', 'edit')
 
     if mode == 'edit' or mode is None:
-        
+
       return None  # likesフィールドを返さない
-    
+
     elif mode == 'display':
-      
+
       if member_id:
-        
+
         # member_idが合致するBookListはlikesを除外
         if str(obj.owner.id) == member_id:
-          
+
           return None
-        
+
         # 他のBookListはlikes情報を含む
         else:
-          
+
           return str(member_id) in [str(user.id) for user in obj.likes.all()]
+
+    elif mode == 'admin':
+
+      return MemberGetSerializer(obj.likes.all(), many=True).data
 
     return [user.username for user in obj.likes.all()]

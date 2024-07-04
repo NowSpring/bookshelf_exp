@@ -33,27 +33,37 @@ class BookListViewSet(viewsets.ModelViewSet):
     member_id = self.request.query_params.get('member_id', None)
     mode = self.request.query_params.get('mode', 'edit')
 
-    if booklisttype_id is not None:
-
-      queryset = queryset.filter(type__id=booklisttype_id)
-
     if mode == 'edit' or mode is None:
-            
-      if member_id is not None:
-        
-        queryset = queryset.filter(owner__id=member_id)
-    
-    elif mode == 'display':
-            
-      if member_id is not None:
 
-        # member_idが合致するBookListはlikesを除外
-        member_booklists = queryset.filter(owner__id=member_id)
-        
-        # 他のBookListはlikes情報を含む
-        other_booklists = queryset.exclude(owner__id=member_id)
-        
-        return member_booklists | other_booklists
+      if booklisttype_id:
+
+        queryset = queryset.filter(type__id=booklisttype_id)
+
+      if member_id:
+
+        queryset = queryset.filter(owner__id=member_id)
+
+    elif mode == 'display':
+
+      if booklisttype_id:
+
+        queryset = queryset.filter(type__id=booklisttype_id)
+
+        if member_id:
+
+          # member_idが合致するBookListはlikesを除外
+          member_booklists = queryset.filter(owner__id=member_id)
+
+          # 他のBookListはlikes情報を含む
+          other_booklists = queryset.exclude(owner__id=member_id)
+
+          queryset = member_booklists | other_booklists
+
+      else:
+
+        if member_id:
+
+          queryset = queryset.filter(owner__id=member_id)
 
     queryset = queryset.order_by('owner__username', 'type__type')
 
