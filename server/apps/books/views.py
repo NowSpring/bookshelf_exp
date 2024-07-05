@@ -3,6 +3,7 @@ from rest_framework import viewsets, status
 from rest_framework.views import APIView
 from rest_framework.decorators import action
 
+from members.models import Member
 from books.models import BookListType, BookList, Book
 from books.serializers import BookListTypeSerializer, BookListSerializer, BookSerializer, BulkBookUpdateSerializer
 
@@ -68,6 +69,46 @@ class BookListViewSet(viewsets.ModelViewSet):
     queryset = queryset.order_by('owner__username', 'type__type')
 
     return queryset
+  
+  @action(detail=False, methods=['post'], url_path='like')
+  def like(self, request):
+
+    booklist_id = request.data.get('booklist_id')
+    member_id = request.data.get('member_id')
+    like = request.data.get('like')
+
+    try:
+        
+      booklist = BookList.objects.get(id=booklist_id)
+      member = Member.objects.get(id=member_id)
+
+      if like == 'true':
+          
+        if not booklist.likes.filter(id=member_id).exists():
+        
+          booklist.likes.add(member)
+      
+      elif like == 'false':
+        
+        if booklist.likes.filter(id=member_id).exists():
+          
+          booklist.likes.remove(member)
+
+      booklist.save()
+
+      return Response(status=status.HTTP_204_NO_CONTENT)
+
+    except BookList.DoesNotExist:
+      
+      return Response({'error': 'BookList not found'}, status=status.HTTP_404_NOT_FOUND)
+    
+    except Member.DoesNotExist:
+      
+      return Response({'error': 'Member not found'}, status=status.HTTP_404_NOT_FOUND)
+    
+    except Exception as e:
+      
+      return Response({'error': str(e)}, status=status.HTTP_400_BAD_REQUEST)
 
 
 class BookViewSet(viewsets.ModelViewSet):

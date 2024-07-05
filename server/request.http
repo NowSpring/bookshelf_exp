@@ -108,3 +108,18 @@ Authorization: Token {{token}}
   "id": "39e647f9-73ea-436f-b5f3-d0f7d4cae028",
   "is_completed": true
 }
+
+
+### token: a31e7d9154fb9cb6e9a61fb9d29f47f45e829783
+###
+# @prompt token
+
+POST http://localhost:8000/api/booklist/like/
+Content-Type: application/json
+Authorization: Token {{token}}
+
+{
+ "booklist_id": "ab2dc6b9-cfb8-4eaf-ab91-fd28c64b3d3b",
+ "member_id": "0fbbe10c-3b6b-4d4d-813f-50663c83732b",
+ "like": "true" 
+}
