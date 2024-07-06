@@ -1,24 +1,25 @@
 import EventService from '@/EventService';
 import { useLocation } from 'react-router-dom';
-import Books from "./Books";
 import { useEffect, useState } from 'react';
 import { BookListType } from '../types';
-import { Button } from '@/components/ui/button';
-import { FileDown } from "lucide-react";
 import SearchComponent from './SearchComponent';
+import BookList from './BookList';
 
-const GenrePage = () => {
+
+const MemberPage = () => {
 
   const location = useLocation();
-  const bookListType = location.state?.bookListType;
+  const member = location.state?.member;
   const [allBookLists, setAllBookLists] = useState<BookListType[]>([]);
   const [filteredBookLists, setFilteredBookLists] = useState<BookListType[]>([]);
-
+  const [localStorageId, setLocalStorageId] = useState<string | null>(null);
   const getBookLists = async () => {
-    if (bookListType.id) {
+    if (member.id && localStorageId) {
       try{
         const response = await EventService.getBookLists({
-          booklisttype_id: bookListType.id
+          member_id: member.id,
+          reviewer_id: localStorageId,
+          mode: "display"
         });
         if (response.data && response.data.length > 0) {
           setAllBookLists(response.data);
@@ -29,22 +30,6 @@ const GenrePage = () => {
       }
     }
   }
-
-  useEffect(() => {
-    getBookLists();
-  }, [bookListType]);
-
-  const downloadJsonFile = () => {
-    const dataStr = JSON.stringify(allBookLists, null, 2);
-    const blob = new Blob([dataStr], { type: 'application/json' });
-    const url = URL.createObjectURL(blob);
-    const link = document.createElement('a');
-    link.href = url;
-    link.download = `${bookListType.type}_book_lists.json`;
-    document.body.appendChild(link);
-    link.click();
-    document.body.removeChild(link);
-  };
 
   const handleSearch = (searchTerm1: string, searchTerm2: string) => {
     if (searchTerm1 === '' && searchTerm2 === '') {
@@ -61,19 +46,31 @@ const GenrePage = () => {
     }
   };
 
+  useEffect(() => {
+    const id = window.localStorage.getItem("id");
+    setLocalStorageId(id);
+  }, []);
+
+  useEffect(() => {
+    if (localStorageId !== null) {
+      getBookLists();
+    }
+  }, [member, localStorageId]);
+
   // useEffect(() => {
   //   console.log("allBookLists:", allBookLists);
   // }, [allBookLists]);
+
+  if (localStorageId === null) {
+    return <div>Loading...</div>;
+  }
 
   return (
     <div>
       <div style={{ display: 'flex', alignItems: 'center', marginBottom: '20px' }}>
         <p style={{ fontWeight: 'bold', fontSize: '24px', marginRight: '10px' }}>
-          「{ bookListType.type }」の推し棚
+          「{ member.username }」の推し棚
         </p>
-        <Button size="icon" onClick={downloadJsonFile} className="rounded-md">
-          <FileDown />
-        </Button>
       </div>
 
       <SearchComponent onSearch={handleSearch} />
@@ -86,11 +83,12 @@ const GenrePage = () => {
         {filteredBookLists.length > 0 && filteredBookLists.map((bookList) => (
           <div
             key={bookList.id}
-            className={`bookCard ${bookList.owner.id === localStorage.getItem('id') ? 'highlight' : ''}`}
+            className={'bookCard'}
           >
-            <Books
-              title={bookList.owner.username}
-              books={bookList.books}
+            <BookList
+              title={bookList.type.type}
+              bookList={bookList}
+              reviewer_id={localStorageId}
             />
           </div>
         ))}
@@ -99,4 +97,4 @@ const GenrePage = () => {
   );
 };
 
-export default GenrePage;
+export default MemberPage;

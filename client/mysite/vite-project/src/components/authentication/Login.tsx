@@ -64,12 +64,12 @@ const Login = () => {
 
       if (fetchedBookListTypes.length > 0) {
         const bookListType = fetchedBookListTypes[0];
-
-        if (response.data.user.is_superuser) {
-          navigate(`/admin/genre/${bookListType.id}`, { state: { bookListType } });
-        } else {
-          navigate(`/edit/${bookListType.id}`, { state: { bookListType } });
-        }
+        navigate(`/display/genre/${bookListType.id}`, { state: { bookListType } });
+        // if (response.data.user.is_superuser) {
+        //   navigate(`/display/genre/${bookListType.id}`, { state: { bookListType } });
+        // } else {
+        //   navigate(`/edit/${bookListType.id}`, { state: { bookListType } });
+        // }
       }
 
     } catch (error) {

@@ -19,6 +19,7 @@ export type BookListType = {
   books: BookType[];
   type: GenreType;
   is_completed: boolean;
+  likes: boolean;
 }
 
 export type GenreType = {

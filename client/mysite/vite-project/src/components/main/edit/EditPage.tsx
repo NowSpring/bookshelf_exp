@@ -24,7 +24,8 @@ const EditPage = () => {
       try {
         const response = await EventService.getBookLists({
           booklisttype_id: bookListType.id,
-          member_id: localStorageId
+          reviewer_id: localStorageId,
+          mode: "edit"
         });
         if (response.data && response.data.length > 0) {
           setBookList(response.data[0]);
@@ -35,7 +36,7 @@ const EditPage = () => {
     }
   };
 
-  const putBookList = async () => {
+  const putBookList = async() => {
     const newBooks = books.map((book: BookType, index: number) => ({
       id: book.id,
       booklist: book.booklist,

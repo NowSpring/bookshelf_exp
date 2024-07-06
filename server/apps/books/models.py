@@ -16,9 +16,10 @@ class BookListType(models.Model):
 class BookList(models.Model):
 
   id = models.UUIDField(primary_key=True, default=uuid.uuid4, editable=False)
-  owner = models.ForeignKey(settings.AUTH_USER_MODEL, on_delete=models.CASCADE, verbose_name = "所有者")
+  owner = models.ForeignKey(settings.AUTH_USER_MODEL, on_delete=models.CASCADE, verbose_name="所有者", related_name='owned_booklists')
   type = models.ForeignKey(BookListType, on_delete=models.CASCADE, related_name='booklisttype')
   is_completed = models.BooleanField(verbose_name = "作成状況", default = False)
+  likes = models.ManyToManyField('members.Member', verbose_name="いいね", blank=True)
 
   def __str__(self):
 

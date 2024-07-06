@@ -5,8 +5,8 @@ import "./App.css";
 import Authentication from "./components/authentication/AuthenticationPage";
 import Layout from "./components/main/layout/Layout";
 import EditPage from "./components/main/edit/EditPage";
-import GenrePage from "./components/main/admin/GenrePage";
-import MemberPage from "./components/main/admin/MemberPage";
+import GenrePage from "./components/main/display/GenrePage";
+import MemberPage from "./components/main/display/MemberPage";
 
 
 
@@ -48,7 +48,7 @@ function App() {
             }
           />
           <Route
-            path="/admin/genre/:id"
+            path="/display/genre/:id"
             element={
               <RequireAuth>
                 <GenrePage />
@@ -56,7 +56,7 @@ function App() {
             }
           />
           <Route
-            path="/admin/member/:id"
+            path="/display/member/:id"
             element={
               <RequireAuth>
                 <MemberPage />
