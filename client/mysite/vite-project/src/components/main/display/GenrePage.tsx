@@ -1,11 +1,11 @@
 import EventService from '@/EventService';
 import { useLocation } from 'react-router-dom';
-import Books from "./Books";
 import { useEffect, useState } from 'react';
 import { BookListType } from '../types';
 import { Button } from '@/components/ui/button';
 import { FileDown } from "lucide-react";
 import SearchComponent from './SearchComponent';
+import BookList from './BookList';
 
 const GenrePage = () => {
 
@@ -23,7 +23,7 @@ const GenrePage = () => {
       try{
         const response = await EventService.getBookLists({
           booklisttype_id: bookListType.id,
-          member_id: localStorageId,
+          reviewer_id: localStorageId,
           mode: "display"
         });
         if (response.data && response.data.length > 0) {
@@ -68,17 +68,17 @@ const GenrePage = () => {
   };
 
   useEffect(() => {
-    if (localStorageId !== null) {
-      getBookLists();
-    }
-  }, [bookListType, localStorageId]);
-
-  useEffect(() => {
     const id = window.localStorage.getItem("id");
     setLocalStorageId(id);
     const isSuperUserStr = window.localStorage.getItem("is_superuser");
     setIsSuperuser(isSuperUserStr === "true")
   }, []);
+
+  useEffect(() => {
+    if (localStorageId !== null) {
+      getBookLists();
+    }
+  }, [bookListType, localStorageId]);
 
   // useEffect(() => {
   //   console.log("allBookLists:", allBookLists);
@@ -88,9 +88,9 @@ const GenrePage = () => {
   //   console.log("myBookLists:", myBookLists);
   // }, [myBookLists]);
 
-  useEffect(() => {
-    console.log("otherBookLists:", otherBookLists);
-  }, [otherBookLists]);
+  // useEffect(() => {
+  //   console.log("otherBookLists:", otherBookLists);
+  // }, [otherBookLists]);
 
   // useEffect(() => {
   //   console.log("localStorageId:", localStorageId);
@@ -100,7 +100,12 @@ const GenrePage = () => {
   //   console.log("isSuperUser:", isSuperUser);
   // }, [isSuperUser]);
 
+  if (localStorageId === null) {
+    return <div>Loading...</div>;
+  }
+
   return (
+    
     <div>
       <div style={{ display: 'flex', alignItems: 'center', marginBottom: '20px' }}>
         <p style={{ fontWeight: 'bold', fontSize: '24px', marginRight: '10px' }}>
@@ -124,17 +129,17 @@ const GenrePage = () => {
         {filteredBookLists.length > 0 && filteredBookLists.map((bookList, index) => (
           <div
             key={bookList.id}
-            className={`bookCard ${bookList.owner.id === localStorage.getItem('id') ? 'highlight' : ''}`}
+            className={`bookCard ${bookList.owner.id === localStorageId? 'highlight' : ''}`}
           >
-            <Books
+            <BookList
               title={isSuperUser ? bookList.owner.username : `other${String(index + 1).padStart(2, '0')}`}
-              books={bookList.books}
-              isLike={bookList.likes}
+              bookList={bookList}
+              reviewer_id={localStorageId}
             />
           </div>
         ))}
       </div>
-
+      
     </div>
   );
 };

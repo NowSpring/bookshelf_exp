@@ -32,82 +32,72 @@ class BookListViewSet(viewsets.ModelViewSet):
     queryset = super().get_queryset().select_related('owner').prefetch_related('booklist')
     booklisttype_id = self.request.query_params.get('booklisttype_id', None)
     member_id = self.request.query_params.get('member_id', None)
-    mode = self.request.query_params.get('mode', 'edit')
 
-    if mode == 'edit' or mode is None:
+    if booklisttype_id:
 
-      if booklisttype_id:
+      queryset = queryset.filter(type__id=booklisttype_id)
 
-        queryset = queryset.filter(type__id=booklisttype_id)
+    if member_id:
 
-      if member_id:
-
-        queryset = queryset.filter(owner__id=member_id)
-
-    elif mode == 'display':
-
-      if booklisttype_id:
-
-        queryset = queryset.filter(type__id=booklisttype_id)
-
-        if member_id:
-
-          # member_idが合致するBookListはlikesを除外
-          member_booklists = queryset.filter(owner__id=member_id)
-
-          # 他のBookListはlikes情報を含む
-          other_booklists = queryset.exclude(owner__id=member_id)
-
-          queryset = member_booklists | other_booklists
-
-      else:
-
-        if member_id:
-
-          queryset = queryset.filter(owner__id=member_id)
+      queryset = queryset.filter(owner__id=member_id)
 
     queryset = queryset.order_by('owner__username', 'type__type')
 
     return queryset
-  
+
   @action(detail=False, methods=['post'], url_path='like')
   def like(self, request):
 
     booklist_id = request.data.get('booklist_id')
-    member_id = request.data.get('member_id')
+    reviewer_id = request.data.get('reviewer_id')
     like = request.data.get('like')
 
-    try:
-        
-      booklist = BookList.objects.get(id=booklist_id)
-      member = Member.objects.get(id=member_id)
+    print()
+    print("booklist_id:", booklist_id)
+    print("reviewer_id:", reviewer_id)
+    print("like:", like)
+    print("like.type:", type(like))
+    print()
 
-      if like == 'true':
-          
-        if not booklist.likes.filter(id=member_id).exists():
-        
-          booklist.likes.add(member)
-      
-      elif like == 'false':
-        
-        if booklist.likes.filter(id=member_id).exists():
-          
-          booklist.likes.remove(member)
+    try:
+
+      booklist = BookList.objects.get(id=booklist_id)
+      reviewer = Member.objects.get(id=reviewer_id)
+
+      if like:
+
+        if not booklist.likes.filter(id=reviewer_id).exists():
+
+          print()
+          print("true")
+          print()
+
+          booklist.likes.add(reviewer)
+
+      else:
+
+        if booklist.likes.filter(id=reviewer_id).exists():
+
+          print()
+          print("false")
+          print()
+
+          booklist.likes.remove(reviewer)
 
       booklist.save()
 
       return Response(status=status.HTTP_204_NO_CONTENT)
 
     except BookList.DoesNotExist:
-      
+
       return Response({'error': 'BookList not found'}, status=status.HTTP_404_NOT_FOUND)
-    
+
     except Member.DoesNotExist:
-      
+
       return Response({'error': 'Member not found'}, status=status.HTTP_404_NOT_FOUND)
-    
+
     except Exception as e:
-      
+
       return Response({'error': str(e)}, status=status.HTTP_400_BAD_REQUEST)
 
 

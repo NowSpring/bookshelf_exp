@@ -68,13 +68,18 @@ const NavigationBar = () => {
     }
   }, [location]);
 
-  const handleItemClick = (bookListType: GenreType) => {
-    if (localStorageIsSuperuser) {
-      navigate(`/display/genre/${bookListType.id}`, { state: { bookListType } });
-    } else {
-      navigate(`/edit/${bookListType.id}`, { state: { bookListType } });
-    }
-  };
+  // 初期にadmin以外は編集画面に遷移するように設定
+  // const handleItemClick = (bookListType: GenreType) => {
+  //   if (localStorageIsSuperuser) {
+  //     navigate(`/display/genre/${bookListType.id}`, { state: { bookListType } });
+  //   } else {
+  //     navigate(`/edit/${bookListType.id}`, { state: { bookListType } });
+  //   }
+  // };
+
+  const handleGenreClick = (bookListType: GenreType) => {
+    navigate(`/display/genre/${bookListType.id}`, { state: { bookListType } });
+  }
 
   const handleMemberClick = (member: MemberType) => {
     navigate(`/display/member/${member.id}`, { state: { member } });
@@ -103,7 +108,8 @@ const NavigationBar = () => {
           <List>
             {bookListTypes.map((bookListType) => (
               <ListItem key={bookListType.id} disablePadding>
-                <ListItemButton onClick={() => handleItemClick(bookListType)}>
+                {/* <ListItemButton onClick={() => handleItemClick(bookListType)}> */}
+                <ListItemButton onClick={() => handleGenreClick(bookListType)}>
                   <ListItemIcon>
                     {bookListType.booklist.is_completed ? (
                       <Check

@@ -1,11 +1,12 @@
 import EventService from '@/EventService';
 import { useLocation } from 'react-router-dom';
-import Books from "./Books";
 import { useEffect, useState } from 'react';
 import { BookListType } from '../types';
 import { Button } from '@/components/ui/button';
 import { FileDown } from "lucide-react";
 import SearchComponent from './SearchComponent';
+import BookList from './BookList';
+
 
 const MemberPage = () => {
 
@@ -13,12 +14,15 @@ const MemberPage = () => {
   const member = location.state?.member;
   const [allBookLists, setAllBookLists] = useState<BookListType[]>([]);
   const [filteredBookLists, setFilteredBookLists] = useState<BookListType[]>([]);
+  const [localStorageId, setLocalStorageId] = useState<string | null>(null);
+  const [isSuperUser, setIsSuperuser] = useState<boolean | null>(null);
 
   const getBookLists = async () => {
-    if (member.id) {
+    if (member.id && localStorageId) {
       try{
         const response = await EventService.getBookLists({
-          member_id:member.id,
+          member_id: member.id,
+          reviewer_id: localStorageId,
           mode: "display"
         });
         if (response.data && response.data.length > 0) {
@@ -30,10 +34,6 @@ const MemberPage = () => {
       }
     }
   }
-
-  useEffect(() => {
-    getBookLists();
-  }, [member]);
 
   const downloadJsonFile = () => {
     const dataStr = JSON.stringify(allBookLists, null, 2);
@@ -62,9 +62,26 @@ const MemberPage = () => {
     }
   };
 
+  useEffect(() => {
+    const id = window.localStorage.getItem("id");
+    setLocalStorageId(id);
+    const isSuperUserStr = window.localStorage.getItem("is_superuser");
+    setIsSuperuser(isSuperUserStr === "true")
+  }, []);
+
+  useEffect(() => {
+    if (localStorageId !== null) {
+      getBookLists();
+    }
+  }, [member, localStorageId]);
+
   // useEffect(() => {
   //   console.log("allBookLists:", allBookLists);
   // }, [allBookLists]);
+
+  if (localStorageId === null) {
+    return <div>Loading...</div>;
+  }
 
   return (
     <div>
@@ -72,9 +89,12 @@ const MemberPage = () => {
         <p style={{ fontWeight: 'bold', fontSize: '24px', marginRight: '10px' }}>
           「{ member.username }」の推し棚
         </p>
-        <Button size="icon" onClick={downloadJsonFile} className="rounded-md">
-          <FileDown />
-        </Button>
+
+        { isSuperUser && (
+          <Button size="icon" onClick={downloadJsonFile} className="rounded-md">
+            <FileDown />
+          </Button>
+        )}
       </div>
 
       <SearchComponent onSearch={handleSearch} />
@@ -89,9 +109,10 @@ const MemberPage = () => {
             key={bookList.id}
             className={'bookCard'}
           >
-            <Books
+            <BookList
               title={bookList.type.type}
-              books={bookList.books}
+              bookList={bookList}
+              reviewer_id={localStorageId}
             />
           </div>
         ))}

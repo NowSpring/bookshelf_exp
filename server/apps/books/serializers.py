@@ -103,7 +103,7 @@ class BookListSerializer(serializers.ModelSerializer):
   def get_likes(self, obj):
 
     request = self.context.get('request', None)
-    member_id = request.query_params.get('member_id', None)
+    reviewer_id = request.query_params.get('reviewer_id', None)
     mode = request.query_params.get('mode', 'edit')
 
     if mode == 'edit' or mode is None:
@@ -112,17 +112,9 @@ class BookListSerializer(serializers.ModelSerializer):
 
     elif mode == 'display':
 
-      if member_id:
+      if reviewer_id:
 
-        # member_idが合致するBookListはlikesを除外
-        if str(obj.owner.id) == member_id:
-
-          return None
-
-        # 他のBookListはlikes情報を含む
-        else:
-
-          return str(member_id) in [str(user.id) for user in obj.likes.all()]
+        return str(reviewer_id) in [str(user.id) for user in obj.likes.all()]
 
     elif mode == 'admin':
 

@@ -73,6 +73,12 @@ type bookListInfo = {
   books: bookInfo[];
 };
 
+type bookListLikeInfo = {
+  booklist_id: string;
+  reviewer_id: string;
+  like: boolean;
+}
+
 export default {
   submitLogin(loginInfo: loginInfo) {
     return loginClient.post("api-token-auth/", loginInfo);
@@ -89,22 +95,23 @@ export default {
   getBookListTypes(owner_id: string) {
     return apiClient.get(`booklisttype/?owner_id=${owner_id}`);
   },
-  getBookLists({ booklisttype_id, member_id, mode }: { booklisttype_id?: string, member_id?: string, mode: string}) {
-    let url = `booklist/?mode=${mode}&`;
+  getBookLists({ booklisttype_id, member_id, reviewer_id, mode }: { booklisttype_id?: string, member_id?: string, reviewer_id: string, mode: string}) {
+    let url = `booklist/?mode=${mode}&reviewer_id=${reviewer_id}&`;
 
     if (booklisttype_id) {
       url += `booklisttype_id=${booklisttype_id}`;
     }
 
     if (member_id) {
-      url += (booklisttype_id ? '&' : '') + `member_id=${member_id}`;
+      url += `member_id=${member_id}`;
     }
-
-    console.log("url:", url)
 
     return apiClient.get(url);
   },
   putBookList(bookListInfo: bookListInfo) {
     return apiClient.put("book/bulk_update/", bookListInfo);
   },
+  postBookListLike(bookListLike: bookListLikeInfo) {
+    return apiClient.post("booklist/like/", bookListLike)
+  }
 };

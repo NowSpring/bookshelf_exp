@@ -42,7 +42,7 @@ Authorization: Token {{token}}
 ###
 # @prompt token
 
-GET http://localhost:8000/api/booklist/?booklisttype_id=ad385e66-5135-4157-8967-aa2d6c594122&member_id=0fbbe10c-3b6b-4d4d-813f-50663c83732b
+GET http://localhost:8000/api/booklist/?booklisttype_id=ad385e66-5135-4157-8967-aa2d6c594122&reviewer_id=0fbbe10c-3b6b-4d4d-813f-50663c83732b
 Content-Type: application/json
 Authorization: Token {{token}}
 
@@ -50,7 +50,7 @@ Authorization: Token {{token}}
 ###
 # @prompt token
 
-GET http://localhost:8000/api/booklist/?booklisttype_id=ad385e66-5135-4157-8967-aa2d6c594122&member_id=0fbbe10c-3b6b-4d4d-813f-50663c83732b&mode=edit
+GET http://localhost:8000/api/booklist/?booklisttype_id=ad385e66-5135-4157-8967-aa2d6c594122&reviewer_id=0fbbe10c-3b6b-4d4d-813f-50663c83732b&mode=edit
 Content-Type: application/json
 Authorization: Token {{token}}
 
@@ -58,7 +58,17 @@ Authorization: Token {{token}}
 ###
 # @prompt token
 
-GET http://localhost:8000/api/booklist/?booklisttype_id=ad385e66-5135-4157-8967-aa2d6c594122&member_id=0fbbe10c-3b6b-4d4d-813f-50663c83732b&mode=display
+GET http://localhost:8000/api/booklist/?booklisttype_id=ad385e66-5135-4157-8967-aa2d6c594122&reviewer_id=0fbbe10c-3b6b-4d4d-813f-50663c83732b&mode=display
+Content-Type: application/json
+Authorization: Token {{token}}
+
+
+###
+# @prompt token
+# 評価先本棚所有者：aaa
+# 評価者：test01
+
+GET http://localhost:8000/api/booklist/?member_id=279c1610-6602-49da-b29e-e21387c52170&reviewer_id=0fbbe10c-3b6b-4d4d-813f-50663c83732b&mode=display
 Content-Type: application/json
 Authorization: Token {{token}}
 
@@ -66,23 +76,17 @@ Authorization: Token {{token}}
 ###
 # @prompt token
 
-GET http://localhost:8000/api/booklist/?member_id=0fbbe10c-3b6b-4d4d-813f-50663c83732b&mode=display
+GET http://localhost:8000/api/booklist/?booklisttype_id=ad385e66-5135-4157-8967-aa2d6c594122&reviewer_id=0fbbe10c-3b6b-4d4d-813f-50663c83732b&mode=admin
 Content-Type: application/json
 Authorization: Token {{token}}
 
 
 ###
 # @prompt token
+# 評価先本棚所有者：aaa
+# 評価者：test01
 
-GET http://localhost:8000/api/booklist/?booklisttype_id=ad385e66-5135-4157-8967-aa2d6c594122&mode=display
-Content-Type: application/json
-Authorization: Token {{token}}
-
-
-###
-# @prompt token
-
-GET http://localhost:8000/api/booklist/?booklisttype_id=ad385e66-5135-4157-8967-aa2d6c594122&member_id=0fbbe10c-3b6b-4d4d-813f-50663c83732b&mode=admin
+GET http://localhost:8000/api/booklist/?member_id=279c1610-6602-49da-b29e-e21387c52170&reviewer_id=0fbbe10c-3b6b-4d4d-813f-50663c83732b&mode=admin
 Content-Type: application/json
 Authorization: Token {{token}}
 
@@ -120,6 +124,6 @@ Authorization: Token {{token}}
 
 {
  "booklist_id": "ab2dc6b9-cfb8-4eaf-ab91-fd28c64b3d3b",
- "member_id": "0fbbe10c-3b6b-4d4d-813f-50663c83732b",
- "like": "true" 
+ "reviewer_id": "0fbbe10c-3b6b-4d4d-813f-50663c83732b",
+ "like": true
 }
