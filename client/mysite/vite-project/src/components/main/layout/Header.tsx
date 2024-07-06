@@ -19,6 +19,7 @@ const Header = () => {
             ComicFaves
           </Typography>
         </Toolbar>
+        
       </AppBar>
     </div>
   );

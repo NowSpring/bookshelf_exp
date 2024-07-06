@@ -54,7 +54,7 @@ class BookListViewSet(viewsets.ModelViewSet):
 
       return Response({"error": "booklisttype_id is required"}, status=status.HTTP_400_BAD_REQUEST)
 
-    booklists = BookList.objects.filter(type__id=booklisttype_id).prefetch_related('owner', 'likes', 'booklist')
+    booklists = BookList.objects.filter(type__id=booklisttype_id).select_related('owner').prefetch_related('likes', 'booklist').order_by('owner__username')
     response_data = []
 
     for booklist in booklists:
@@ -85,14 +85,14 @@ class BookListViewSet(viewsets.ModelViewSet):
         'name': owner.username
       }
 
-      liked_booklists = [
-        str(liked_booklist.id) for liked_booklist in owner.liked_booklists.all()
+      like_booklists = [
+        str(liked_booklist.id) for liked_booklist in owner.liked_booklists.filter(type__id=booklisttype_id)
       ]
 
       response_data.append({
         'owner': owner_data,
         'booklist': book_data,
-        'like_booklist': liked_booklists
+        'like_booklist': like_booklists
       })
 
     return Response(response_data, status=status.HTTP_200_OK)

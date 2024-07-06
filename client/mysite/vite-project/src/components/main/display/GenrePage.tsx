@@ -18,7 +18,7 @@ const GenrePage = () => {
   const [localStorageId, setLocalStorageId] = useState<string | null>(null);
   const [isSuperUser, setIsSuperuser] = useState<boolean | null>(null);
 
-  const getBookLists = async () => {
+  const getBookLists = async() => {
     if (bookListType.id && localStorageId) {
       try{
         const response = await EventService.getBookLists({
@@ -40,16 +40,21 @@ const GenrePage = () => {
     }
   }
 
-  const downloadJsonFile = () => {
-    const dataStr = JSON.stringify(allBookLists, null, 2);
-    const blob = new Blob([dataStr], { type: 'application/json' });
-    const url = URL.createObjectURL(blob);
-    const link = document.createElement('a');
-    link.href = url;
-    link.download = `${bookListType.type}_book_lists.json`;
-    document.body.appendChild(link);
-    link.click();
-    document.body.removeChild(link);
+  const downloadJsonFile = async () => {
+    try {
+      const response = await EventService.getBookListAdminView(bookListType.id);
+      const dataStr = JSON.stringify(response.data, null, 2);
+      const blob = new Blob([dataStr], { type: 'application/json' });
+      const url = URL.createObjectURL(blob);
+      const link = document.createElement('a');
+      link.href = url;
+      link.download = `${bookListType.type}.json`;
+      document.body.appendChild(link);
+      link.click();
+      document.body.removeChild(link);
+    } catch (error) {
+      console.error("Failed to download JSON file:", error);
+    }
   };
 
   const handleSearch = (searchTerm1: string, searchTerm2: string) => {

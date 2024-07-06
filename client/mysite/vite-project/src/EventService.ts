@@ -108,6 +108,9 @@ export default {
 
     return apiClient.get(url);
   },
+  getBookListAdminView(booklisttype_id: string) {
+    return apiClient.get(`booklist/admin_view/?booklisttype_id=${booklisttype_id}`);
+  },
   putBookList(bookListInfo: bookListInfo) {
     return apiClient.put("book/bulk_update/", bookListInfo);
   },

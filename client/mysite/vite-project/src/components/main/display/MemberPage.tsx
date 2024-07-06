@@ -2,8 +2,6 @@ import EventService from '@/EventService';
 import { useLocation } from 'react-router-dom';
 import { useEffect, useState } from 'react';
 import { BookListType } from '../types';
-import { Button } from '@/components/ui/button';
-import { FileDown } from "lucide-react";
 import SearchComponent from './SearchComponent';
 import BookList from './BookList';
 
@@ -15,8 +13,6 @@ const MemberPage = () => {
   const [allBookLists, setAllBookLists] = useState<BookListType[]>([]);
   const [filteredBookLists, setFilteredBookLists] = useState<BookListType[]>([]);
   const [localStorageId, setLocalStorageId] = useState<string | null>(null);
-  const [isSuperUser, setIsSuperuser] = useState<boolean | null>(null);
-
   const getBookLists = async () => {
     if (member.id && localStorageId) {
       try{
@@ -34,18 +30,6 @@ const MemberPage = () => {
       }
     }
   }
-
-  const downloadJsonFile = () => {
-    const dataStr = JSON.stringify(allBookLists, null, 2);
-    const blob = new Blob([dataStr], { type: 'application/json' });
-    const url = URL.createObjectURL(blob);
-    const link = document.createElement('a');
-    link.href = url;
-    link.download = `${member.username}_book_lists.json`;
-    document.body.appendChild(link);
-    link.click();
-    document.body.removeChild(link);
-  };
 
   const handleSearch = (searchTerm1: string, searchTerm2: string) => {
     if (searchTerm1 === '' && searchTerm2 === '') {
@@ -65,8 +49,6 @@ const MemberPage = () => {
   useEffect(() => {
     const id = window.localStorage.getItem("id");
     setLocalStorageId(id);
-    const isSuperUserStr = window.localStorage.getItem("is_superuser");
-    setIsSuperuser(isSuperUserStr === "true")
   }, []);
 
   useEffect(() => {
@@ -89,12 +71,6 @@ const MemberPage = () => {
         <p style={{ fontWeight: 'bold', fontSize: '24px', marginRight: '10px' }}>
           「{ member.username }」の推し棚
         </p>
-
-        { isSuperUser && (
-          <Button size="icon" onClick={downloadJsonFile} className="rounded-md">
-            <FileDown />
-          </Button>
-        )}
       </div>
 
       <SearchComponent onSearch={handleSearch} />
