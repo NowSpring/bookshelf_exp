@@ -45,19 +45,64 @@ class BookListViewSet(viewsets.ModelViewSet):
 
     return queryset
 
+  @action(detail=False, methods=['get'], url_path='admin_view')
+  def admin_view(self, request):
+
+    booklisttype_id = request.query_params.get('booklisttype_id', None)
+
+    if not booklisttype_id:
+
+      return Response({"error": "booklisttype_id is required"}, status=status.HTTP_400_BAD_REQUEST)
+
+    booklists = BookList.objects.filter(type__id=booklisttype_id).prefetch_related('owner', 'likes', 'booklist')
+    response_data = []
+
+    for booklist in booklists:
+
+      owner = booklist.owner
+      books = booklist.booklist.all()
+      likes = booklist.likes.all()
+
+      book_data = {
+        'id': booklist.id,
+        'books': [
+            {
+                'id': book.id,
+                'title': book.title,
+                'order': book.order
+            } for book in books
+        ],
+        'like_by': [
+            {
+                'id': like.id,
+                'name': like.username
+            } for like in likes
+        ]
+      }
+
+      owner_data = {
+        'id': owner.id,
+        'name': owner.username
+      }
+
+      liked_booklists = [
+        str(liked_booklist.id) for liked_booklist in owner.liked_booklists.all()
+      ]
+
+      response_data.append({
+        'owner': owner_data,
+        'booklist': book_data,
+        'like_booklist': liked_booklists
+      })
+
+    return Response(response_data, status=status.HTTP_200_OK)
+
   @action(detail=False, methods=['post'], url_path='like')
   def like(self, request):
 
     booklist_id = request.data.get('booklist_id')
     reviewer_id = request.data.get('reviewer_id')
     like = request.data.get('like')
-
-    print()
-    print("booklist_id:", booklist_id)
-    print("reviewer_id:", reviewer_id)
-    print("like:", like)
-    print("like.type:", type(like))
-    print()
 
     try:
 
@@ -68,19 +113,11 @@ class BookListViewSet(viewsets.ModelViewSet):
 
         if not booklist.likes.filter(id=reviewer_id).exists():
 
-          print()
-          print("true")
-          print()
-
           booklist.likes.add(reviewer)
 
       else:
 
         if booklist.likes.filter(id=reviewer_id).exists():
-
-          print()
-          print("false")
-          print()
 
           booklist.likes.remove(reviewer)
 
