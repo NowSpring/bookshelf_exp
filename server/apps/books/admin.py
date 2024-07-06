@@ -14,11 +14,18 @@ class BookListTypeAdmin(admin.ModelAdmin):
 class BookListAdmin(admin.ModelAdmin):
 
   list_display = ('owner_name', 'type', 'is_completed')
+  filter_horizontal = ('likes',)
+
 
   @admin.display(ordering='owner__username', description='編集者')
   def owner_name(self, obj):
 
     return obj.owner.username
+
+  @admin.display(description='いいねしたユーザー')
+  def like_names(self, obj):
+    
+    return ", ".join([like.username for like in obj.likes.all()])
 
 
 @admin.register(Book)

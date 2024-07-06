@@ -23,13 +23,14 @@ const NavigationBar = () => {
   const [localStorageId, setLocalStorageId] = useState<string | null>(null);
   const [localStorageIsSuperuser, setLocalStorageIsSuperuser] = useState<boolean | null>(null);
   const [lastSegment, setLastSegment] = useState<string | null>(null);
-  const [members, setMembers] = useState<MemberType[]>([])
+  const [currentUser, setCurrentUser] = useState<MemberType | null>(null);
+  const [otherMembers, setOtherMembers] = useState<MemberType[]>([]);
 
   useEffect(() => {
     const id = window.localStorage.getItem('id');
     setLocalStorageId(id);
-    const isSuperUser = window.localStorage.getItem('is_superuser') === 'true';
-    setLocalStorageIsSuperuser(isSuperUser);
+    const isSuperuser = window.localStorage.getItem('is_superuser') === 'true';
+    setLocalStorageIsSuperuser(isSuperuser);
   }, []);
 
   const getBookListTypes = async(id: string) => {
@@ -41,10 +42,23 @@ const NavigationBar = () => {
     }
   };
 
-  const getMembers = async() => {
+  const getMembers = async () => {
     const response = await EventService.getMembers();
-    setMembers(response.data);
-  }
+    const fetchedMembers = response.data;
+    
+    if (localStorageId) {
+      const currentUser = fetchedMembers.find((member: MemberType) => member.id === localStorageId);
+      setCurrentUser(currentUser);
+  
+      const otherMembers = fetchedMembers.filter((member: MemberType) => member.id !== localStorageId);
+      if (!localStorageIsSuperuser) {
+        otherMembers.forEach((member: MemberType, index: number) => {
+          member.username = `other${String(index + 1).padStart(2, '0')}`;
+        });
+      }
+      setOtherMembers(otherMembers);
+    }
+  };
 
   useEffect(() => {
     const fetchBookListTypes = async () => {
@@ -52,7 +66,6 @@ const NavigationBar = () => {
         await getBookListTypes(localStorageId);
       }
     };
-
     fetchBookListTypes();
   }, [location.pathname, localStorageId]);
 
@@ -63,30 +76,35 @@ const NavigationBar = () => {
   }, [location]);
 
   useEffect(() => {
-    if (location.pathname.includes('admin')) {
+    if (location.pathname.includes('display') && localStorageId !== null) {
       getMembers();
     }
-  }, [location]);
+  }, [location, localStorageId]);
 
-  const handleItemClick = (bookListType: GenreType) => {
-    if (localStorageIsSuperuser) {
-      navigate(`/admin/genre/${bookListType.id}`, { state: { bookListType } });
-    } else {
-      navigate(`/edit/${bookListType.id}`, { state: { bookListType } });
-    }
-  };
+  // 初期にadmin以外は編集画面に遷移するように設定
+  // const handleItemClick = (bookListType: GenreType) => {
+  //   if (localStorageIsSuperuser) {
+  //     navigate(`/display/genre/${bookListType.id}`, { state: { bookListType } });
+  //   } else {
+  //     navigate(`/edit/${bookListType.id}`, { state: { bookListType } });
+  //   }
+  // };
+
+  const handleGenreClick = (bookListType: GenreType) => {
+    navigate(`/display/genre/${bookListType.id}`, { state: { bookListType } });
+  }
 
   const handleMemberClick = (member: MemberType) => {
-    navigate(`/admin/member/${member.id}`, { state: { member } });
+    navigate(`/display/member/${member.id}`, { state: { member } });
   }
 
   // useEffect(() =>{
   //   console.log("bookListTypes:", bookListTypes)
   // }, [bookListTypes])
 
-  // useEffect(() => {
-  //   console.log("members:", members);
-  // }, [members]);
+  useEffect(() => {
+    console.log("currentUser:", currentUser);
+  }, [currentUser]);
 
   return (
     <div style={{ zIndex: 1, position: 'relative' }}>
@@ -103,7 +121,8 @@ const NavigationBar = () => {
           <List>
             {bookListTypes.map((bookListType) => (
               <ListItem key={bookListType.id} disablePadding>
-                <ListItemButton onClick={() => handleItemClick(bookListType)}>
+                {/* <ListItemButton onClick={() => handleItemClick(bookListType)}> */}
+                <ListItemButton onClick={() => handleGenreClick(bookListType)}>
                   <ListItemIcon>
                     {bookListType.booklist.is_completed ? (
                       <Check
@@ -124,10 +143,26 @@ const NavigationBar = () => {
                 </ListItemButton>
               </ListItem>
             ))}
-            {location.pathname.includes('admin') &&
+            {location.pathname.includes('display') && (
               <>
                 <Separator />
-                {members.map((member) => (
+                {currentUser && (
+                  <ListItem key={currentUser.id} disablePadding>
+                    <ListItemButton onClick={() => handleMemberClick(currentUser)}>
+                      <ListItemIcon>
+                        <UserRound
+                          className="mr-2"
+                          style={{ width: '20px', height: '20px', fontWeight: 'bold' }}
+                        />
+                      </ListItemIcon>
+                      <ListItemText
+                        primary={currentUser.username}
+                        style={{ color: currentUser.id === lastSegment ? 'red' : 'inherit' }}
+                      />
+                    </ListItemButton>
+                  </ListItem>
+                )}
+                {otherMembers.map((member) => (
                   <ListItem key={member.id} disablePadding>
                     <ListItemButton onClick={() => handleMemberClick(member)}>
                       <ListItemIcon>
@@ -144,7 +179,7 @@ const NavigationBar = () => {
                   </ListItem>
                 ))}
               </>
-            }
+            )}
           </List>
         </Box>
       </Drawer>

@@ -3,6 +3,7 @@ from rest_framework import viewsets, status
 from rest_framework.views import APIView
 from rest_framework.decorators import action
 
+from members.models import Member
 from books.models import BookListType, BookList, Book
 from books.serializers import BookListTypeSerializer, BookListSerializer, BookSerializer, BulkBookUpdateSerializer
 
@@ -32,17 +33,109 @@ class BookListViewSet(viewsets.ModelViewSet):
     booklisttype_id = self.request.query_params.get('booklisttype_id', None)
     member_id = self.request.query_params.get('member_id', None)
 
-    if booklisttype_id is not None:
+    if booklisttype_id:
 
       queryset = queryset.filter(type__id=booklisttype_id)
 
-    if member_id is not None:
+    if member_id:
 
       queryset = queryset.filter(owner__id=member_id)
 
     queryset = queryset.order_by('owner__username', 'type__type')
 
     return queryset
+
+  @action(detail=False, methods=['get'], url_path='admin_view')
+  def admin_view(self, request):
+
+    booklisttype_id = request.query_params.get('booklisttype_id', None)
+
+    if not booklisttype_id:
+
+      return Response({"error": "booklisttype_id is required"}, status=status.HTTP_400_BAD_REQUEST)
+
+    booklists = BookList.objects.filter(type__id=booklisttype_id).select_related('owner').prefetch_related('likes', 'booklist').order_by('owner__username')
+    response_data = []
+
+    for booklist in booklists:
+
+      owner = booklist.owner
+      books = booklist.booklist.all()
+      likes = booklist.likes.all()
+
+      book_data = {
+        'id': booklist.id,
+        'books': [
+            {
+                'id': book.id,
+                'title': book.title,
+                'order': book.order
+            } for book in books
+        ],
+        'like_by': [
+            {
+                'id': like.id,
+                'name': like.username
+            } for like in likes
+        ]
+      }
+
+      owner_data = {
+        'id': owner.id,
+        'name': owner.username
+      }
+
+      like_booklists = [
+        str(liked_booklist.id) for liked_booklist in owner.liked_booklists.filter(type__id=booklisttype_id)
+      ]
+
+      response_data.append({
+        'owner': owner_data,
+        'booklist': book_data,
+        'like_booklist': like_booklists
+      })
+
+    return Response(response_data, status=status.HTTP_200_OK)
+
+  @action(detail=False, methods=['post'], url_path='like')
+  def like(self, request):
+
+    booklist_id = request.data.get('booklist_id')
+    reviewer_id = request.data.get('reviewer_id')
+    like = request.data.get('like')
+
+    try:
+
+      booklist = BookList.objects.get(id=booklist_id)
+      reviewer = Member.objects.get(id=reviewer_id)
+
+      if like:
+
+        if not booklist.likes.filter(id=reviewer_id).exists():
+
+          booklist.likes.add(reviewer)
+
+      else:
+
+        if booklist.likes.filter(id=reviewer_id).exists():
+
+          booklist.likes.remove(reviewer)
+
+      booklist.save()
+
+      return Response(status=status.HTTP_204_NO_CONTENT)
+
+    except BookList.DoesNotExist:
+
+      return Response({'error': 'BookList not found'}, status=status.HTTP_404_NOT_FOUND)
+
+    except Member.DoesNotExist:
+
+      return Response({'error': 'Member not found'}, status=status.HTTP_404_NOT_FOUND)
+
+    except Exception as e:
+
+      return Response({'error': str(e)}, status=status.HTTP_400_BAD_REQUEST)
 
 
 class BookViewSet(viewsets.ModelViewSet):
