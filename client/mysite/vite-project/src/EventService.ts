@@ -79,6 +79,12 @@ type bookListLikeInfo = {
   like: boolean;
 };
 
+type recBookInfo = {
+  id: string;
+  want_to_see?: boolean;
+  want_to_rewatch?: boolean;
+};
+
 export default {
   submitLogin(loginInfo: loginInfo) {
     return loginClient.post("api-token-auth/", loginInfo);
@@ -103,24 +109,29 @@ export default {
   }: {
     booklisttype_id?: string;
     member_id?: string;
-    reviewer_id: string;
+    reviewer_id?: string;
     mode: string;
   }) {
-    let url = `booklist/?mode=${mode}&reviewer_id=${reviewer_id}&`;
-
+    const params: { [key: string]: string } = {
+      mode,
+    };
     if (booklisttype_id) {
-      url += `booklisttype_id=${booklisttype_id}`;
+      params.booklisttype_id = booklisttype_id;
     }
-
     if (member_id) {
-      url += `member_id=${member_id}`;
+      params.member_id = member_id;
     }
-
+    if (reviewer_id) {
+      params.reviewer_id = reviewer_id;
+    }
+    const queryString = new URLSearchParams(params).toString(); // クエリ文字列を生成
+    const url = `booklist/?${queryString}`; // URLを構築
     return apiClient.get(url);
   },
   getBookListAdminView(booklisttype_id: string) {
     return apiClient.get(
-      `booklist/admin_view/?booklisttype_id=${booklisttype_id}`
+      // `booklist/admin_view/?booklisttype_id=${booklisttype_id}`
+      `recbook/admin_view/?booklisttype_id=${booklisttype_id}`
     );
   },
   putBookList(bookListInfo: bookListInfo) {
@@ -128,5 +139,14 @@ export default {
   },
   postBookListLike(bookListLike: bookListLikeInfo) {
     return apiClient.post("booklist/like/", bookListLike);
+  },
+  getRecBookList(booklist_id: string) {
+    return apiClient.get(`recbook/?booklist_id=${booklist_id}`);
+  },
+  putRecBook(recBookInfo: recBookInfo) {
+    return apiClient.put(
+      `recbook/${recBookInfo.id}/update_wants/`,
+      recBookInfo
+    );
   },
 };

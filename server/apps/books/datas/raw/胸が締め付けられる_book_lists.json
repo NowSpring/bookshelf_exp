@@ -1,0 +1,1858 @@
+[
+  {
+    "id": "1e602900-5f0b-419b-b904-7a052e21bc8e",
+    "type": {
+      "id": "e9f4fa8c-5b12-43da-a0ff-421a0172282e",
+      "type": "胸が締め付けられる",
+      "booklist": {
+        "is_completed": null
+      }
+    },
+    "owner": {
+      "id": "5a9fab82-ea3a-4df9-b711-a0747afee75c",
+      "username": "中島楓華",
+      "is_superuser": false
+    },
+    "books": [
+      {
+        "id": "38f5dea4-de6d-47aa-9c5b-40080a3702c3",
+        "title": "ブルーピリオド",
+        "description": "成績優秀かつスクールカースト上位の充実した毎日を送りつつ、どこか空虚な焦燥感を感じて生きる高校生・矢口八虎（やぐち やとら）は、ある日、一枚の絵に心奪われる。その衝撃は八虎を駆り立て、美しくも厳しい美術の世界へ身を投じていく。美術のノウハウうんちく満載、美大を目指して青春を燃やすスポ根受験物語、八虎と仲間たちは「好きなこと」を支えに未来を目指す！",
+        "image": "http://books.google.com/books/content?id=WslCDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 0,
+        "booklist": "1e602900-5f0b-419b-b904-7a052e21bc8e"
+      },
+      {
+        "id": "a50c398d-4b94-4c5c-9569-78e3fb5b389e",
+        "title": "かくかくしかじか",
+        "description": "自分は絵がうまい。本気でうぬぼれていた林明子（高3）は竹刀を持った絵画教師・日高先生に罵られ…!? 少女まんが家を夢みたあの頃を描くドラマチック・メモリーズ！",
+        "image": "http://books.google.com/books/content?id=FhXGCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 1,
+        "booklist": "1e602900-5f0b-419b-b904-7a052e21bc8e"
+      },
+      {
+        "id": "0b45c2e6-afc7-4229-a34c-2cd45875399b",
+        "title": "鋼の錬金術師",
+        "description": "兄・エドワード・エルリック、弟・アルフォンス。2人の若き天才錬金術師は、幼いころ、病気で失った母を甦らせるため禁断の人体錬成を試みる。しかしその代償はあまりにも高すぎた…。錬成は失敗、エドワードはみずからの左足と、ただ一人の肉親・アルフォンスを失ってしまう。かけがえのない弟をこの世に呼び戻すため、エドワードは自身の右腕を代価とすることで、弟の魂を錬成し、鎧に定着させることに成功。そして兄弟は、すべてを取り戻すための長い旅に出る…。",
+        "image": "http://books.google.com/books/content?id=PQ7FDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 2,
+        "booklist": "1e602900-5f0b-419b-b904-7a052e21bc8e"
+      },
+      {
+        "id": "08c18b3c-8df1-481f-9f79-c49b6307a557",
+        "title": "亜人",
+        "description": "「亜人」と呼ばれるその生物は「死なない」。高校生・永井圭はある日、交通事故で死ぬが、その直後に生き返った。それは、彼が亜人であり、人間ではないことを意味する。圭をとりまく環境は一変した。彼は人間たちから逃げ惑うことになる。友人のカイは、怯える圭を助けるために駆けつけ、ふたりで人里を離れて山の中に逃げ込んだ。そんな彼に人間と敵対する亜人たちが接触してきた。――彼は何と戦い、誰と生きればいいんだろう？",
+        "image": "http://books.google.com/books/content?id=S1DKBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 3,
+        "booklist": "1e602900-5f0b-419b-b904-7a052e21bc8e"
+      },
+      {
+        "id": "a65f4c47-cd55-4372-a055-64ad100f75d9",
+        "title": "ゴールデンカムイ",
+        "description": "『不死身の杉元』日露戦争での鬼神の如き武功から、そう謳われた兵士は、ある目的の為に大金を欲し、かつてゴールドラッシュに沸いた北海道へ足を踏み入れる。そこにはアイヌが隠した莫大な埋蔵金への手掛かりが!? 立ち塞がる圧倒的な大自然と凶悪な死刑囚。そして、アイヌの少女、エゾ狼との出逢い。『黄金を巡る生存競争』開幕ッ!!!!",
+        "image": "http://books.google.com/books/content?id=WX7NCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 4,
+        "booklist": "1e602900-5f0b-419b-b904-7a052e21bc8e"
+      }
+    ],
+    "is_completed": true
+  },
+  {
+    "id": "44fa3f00-85c4-4480-ac72-aa40d52c3f9f",
+    "type": {
+      "id": "e9f4fa8c-5b12-43da-a0ff-421a0172282e",
+      "type": "胸が締め付けられる",
+      "booklist": {
+        "is_completed": null
+      }
+    },
+    "owner": {
+      "id": "21aab694-9408-4c92-a1b3-4d7a7fe7ca41",
+      "username": "佐々木誠ニコラス",
+      "is_superuser": false
+    },
+    "books": [
+      {
+        "id": "7be5b269-1780-4c67-b218-c33350263f9c",
+        "title": "魔法少女まどか☆マギカ",
+        "description": "「魔法少女になって、くれないか」鹿目まどかの前に現れた不思議な生き物キュゥべえ。そして謎の転校生・暁美ほむら。不思議な出会いが一気に重なる中で、まどかは「魔法少女」がどういう存在なのかをすこしだけ覗いてしまう。それは、まどかの運命をさらに大きく変えてしまう予感がするものだった―――。超話題のアニメを完全コミカライズ化の描き下ろしコミックス、放送中に連続刊行第二弾！！",
+        "image": "http://books.google.com/books/content?id=1EEuDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 0,
+        "booklist": "44fa3f00-85c4-4480-ac72-aa40d52c3f9f"
+      },
+      {
+        "id": "fdac29be-fceb-44b1-9b62-927af5da6fd4",
+        "title": "【推しの子】",
+        "description": "「この芸能界（せかい）において嘘は武器だ」 地方都市で、産婦人科医として働くゴロー。芸能界とは無縁の日々。一方、彼の“推し”のアイドル・星野アイは、スターダムを上り始めていた。そんな二人が“最悪”の出会いを果たし、運命が動き出す…!? “赤坂アカ×横槍メンゴ”の豪華タッグが全く新しい切り口で“芸能界”を描く衝撃作開幕!!",
+        "image": "http://books.google.com/books/content?id=fyPsDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 1,
+        "booklist": "44fa3f00-85c4-4480-ac72-aa40d52c3f9f"
+      },
+      {
+        "id": "c12e4bca-f69b-46c7-95c6-be4d5b7c417e",
+        "title": "君と綴るうたかた",
+        "description": "るりと向き合うために出向いた先で、雫の眼の前で倒れてしまった夏織。夏織が隠していた病気のことを知り、漠然とした不安に駆られながら出向いた病室で、雫は告げられる――「終わりにしよう、恋人ごっこ。」物語を通してつながる少女二人の、甘く切ないひと夏だけの恋人ごっこ",
+        "image": "http://books.google.com/books/content?id=ZbyBEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 2,
+        "booklist": "44fa3f00-85c4-4480-ac72-aa40d52c3f9f"
+      },
+      {
+        "id": "6f9d282b-71ef-4c99-9773-3948ae9f092a",
+        "title": "きみが死ぬまで恋をしたい",
+        "description": "生きたいも、好きも、全部君が教えてくれた 身寄りのない子供を戦争用の兵器として育てる学校に通う少女たち。人を殺すための授業、誰が死んでも悲しむことさえままならない日常。自分の境遇を受け入れられずにいる14才のシーナはある夜、血まみれの小さな女の子・ミミと出会った――平穏を願う怖がりなシーナと笑顔で戦争に向かう不死のミミ。死と隣り合う世界で2人の少女が見つけた、あどけない願いの物語。",
+        "image": "http://books.google.com/books/content?id=2YKFDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 3,
+        "booklist": "44fa3f00-85c4-4480-ac72-aa40d52c3f9f"
+      },
+      {
+        "id": "2ab74ec6-25e5-4c80-a7df-4dbe3a706c21",
+        "title": "とある魔術の禁書目録",
+        "description": "一〇月三〇日。第三次世界大戦が開戦して、一一日が経った。三人の少年たちは、それぞれの想いを秘め、炎上するロシアを駆けていた。元『アイテム』小間使い・浜面仕上は、滝壷理后の治療に奔走するも、糸口は見つからない。キーとなるのは、元『神の右席』の聖人アックアとの出会い。最強の超能力者(レベル5)・一方通行(アクセラレータ)は、最弱の好敵手との交戦を経て、エリザリーナ独立国同盟に移送された。未だ打ち止め(ラストオーダー)を救う手だては見えない。キーとなるのは、魔術が記述された謎の羊皮紙。そして上条当麻は、ついにフィアンマと邂逅するも、手加減された上に逃亡を許してしまう。インデックスを元に戻すことは、未だ叶わない。キーとなるのは、“天使”と呼ばれる別次元の住人。三者三様の想いを秘め、科学と魔術が交差するとき、物語は始まる―。",
+        "image": "http://books.google.com/books/content?id=QSfVbwAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+        "order": 4,
+        "booklist": "44fa3f00-85c4-4480-ac72-aa40d52c3f9f"
+      }
+    ],
+    "is_completed": true
+  },
+  {
+    "id": "c52b67b9-b4b4-4967-81f5-127fa6cf1d38",
+    "type": {
+      "id": "e9f4fa8c-5b12-43da-a0ff-421a0172282e",
+      "type": "胸が締め付けられる",
+      "booklist": {
+        "is_completed": null
+      }
+    },
+    "owner": {
+      "id": "92ebe0f1-044b-4ebd-841b-6cfb98859d0e",
+      "username": "前田拓海",
+      "is_superuser": false
+    },
+    "books": [
+      {
+        "id": "13a9a2f9-61d0-4cbc-b36d-afb5c00d3caf",
+        "title": "約束のネバーランド",
+        "description": "母と慕う彼女は親ではない。共に暮らす彼らは兄弟ではない。エマ・ノーマン・レイの三人はこの小さな孤児院で幸せな毎日を送っていた。しかし、彼らの日常はある日突然終わりを告げた。真実を知った彼らを待つ運命とは…!?",
+        "image": "http://books.google.com/books/content?id=9o2yDQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 0,
+        "booklist": "c52b67b9-b4b4-4967-81f5-127fa6cf1d38"
+      },
+      {
+        "id": "3dfd8033-4b22-4a7f-ab15-782db6c4e46e",
+        "title": "王様ランキング",
+        "description": "話題沸騰のネットマンガが、ついに電子書籍化！ 王族の長男で、巨人の両親を持ちながらも、自身は体が小さく、短剣すらまともに振れないほど非力な王子ボッジ。 しかも耳が聞こえず、言葉が話せないボッジは、周りからは次期王の器ではないと噂され、どこか空虚な毎日を過ごしていた。 しかし、ひょんなことから心が通じる「カゲ」という友達を得て、人生が輝き始める。 描き下ろしもたっぷり収録の第１巻！",
+        "image": "http://books.google.com/books/content?id=HluYDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 1,
+        "booklist": "c52b67b9-b4b4-4967-81f5-127fa6cf1d38"
+      },
+      {
+        "id": "8093236e-da16-4eff-9a1b-7a972d645f52",
+        "title": "メイドインアビス",
+        "description": "隅々まで探索されつくした世界に、唯一残された秘境の大穴『アビス』。どこまで続くとも知れない深く巨大なその縦穴には、奇妙奇怪な生物たちが生息し、今の人類では作りえない貴重な遺物が眠っていた。アビスの不可思議に満ちた姿は人々を魅了し、冒険へと駆り立てた。そうして幾度も大穴に挑戦する冒険者たちは、次第に『探窟家』と呼ばれるようになっていく。アビスの緑に築かれた街『オース』に暮らす孤児のリコは、いつか母のような偉大な探窟家になり、アビスの謎を解き明かすことを夢見ていた。そんなある日、リコはアビスを探窟中に、少年の姿をしたロボットを拾い…？幻想と機械が入り混じる大冒険活劇、第一巻！★単行本カバー下イラスト収録★",
+        "image": "http://books.google.com/books/content?id=5sztCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 2,
+        "booklist": "c52b67b9-b4b4-4967-81f5-127fa6cf1d38"
+      },
+      {
+        "id": "ef355b25-998d-45e7-a853-6771c11c75d0",
+        "title": "タコピーの原罪",
+        "description": "【デジタル版限定！「少年ジャンプ+」掲載時のカラーページを完全収録!!】地球にハッピーを広めるため降り立ったハッピー星人・タコピー。助けてくれた少女・しずかの笑顔を取り戻すため奔走するが、少女を取り巻く環境は壮絶。無垢なタコピーには想像がつかないものだった。ただ笑って欲しかったタコピーが犯す罪とは…!?",
+        "image": "http://books.google.com/books/content?id=6kVbEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 3,
+        "booklist": "c52b67b9-b4b4-4967-81f5-127fa6cf1d38"
+      },
+      {
+        "id": "231b12aa-ad2f-4b72-90b5-7893c4a4a3df",
+        "title": "鉄コン筋クリート",
+        "description": "概要情報なし",
+        "image": "http://books.google.com/books/content?id=GivzCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 4,
+        "booklist": "c52b67b9-b4b4-4967-81f5-127fa6cf1d38"
+      }
+    ],
+    "is_completed": true
+  },
+  {
+    "id": "020e8e0b-c708-413c-8c22-0d1524000952",
+    "type": {
+      "id": "e9f4fa8c-5b12-43da-a0ff-421a0172282e",
+      "type": "胸が締め付けられる",
+      "booklist": {
+        "is_completed": null
+      }
+    },
+    "owner": {
+      "id": "e57d0f78-1aab-4d95-89fd-d6c9b2bdc4a4",
+      "username": "北畑由莉香",
+      "is_superuser": false
+    },
+    "books": [
+      {
+        "id": "0a4b9432-ca55-4108-8549-48d630228b03",
+        "title": "魔法少女まどか☆マギカ",
+        "description": "大好きな家族がいて、親友がいて、時には笑い、時には泣く、そんなどこにでもある日常。見滝原中学校に通う、普通の中学二年生・鹿目まどかも、そんな日常の中で暮らす一人。ある日、彼女に不思議な出会いが訪れる。この出会いは偶然なのか、必然なのか、彼女はまだ知らない。それは、彼女の運命を変えてしまうような出会い―― それは、新たなる魔法少女物語の始まり――。アニメを完全コミカライズ化の描き下ろしコミックス、放送中に連続刊行第一弾！！",
+        "image": "http://books.google.com/books/content?id=0kEuDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 0,
+        "booklist": "020e8e0b-c708-413c-8c22-0d1524000952"
+      },
+      {
+        "id": "74d1b8ef-a26b-46d8-b0c5-5018d0bbddf6",
+        "title": "PSYCHO-PASS",
+        "description": "日本に向かう輸送船・グローツラング号が、武装組織・ピースブレイカーの襲撃を受ける事件が発生。常守朱たち公安局刑事課一係は、禾生局長の指示で、外務省の海外調整局行動課と共同捜査をすることになる。そんな彼らの前に、かつての同僚で、国外に逃亡していた狡噛慎也が姿を現す。狡噛は行動課の特別捜査官として、日本に戻ってきたのだった……。",
+        "image": "http://books.google.com/books/content?id=EibxEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 1,
+        "booklist": "020e8e0b-c708-413c-8c22-0d1524000952"
+      },
+      {
+        "id": "50451c73-c11a-47ae-90e6-e8a12f89c9e5",
+        "title": "NieR:Automata",
+        "description": "著者：映島巡・ヨコオタロウ、監修：ヨコオタロウで再び贈る、PS4ゲーム『NieR： Automata（ニーア オートマタ）』の中・短編小説集。転載収録作品『プロメテウスの火』『記憶ノ檻』『衛星軌道基地バンカー観察日記』『小サナ花』『静カスギル海』『記憶ノ棘』に加えて、「エミールの楽しくも哀しい不退転のエピソード」、舞台ヨルハ原作「A2の知られざる物語」新規書き下ろし中編２編を含む「短イ話」の結晶体！",
+        "image": "http://books.google.com/books/content?id=W0zGDwAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+        "order": 2,
+        "booklist": "020e8e0b-c708-413c-8c22-0d1524000952"
+      },
+      {
+        "id": "d5e14218-89c3-43c3-bfcb-dd891971fefc",
+        "title": "ジャックジャンヌユニヴェール歌劇学校と月の道しるべ",
+        "description": "青春歌劇ADV『ジャックジャンヌ』のストーリーが小説で再演!!新人公演までのエピソードを十和田シンが描き石田スイの絵が彩る。",
+        "image": "http://books.google.com/books/content?id=WBlwzwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+        "order": 3,
+        "booklist": "020e8e0b-c708-413c-8c22-0d1524000952"
+      },
+      {
+        "id": "0eea73f9-b2a9-4eb5-abf1-253b97203794",
+        "title": "Ｆａｔｅ／Ｇｒａｎｄ　Ｏｒｄｅｒ",
+        "description": "邪竜百年戦争、開戦。人類滅亡の原因は、過去の改竄による人類史の崩壊。背負うにはあまりに重い真実を突きつけられた藤丸立香は、それでも、マシュ・キリエライトとともに前に進むことを決意する。この終末を覆すための使命の名は、人理守護指定…グランド・オーダー。そしてたどり着いた第一の”特異点”、１４３１年フランス。甦ったジャンヌ・ダルクが幾千の邪竜を使役する崩落の国で、少年は、絶望を祓う奇跡に出会う──。",
+        "image": "http://books.google.com/books/content?id=62NXDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 4,
+        "booklist": "020e8e0b-c708-413c-8c22-0d1524000952"
+      }
+    ],
+    "is_completed": true
+  },
+  {
+    "id": "c0bd93ca-2185-496f-ab3d-525aa93e9934",
+    "type": {
+      "id": "e9f4fa8c-5b12-43da-a0ff-421a0172282e",
+      "type": "胸が締め付けられる",
+      "booklist": {
+        "is_completed": null
+      }
+    },
+    "owner": {
+      "id": "4ed9f02a-21a8-4cae-8531-68ffe9242a8d",
+      "username": "土井弘人",
+      "is_superuser": false
+    },
+    "books": [
+      {
+        "id": "a139bec7-3d80-443f-953e-59f319e51a62",
+        "title": "あの日見た花の名前を僕達はまだ知らない。",
+        "description": "あの日、ここで止まった時間が、動きだす。 小学生の時に友達と“超平和バスターズ”というグループを作り、“じんたん”と呼ばれていた少年・宿海仁太。 “めんま”の死をきっかけにグループはバラバラになってしまっていたが、彼の前に突然めんまが現われて――!?",
+        "image": "http://books.google.com/books/content?id=IprMCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 0,
+        "booklist": "c0bd93ca-2185-496f-ab3d-525aa93e9934"
+      },
+      {
+        "id": "5d464dd3-055e-4bb0-acc8-a14594bcdeb4",
+        "title": "四月は君の嘘",
+        "description": "桜の花びら、音楽、そして嘘。君と出逢った日から世界は変わる――母の死をきっかけにピアノを弾かなくなった、元・天才少年ピアニスト有馬公生（ありま・こうせい）。目標もなく過ごす彼の日常は、モノトーンのように色が無い……だが、友人の付き添いで行ったデートが、少年の暗い運命を変える。性格最低、暴力上等、そして才能豊かなヴァイオリニスト……少女・宮園（みやぞの）かをりと出逢った日から、有馬公生の日常は色付き始める!! 胸を打つ青春ラブストーリー!!",
+        "image": "http://books.google.com/books/content?id=n0fKBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 1,
+        "booklist": "c0bd93ca-2185-496f-ab3d-525aa93e9934"
+      },
+      {
+        "id": "854f8c5e-1c06-41f6-807b-69d8e1ade514",
+        "title": "CLANNAD-クラナド-",
+        "description": "名作ＰＣゲーム『ＣＬＡＮＮＡＤ』のコミックス第２巻！ 演劇部再建という共通の目標を掲げ、渚と朋也の新しい日々が始まる——。",
+        "image": "http://books.google.com/books/content?id=YDcWAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 2,
+        "booklist": "c0bd93ca-2185-496f-ab3d-525aa93e9934"
+      },
+      {
+        "id": "08f876fa-088f-4173-9132-1fce14218487",
+        "title": "魔法少女まどか☆マギカ",
+        "description": "「魔法少女になって、くれないか」鹿目まどかの前に現れた不思議な生き物キュゥべえ。そして謎の転校生・暁美ほむら。不思議な出会いが一気に重なる中で、まどかは「魔法少女」がどういう存在なのかをすこしだけ覗いてしまう。それは、まどかの運命をさらに大きく変えてしまう予感がするものだった―――。超話題のアニメを完全コミカライズ化の描き下ろしコミックス、放送中に連続刊行第二弾！！",
+        "image": "http://books.google.com/books/content?id=1EEuDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 3,
+        "booklist": "c0bd93ca-2185-496f-ab3d-525aa93e9934"
+      },
+      {
+        "id": "abb84ea5-ed7d-4a0a-9432-52ee652ef0d3",
+        "title": "やはり俺の青春ラブコメはまちがっている。",
+        "description": "千葉市立総武高校二年生・比企谷八幡。 学校で心豊かにぼっちライフを楽しむはずが、学年一の完璧美少女・雪ノ下雪乃が主宰する「奉仕部」なる部活にムリヤリ入れられたせいで、八幡ライフは、どんどん本人の意志とは違う方向にずれていく。クラスに出回る悪意のチェーンメール騒動でリア充から解決を頼まれたり、レース柄の黒いパンツをはいたツンツン少女の弟から、姉の行動で相談されたり…頼んでもいない厄介ごとを持ち込まれては、奔走するハメに。トラブルメーカーにしてトラブルバスター・八幡の青春は、残念街道をただひたすらに、まっしぐらに！！",
+        "image": "http://books.google.com/books/content?id=Q6T6CgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 4,
+        "booklist": "c0bd93ca-2185-496f-ab3d-525aa93e9934"
+      }
+    ],
+    "is_completed": true
+  },
+  {
+    "id": "61f8080c-c980-45a2-9497-247cf8dc8d3d",
+    "type": {
+      "id": "e9f4fa8c-5b12-43da-a0ff-421a0172282e",
+      "type": "胸が締め付けられる",
+      "booklist": {
+        "is_completed": null
+      }
+    },
+    "owner": {
+      "id": "caef7db5-2dd5-4e96-a5d0-938966dac28a",
+      "username": "大角駿人",
+      "is_superuser": false
+    },
+    "books": [
+      {
+        "id": "7fbc69f4-8d22-40a2-aa3a-ad841d7fb016",
+        "title": "SKET DANCE",
+        "description": "学園生活の中で、誰もが一つや二つ抱えてしまう悩みや問題。それらを何でも解決してくれる、学園生活の助っ人になってくれるヤツらがいた！ 彼ら学園生活支援部――通称“スケット団”に、今日も仕事の依頼が舞い込む!!",
+        "image": "http://books.google.com/books/content?id=-nbNCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 0,
+        "booklist": "61f8080c-c980-45a2-9497-247cf8dc8d3d"
+      },
+      {
+        "id": "1aacd282-6339-4976-892c-17567a388aa9",
+        "title": "ぼくらの",
+        "description": "概要情報なし",
+        "image": "http://books.google.com/books/content?id=mwzzCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 1,
+        "booklist": "61f8080c-c980-45a2-9497-247cf8dc8d3d"
+      },
+      {
+        "id": "ff201c3d-11e9-4f6b-a74d-7c73a15ce773",
+        "title": "宇宙兄弟",
+        "description": "概要情報なし",
+        "image": "http://books.google.com/books/content?id=W2LCBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 2,
+        "booklist": "61f8080c-c980-45a2-9497-247cf8dc8d3d"
+      },
+      {
+        "id": "dbac510b-788e-48a3-a08a-051ff2db3535",
+        "title": "【推しの子】",
+        "description": "「この芸能界（せかい）において嘘は武器だ」 地方都市で、産婦人科医として働くゴロー。芸能界とは無縁の日々。一方、彼の“推し”のアイドル・星野アイは、スターダムを上り始めていた。そんな二人が“最悪”の出会いを果たし、運命が動き出す…!? “赤坂アカ×横槍メンゴ”の豪華タッグが全く新しい切り口で“芸能界”を描く衝撃作開幕!!",
+        "image": "http://books.google.com/books/content?id=fyPsDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 3,
+        "booklist": "61f8080c-c980-45a2-9497-247cf8dc8d3d"
+      },
+      {
+        "id": "9e026c6a-435a-405d-8f32-b87711872e85",
+        "title": "チェンソーマン",
+        "description": "悪魔のポチタと共にデビルハンターとして借金取りにこき使われる超貧乏な少年・デンジ。ド底辺の日々は、残忍な裏切りで一変する!! 悪魔をその身に宿し、悪魔を狩る、新時代ダークヒーローアクション、開幕！",
+        "image": "http://books.google.com/books/content?id=NyOEDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 4,
+        "booklist": "61f8080c-c980-45a2-9497-247cf8dc8d3d"
+      }
+    ],
+    "is_completed": true
+  },
+  {
+    "id": "6ab802ed-9b8f-431a-957f-7034b9680551",
+    "type": {
+      "id": "e9f4fa8c-5b12-43da-a0ff-421a0172282e",
+      "type": "胸が締め付けられる",
+      "booklist": {
+        "is_completed": null
+      }
+    },
+    "owner": {
+      "id": "e32d0aa8-631b-4f49-a7d0-b8aeddc13273",
+      "username": "小川",
+      "is_superuser": false
+    },
+    "books": [
+      {
+        "id": "cbce67dc-a32d-46df-86ec-9e95ff23b2a4",
+        "title": "海獣の子供",
+        "description": "▼第26話／海獣▼第27話／穿（うが）つ体▼第28話／濁浪▼第29話／宇宙の海▼第30話／身籠る▼第31話／坩堝（るつぼ）▼第32話／傍受▼第33話／準備▼第34話／Venus▼第35話／水魔 ●主な登場人物／安海琉花（上手く気持ちを言葉に出来ない。両親は別居中で、母と暮らす）、海（ジュゴンに育てられた少年。水族館に預けられる。乾燥に弱い）、空（海とともに発見され、兄として育つ。入退院を繰り返している） ●あらすじ／行方不明となった琉花・海・アングラードを捜索する船が、3人の乗っていたヨットを発見するも、そこにはアングラードの書いたジム宛ての手紙が一通置いてあるだけだった。琉花の行方を探るためにも、事情を知るアングラードを追い始めるデデ。一方、水族館を含め世界各地の海洋では、さまざまな異変が生じ始めて…？（第26話） ●本巻の特徴／さし迫る“本番”、導かれるように大移動を始めた海洋生物、そして、姿を消した琉花と海…。“本番”の謎と、大いなる宇宙とのつながりが徐々に明かされはじめる、急展開の第4集！！ ●その他の登場人物／ジム（海と空の保護者的存在）、アングラード（かつてジムの研究仲間だった。現在は異なる立場にいるらしい）、正明（琉花の父。水族館職員）、加奈子（琉花の母。海女の家系に育つが、現在は親類と絶縁している）、デデ（ジムの伝統航海術の師。“海のなんでも屋”）",
+        "image": "http://books.google.com/books/content?id=tw_1CgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 0,
+        "booklist": "6ab802ed-9b8f-431a-957f-7034b9680551"
+      },
+      {
+        "id": "338cbbf0-02fa-4277-bebc-379df7cb09fc",
+        "title": "不滅のあなたへ",
+        "description": "何者かによって“球”がこの地上に投げ入れられた。その球体は、情報を収集するために機能し、姿をあらゆるものに変化させられる。死さえも超越するその謎の存在はある日、少年と出会い、そして別れる。光、匂い、音、暖かさ、痛み、喜び、哀しみ……刺激に満ちたこの世界を彷徨う永遠の旅が始まった。これは自分を獲得していく物語。",
+        "image": "http://books.google.com/books/content?id=Jmy6DQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 1,
+        "booklist": "6ab802ed-9b8f-431a-957f-7034b9680551"
+      },
+      {
+        "id": "fa00afe2-0437-4fb3-90e5-52266fee7d19",
+        "title": "3月のライオン",
+        "description": "その少年は、幼い頃すべてを失った。夢も家族も居場所も──。この物語は、そんな少年がすべてを取り戻すストーリー。その少年の職業は──やさしさ溢れるラブストーリー。",
+        "image": "http://books.google.com/books/content?id=bPp9DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 2,
+        "booklist": "6ab802ed-9b8f-431a-957f-7034b9680551"
+      },
+      {
+        "id": "e58caea9-5879-41de-b769-c066ddaca5f9",
+        "title": "Banana Fish",
+        "description": "李月龍によって放たれたサソリ...チャイニーズ・グループの裏切者によって、アッシュと仲間の情報はマフィアたちの知るところとなった。そしてアッシュの前に新たな強敵が現われる。 エドアルド・フォックス大佐。",
+        "image": "http://books.google.com/books/content?id=TSo2AQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+        "order": 3,
+        "booklist": "6ab802ed-9b8f-431a-957f-7034b9680551"
+      },
+      {
+        "id": "59e9201f-999c-45f0-9f37-8ddabfe23708",
+        "title": "イノサン",
+        "description": "サンソン家家長の責を自覚し、礼法を重んじるようになった兄シャルルと、処刑台で奔放に振る舞う妹マリー‐ジョセフは、反目しあう…。マリーが実力を見せた“立像斬首”から1年後、シャルルは、幼き「ルイ16世」と出会う。彼はシャルルを崇拝し、ベルサイユ宮殿の昼餐会に招いた。集う主役たち、だがそこには血の匂いが…!? 巨大な歴史が今、動き出す──!!",
+        "image": "http://books.google.com/books/content?id=bWPKCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 4,
+        "booklist": "6ab802ed-9b8f-431a-957f-7034b9680551"
+      }
+    ],
+    "is_completed": true
+  },
+  {
+    "id": "201925d2-08a9-4c14-85fe-1c9938800857",
+    "type": {
+      "id": "e9f4fa8c-5b12-43da-a0ff-421a0172282e",
+      "type": "胸が締め付けられる",
+      "booklist": {
+        "is_completed": null
+      }
+    },
+    "owner": {
+      "id": "b7a337fc-30ee-4afa-ad5b-65d3cdfc934d",
+      "username": "山田航",
+      "is_superuser": false
+    },
+    "books": [
+      {
+        "id": "1a854636-b911-44d4-acd2-0710d44445bb",
+        "title": "Re：ゼロから始める異世界生活",
+        "description": "今回の「Re:zeropedia」は第四章～第六章（10巻～25巻）の内容を完全網羅！ 王選を競い合う各陣営の現状に加え、大罪の魔女に大罪司教、伝説の三英傑からちょっと残念な吟遊詩人に至るまで、物語を彩るキャラクターたちのデータを徹底分析！ ストーリー解説では、＜死に戻り＞チャートでスバルの『死』を辿りながら、『聖域』の死闘、水門都市プリステラの決戦、プレアデス監視塔の激闘を詳細に解説！ フルカラー24ページにわたるキャラクターイラストギャラリーも収録！ さらには第七章の舞台・神聖ヴォラキア帝国に関連する外伝も大特集！ まだまだ続く『リゼロ』の物語――予習も復習もしたい『強欲』なあなたへ。 これさえ読めば全てがわかる、無敵の『リゼロ事典』を再びお届けです！",
+        "image": "http://books.google.com/books/content?id=mpizEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+        "order": 0,
+        "booklist": "201925d2-08a9-4c14-85fe-1c9938800857"
+      },
+      {
+        "id": "f72ca671-8ea9-4deb-a121-cc8a1ae01d2d",
+        "title": "未登録",
+        "description": "未登録",
+        "image": null,
+        "order": 1,
+        "booklist": "201925d2-08a9-4c14-85fe-1c9938800857"
+      },
+      {
+        "id": "ebfc40cf-ad75-4e8c-8864-36a15654fd6c",
+        "title": "未登録",
+        "description": "未登録",
+        "image": null,
+        "order": 2,
+        "booklist": "201925d2-08a9-4c14-85fe-1c9938800857"
+      },
+      {
+        "id": "54718191-b5c7-43ea-ac64-89ba8e2caf6f",
+        "title": "未登録",
+        "description": "未登録",
+        "image": null,
+        "order": 3,
+        "booklist": "201925d2-08a9-4c14-85fe-1c9938800857"
+      },
+      {
+        "id": "abc2eb52-54e1-413d-8310-eee826b69c83",
+        "title": "未登録",
+        "description": "未登録",
+        "image": null,
+        "order": 4,
+        "booklist": "201925d2-08a9-4c14-85fe-1c9938800857"
+      }
+    ],
+    "is_completed": false
+  },
+  {
+    "id": "8a3ad55d-efca-4763-b35a-3c0a3856a318",
+    "type": {
+      "id": "e9f4fa8c-5b12-43da-a0ff-421a0172282e",
+      "type": "胸が締め付けられる",
+      "booklist": {
+        "is_completed": null
+      }
+    },
+    "owner": {
+      "id": "50e1917b-355a-495c-9f52-939c6cf430db",
+      "username": "川上輝",
+      "is_superuser": false
+    },
+    "books": [
+      {
+        "id": "2c4dcd29-e86c-450c-85a9-0e3d9585e326",
+        "title": "聲の形",
+        "description": "「俺は彼女が嫌いだった」――明るく！ 楽しく！ 大冒険！ がモットーの少年、石田将也（いしだ・しょうや）。耳の聞こえない転校生の少女、西宮硝子（にしみや・しょうこ）。2人の出会いが、教室を、学校を、そして将也の人生を変えていく――。余りにもみずみずしい青春のカケラたち。最高に切なく、心ゆさぶる物語が生まれました。",
+        "image": "http://books.google.com/books/content?id=NU_IBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 0,
+        "booklist": "8a3ad55d-efca-4763-b35a-3c0a3856a318"
+      },
+      {
+        "id": "c960049b-5da2-4462-8ff2-380f815fbf14",
+        "title": "やがて君になる",
+        "description": "人に恋する気持ちがわからず悩みを抱える新入生・小糸侑は、生徒会の先輩・七海燈子が告白を受ける場面に遭遇する。誰からの告白にも心を動かされたことがないという燈子に共感を覚える侑だったが、やがて燈子から思わぬ言葉を告げられる。「私、君のこと好きになりそう」",
+        "image": "http://books.google.com/books/content?id=pX_GCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 1,
+        "booklist": "8a3ad55d-efca-4763-b35a-3c0a3856a318"
+      },
+      {
+        "id": "c3db4353-dd5b-4527-a5d8-bff08ef8d69b",
+        "title": "ブルーピリオド",
+        "description": "成績優秀かつスクールカースト上位の充実した毎日を送りつつ、どこか空虚な焦燥感を感じて生きる高校生・矢口八虎（やぐち やとら）は、ある日、一枚の絵に心奪われる。その衝撃は八虎を駆り立て、美しくも厳しい美術の世界へ身を投じていく。美術のノウハウうんちく満載、美大を目指して青春を燃やすスポ根受験物語、八虎と仲間たちは「好きなこと」を支えに未来を目指す！",
+        "image": "http://books.google.com/books/content?id=WslCDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 2,
+        "booklist": "8a3ad55d-efca-4763-b35a-3c0a3856a318"
+      },
+      {
+        "id": "3e612bfa-6b50-400c-bdda-6eafbeaa29f3",
+        "title": "3月のライオン",
+        "description": "その少年は、幼い頃すべてを失った。夢も家族も居場所も──。この物語は、そんな少年がすべてを取り戻すストーリー。その少年の職業は──やさしさ溢れるラブストーリー。",
+        "image": "http://books.google.com/books/content?id=bPp9DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 3,
+        "booklist": "8a3ad55d-efca-4763-b35a-3c0a3856a318"
+      },
+      {
+        "id": "384f492a-d85b-4311-8812-7837f567c2ad",
+        "title": "四月は君の嘘",
+        "description": "桜の花びら、音楽、そして嘘。君と出逢った日から世界は変わる――母の死をきっかけにピアノを弾かなくなった、元・天才少年ピアニスト有馬公生（ありま・こうせい）。目標もなく過ごす彼の日常は、モノトーンのように色が無い……だが、友人の付き添いで行ったデートが、少年の暗い運命を変える。性格最低、暴力上等、そして才能豊かなヴァイオリニスト……少女・宮園（みやぞの）かをりと出逢った日から、有馬公生の日常は色付き始める!! 胸を打つ青春ラブストーリー!!",
+        "image": "http://books.google.com/books/content?id=n0fKBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 4,
+        "booklist": "8a3ad55d-efca-4763-b35a-3c0a3856a318"
+      }
+    ],
+    "is_completed": true
+  },
+  {
+    "id": "dba52902-7a7d-44f4-a21c-8a92245267d8",
+    "type": {
+      "id": "e9f4fa8c-5b12-43da-a0ff-421a0172282e",
+      "type": "胸が締め付けられる",
+      "booklist": {
+        "is_completed": null
+      }
+    },
+    "owner": {
+      "id": "248ecd5c-3607-4186-bfc5-1a6c1e012c74",
+      "username": "川島 励仁",
+      "is_superuser": false
+    },
+    "books": [
+      {
+        "id": "6fba4ef1-b71f-486f-9e69-ed5f6c672a1d",
+        "title": "宝石の国",
+        "description": "今から遠い未来、宝石のカラダを持つ28人は、彼らを装飾品にしようと襲い掛かる月人に備えるべく、戦闘や医療などそれぞれの持ち場についていた。月人と戦うことを望みながら、何も役割を与えられていなかったフォスは、宝石たちを束ねる金剛先生から博物誌を編むように頼まれる。",
+        "image": "http://books.google.com/books/content?id=bmjKBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 0,
+        "booklist": "dba52902-7a7d-44f4-a21c-8a92245267d8"
+      },
+      {
+        "id": "a4448372-3d61-42d0-af43-3edaaa127f88",
+        "title": "新世紀エヴァンゲリオン",
+        "description": "完結14巻で累計2500万部を記録したコミック版「新世紀エヴァンゲリオン」。2021年に発売された【愛蔵版】（全7巻）の電子版が、遂に登場!! 巻末にはKCA版のカバーイラストを収録。 ※「【愛蔵版】新世紀エヴァンゲリオン」〈電子特別版〉には、紙版の付属品（ポストカードブック、サイン色紙、イラスト集、アクリルスタンド）は収録されません。",
+        "image": "http://books.google.com/books/content?id=wxKfEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+        "order": 1,
+        "booklist": "dba52902-7a7d-44f4-a21c-8a92245267d8"
+      },
+      {
+        "id": "ec121792-4cae-4406-9ae3-6dc1b3a0ba79",
+        "title": "エクソシストを堕とせない",
+        "description": "【デジタル版限定！「少年ジャンプ+」掲載時のカラーページを完全収録!!】魔王サタンを倒すために最強のエクソシストとして、劣悪な環境で育てられた神父の少年は、心に深い傷を負いながら各地に蔓延る悪魔と戦い続けていた。やがて訪れる一人の少女との出会いをきっかけに、少年はこれまで抱くこともなかった温かな感情に触れて――…。これは、聖戦の中で芽生える恋と希望の物語。",
+        "image": "http://books.google.com/books/content?id=kGlmEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 2,
+        "booklist": "dba52902-7a7d-44f4-a21c-8a92245267d8"
+      },
+      {
+        "id": "30900a43-2a2a-44fe-9bd5-a5d4131a48f9",
+        "title": "深東京",
+        "description": "【デジタル版限定！「少年ジャンプ+」掲載時のカラーページを完全収録!!】人を死に追いやった者が堕ち、番人に処刑されるという都市伝説の街「深東京」。双子の高校生ヨミとヤミは、課外授業の帰路、担任の自殺により級友達とこの街に堕ちる。残忍な番人に級友は次々と命を落とし…。地獄からの逃走劇が開幕!!",
+        "image": "http://books.google.com/books/content?id=ijmYEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 3,
+        "booklist": "dba52902-7a7d-44f4-a21c-8a92245267d8"
+      },
+      {
+        "id": "e883fbf8-2327-405e-9ddf-b7c96b3d5651",
+        "title": "【推しの子】",
+        "description": "「この芸能界（せかい）において嘘は武器だ」 地方都市で、産婦人科医として働くゴロー。芸能界とは無縁の日々。一方、彼の“推し”のアイドル・星野アイは、スターダムを上り始めていた。そんな二人が“最悪”の出会いを果たし、運命が動き出す…!? “赤坂アカ×横槍メンゴ”の豪華タッグが全く新しい切り口で“芸能界”を描く衝撃作開幕!!",
+        "image": "http://books.google.com/books/content?id=fyPsDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 4,
+        "booklist": "dba52902-7a7d-44f4-a21c-8a92245267d8"
+      }
+    ],
+    "is_completed": true
+  },
+  {
+    "id": "54dd6812-6abc-4c66-85a2-4d64a4eb06b2",
+    "type": {
+      "id": "e9f4fa8c-5b12-43da-a0ff-421a0172282e",
+      "type": "胸が締め付けられる",
+      "booklist": {
+        "is_completed": null
+      }
+    },
+    "owner": {
+      "id": "5a128c62-67d7-46af-b45d-11199906f44c",
+      "username": "平尾 七虹",
+      "is_superuser": false
+    },
+    "books": [
+      {
+        "id": "b27d347a-9345-4833-afcc-6449fbd12582",
+        "title": "赤ちゃんと僕",
+        "description": "榎木家にはママがいない。パパと小学生の拓也と赤ちゃんの実の3人家族。わがままいっぱいの2歳児は泣いてばかりで、お兄ちゃんはもう大変！「赤僕(あかぼく）」待望の文庫化！！",
+        "image": "http://books.google.com/books/content?id=KuB9DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 0,
+        "booklist": "54dd6812-6abc-4c66-85a2-4d64a4eb06b2"
+      },
+      {
+        "id": "595b6ee7-1a91-4b71-87ec-df04b5645e5c",
+        "title": "かみかみかえし",
+        "description": "遠山えまの和ファンタジー！！この髪には、神さまがいるんだよ－－。髪の中で神さまを休ませ癒す神事「神々返し」－－。幽閉の身の少女・ましろはある日、自らの髪に封印されていた神さま・ヒノカグと出会い－－！？スーパー神（々）（かみがみ）ファンタジー！！",
+        "image": "http://books.google.com/books/content?id=kZnGBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 1,
+        "booklist": "54dd6812-6abc-4c66-85a2-4d64a4eb06b2"
+      },
+      {
+        "id": "a5f745aa-af9c-403e-be28-078e9e600b6b",
+        "title": "この手を離さないで",
+        "description": "とある問題を起こし、αのエリート校から一般校へ転校してきた晴斗。 αというだけで目の色が変わるクラスで、隣席の生徒会長・雅だけは、やけに当たりが強く…？ 「嫌な予感したんだ…」 そう言って突如、晴斗の目の前で大量の錠剤を嘔吐した雅。 介抱しながらも制服の隙間から覗く、あまりに細い身体が、晴斗の目に焼き付いて――。 その日から学校に来なくなった雅がどうにも気になり、家まで押しかけた晴斗が目にしたのは、ヒートで倒れている雅だった――。 世話焼きエリートα×愛を知らない孤高のΩ 《持てる者×持たざる者》が互いを求め合う、トワイライト・ラブストーリー！ ※咲本崎の「崎」は「たつさき」が正式表記",
+        "image": "http://books.google.com/books/content?id=XKU4EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 2,
+        "booklist": "54dd6812-6abc-4c66-85a2-4d64a4eb06b2"
+      },
+      {
+        "id": "281e4c67-07be-4f12-9dee-94a148e90710",
+        "title": "光が死んだ夏",
+        "description": "ある集落で暮らす少年、よしきと光。同い年の2人はずっと一緒に育ってきた。 しかしある日、よしきが光だと思っていたものは別のナニカにすり替わっていたことに確信を持ってしまう。 それでも、一緒にいたい。 友人の姿をしたナニカとの、いつも通りの日々が始まる。 時を同じくして、集落では様々な事件が起こっていき――。 新進気鋭の作家・モクモクれんが描く、未知のナニカへ堕ちていく物語、開幕。 巻末には在りし日の2人を描いた、描き下ろし短編も収録。",
+        "image": "http://books.google.com/books/content?id=dbFfEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 3,
+        "booklist": "54dd6812-6abc-4c66-85a2-4d64a4eb06b2"
+      },
+      {
+        "id": "4f1cb5bd-9480-4018-b4cb-1666f2def0b9",
+        "title": "体感予報",
+        "description": "『明日は晴れなので、この男は俺を抱くだろう』人気上昇中のイケメン気象予報士・瀬ヶ崎（せがさき）の正体は、とんでもない暴君だ。崖っぷちエロ漫画家の葉（よう）はそのことをよく知っている。何故なら瀬ヶ崎と一緒に住んでいるから。そして瀬ヶ崎のために料理やら掃除やらをしているから！ それもその筈、衣食住を提供してもらう代わりに『瀬ヶ崎の言うことを全部聞く』という契約を結んでいるからで――？【フィカス】",
+        "image": "http://books.google.com/books/content?id=bA8uEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+        "order": 4,
+        "booklist": "54dd6812-6abc-4c66-85a2-4d64a4eb06b2"
+      }
+    ],
+    "is_completed": true
+  },
+  {
+    "id": "91a01764-dacf-4425-9c9d-8cb533719d8c",
+    "type": {
+      "id": "e9f4fa8c-5b12-43da-a0ff-421a0172282e",
+      "type": "胸が締め付けられる",
+      "booklist": {
+        "is_completed": null
+      }
+    },
+    "owner": {
+      "id": "6e3d3da6-f8ce-439e-917b-c4d4c1121328",
+      "username": "床田将一朗",
+      "is_superuser": false
+    },
+    "books": [
+      {
+        "id": "86b4d406-2982-4832-84ab-0831d9cea1a4",
+        "title": "亜人",
+        "description": "「亜人」と呼ばれるその生物は「死なない」。高校生・永井圭はある日、交通事故で死ぬが、その直後に生き返った。それは、彼が亜人であり、人間ではないことを意味する。圭をとりまく環境は一変した。彼は人間たちから逃げ惑うことになる。友人のカイは、怯える圭を助けるために駆けつけ、ふたりで人里を離れて山の中に逃げ込んだ。そんな彼に人間と敵対する亜人たちが接触してきた。――彼は何と戦い、誰と生きればいいんだろう？",
+        "image": "http://books.google.com/books/content?id=S1DKBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 0,
+        "booklist": "91a01764-dacf-4425-9c9d-8cb533719d8c"
+      },
+      {
+        "id": "b69fc27d-8bec-41d3-aa9a-c169bca19700",
+        "title": "東京喰種",
+        "description": "【雑誌掲載時の著者カラー原画を収録したリマスター版！】“組織化された喰種たちが、〔CCG〕（喰種対策局）を潰そうとしている──！” 不穏な動きを見せる「11区」。そこは、リゼが元いた場所だった。 おぞましい計画を万丈から告げられたカネキの下に、リゼを追ってきた「11区」の刺客が現れる。 「アオギリの樹」を名乗る喰種集団の真の目的とは──!?",
+        "image": "http://books.google.com/books/content?id=fUDNCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 1,
+        "booklist": "91a01764-dacf-4425-9c9d-8cb533719d8c"
+      },
+      {
+        "id": "329f582c-14bf-4cc5-9411-e56eb09c1c53",
+        "title": "STEINS;GATE",
+        "description": "これは、世界線変動率0.571046%の世界線で語られる牧瀬紅莉栖の物語。天才少女科学者・牧瀬紅莉栖は、ある“事実”を突きつけられ、秋葉原の街をさまよう。そこで出会ったメイド少女・フェイリスの行動が、秘められた過去や想いの数々を浮かび上がらせて行く。伝えられなかった言葉は、いつか、未来へと届くのだろうか―。",
+        "image": "http://books.google.com/books/content?id=MpPrmgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+        "order": 2,
+        "booklist": "91a01764-dacf-4425-9c9d-8cb533719d8c"
+      },
+      {
+        "id": "1ea25dc2-2459-4847-99bc-6863537033c9",
+        "title": "ひぐらしのなく頃に",
+        "description": "舞台は昭和57年。双子の妹という事で忌むべき存在だった園崎詩音は、園崎家頭首の意向に背き興宮の街に戻ってくる。詩音を襲う不安と孤独。だがそんな彼女の前に一人の少年が現れる。彼の名は北条悟史。悟史との出会いが詩音の運命を大きく変えていくのだった！ 「ひぐらしのなく頃に 綿流し編」で語られなかった謎が、今明かされていく――!!",
+        "image": "http://books.google.com/books/content?id=3aDFDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 3,
+        "booklist": "91a01764-dacf-4425-9c9d-8cb533719d8c"
+      },
+      {
+        "id": "557047a2-b9c2-4487-8fad-21b2554f529a",
+        "title": "デッドデッドデーモンズデデデデデストラクション",
+        "description": "その日、人類は終了しました。 「世界中の人を敵に回しても、 私だけは味方になってあげますよ。」 暗躍する野望、暴走する国家。 そして、ついに訪れる人類終了の日。 世界と恋の狭間で、少女達は――― 第66回 小学館漫画賞 一般向け部門受賞。 漫画表現の極限に迫る、クライマックスへ！！ もう読まざるを得ない、最新第11集！！",
+        "image": "http://books.google.com/books/content?id=auQ4EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 4,
+        "booklist": "91a01764-dacf-4425-9c9d-8cb533719d8c"
+      }
+    ],
+    "is_completed": true
+  },
+  {
+    "id": "c1728315-687f-4d77-a4cb-32a2382c8aa4",
+    "type": {
+      "id": "e9f4fa8c-5b12-43da-a0ff-421a0172282e",
+      "type": "胸が締め付けられる",
+      "booklist": {
+        "is_completed": null
+      }
+    },
+    "owner": {
+      "id": "6f940898-5f73-449f-8cf3-7177978929b8",
+      "username": "徳丸晴天",
+      "is_superuser": false
+    },
+    "books": [
+      {
+        "id": "72a4a17e-8468-481d-904e-80cc292677e7",
+        "title": "がっこうぐらし！",
+        "description": "学校に寝泊まりしちゃおうという学園生活部で、シャベルを愛する(?)くるみ、皆をまとめるりーさん、おっとりした顧問のめぐねえらに囲まれたゆきの瞳に映る幸せな“日常”はしかし……!? 強力タッグが贈る注目作、衝撃の第1巻!!",
+        "image": "http://books.google.com/books/content?id=TUcuDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 0,
+        "booklist": "c1728315-687f-4d77-a4cb-32a2382c8aa4"
+      },
+      {
+        "id": "58a50e0e-a2bc-44ee-b748-a9a853fa5eda",
+        "title": "進撃の巨人",
+        "description": "全世界に対してパラディ島の脅威を説くマーレ。そこに現れたのは「平和への反逆者」エレン・イェーガーだった。エレンはマーレの人々をなぎ倒し、軍への大打撃を目論む。エレンと「戦鎚の巨人」の戦いは過熱、そして集結した両国の最大戦力がぶつかり合い・・・・・・。",
+        "image": "http://books.google.com/books/content?id=nXpjDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 1,
+        "booklist": "c1728315-687f-4d77-a4cb-32a2382c8aa4"
+      },
+      {
+        "id": "435b5d83-386a-4011-8924-e9c67b2d1ab7",
+        "title": "ひぐらしのなく頃に",
+        "description": "寒村・雛見沢で楽しく生活していた少年・前原圭一は、平和なこの村で起きたバラバラ殺人の事を知る。そしてその事件は、「オヤシロさまの祟り」と呼ばれる奇怪な連続怪死事件に繋がっていたのだった…。 謎と恐怖でネット界を揺るがした同人ノベルゲーム、そのプロローグ・シナリオの「鬼隠し編」をコミック化!!",
+        "image": "http://books.google.com/books/content?id=yaDFDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 2,
+        "booklist": "c1728315-687f-4d77-a4cb-32a2382c8aa4"
+      },
+      {
+        "id": "6c79e713-e844-4037-bd49-31ba28c54acb",
+        "title": "少年のアビス",
+        "description": "黒瀬令児（くろせれいじ）は、家族、教師、幼馴染、アイドル、小説家、そしてこの町。そのすべてに縛られながら“ただ”生きていた。あの時と同じ場所で、ナギに出会った令児…。煙草の煙を纏った彼女が町に戻ってきた理由は…。少年の生きることに希望はあるのか。この先に光はあるのか。“今”を映し出すワールドエンド・ボーイミーツガール、第十六章――。",
+        "image": "http://books.google.com/books/content?id=DW_wEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 3,
+        "booklist": "c1728315-687f-4d77-a4cb-32a2382c8aa4"
+      },
+      {
+        "id": "44f8fe06-66e3-4b8b-a878-b62472ad91eb",
+        "title": "極黒のブリュンヒルデ",
+        "description": "「ウソだ…ダメ…！ みんな死んでしまう…!!」 佳奈が見た予知は全員の死──。九に攫われた小鳥を取り戻すため、寧子たち魔法使いは九の隠れ家へと足を踏み入れる。そこでは少女を使った恐ろしい実験が行われていた。高千穂を裏切り、小鳥を攫った九の真の目的とは？ そして、ヴァルキュリアの圧倒的な力を前に寧子たちは…!?",
+        "image": "http://books.google.com/books/content?id=_tTLCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 4,
+        "booklist": "c1728315-687f-4d77-a4cb-32a2382c8aa4"
+      }
+    ],
+    "is_completed": true
+  },
+  {
+    "id": "81249aea-aae1-40fa-b73a-0046928994e1",
+    "type": {
+      "id": "e9f4fa8c-5b12-43da-a0ff-421a0172282e",
+      "type": "胸が締め付けられる",
+      "booklist": {
+        "is_completed": null
+      }
+    },
+    "owner": {
+      "id": "50179d9c-5b0e-4af1-a624-737ec437fd2a",
+      "username": "森野穣",
+      "is_superuser": false
+    },
+    "books": [
+      {
+        "id": "827e6c09-8b80-4e0f-9019-b820ecbc40bb",
+        "title": "最終兵器彼女",
+        "description": "頻繁に出撃命令が出され、戦地へと向かうちせ。一方、シュウジは街で、初恋の人であるふゆみ先輩と再会する。ちせと、ふゆみ先輩の間で心が揺れるシュウジ。そんなある日、授業中の教室で、ちせの体に異変が起きる…。",
+        "image": "http://books.google.com/books/content?id=S8DyCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 0,
+        "booklist": "81249aea-aae1-40fa-b73a-0046928994e1"
+      },
+      {
+        "id": "a3489b11-682a-4a83-be43-2954219b66ef",
+        "title": "ブラック・ジャック",
+        "description": "アフリカの奥地で\"ブラック・ジャック病\"と呼ばれる奇病が発生した!! 学会誌でこの病名を知ったブラック・ジャックは、その由来を知るために、ガボンの診療所を訪ねるのだが……。話題の医学ドラマ、第16巻刊行!",
+        "image": "http://books.google.com/books/content?id=mRLXAAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 1,
+        "booklist": "81249aea-aae1-40fa-b73a-0046928994e1"
+      },
+      {
+        "id": "0e9d309b-09c5-4667-9b25-5fe2a0ddf6f7",
+        "title": "銀河鉄道999",
+        "description": "▼第1話／無能の旅人▼第2話／殺意と怒気の王女▼第3話／惑星（プラネット）ハラキリ▼第4話／惑星大地獄（プラネット グレートヘル）▼第5話／聖母騎士の涙（テイア・ヘルマザリア）▼第6話／暴龍の星▼第7話／パラサイトの涙▼第8話／楽劇 友に捧げる歌 ●主な登場人物／星野鉄郎（地球を支配する闇の支配者と闘うため、光の大惑星エターナルへ旅する少年）、メーテル（鉄郎とともに999で旅をする謎の女性）、カノン（999の構造部品のひとつである電子妖精）、車掌さん（999の車掌） ●あらすじ／999の次の停車駅は、水に恵まれた星「ウォーターヘブン」。ここへ来れば、年老いた人も、重い病の人も元気になると伝えられている。気力とエネルギーが充満する希望の惑星だけに、人の往来も激しく、スケールの大きな宇宙船もやって来る。その中に、パラサイト星系の戦艦ヒルノートもあった。艦長ジェラシアスは、鉄郎とメーテルを前に「旧式なボロ列車で来たのはお前たちか？」と聞き、999をこきおろす。メーテルはそれに反論し「999が発車した後を追って、追い越してごらん」と挑発した。怒ったジェラシアスは追い越すどころか、999を破壊すべく砲を向けるが…（第1話）。 ●本巻の特徴／上記の惑星「ウォーターヘブン」の他、住民がとても短気なうえ、武力を至上の神とする惑星「殺気怒気疑い」（第2話）、停車時間は3分33秒が限界という毒に満ちた大気の星「ポイズン」（第5話）、環境は地球にそっくりだが、進化を遂げた爬虫類が住人という惑星「ティラノサウルス」（第6話）、近くの星も物体も何もかも引き寄せ、飲み込んでしまう惑星「パラサイト」（第7話）、恐竜と人間が共存する星「永遠の友情」（第8話）などに999は停車。キャプテン・ハーロックやエメラルダス、宇宙戦艦ヤマトなど、松本作品でおなじみのキャラクターも登場。 ●その他の登場人物／キャプテン・ハーロック（アルカディア号の艦長）、エメラルダス（クィーン・エメラルダスの艦長である、勇敢な女性騎士）",
+        "image": "http://books.google.com/books/content?id=ckT-CgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 2,
+        "booklist": "81249aea-aae1-40fa-b73a-0046928994e1"
+      },
+      {
+        "id": "2ec66877-78ae-471b-911c-a0d778172168",
+        "title": "citrus",
+        "description": "芽衣の事を、お姉ちゃんらしくリードしたい柚子。初デートに誘おうとするけど、恋愛のアレコレをリサーチした秘密のノートが芽衣に見つかってしまう。義理の姉妹で恋人同士なふたりのカンケイは…!?",
+        "image": "http://books.google.com/books/content?id=dwOEDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 3,
+        "booklist": "81249aea-aae1-40fa-b73a-0046928994e1"
+      },
+      {
+        "id": "1a79379a-1fd0-4bb8-a6ac-c22890beb598",
+        "title": "四月は君の嘘",
+        "description": "桜の花びら、音楽、そして嘘。君と出逢った日から世界は変わる――母の死をきっかけにピアノを弾かなくなった、元・天才少年ピアニスト有馬公生（ありま・こうせい）。目標もなく過ごす彼の日常は、モノトーンのように色が無い……だが、友人の付き添いで行ったデートが、少年の暗い運命を変える。性格最低、暴力上等、そして才能豊かなヴァイオリニスト……少女・宮園（みやぞの）かをりと出逢った日から、有馬公生の日常は色付き始める!! 胸を打つ青春ラブストーリー!!",
+        "image": "http://books.google.com/books/content?id=n0fKBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 4,
+        "booklist": "81249aea-aae1-40fa-b73a-0046928994e1"
+      }
+    ],
+    "is_completed": true
+  },
+  {
+    "id": "590b6d1b-c99b-4128-8174-bbcdcfb79d9f",
+    "type": {
+      "id": "e9f4fa8c-5b12-43da-a0ff-421a0172282e",
+      "type": "胸が締め付けられる",
+      "booklist": {
+        "is_completed": null
+      }
+    },
+    "owner": {
+      "id": "645ea896-f934-4d83-bd44-f47334a367fc",
+      "username": "森陽光",
+      "is_superuser": false
+    },
+    "books": [
+      {
+        "id": "a0489d61-81b8-45b6-b472-b6e647a32791",
+        "title": "暗殺教室",
+        "description": "号令と共に教室を満たす銃声！ 椚ヶ丘中学校3年E組は生徒全員が先生の命を狙う暗殺教室。教師と生徒、標的と暗殺者の異常な日常が始まる――!!",
+        "image": "http://books.google.com/books/content?id=xZ_MCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 0,
+        "booklist": "590b6d1b-c99b-4128-8174-bbcdcfb79d9f"
+      },
+      {
+        "id": "3e07812b-626c-4961-abe1-373d3586d687",
+        "title": "魍魎少女",
+        "description": "時は大正時代。この世の様々な化け物ども・魍魎(もうりょう)を種にして売る「魍魎屋」を営む少女・林檎丸(りんごまる)は、同業者のライバル・八房(やつふさ)の手でバラバラにされた師匠・雪之条(ゆきのじょう)の7つの体を探す旅を続けていた――。立ちはだかるは八房の配下の魍魎たち。ドデカイ武器に、オッドアイ、口が悪くて、超強い林檎丸が、バッサバッサと魍魎を斬るッ!!奇妙痛快冒険譚!!!",
+        "image": "http://books.google.com/books/content?id=xhdpDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 1,
+        "booklist": "590b6d1b-c99b-4128-8174-bbcdcfb79d9f"
+      },
+      {
+        "id": "2639e072-3805-4a23-bd90-1b64d165337c",
+        "title": "未登録",
+        "description": "未登録",
+        "image": null,
+        "order": 2,
+        "booklist": "590b6d1b-c99b-4128-8174-bbcdcfb79d9f"
+      },
+      {
+        "id": "0928b4bf-9d29-4c64-9d2c-aff67b9ce63e",
+        "title": "未登録",
+        "description": "未登録",
+        "image": null,
+        "order": 3,
+        "booklist": "590b6d1b-c99b-4128-8174-bbcdcfb79d9f"
+      },
+      {
+        "id": "25550ad5-c5d5-4008-b918-f03c8e044d76",
+        "title": "未登録",
+        "description": "未登録",
+        "image": null,
+        "order": 4,
+        "booklist": "590b6d1b-c99b-4128-8174-bbcdcfb79d9f"
+      }
+    ],
+    "is_completed": false
+  },
+  {
+    "id": "74a4428b-eb30-4332-8734-c8b959a84d71",
+    "type": {
+      "id": "e9f4fa8c-5b12-43da-a0ff-421a0172282e",
+      "type": "胸が締め付けられる",
+      "booklist": {
+        "is_completed": null
+      }
+    },
+    "owner": {
+      "id": "fe297bd5-7658-493e-ae4a-d89929aebd34",
+      "username": "横井優",
+      "is_superuser": false
+    },
+    "books": [
+      {
+        "id": "4b1a94af-4860-49e8-974b-dc18127356f9",
+        "title": "約束のネバーランド",
+        "description": "母と慕う彼女は親ではない。共に暮らす彼らは兄弟ではない。エマ・ノーマン・レイの三人はこの小さな孤児院で幸せな毎日を送っていた。しかし、彼らの日常はある日突然終わりを告げた。真実を知った彼らを待つ運命とは…!?",
+        "image": "http://books.google.com/books/content?id=9o2yDQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 0,
+        "booklist": "74a4428b-eb30-4332-8734-c8b959a84d71"
+      },
+      {
+        "id": "91849b29-ed95-4c0e-8903-41cc209c2816",
+        "title": "夏目友人帳",
+        "description": "「妖怪が見える」という秘密を抱えた孤独な少年・夏目。強力な妖力を持っていた祖母・レイコの遺品である「友人帳」を手にして以来、妖怪たちから追われる羽目に！！祖母が妖怪たちと交わした「契約」をめぐって、用心棒・ニャンコ先生とともに忙しい日々を送ることになった夏目は…！？あやかし契約奇談！",
+        "image": "http://books.google.com/books/content?id=wOJ9DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 1,
+        "booklist": "74a4428b-eb30-4332-8734-c8b959a84d71"
+      },
+      {
+        "id": "6a7f0818-984c-4b78-90f8-863f453ba08c",
+        "title": "東京喰種",
+        "description": "【雑誌掲載時の著者カラー原画を収録したリマスター版！】“東京”には、或るひとつの「絶望」が潜む…。群衆に紛れ、人間を狩り、その死肉を喰す怪人、人はそれを「喰種（グール）」と呼ぶ。青年が怪人に邂逅したとき、数奇な運命が廻り始める──！",
+        "image": "http://books.google.com/books/content?id=RjHKCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 2,
+        "booklist": "74a4428b-eb30-4332-8734-c8b959a84d71"
+      },
+      {
+        "id": "a76e622e-2e57-4180-ad72-850d8148793a",
+        "title": "進撃の巨人",
+        "description": "概要情報なし",
+        "image": "http://books.google.com/books/content?id=nMjEBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 3,
+        "booklist": "74a4428b-eb30-4332-8734-c8b959a84d71"
+      },
+      {
+        "id": "4ebb27e7-abe2-4f95-ac1f-96dc27ca3df7",
+        "title": "チェンソーマン",
+        "description": "悪魔のポチタと共にデビルハンターとして借金取りにこき使われる超貧乏な少年・デンジ。ド底辺の日々は、残忍な裏切りで一変する!! 悪魔をその身に宿し、悪魔を狩る、新時代ダークヒーローアクション、開幕！",
+        "image": "http://books.google.com/books/content?id=NyOEDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 4,
+        "booklist": "74a4428b-eb30-4332-8734-c8b959a84d71"
+      }
+    ],
+    "is_completed": true
+  },
+  {
+    "id": "25aa267e-5388-4710-8375-2192bc9eec2e",
+    "type": {
+      "id": "e9f4fa8c-5b12-43da-a0ff-421a0172282e",
+      "type": "胸が締め付けられる",
+      "booklist": {
+        "is_completed": null
+      }
+    },
+    "owner": {
+      "id": "837d681c-5447-4ac6-b21a-62448021dcc8",
+      "username": "武内謙晴",
+      "is_superuser": false
+    },
+    "books": [
+      {
+        "id": "7ee05cb1-5889-40ed-b4d6-85cac54f2050",
+        "title": "暗殺教室",
+        "description": "殺せんせー最大の弱点は水!? 水殺の機会を窺うE組の生徒達だが、妨害工作を行う裏切り者が現れる。彼の手引きをしていたのは、あの2人だった──!!",
+        "image": "http://books.google.com/books/content?id=lYzLCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 0,
+        "booklist": "25aa267e-5388-4710-8375-2192bc9eec2e"
+      },
+      {
+        "id": "4bab7202-9141-4dc8-b2b5-262f6174a2a7",
+        "title": "聲の形",
+        "description": "西宮硝子（にしみや・しょうこ）と再会してから、広がり続ける将也（しょうや）の世界。永束（ながつか）の提案で始まった映画作りに硝子も誘って参加することになった将也。硝子、そして仲間たちと過ごす夏休み。何気ない毎日に幸せを感じる将也だが、心の隙間に生まれた不安が、やがて大きな波乱を巻き起こし……。",
+        "image": "http://books.google.com/books/content?id=A4LKBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 1,
+        "booklist": "25aa267e-5388-4710-8375-2192bc9eec2e"
+      },
+      {
+        "id": "64a46953-e77f-4919-a57c-752a2275ce84",
+        "title": "タコピーの原罪",
+        "description": "【デジタル版限定！「少年ジャンプ+」掲載時のカラーページを完全収録!!】地球にハッピーを広めるため降り立ったハッピー星人・タコピー。助けてくれた少女・しずかの笑顔を取り戻すため奔走するが、少女を取り巻く環境は壮絶。無垢なタコピーには想像がつかないものだった。ただ笑って欲しかったタコピーが犯す罪とは…!?",
+        "image": "http://books.google.com/books/content?id=6kVbEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 2,
+        "booklist": "25aa267e-5388-4710-8375-2192bc9eec2e"
+      },
+      {
+        "id": "2ff857fb-46c7-417b-b7ba-b45654c4fc84",
+        "title": "最終兵器彼女",
+        "description": "メンテナンスをしないと死んでしまう体になってしまったちせは、彼女を改造した自衛隊によって、崩壊した校舎から連れ去られていった。それを見たシュウジは、やり場のない怒りに震える。そんなシュウジの前に、再びふゆみ先輩が現れた…。一方、メンテナンスが終わったちせは、新たな出撃を拒否し、シュウジが待っているはずの思い出の展望台へと向かう。だが自らの機能によって、シュウジがふゆみ先輩と過ごしていることを知ってしまう…。",
+        "image": "http://books.google.com/books/content?id=32P4CgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 3,
+        "booklist": "25aa267e-5388-4710-8375-2192bc9eec2e"
+      },
+      {
+        "id": "dbf30e6e-2d3d-4ec1-a965-872fb3d2634e",
+        "title": "アオのハコ",
+        "description": "バドミントン部に所属する猪股大喜（いのまたたいき）は、女子バスケ部の先輩・鹿野千夏（かのちなつ）に恋をしていた――。自主練を真摯に取り組む姿に心惹かれていたが、思いもよらぬ事実が発覚し…!? 道のりは遠く、想いは近く。青春ラブストーリー、はじまり。",
+        "image": "http://books.google.com/books/content?id=VDs1EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 4,
+        "booklist": "25aa267e-5388-4710-8375-2192bc9eec2e"
+      }
+    ],
+    "is_completed": true
+  },
+  {
+    "id": "74ff7318-3d3c-49d3-ad57-3c95abb3bdeb",
+    "type": {
+      "id": "e9f4fa8c-5b12-43da-a0ff-421a0172282e",
+      "type": "胸が締め付けられる",
+      "booklist": {
+        "is_completed": null
+      }
+    },
+    "owner": {
+      "id": "02e06a07-b322-4ac1-8c9e-6c1a789c7bf6",
+      "username": "池町和史",
+      "is_superuser": false
+    },
+    "books": [
+      {
+        "id": "fc624c23-dd18-423f-be7c-6a692e613f2e",
+        "title": "鬼滅の刃",
+        "description": "概要情報なし",
+        "image": "http://books.google.com/books/content?id=Mj1cDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 0,
+        "booklist": "74ff7318-3d3c-49d3-ad57-3c95abb3bdeb"
+      },
+      {
+        "id": "6fd7d198-4d3c-4343-845b-e2d02acef19f",
+        "title": "ONE PIECE",
+        "description": "鬼ヶ島決戦が過熱する中、カイドウの娘ヤマトはルフィと共に戦う事を望むが!? 一方カイドウは「新鬼ヶ島計画」の全貌を明かし、マムと共に世界を恐怖に陥れる!! “ひとつなぎの大秘宝”を巡る海洋冒険ロマン!!",
+        "image": "http://books.google.com/books/content?id=qG4QEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 1,
+        "booklist": "74ff7318-3d3c-49d3-ad57-3c95abb3bdeb"
+      },
+      {
+        "id": "aca02430-b59e-4d0b-9e47-5af63e1a802b",
+        "title": "僕のヒーローアカデミア",
+        "description": "死柄木を逃した上、被害は甚大である。でも…それでも我々ヒーローは、一糸の綻びさえもない信念を以て、戦い続けなくてはならない！ それが散っていった仲間の想いであり、次代へと紡がれていくのだから…。“Plus Ultra”!!",
+        "image": "http://books.google.com/books/content?id=zzg1EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 2,
+        "booklist": "74ff7318-3d3c-49d3-ad57-3c95abb3bdeb"
+      },
+      {
+        "id": "0aa1b2c4-b2da-424a-aa62-7fdc4d1dbcf4",
+        "title": "NARUTO",
+        "description": "カカシ先生のテストに無事合格し晴れて下忍（見習い忍者）となったナルト、サスケ、サクラの3人にいきなり大仕事の依頼が！ 橋作り名人、タズナの護衛に出発したナルトたちの背後に無気味な刺客の影が迫る!!",
+        "image": "http://books.google.com/books/content?id=z6LMCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 3,
+        "booklist": "74ff7318-3d3c-49d3-ad57-3c95abb3bdeb"
+      },
+      {
+        "id": "009a3c9a-5c84-4d9d-9e56-a2605c05091f",
+        "title": "チェンソーマン",
+        "description": "悪魔のポチタと共にデビルハンターとして借金取りにこき使われる超貧乏な少年・デンジ。ド底辺の日々は、残忍な裏切りで一変する!! 悪魔をその身に宿し、悪魔を狩る、新時代ダークヒーローアクション、開幕！",
+        "image": "http://books.google.com/books/content?id=NyOEDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 4,
+        "booklist": "74ff7318-3d3c-49d3-ad57-3c95abb3bdeb"
+      }
+    ],
+    "is_completed": true
+  },
+  {
+    "id": "6fad91d0-4b17-415f-82cd-b58f0365ffc9",
+    "type": {
+      "id": "e9f4fa8c-5b12-43da-a0ff-421a0172282e",
+      "type": "胸が締め付けられる",
+      "booklist": {
+        "is_completed": null
+      }
+    },
+    "owner": {
+      "id": "7a033b80-339b-4227-a0f6-23cafad98b24",
+      "username": "清野陽平",
+      "is_superuser": false
+    },
+    "books": [
+      {
+        "id": "0c53e618-4016-48bb-976a-67166c3c2426",
+        "title": "アオハライド",
+        "description": "冬馬とつきあうことにし、キスもした双葉。洸への気持ちを振り切り、前に進もうとする。修学旅行の行き先は、洸が中学時代を過ごした長崎。双葉、洸、悠里、修子、小湊で同じ班になり一緒に過ごす中で──。",
+        "image": "http://books.google.com/books/content?id=njbGCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 0,
+        "booklist": "6fad91d0-4b17-415f-82cd-b58f0365ffc9"
+      },
+      {
+        "id": "c199d146-8628-475a-a353-0d4ebee14893",
+        "title": "君に届け",
+        "description": "【リマスターシリーズですが、雑誌掲載時にカラーページが無く、全ページモノクロでの配信です。ご了解ください】修学旅行in沖縄開始!! 楽しい時間の中で、それぞれの気持ちが動き出す…。龍が告白されたと知り、もやもやする千鶴。旅行直前に付きあい始めた茂木と微妙な空気のあやね。そして夜、お風呂上がりに会った風早と爽子がどきどきの急接近…!?",
+        "image": "http://books.google.com/books/content?id=f_HGCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 1,
+        "booklist": "6fad91d0-4b17-415f-82cd-b58f0365ffc9"
+      },
+      {
+        "id": "92ef7cc5-36fb-44bc-a07e-05f59d6e2463",
+        "title": "なみだうさぎ",
+        "description": "席替えは、一大イベント。誰のとなりになるのか、ドキドキ。中3、初めての席替えで、鳴海（なるみ）のとなりになった桃花（ももか）。「クラス一、地味で変人」「となりの席になると一生彼氏ができない」とウワサの彼に、桃花はおびえっぱなし。だけど、鳴海の優しさや意外な素顔を知るたびに、胸がきゅうっとして…！？",
+        "image": "http://books.google.com/books/content?id=_tnzCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 2,
+        "booklist": "6fad91d0-4b17-415f-82cd-b58f0365ffc9"
+      },
+      {
+        "id": "673f5333-8a12-4e73-b56f-59818464940a",
+        "title": "中学聖日記",
+        "description": "「2年前の先生の気持ちが知りたい」 黒岩晶、17歳。高校2年生。聖と再会し、消したはずの彼女への気持ちがあふれた晶は、元同級生の彼女・るなと別れた。しかし一方、聖は2年前の不祥事の噂が立ってしまい、新しい小学校でも苦しい立場になりつつあった。苦境の聖は、晶とのつながりを断ち切るべきだと考え電話をとるが——。聖に完全に振られた勝太郎は、つかみどころのないアプローチをかけられていたミステリアスな上司・原口をお持ち帰りすることになり——？【祥伝社／shodensha】",
+        "image": "http://books.google.com/books/content?id=5YB_DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 3,
+        "booklist": "6fad91d0-4b17-415f-82cd-b58f0365ffc9"
+      },
+      {
+        "id": "6fa0d5ad-a725-48d1-8ff4-92d0973965a6",
+        "title": "虹色デイズ",
+        "description": "概要情報なし",
+        "image": "http://books.google.com/books/content?id=M5fFCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 4,
+        "booklist": "6fad91d0-4b17-415f-82cd-b58f0365ffc9"
+      }
+    ],
+    "is_completed": true
+  },
+  {
+    "id": "b46b5447-f06e-4ad3-a1d2-c09bf0c80d2c",
+    "type": {
+      "id": "e9f4fa8c-5b12-43da-a0ff-421a0172282e",
+      "type": "胸が締め付けられる",
+      "booklist": {
+        "is_completed": null
+      }
+    },
+    "owner": {
+      "id": "15aa4bb0-a688-4b60-8036-c354ea53b174",
+      "username": "渡辺爽斗",
+      "is_superuser": false
+    },
+    "books": [
+      {
+        "id": "30ead15e-1e12-48a1-a1ad-7b1231f1a89a",
+        "title": "とらドラ！",
+        "description": "修学旅行で大河を助けたのが誰だったのか……。 ずっと隠していた真実がついに大河に知られてしまった。 そのことをきっかけに、竜児の、大河の、実乃梨の、心の奥に秘めていた想いがあふれだす。 進路のこと、友達のこと、家族のこと、恋のこと…。 悩める竜児たちの気持ちが爆発する、激動の11巻！",
+        "image": "http://books.google.com/books/content?id=HRinEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 0,
+        "booklist": "b46b5447-f06e-4ad3-a1d2-c09bf0c80d2c"
+      },
+      {
+        "id": "109351fb-f412-47bf-8377-0dd432adef5d",
+        "title": "一週間フレンズ。",
+        "description": "「でも、私…トモダチの記憶、一週間で消えちゃうの――。」 いつも一人ぼっちでいたクラスメイト・藤宮香織の告げた事実。 主人公・長谷祐樹は、それでも香織と友達になりたいと願う。 一週間の記憶を綴って、巡って、二人はトモダチになっていく。何度も、何度でも――。 「トモダチ」巡る青春グラフィティ、はじまります。",
+        "image": "http://books.google.com/books/content?id=hrvFDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 1,
+        "booklist": "b46b5447-f06e-4ad3-a1d2-c09bf0c80d2c"
+      },
+      {
+        "id": "b4d23299-22be-481f-bde9-17ae6aacab80",
+        "title": "アオハライド",
+        "description": "冬馬とつきあうことにし、キスもした双葉。洸への気持ちを振り切り、前に進もうとする。修学旅行の行き先は、洸が中学時代を過ごした長崎。双葉、洸、悠里、修子、小湊で同じ班になり一緒に過ごす中で──。",
+        "image": "http://books.google.com/books/content?id=njbGCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 2,
+        "booklist": "b46b5447-f06e-4ad3-a1d2-c09bf0c80d2c"
+      },
+      {
+        "id": "2fd6d6d3-04e0-4027-bd7c-bc8665cd0b58",
+        "title": "暁のヨナ",
+        "description": "メイニャン奪還の為、南戒陣内に忍び込んだヨナたち。 ヒッタン将軍と対峙するハクの前に現れたヴァルはかつての戦友たちとの訣別を決意し...!? 2023年5月刊",
+        "image": "http://books.google.com/books/content?id=PhO6zwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+        "order": 3,
+        "booklist": "b46b5447-f06e-4ad3-a1d2-c09bf0c80d2c"
+      },
+      {
+        "id": "5a891294-fca7-4bd7-99ab-dfb453e61935",
+        "title": "君に届け",
+        "description": "【リマスターシリーズですが、雑誌掲載時にカラーページが無く、全ページモノクロでの配信です。ご了解ください】修学旅行in沖縄開始!! 楽しい時間の中で、それぞれの気持ちが動き出す…。龍が告白されたと知り、もやもやする千鶴。旅行直前に付きあい始めた茂木と微妙な空気のあやね。そして夜、お風呂上がりに会った風早と爽子がどきどきの急接近…!?",
+        "image": "http://books.google.com/books/content?id=f_HGCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 4,
+        "booklist": "b46b5447-f06e-4ad3-a1d2-c09bf0c80d2c"
+      }
+    ],
+    "is_completed": true
+  },
+  {
+    "id": "1e982847-6d0d-4069-99ef-6f9356cf7e85",
+    "type": {
+      "id": "e9f4fa8c-5b12-43da-a0ff-421a0172282e",
+      "type": "胸が締め付けられる",
+      "booklist": {
+        "is_completed": null
+      }
+    },
+    "owner": {
+      "id": "09e422c8-2440-4590-bc0b-a9e5b6de83aa",
+      "username": "田中瑠彗",
+      "is_superuser": false
+    },
+    "books": [
+      {
+        "id": "93c2f7fe-e166-4e49-9f08-207a4858e14f",
+        "title": "弱虫ペダル",
+        "description": "ゴールまで残り500m！！ 先頭を走る真波に追いついた坂道。そして坂道、真波の2人はスプリント体勢に入り、ゴールを賭けた最終勝負へ！！",
+        "image": "http://books.google.com/books/content?id=XarWDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 0,
+        "booklist": "1e982847-6d0d-4069-99ef-6f9356cf7e85"
+      },
+      {
+        "id": "81ad3ed8-714d-472e-8677-434da7c9cffb",
+        "title": "MAJOR",
+        "description": "【無料試し読み閲覧期間2021/02/18～2021/03/03】 光の猛烈な後押しによって、ドルフィンズに復帰することになった大吾。 野球への情熱を取り戻した大吾は、次の大会へ向け特訓を重ねる。 だがそんな大吾に、信じられない知らせが届き……？",
+        "image": "http://books.google.com/books/content?id=Bs8eEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+        "order": 1,
+        "booklist": "1e982847-6d0d-4069-99ef-6f9356cf7e85"
+      },
+      {
+        "id": "7005ebf3-9d6b-4c12-ae45-739e58ba5f3a",
+        "title": "NARUTO",
+        "description": "オレ、うずまきナルト。今回、オレたちが請け負った任務は、滝隠れの里長・シブキの護衛。こんな任務、楽勝、楽勝って思ってたら、水煙っていう忍者が手下を連れて襲ってきた!シブキは弱虫で役に立たねーし、サスケやサクラはつかまっちまうし...。水煙が狙ってる里の秘宝と、里のみんなを守るため、オレ、またまたがんばっちゃうんだもんね。誰が本当の英雄か、このオレが教えてやるってばよ!",
+        "image": "http://books.google.com/books/content?id=GfKbuAAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+        "order": 2,
+        "booklist": "1e982847-6d0d-4069-99ef-6f9356cf7e85"
+      },
+      {
+        "id": "ace7b6c2-5683-4c38-9e51-d43b8d2a5581",
+        "title": "ONE PIECE",
+        "description": "打倒カイドウを諦めないルフィの復活を信じ、幹部達と激闘を繰り広げる仲間達!! 一方、鬼ヶ島屋上では、ヤマトとカイドウ因縁の親子対決が始まろうとしていた!! “ひとつなぎの大秘宝”を巡る海洋冒険ロマン!!",
+        "image": "http://books.google.com/books/content?id=2shLEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 3,
+        "booklist": "1e982847-6d0d-4069-99ef-6f9356cf7e85"
+      },
+      {
+        "id": "33800c32-79d2-47cf-84b6-4c68b8dbb27e",
+        "title": "ダイヤのＡ",
+        "description": "汗と涙と男と男！ 40巻分の歴史がたっぷり詰まった、珠玉のファンブック第一弾！ 身長・体重・生年月日etc.……個性豊かな球児達の詳細プロフィールを初公開！ さらに、“チーター様”こと倉持洋一のスペシャル番外編を完全収録！ そして、寺嶋先生とプロ野球選手達との誌上対談までアンコール掲載！ これを読んで、『ダイヤのＡ』を知り尽くそう！",
+        "image": "http://books.google.com/books/content?id=9tDJBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 4,
+        "booklist": "1e982847-6d0d-4069-99ef-6f9356cf7e85"
+      }
+    ],
+    "is_completed": true
+  },
+  {
+    "id": "69f465d9-3ab2-43e1-a826-7e7d10341791",
+    "type": {
+      "id": "e9f4fa8c-5b12-43da-a0ff-421a0172282e",
+      "type": "胸が締め付けられる",
+      "booklist": {
+        "is_completed": null
+      }
+    },
+    "owner": {
+      "id": "0d3b53e2-b573-4a3e-8d7d-fd5139adaec9",
+      "username": "田中翔大",
+      "is_superuser": false
+    },
+    "books": [
+      {
+        "id": "4e5fdd84-38f4-4782-a86b-e8b184457668",
+        "title": "DEATH NOTE",
+        "description": "デスノートを現在所有するヨツバ・火口を包囲した捜査本部。その時、月は再びデスノートを手にする事ができるのか!? そして、月が監禁前に思い描いていた計画は実現するのか!? 衝撃の事実が待ち受ける……!!",
+        "image": "http://books.google.com/books/content?id=UdXKCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 0,
+        "booklist": "69f465d9-3ab2-43e1-a826-7e7d10341791"
+      },
+      {
+        "id": "d5afc500-67d9-455e-9ff2-0678540e39f8",
+        "title": "鬼滅の刃",
+        "description": "概要情報なし",
+        "image": "http://books.google.com/books/content?id=Mj1cDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 1,
+        "booklist": "69f465d9-3ab2-43e1-a826-7e7d10341791"
+      },
+      {
+        "id": "4dbaadcb-e0df-414b-aa09-84aa6b29b40f",
+        "title": "暗殺教室",
+        "description": "号令と共に教室を満たす銃声！ 椚ヶ丘中学校3年E組は生徒全員が先生の命を狙う暗殺教室。教師と生徒、標的と暗殺者の異常な日常が始まる――!!",
+        "image": "http://books.google.com/books/content?id=xZ_MCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 2,
+        "booklist": "69f465d9-3ab2-43e1-a826-7e7d10341791"
+      },
+      {
+        "id": "f47b9190-0ac4-4481-891e-deaa82353b9e",
+        "title": "君の膵臓をたべたい",
+        "description": "偶然、僕が拾った1冊の文庫本。それはクラスメイトである山内桜良が綴った、秘密の日記帳だった―圧倒的デビュー作!",
+        "image": "http://books.google.com/books/content?id=oTLTsgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+        "order": 3,
+        "booklist": "69f465d9-3ab2-43e1-a826-7e7d10341791"
+      },
+      {
+        "id": "135987b6-3fb6-401b-b879-f571af6806fb",
+        "title": "進撃の巨人",
+        "description": "王の命を受けた中央憲兵により、ニック司祭が殺される。その目的は調査兵団の現状把握とエレン、クリスタの居場所特定だった。身柄を狙われることになったエレンとクリスタ。暴走する王に対し、調査兵団はついに王政打倒を決意する……!!",
+        "image": "http://books.google.com/books/content?id=-prDBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 4,
+        "booklist": "69f465d9-3ab2-43e1-a826-7e7d10341791"
+      }
+    ],
+    "is_completed": true
+  },
+  {
+    "id": "5317e471-a433-4916-a8a6-51d58e85059b",
+    "type": {
+      "id": "e9f4fa8c-5b12-43da-a0ff-421a0172282e",
+      "type": "胸が締め付けられる",
+      "booklist": {
+        "is_completed": null
+      }
+    },
+    "owner": {
+      "id": "609c8ebd-0a18-44d3-9174-1ec336924712",
+      "username": "田崎丈太郎",
+      "is_superuser": false
+    },
+    "books": [
+      {
+        "id": "751725e4-a5c6-4cc2-a4a3-7e59233c8ab0",
+        "title": "タコピーの原罪",
+        "description": "【デジタル版限定！「少年ジャンプ+」掲載時のカラーページを完全収録!!】地球にハッピーを広めるため降り立ったハッピー星人・タコピー。助けてくれた少女・しずかの笑顔を取り戻すため奔走するが、少女を取り巻く環境は壮絶。無垢なタコピーには想像がつかないものだった。ただ笑って欲しかったタコピーが犯す罪とは…!?",
+        "image": "http://books.google.com/books/content?id=6kVbEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 0,
+        "booklist": "5317e471-a433-4916-a8a6-51d58e85059b"
+      },
+      {
+        "id": "dc364972-3123-4899-868e-8c6649a0ac00",
+        "title": "がっこうぐらし！",
+        "description": "学校に寝泊まりしちゃおうという学園生活部で、シャベルを愛する(?)くるみ、皆をまとめるりーさん、おっとりした顧問のめぐねえらに囲まれたゆきの瞳に映る幸せな“日常”はしかし……!? 強力タッグが贈る注目作、衝撃の第1巻!!",
+        "image": "http://books.google.com/books/content?id=TUcuDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 1,
+        "booklist": "5317e471-a433-4916-a8a6-51d58e85059b"
+      },
+      {
+        "id": "9d87effa-98a9-4cc9-9e1e-06605de59d03",
+        "title": "一ノ瀬家の大罪",
+        "description": "一ノ瀬翼は、事故で記憶を失ってしまった中学生。無事に家族と対面するも、彼らも事故で全員記憶喪失になっていた。記憶を取り戻すために嘘の思い出話で絆を深めた翼たちだが、自宅に帰ってみると自分たちは思っていたような家族ではなかった事に気付かされ――!?",
+        "image": "http://books.google.com/books/content?id=t7mpEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 2,
+        "booklist": "5317e471-a433-4916-a8a6-51d58e85059b"
+      },
+      {
+        "id": "e116e3b5-e5ad-4dda-8acb-74d5dc60606c",
+        "title": "ブラック・ジャック",
+        "description": "失踪していた父の急死、そしてその遺産をめぐって起こる醜い争いに巻きこまれたブラック・ジャック。なぜか親族会議に固執する彼の真意はなにか!? 生命の神秘に光を当てる異色の医学ドラマ、好評の第15巻刊行!",
+        "image": "http://books.google.com/books/content?id=nQnXAAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 3,
+        "booklist": "5317e471-a433-4916-a8a6-51d58e85059b"
+      },
+      {
+        "id": "771d1dda-bd41-4a79-9076-0b63855a5a22",
+        "title": "編集王",
+        "description": "幼い頃、『あしたのジョ－』を読んで感動し、ボクサ－になると宣言したカンパチこと桃井環八。念願のボクサ－になり、チャンピオンを目指しているものの、成績は不振で、万年10回戦ボ－イと呼ばれていた。ある日、定期検診を受けたカンパチは、眼の精密検査を受けるようにと医者から忠告を受ける。網膜剥離でボクシングを断念せざるを得なくなったカンパチは、幼なじみのヒロ兄ィこと青梅広道の紹介で、青梅が働くヤングシャウト編集部でアルバイトをすることになる",
+        "image": "http://books.google.com/books/content?id=r1P4CgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 4,
+        "booklist": "5317e471-a433-4916-a8a6-51d58e85059b"
+      }
+    ],
+    "is_completed": true
+  },
+  {
+    "id": "cb84f5d4-178f-44ca-8249-c898d7924c54",
+    "type": {
+      "id": "e9f4fa8c-5b12-43da-a0ff-421a0172282e",
+      "type": "胸が締め付けられる",
+      "booklist": {
+        "is_completed": null
+      }
+    },
+    "owner": {
+      "id": "30659a3e-e853-4b41-a63f-eef28a81711e",
+      "username": "田所拓人",
+      "is_superuser": false
+    },
+    "books": [
+      {
+        "id": "82cae99f-e87a-4290-bf11-03a4e076770c",
+        "title": "寿命を買い取ってもらった。一年につき、一万円で。",
+        "description": "毎日を無気力に過ごしていた青年クスノキは、ある日寿命を買い取ってくれる不思議な店の噂を耳にする。金に困って寿命の大半を売り払った彼は、余命3か月を「監視員」のミヤギと共に過ごすことになるが…。三秋縋の人気小説「三日間の幸福」を完全コミカライズ。",
+        "image": "http://books.google.com/books/content?id=fBUqDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 0,
+        "booklist": "cb84f5d4-178f-44ca-8249-c898d7924c54"
+      },
+      {
+        "id": "9ac98cad-f161-40e5-99b4-2732ca8f63bd",
+        "title": "恋する寄生虫",
+        "description": "失業中の青年・高坂賢吾と不登校の少女・佐薙ひじり。一見何もかもが噛み合わない二人は、社会復帰に向けてリハビリを共に行う中で惹かれ合い、やがて恋に落ちる。しかし、幸福な日々はそう長くは続かなかった。",
+        "image": "http://books.google.com/books/content?id=ZNd6DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 1,
+        "booklist": "cb84f5d4-178f-44ca-8249-c898d7924c54"
+      },
+      {
+        "id": "a714ad6d-131c-41ad-8014-b7d14b34a596",
+        "title": "私の息子が異世界転生したっぽい",
+        "description": "息子を失った母と同級生、喪失と愛情の物語 「異世界に行った息子と会う方法を教えてほしい」 17年ぶりに再会した同級生からの依頼で オタク陰キャな会社員・堂原の非日常な日々が始まった！ 最愛の子を失くすということ。 この世界で最も大きな喪失感と向き合う物語。 【ご推薦の声！】 「美央の探求心と行動力を、私は現実逃避だとは思いません。 かけがえのない大切な人を喪った時、 もう二度と会えないかもしれないけれど きっとどこかで生きていると考えるのは自然なことではないでしょうか。 美央が大我への思いを健やかに手放し、 堂原が自分自身を取り戻すまで、じっくり時間をかけて欲しい。 もっと二人の物語の続きが見たいです」 ジェーン・スー（コラムニスト） 「異世界モノの意味、考えたことある？ 異世界モノが単に空虚なものであったら、 世界中になぜこんなにも広がっているのでしょうか。 息子を亡くす、というこの世で最大の不幸に見舞われた母が ライトノベルにその意味を見出そうとする。 この母の前に登場するのが慎ましく生きる一人のオタク。 オタクは、人を救うことができる聖職者なのかもしれません」 吉田尚記（ニッポン放送アナウンサー）",
+        "image": "http://books.google.com/books/content?id=uklREAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 2,
+        "booklist": "cb84f5d4-178f-44ca-8249-c898d7924c54"
+      },
+      {
+        "id": "03a6cf48-82fb-43bc-8f12-f5cafff0013b",
+        "title": "銀魂",
+        "description": "ある歪んだ思惑から月詠に接近したかつての師匠・地雷亜。弟子を裏切る非道な師に、銀時が怒りの刃で立ち向かう。だが地雷亜の強さは想像を絶し……!? 他にもあの女の酒グセとか、歯医者でドリられたりとか。",
+        "image": "http://books.google.com/books/content?id=fT3MCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 3,
+        "booklist": "cb84f5d4-178f-44ca-8249-c898d7924c54"
+      },
+      {
+        "id": "186b84b7-ab2f-426c-85d2-8a957bfd212b",
+        "title": "葬送のフリーレン",
+        "description": "魔王を倒した勇者一行の後日譚ファンタジー 魔王を倒した勇者一行の“その後”。 魔法使いフリーレンはエルフであり、他の3人と違う部分があります。 彼女が”後”の世界で生きること、感じることとは－－ 残った者たちが紡ぐ、葬送と祈りとは－－ 物語は“冒険の終わり”から始まる。 英雄たちの“生き様”を物語る、後日譚（アフター）ファンタジー！",
+        "image": "http://books.google.com/books/content?id=3B33DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 4,
+        "booklist": "cb84f5d4-178f-44ca-8249-c898d7924c54"
+      }
+    ],
+    "is_completed": true
+  },
+  {
+    "id": "94121e2c-c0ba-42db-8506-0b9c64652259",
+    "type": {
+      "id": "e9f4fa8c-5b12-43da-a0ff-421a0172282e",
+      "type": "胸が締め付けられる",
+      "booklist": {
+        "is_completed": null
+      }
+    },
+    "owner": {
+      "id": "b41f95b2-91a9-4bb9-813e-05ab6001c6de",
+      "username": "真田葵生",
+      "is_superuser": false
+    },
+    "books": [
+      {
+        "id": "1a5c107f-019e-4fa5-99ea-3cd77db9d597",
+        "title": "がっこうぐらし！",
+        "description": "学校に寝泊まりしちゃおうという学園生活部で、シャベルを愛する(?)くるみ、皆をまとめるりーさん、おっとりした顧問のめぐねえらに囲まれたゆきの瞳に映る幸せな“日常”はしかし……!? 強力タッグが贈る注目作、衝撃の第1巻!!",
+        "image": "http://books.google.com/books/content?id=TUcuDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 0,
+        "booklist": "94121e2c-c0ba-42db-8506-0b9c64652259"
+      },
+      {
+        "id": "269a3e80-fde7-4215-9706-bae87b050632",
+        "title": "幸色のワンルーム",
+        "description": "その日、少女は誘拐された。しかし、それは少女にとって一縷の希望にかけた生活の始まりだった。少女は誘拐犯に結婚を誓い、誘拐犯は少女にたくさんの“幸せ”を捧ぐ。被害者と誘拐犯の関係なのに―――どうしてこんなに温かいの？ pixiv＆Twitterの超話題作が待望の書籍化!!! 半分以上が本書限定の描き下ろしエピソードを収録!!!",
+        "image": "http://books.google.com/books/content?id=RC7GDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 1,
+        "booklist": "94121e2c-c0ba-42db-8506-0b9c64652259"
+      },
+      {
+        "id": "db010529-296e-469b-ac84-3a0924f7ab6c",
+        "title": "東京卍リベンジャーズ",
+        "description": "最愛の人を救うため、ダメフリーター・花垣タケミチが12年前の中学時代にタイムリープ! 関東最凶不良軍団の頂点を目指す!",
+        "image": "http://books.google.com/books/content?id=A5_XtAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+        "order": 2,
+        "booklist": "94121e2c-c0ba-42db-8506-0b9c64652259"
+      },
+      {
+        "id": "f7810854-602e-41d0-b068-025b58587130",
+        "title": "葬送のフリーレン",
+        "description": "魔王を倒した勇者一行の後日譚ファンタジー 魔王を倒した勇者一行の“その後”。 魔法使いフリーレンはエルフであり、他の3人と違う部分があります。 彼女が”後”の世界で生きること、感じることとは－－ 残った者たちが紡ぐ、葬送と祈りとは－－ 物語は“冒険の終わり”から始まる。 英雄たちの“生き様”を物語る、後日譚（アフター）ファンタジー！",
+        "image": "http://books.google.com/books/content?id=3B33DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 3,
+        "booklist": "94121e2c-c0ba-42db-8506-0b9c64652259"
+      },
+      {
+        "id": "1fac7c9b-736e-4b63-9eb8-621f6e1b414a",
+        "title": "どろろ",
+        "description": "魔神にからだの四十八か所をうばわれた少年百鬼丸!安住の地を求める百鬼丸には、常に妖怪がつきまとうのだった!彼の刀をねらう奇妙な相棒、どろろをくわえて妖怪退治の旅が始まる!異色の時代劇、第一弾!",
+        "image": "http://books.google.com/books/content?id=6Q3XAAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 4,
+        "booklist": "94121e2c-c0ba-42db-8506-0b9c64652259"
+      }
+    ],
+    "is_completed": true
+  },
+  {
+    "id": "00962584-1720-4518-a544-ea0050827fc8",
+    "type": {
+      "id": "e9f4fa8c-5b12-43da-a0ff-421a0172282e",
+      "type": "胸が締め付けられる",
+      "booklist": {
+        "is_completed": null
+      }
+    },
+    "owner": {
+      "id": "3b0f0ea8-0efe-451b-ad80-5950adf25b0e",
+      "username": "石田優希",
+      "is_superuser": false
+    },
+    "books": [
+      {
+        "id": "b71870e1-6a63-4c3c-9819-cdb9f8b828f0",
+        "title": "薫る花は凛と咲く",
+        "description": "とある場所に、隣接するふたつの高校がある。バカが集まる底辺男子校・千鳥高校と、由緒正しきお嬢様校・桔梗女子。強面で物静かな千鳥高校２年・紬 凛太郎は、実家のケーキ屋の手伝い中にお客として来ていた少女・和栗薫子と出会う。薫子との時間を心地よく感じる凛太郎だったが、彼女は徹底して千鳥を嫌う桔梗女子の生徒で……!?",
+        "image": "http://books.google.com/books/content?id=WpphEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 0,
+        "booklist": "00962584-1720-4518-a544-ea0050827fc8"
+      },
+      {
+        "id": "a2193ec2-89a6-4011-9dcb-4a2ebaba3f47",
+        "title": "夏目友人帳",
+        "description": "妖怪に関する展示を見るために、夏目は田沼・多軌と共に隣の市にある旅館へ。急な悪天候により旅館に泊まる事になるが、そこは妖怪も泊まる事もあるという言い伝えが…？ そして遂に語られる「友人帳」の原点とは！？ 特別編２編も収録！ あやかし契約奇談 第22巻！！",
+        "image": "http://books.google.com/books/content?id=4OJ9DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 1,
+        "booklist": "00962584-1720-4518-a544-ea0050827fc8"
+      },
+      {
+        "id": "14ac821e-fd9c-4292-9541-d0c87f447148",
+        "title": "わたしの幸せな結婚",
+        "description": "異能の家系に生まれながら、その能力を受け継がなかった娘、斎森美世。能力を開花させた異母妹に使用人のように扱われていた。親にも愛されず、誰にも必要とされない娘。唯一の味方だった幼馴染も異母妹と結婚し家を継ぐことに。邪魔者になった美世は冷酷無慈悲と噂される久堂家に嫁ぐことに…。和風ファンタジー×嫁入り。結婚から始まる恋愛の物語。",
+        "image": "http://books.google.com/books/content?id=ijzGDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 2,
+        "booklist": "00962584-1720-4518-a544-ea0050827fc8"
+      },
+      {
+        "id": "30a68a69-4384-41dc-88f9-a5c5ea5810e0",
+        "title": "それでも世界は美しい",
+        "description": "雨を降らせる能力を持つ「雨の公国」の第四公女・ニケ。彼女は嫌々ながらも国のため「晴れの大国」の太陽王・リヴィウス一世に嫁ぐことに！ …しかも、即位して3年で世界を征服したと聞いたが、なんとまだ子供！ さらにくだらない理由で、雨を降らせろと要求されて…！？",
+        "image": "http://books.google.com/books/content?id=Yu59DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 3,
+        "booklist": "00962584-1720-4518-a544-ea0050827fc8"
+      },
+      {
+        "id": "82d3f50b-276d-422f-ac87-344734c751d9",
+        "title": "この音とまれ！",
+        "description": "先輩が卒業して箏曲部ただ一人の部員になってしまった武蔵。四月になり新入部員の勧誘に励むのだが、部の存在自体を知らない人も居る状態。そんな彼の前に現れた、見るからに不良で箏とは縁の無さそうな新入生が入部したいと言い出して!?",
+        "image": "http://books.google.com/books/content?id=oJ_MCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 4,
+        "booklist": "00962584-1720-4518-a544-ea0050827fc8"
+      }
+    ],
+    "is_completed": true
+  },
+  {
+    "id": "8700336f-ec6e-40e4-9228-5f6fc911f70e",
+    "type": {
+      "id": "e9f4fa8c-5b12-43da-a0ff-421a0172282e",
+      "type": "胸が締め付けられる",
+      "booklist": {
+        "is_completed": null
+      }
+    },
+    "owner": {
+      "id": "3df9f382-6aca-4585-bc64-183b4e0504ca",
+      "username": "福井拓真",
+      "is_superuser": false
+    },
+    "books": [
+      {
+        "id": "4c1b4432-ddae-47b7-ad77-324f7ee7c700",
+        "title": "チェンソーマン",
+        "description": "俺がアキを――決して拭い去れない絶望に脳が糞になったデンジは、マキマに救いを求める。だが、一時の安息は更なる悪夢の始まりに過ぎなかった…。デンジの心の禁断の“扉”が開く時、マキマの真の思惑とチェンソーの悪魔の秘密が交錯、血みどろ地獄と化す!!",
+        "image": "http://books.google.com/books/content?id=Hc4LEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 0,
+        "booklist": "8700336f-ec6e-40e4-9228-5f6fc911f70e"
+      },
+      {
+        "id": "28a09a4f-159b-44ed-a0ab-210664b0cd84",
+        "title": "タコピーの原罪",
+        "description": "【デジタル版限定！「少年ジャンプ+」掲載時のカラーページを完全収録!!】地球にハッピーを広めるため降り立ったハッピー星人・タコピー。助けてくれた少女・しずかの笑顔を取り戻すため奔走するが、少女を取り巻く環境は壮絶。無垢なタコピーには想像がつかないものだった。ただ笑って欲しかったタコピーが犯す罪とは…!?",
+        "image": "http://books.google.com/books/content?id=6kVbEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 1,
+        "booklist": "8700336f-ec6e-40e4-9228-5f6fc911f70e"
+      },
+      {
+        "id": "48c7a8d3-4c0d-48f2-9dcb-3a09770c0de4",
+        "title": "忘却バッテリー",
+        "description": "帝徳の猛攻を防げば、小手指の勝利が決まる最終局面！ しかし、試合開始から一人で投球し続けた清峰の体力は既に限界を迎えていた。9回裏無死（ノーアウト）ランナー一・二塁、迎える帝徳打者は国都。極限まで追い込まれ、威圧感で潰されそうな雰囲気の中、小手指バッテリーがとった行動は――…。",
+        "image": "http://books.google.com/books/content?id=2zg1EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 2,
+        "booklist": "8700336f-ec6e-40e4-9228-5f6fc911f70e"
+      },
+      {
+        "id": "0c5eb42f-3a97-4c93-90b1-fa2cfb1883e6",
+        "title": "アンデッドアンラック",
+        "description": "風子奪還とスプリング討伐に向かうアンディ達。待ち構えるアンダーとの激戦の中、一人タワーの頂上へと到達した風子は、スプリングに対話を持ち掛ける。しかし神に縛られたスプリングは、風子との三本勝負を望み!?",
+        "image": "http://books.google.com/books/content?id=hkVbEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 3,
+        "booklist": "8700336f-ec6e-40e4-9228-5f6fc911f70e"
+      },
+      {
+        "id": "ff0af925-4ddb-4f4f-b1d3-8847a67a686f",
+        "title": "葬送のフリーレン",
+        "description": "魔王を倒した勇者一行の後日譚ファンタジー 魔王を倒した勇者一行の“その後”。 魔法使いフリーレンはエルフであり、他の3人と違う部分があります。 彼女が”後”の世界で生きること、感じることとは－－ 残った者たちが紡ぐ、葬送と祈りとは－－ 物語は“冒険の終わり”から始まる。 英雄たちの“生き様”を物語る、後日譚（アフター）ファンタジー！",
+        "image": "http://books.google.com/books/content?id=3B33DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 4,
+        "booklist": "8700336f-ec6e-40e4-9228-5f6fc911f70e"
+      }
+    ],
+    "is_completed": true
+  },
+  {
+    "id": "ebaef06e-1d6a-4064-9791-c369d3a0c6c8",
+    "type": {
+      "id": "e9f4fa8c-5b12-43da-a0ff-421a0172282e",
+      "type": "胸が締め付けられる",
+      "booklist": {
+        "is_completed": null
+      }
+    },
+    "owner": {
+      "id": "6a0a1e44-ea0e-4226-a290-4baae2e4ab82",
+      "username": "秋山明日香",
+      "is_superuser": false
+    },
+    "books": [
+      {
+        "id": "0f6a1d94-3c1f-4a6c-8a80-dc6c72540bbb",
+        "title": "ダイヤのＡ",
+        "description": "目指すはエースの座と全国の頂点！ ２年生となり、ついに甲子園デビューを果たした沢村栄純と、青道高校野球部の新たな挑戦が始まる！ 青道高校vs．稲城実業高校、甲子園を懸けた最終９回。成宮と多田野の出塁で稲実はサヨナラの絶好機到来！！ ノーアウト走者一塁三塁の場で、青道エース・沢村は御幸のミットをめがけて渾身の一球を投げぬく――。熱血の新・王道野球漫画、堂々完結。",
+        "image": "http://books.google.com/books/content?id=INW9EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 0,
+        "booklist": "ebaef06e-1d6a-4064-9791-c369d3a0c6c8"
+      },
+      {
+        "id": "03a1be23-e94e-43b7-863e-b6844bc3a0f1",
+        "title": "Banana Fish",
+        "description": "カリフォルニア。ついにアッシュはバナナフィッシュの恐るべき正体を知った。 だが、ゴルツィネと手を結んだチャイニーズマフィアの包囲網がアッシュに迫る。 李一族の末弟・月龍の策に落ちたショーターの裏切",
+        "image": "http://books.google.com/books/content?id=gyg2AQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+        "order": 1,
+        "booklist": "ebaef06e-1d6a-4064-9791-c369d3a0c6c8"
+      },
+      {
+        "id": "e6c1c28c-d639-4e1a-92c7-1b77c70ace20",
+        "title": "86―エイティシックス―",
+        "description": "サンマグノリア共和国は、日々隣国ギアーデ帝国の無人兵器による攻撃を受けていた。共和国側も無人兵器の開発に成功、無人機同士の戦いが続いていた……表向きは。本当は、共和国全85区画の外、“存在しない86区”に居住する「エイティシックス」と蔑まれる少年少女達が無人機を操縦し“有人機の無人機”として戦う事を余儀なくされていた。その最前線で戦う「スピアヘッド戦隊」の隊長である少年・シンと、共和国軍の指揮管制官（ハンドラー）の少女・レーナは任務の中出会い、そして激しい運命に翻弄されていく――!!! 原作小説、累計40万部突破!! 数々の賞を受賞する今一番面白いラノベを圧倒的画力でコミカライズ!! 原作者・安里アサト氏書き下ろし小説も収録!!",
+        "image": "http://books.google.com/books/content?id=LDHGDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 2,
+        "booklist": "ebaef06e-1d6a-4064-9791-c369d3a0c6c8"
+      },
+      {
+        "id": "8e24c9a3-44d6-47bc-842c-b52f5708576b",
+        "title": "Angel Beats!",
+        "description": "【電子書籍版特典：2015年配信の『Angel Beats！ -Track ZERO-』のカラーイラストを巻末に再収録！】 TVアニメで 描かれる以前の『Angel Beats!』が美麗なイラストと麻枝 准の文章で紡がれるーー！ ※本作品は2015年発売の『Angel Beats！ -Track ZERO-』を加筆・再編集し、電子書籍化したものです。",
+        "image": "http://books.google.com/books/content?id=Nd3cDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 3,
+        "booklist": "ebaef06e-1d6a-4064-9791-c369d3a0c6c8"
+      },
+      {
+        "id": "a53482f2-42bf-4fe7-9e45-db08a859797d",
+        "title": "宝石の国",
+        "description": "宝石たちは、フォスに誘われ月に向かった者たちと、地上に残り、金剛先生と新たな関係を築こうとする者たちにわかれていた。フォスは月人の軍勢と月の宝石たち数名を連れて地上に降り立ち、地上の宝石たちを粉々にしていき、学校内部へと進む。内部で待っていたのは、ユークレースとジェード、そしてーー。",
+        "image": "http://books.google.com/books/content?id=5X-bEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 4,
+        "booklist": "ebaef06e-1d6a-4064-9791-c369d3a0c6c8"
+      }
+    ],
+    "is_completed": true
+  },
+  {
+    "id": "634b8f0a-177b-405e-b9dc-da557a39554f",
+    "type": {
+      "id": "e9f4fa8c-5b12-43da-a0ff-421a0172282e",
+      "type": "胸が締め付けられる",
+      "booklist": {
+        "is_completed": null
+      }
+    },
+    "owner": {
+      "id": "ccaf3e84-c7b8-4855-a658-19a6924b9592",
+      "username": "竹元亨舟",
+      "is_superuser": false
+    },
+    "books": [
+      {
+        "id": "40c7e654-27ec-4839-82e6-6bfd9ac60092",
+        "title": "闇金ウシジマくん",
+        "description": "【無料試し読み閲覧期間2017/11/10～2017/11/24】 丑嶋のもとを毎朝9時に訪れる「奴隷くん」と呼ばれる人々。それはパチンコ依存症の主婦たちのことで、丑嶋は彼女らに3万円の現金と引き換えに5万円の借用書にサインさせる。あらかじめ金利・手数料2万円を引いた上、1日3割もの暴利を課しているにも拘わらず、今日も彼の会社には哀れな訪問者が引きも切らない。",
+        "image": "http://books.google.com/books/content?id=KcE9DwAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+        "order": 0,
+        "booklist": "634b8f0a-177b-405e-b9dc-da557a39554f"
+      },
+      {
+        "id": "fa3388ff-5f2e-4c0a-9497-33dac78c973c",
+        "title": "ちいかわ",
+        "description": "「自分ツッコミくま」ナガノの人気シリーズ、待望の書籍化！ なんか小さくてかわいいやつ＝通称「ちいかわ」たちが繰り広げる、楽しくて、切なくて、ちょっとハードな日々の物語。 みんなに愛されて、優しくされて、こういう風になって暮らしたい…はずが、周囲には得体の知れない存在もたくさん!? でも、大好きなハチワレやうさぎたちと、おいしいものを食べたり、労働の報酬でほしいものを手に入れようとしたり、毎日を一生懸命生きる「ちいかわ」の周りは、いつも笑顔で溢れています。 この本でしか読めない描きおろしエピソードももちろん収録！ もう一つの「ナガノワールド」、ここに開幕です！",
+        "image": "http://books.google.com/books/content?id=zZQZEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 1,
+        "booklist": "634b8f0a-177b-405e-b9dc-da557a39554f"
+      },
+      {
+        "id": "34f94190-b0e6-4b65-b68e-7568c52345cc",
+        "title": "恋は雨上がりのように",
+        "description": "橘あきら。17歳。高校2年生。 感情表現が少ないクールな彼女が、胸に秘めし恋。 その相手はバイト先のファミレス店長。 ちょっと寝ぐせがついてて、 たまにチャックが開いてて、 後頭部には10円ハゲのある そんな冴えないおじさん。 青春の交差点で立ち止まったままの彼女と、 人生の折り返し地点にさしかかった彼が織りなす、 恋と青春の物語。」",
+        "image": "http://books.google.com/books/content?id=IJL8CgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 2,
+        "booklist": "634b8f0a-177b-405e-b9dc-da557a39554f"
+      },
+      {
+        "id": "78b75313-9450-4ca3-95e2-eb1f3ee95b01",
+        "title": "ジョジョの奇妙な冒険 第6部",
+        "description": "【ページ数が多いビッグボリューム版！】2011年アメリカ、空条徐倫は恋人・ロメオの運転する車でのドライブ中、交通事故に遭遇する。そして弁護士とロメオに嵌められ、なんと15年の刑務所暮らしが確定してしまった…。母親の差し入れにより、父・承太郎から託されたペンダントに触れた徐倫にある変化が!?",
+        "image": "http://books.google.com/books/content?id=qSTHCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 3,
+        "booklist": "634b8f0a-177b-405e-b9dc-da557a39554f"
+      },
+      {
+        "id": "6efc314e-804f-47ee-8a89-07a32c89ad49",
+        "title": "ジョジョの奇妙な冒険 第5部",
+        "description": "【デジタル着色によるフルカラー版！】西暦2001年、承太郎の命を受けてイタリアを訪れた康一は奇妙な少年と出会う。その少年ジョルノ・ジョバァーナは、DIOの息子だった！ ジョジョの奇妙な冒険第5部「黄金の風」これより開幕！（「黄金体験 その1」～「ブチャラティが来る その3」までの6話分を収録）",
+        "image": "http://books.google.com/books/content?id=SDlyCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 4,
+        "booklist": "634b8f0a-177b-405e-b9dc-da557a39554f"
+      }
+    ],
+    "is_completed": true
+  },
+  {
+    "id": "6a2116cc-a0ee-41fe-97f2-e5906b4a9d4d",
+    "type": {
+      "id": "e9f4fa8c-5b12-43da-a0ff-421a0172282e",
+      "type": "胸が締め付けられる",
+      "booklist": {
+        "is_completed": null
+      }
+    },
+    "owner": {
+      "id": "3b8d45cf-5669-41e6-980c-67c7246a3ea9",
+      "username": "藤川 雄翔",
+      "is_superuser": false
+    },
+    "books": [
+      {
+        "id": "a192635f-3558-46c1-a4be-48847cfff52c",
+        "title": "付き合ってあげてもいいかな",
+        "description": "私に、彼女ができました。 超モテるのに「好きな人と両想いになったことがない」パッと見いい女のみわ。 大学入学を機に軽音サークルに入り、絶対友達にならないタイプ！と思ったお調子者の冴子と急接近。 なんだかちょっと新しい扉が開いちゃう感じ…？ 「せっかくだからあたしたち、付き合ってみない？」 軽音サークルの仲間たちと織りなす、ホンネの女子大生ガールズラブ！！",
+        "image": "http://books.google.com/books/content?id=W6iBDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 0,
+        "booklist": "6a2116cc-a0ee-41fe-97f2-e5906b4a9d4d"
+      },
+      {
+        "id": "532063aa-4402-4516-a090-8aa9b64c868d",
+        "title": "それでも歩は寄せてくる",
+        "description": "「からかい上手の高木さん」山本崇一朗が描く超尊い将棋ラブコメ！この恋、詰むや詰まざるや…？将棋の初心者・田中歩は部長の八乙女うるしに勝って告白したい。棋力は程遠いけれども、ぐいぐい攻めてくる歩の姿勢に別の意味でセンパイは“詰む”かもしれない…というお話。",
+        "image": "http://books.google.com/books/content?id=fEKfDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 1,
+        "booklist": "6a2116cc-a0ee-41fe-97f2-e5906b4a9d4d"
+      },
+      {
+        "id": "18f2e5f3-3ed3-490b-8614-51bc52ca6797",
+        "title": "ひともんちゃくなら喜んで！",
+        "description": "ブラック企業？喜んで！！ キラキラオーラをまとい、SNSで「天使」と話題の人事コンサル、人見まもる（26） ………しかし！その実態は、すっぴん幸薄、彼氏ナシ、 さらに、現場経験ゼロのハリボテ広告塔だった！！ 焦りや不安、自分の弱さに悩みつつも、 ついに社会人4年目となった、ある日―― 人見はアパレル会社の社長・佐京と出会い、意気投合し、 人生初の案件を獲得！ ………しかし！ 佐京の会社は、人事改革の難易度MAXのブラック企業だった…… ヒステリック上司によるパワハラや、 色恋沙汰いじめを行うモンスター社員、通称「マウント四天王」を、 天使・人見がホワイトニングしていく！ ドタバタ、痛快、ときどきキュンな、オフィス改革ラブコメディー！",
+        "image": "http://books.google.com/books/content?id=5lxMEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 2,
+        "booklist": "6a2116cc-a0ee-41fe-97f2-e5906b4a9d4d"
+      },
+      {
+        "id": "feb4baaa-111a-4a74-9fce-d0bf072898e0",
+        "title": "虹色デイズ",
+        "description": "夢みがちな妄想男子・夏樹、チャラくて女好きの智也、いつもニコニコ実はドSな恵一、空気読まないマイペースオタク・剛。なんだかいつも一緒にいて、楽しい毎日。高校生男子4人がお届けする、お騒がせな日常！ 【同時収録】ある年とそれからの私たち／虹色外伝 夏太郎伝説",
+        "image": "http://books.google.com/books/content?id=we7GCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 3,
+        "booklist": "6a2116cc-a0ee-41fe-97f2-e5906b4a9d4d"
+      },
+      {
+        "id": "4794cdb8-24bc-40c6-8b0d-08c443fbcfd8",
+        "title": "幼稚園WARS",
+        "description": "さぁお遊戯の時間です 囚人番号999、元・伝説の殺し屋のリタ。彼女が今働いているのは、何と世界の重鎮達の子供が通う幼稚園！ その仕事は、日々差し向けられる刺客の魔の手から園児を守ること。圧倒的な力で敵を撃退するリタだが、実はイケメンに弱いという弱点があって…!? “世界一安全な幼稚園”で繰り広げられるバイオレンス×ラブコメディ、開幕!!",
+        "image": "http://books.google.com/books/content?id=o7mpEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 4,
+        "booklist": "6a2116cc-a0ee-41fe-97f2-e5906b4a9d4d"
+      }
+    ],
+    "is_completed": true
+  },
+  {
+    "id": "ea2005b4-ebf3-468c-8d79-fa73b3d6c14e",
+    "type": {
+      "id": "e9f4fa8c-5b12-43da-a0ff-421a0172282e",
+      "type": "胸が締め付けられる",
+      "booklist": {
+        "is_completed": null
+      }
+    },
+    "owner": {
+      "id": "a59fa2f6-06f4-464f-9942-18bbd3afabc7",
+      "username": "藤本直樹",
+      "is_superuser": false
+    },
+    "books": [
+      {
+        "id": "884cb740-b09d-40c7-b936-75297357234e",
+        "title": "BEASTARS",
+        "description": "隕石祭が迫る中、ジュノとルイが対峙。次なるビースターの座を目指して、肉食獣と草食獣の静かなる戦いが始まった。一方、ハルのことを好きだと気づいてしまったレゴシは、意を決して告白しようとするが…そのハルが何者かに攫われてしまった!!",
+        "image": "http://books.google.com/books/content?id=9244DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 0,
+        "booklist": "ea2005b4-ebf3-468c-8d79-fa73b3d6c14e"
+      },
+      {
+        "id": "d6f72106-f34d-4b50-8218-6185e2ef15ca",
+        "title": "ブルーピリオド",
+        "description": "高２で絵を描くことの楽しさに目覚め。猛烈な努力の末に東京藝大に合格した矢口八虎。 藝大２年目の夏のある日、八虎は、「公募展」なるものを知り、年上の同級生・八雲と鉢呂が、その作品制作のために彼等の故郷・広島へ帰省するのに誘われる。賞金や展示など授業や課題とは一線を画す作品作りの世界を意識した八虎は、夏休みを広島で過ごすことになった。 作品制作に励む一方、八雲や鉢呂、藝大の同級生・桃代たちと過ごすうちに、彼らの古い友人だった真田という藝大生の存在を知る。彼女こそは八雲や鉢呂や桃代にアートへ向かう強力な動機を植え付けた若き芸術家だった…！ 「新入生」の時期は終わり、大人へのステップが始まる。新しい出会い、新しい課題、美術との関わり方、八虎の人生も新しい局面へ。 アートの歴史や可能性を詳細に活写、美大に進学した青年たちの情熱や奮闘を描く、今までになかった美術系青春漫画、早くも最新刊登場！！",
+        "image": "http://books.google.com/books/content?id=Vj7iEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 1,
+        "booklist": "ea2005b4-ebf3-468c-8d79-fa73b3d6c14e"
+      },
+      {
+        "id": "ba56f448-0455-49e4-94c4-6e29e930c944",
+        "title": "アオアシ",
+        "description": "アニメ第2クール、好評放送中！！ 青森星蘭戦終了後、3日間のトップチーム練習参加を告げられたアシト。 ここで結果を出せば、念願のプロへの道が開ける――― 意気込んで練習に参加したアシトだったが、そこで「プロと自分との差」を痛感することに。 アシトにとって特に衝撃だったのが、「視ていないのにまるで視ているかのようなパスを出せる」、大ベテラン選手・司馬。 40歳となる彼に「頭 作り替えろ」と言われ混乱したアシトは、初日の練習終了後に司馬を訪ね、教えを乞う。 「このクラブで爆発していった選手は、アドバイスを訊いてくるだけでなく、生意気にもあることをやってきた」と司馬から言われ、アシトの混乱はさらに深まっていく。 しかしその後 偶然会った栗林と話すことで、「プロと自分の間に自分自身で壁を作っていたこと」に気づき、奮起する―――！！ 残り二日。 果たしてアシトはどんな進化を見せるのか！？",
+        "image": "http://books.google.com/books/content?id=3dyBEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 2,
+        "booklist": "ea2005b4-ebf3-468c-8d79-fa73b3d6c14e"
+      },
+      {
+        "id": "05375e27-a54c-4f00-9334-d4e7f6459d30",
+        "title": "ここは今から倫理です。",
+        "description": "自己とは何か――。自分をみつけられず、もがく生徒達に寄り添い語りかける倫理教師・高柳――。生徒達は彼の言葉に何を見出すのか――。倫理を通し、“自己”を探す教師物語第5巻!!",
+        "image": "http://books.google.com/books/content?id=H84LEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 3,
+        "booklist": "ea2005b4-ebf3-468c-8d79-fa73b3d6c14e"
+      },
+      {
+        "id": "8555730d-5b9b-41eb-a166-00eacfce2cc2",
+        "title": "東京喰種",
+        "description": "“喰種”が集まる喫茶「あんていく」には、今日も様々な葛藤と事件が集う。店長・芳村が察した、“不審人物”の影。それは、狩る存在と、狩られる存在、決して交わらない2つの種族の間に、どんな闇を落とすのか。「聖書」「弁当」「写真」「上京」「枝折」本編では描かれない日常を切り取った、珠玉の5編+αを収録!",
+        "image": "http://books.google.com/books/content?id=2XKSngEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+        "order": 4,
+        "booklist": "ea2005b4-ebf3-468c-8d79-fa73b3d6c14e"
+      }
+    ],
+    "is_completed": true
+  },
+  {
+    "id": "48af6241-f4e6-4e0a-8237-af4848fe4531",
+    "type": {
+      "id": "e9f4fa8c-5b12-43da-a0ff-421a0172282e",
+      "type": "胸が締め付けられる",
+      "booklist": {
+        "is_completed": null
+      }
+    },
+    "owner": {
+      "id": "8e8e57a1-912a-4c9e-a3aa-68729845f66c",
+      "username": "酒向ひばり",
+      "is_superuser": false
+    },
+    "books": [
+      {
+        "id": "dc0680d2-ee26-4ade-b2fd-6680a4deb4c2",
+        "title": "未登録",
+        "description": "未登録",
+        "image": null,
+        "order": 0,
+        "booklist": "48af6241-f4e6-4e0a-8237-af4848fe4531"
+      },
+      {
+        "id": "6351564c-cb48-4595-b43f-722f7fab5656",
+        "title": "未登録",
+        "description": "未登録",
+        "image": null,
+        "order": 1,
+        "booklist": "48af6241-f4e6-4e0a-8237-af4848fe4531"
+      },
+      {
+        "id": "3bf6f1c3-ec05-4030-b46c-14bb6d50945d",
+        "title": "未登録",
+        "description": "未登録",
+        "image": null,
+        "order": 2,
+        "booklist": "48af6241-f4e6-4e0a-8237-af4848fe4531"
+      },
+      {
+        "id": "f5c1e7f0-220c-47dd-9063-364d2fb631dc",
+        "title": "未登録",
+        "description": "未登録",
+        "image": null,
+        "order": 3,
+        "booklist": "48af6241-f4e6-4e0a-8237-af4848fe4531"
+      },
+      {
+        "id": "9f1d3732-2690-4411-b8a8-6696496b4fb3",
+        "title": "未登録",
+        "description": "未登録",
+        "image": null,
+        "order": 4,
+        "booklist": "48af6241-f4e6-4e0a-8237-af4848fe4531"
+      }
+    ],
+    "is_completed": false
+  }
+]

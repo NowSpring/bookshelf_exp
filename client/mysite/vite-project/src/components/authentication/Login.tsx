@@ -71,11 +71,13 @@ const Login = () => {
         navigate(`/display/genre/${bookListType.id}`, {
           state: { bookListType },
         });
-        // if (response.data.user.is_superuser) {
-        //   navigate(`/display/genre/${bookListType.id}`, { state: { bookListType } });
-        // } else {
-        //   navigate(`/edit/${bookListType.id}`, { state: { bookListType } });
-        // }
+        if (response.data.user.is_superuser) {
+          navigate(`/display/genre/${bookListType.id}`, {
+            state: { bookListType },
+          });
+        } else {
+          // navigate(`/edit/${bookListType.id}`, { state: { bookListType } });
+        }
       }
     } catch (error) {
       if (axios.isAxiosError(error)) {

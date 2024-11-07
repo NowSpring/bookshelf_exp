@@ -2,10 +2,13 @@ from rest_framework.response import Response
 from rest_framework import viewsets, status
 from rest_framework.views import APIView
 from rest_framework.decorators import action
+from django.db.models import Prefetch
+from itertools import groupby
+from operator import attrgetter
 
 from members.models import Member
-from books.models import BookListType, BookList, Book
-from books.serializers import BookListTypeSerializer, BookListSerializer, BookSerializer, BulkBookUpdateSerializer
+from books.models import BookListType, BookList, Book, RecBook
+from books.serializers import BookListTypeSerializer, BookListSerializer, BookSerializer, RecBookSerializer, BulkBookUpdateSerializer
 
 
 class BookListTypeViewSet(viewsets.ModelViewSet):
@@ -162,3 +165,82 @@ class BookViewSet(viewsets.ModelViewSet):
     books = serializer.update(instance=None, validated_data=serializer.validated_data)
 
     return Response(BookSerializer(books, many=True).data, status=status.HTTP_200_OK)
+
+
+class RecBookViewSet(viewsets.ModelViewSet):
+
+  queryset = RecBook.objects.all()
+  serializer_class = RecBookSerializer
+
+  def get_queryset(self):
+
+    queryset = super().get_queryset()
+    booklist_id = self.request.query_params.get('booklist_id', None)
+
+    if booklist_id is not None:
+
+      queryset = queryset.filter(booklist=booklist_id)
+
+    return queryset
+
+  @action(detail=True, methods=['put'], url_path='update_wants')
+  def update_wants(self, request, pk=None):
+    try:
+      rec_book = self.get_object()
+      want_to_see = request.data.get('want_to_see')
+      want_to_rewatch = request.data.get('want_to_rewatch')
+
+      if want_to_see is not None:
+        rec_book.want_to_see = want_to_see
+
+      if want_to_rewatch is not None:
+        rec_book.want_to_rewatch = want_to_rewatch
+
+      rec_book.save()
+      return Response(RecBookSerializer(rec_book).data, status=status.HTTP_200_OK)
+
+    except RecBook.DoesNotExist:
+      return Response({'error': 'RecBook not found'}, status=status.HTTP_404_NOT_FOUND)
+
+    except Exception as e:
+      return Response({'error': str(e)}, status=status.HTTP_400_BAD_REQUEST)
+
+  @action(detail=False, methods=['get'], url_path='admin_view')
+  def admin_view(self, request):
+    try:
+      booklisttype_id = request.query_params.get('booklisttype_id')
+      if not booklisttype_id:
+        return Response(
+          {'error': 'booklisttype_id is required'},
+          status=status.HTTP_400_BAD_REQUEST
+        )
+
+      # BookListを通じてRecBookを取得
+      rec_books = RecBook.objects.filter(
+        booklist__type_id=booklisttype_id
+      ).select_related('booklist__owner')
+
+      # ユーザーごとにグループ化
+      grouped_data = []
+      for owner_id, books in groupby(rec_books, key=lambda x: x.booklist.owner):
+        books_list = list(books)
+        if books_list:
+          grouped_data.append({
+            'username': books_list[0].booklist.owner.username,
+            'rec_books': [{
+              'title': book.title,
+              'description': book.description,
+              'image': book.image,
+              'rec_method': book.rec_method,
+              'want_to_see': book.want_to_see,
+              'want_to_rewatch': book.want_to_rewatch,
+            } for book in books_list]
+          })
+
+      return Response(grouped_data, status=status.HTTP_200_OK)
+
+    except Exception as e:
+      return Response(
+        {'error': str(e)},
+        status=status.HTTP_400_BAD_REQUEST
+      )

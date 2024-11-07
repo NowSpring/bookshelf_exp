@@ -2,7 +2,7 @@ from django.db import transaction
 from rest_framework import serializers
 
 from members.serializers import MemberGetSerializer
-from books.models import Book, BookList, BookListType
+from books.models import Book, RecBook, BookList, BookListType
 
 import logging
 
@@ -17,6 +17,16 @@ class BookSerializer(serializers.ModelSerializer):
 
     model = Book
     fields = ['id', 'title', 'description', 'image', 'order', 'booklist']
+
+
+class RecBookSerializer(serializers.ModelSerializer):
+
+  id = serializers.UUIDField(required=True)
+
+  class Meta:
+
+    model = RecBook
+    fields = ['id', 'title', 'description', 'image', 'rec_method', 'want_to_see', 'want_to_rewatch', 'booklist']
 
 
 class BulkBookUpdateSerializer(serializers.Serializer):

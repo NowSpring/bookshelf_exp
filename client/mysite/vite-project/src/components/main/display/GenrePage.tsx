@@ -1,52 +1,73 @@
-import EventService from '@/EventService';
-import { useLocation } from 'react-router-dom';
-import { useEffect, useState } from 'react';
-import { BookListType } from '../types';
-import { Button } from '@/components/ui/button';
+import EventService from "@/EventService";
+import { useLocation } from "react-router-dom";
+import { useEffect, useState } from "react";
+import { BookListType, RecBookType } from "../types";
+import { Button } from "@/components/ui/button";
 import { FileDown } from "lucide-react";
-import SearchComponent from './SearchComponent';
-import BookList from './BookList';
-
+import SearchComponent from "./SearchComponent";
+import BookList from "./BookList";
+import RecBook from "./RecBook";
 const GenrePage = () => {
-
   const location = useLocation();
   const bookListType = location.state?.bookListType;
   const [allBookLists, setAllBookLists] = useState<BookListType[]>([]);
   const [myBookList, setMyBookList] = useState<BookListType>();
   const [otherBookLists, setOtherBookLists] = useState<BookListType[]>([]);
-  const [filteredBookLists, setFilteredBookLists] = useState<BookListType[]>([]);
+  const [filteredBookLists, setFilteredBookLists] = useState<BookListType[]>(
+    []
+  );
+  const [recBookList, setRecBookList] = useState<RecBookType[]>([]);
   const [localStorageId, setLocalStorageId] = useState<string | null>(null);
   const [isSuperUser, setIsSuperuser] = useState<boolean | null>(null);
 
-  const getBookLists = async() => {
+  const getBookLists = async () => {
     if (bookListType.id && localStorageId) {
-      try{
+      try {
         const response = await EventService.getBookLists({
           booklisttype_id: bookListType.id,
           reviewer_id: localStorageId,
-          mode: "display"
+          mode: "display",
         });
         if (response.data && response.data.length > 0) {
           setAllBookLists(response.data);
-          const myList = response.data.find((bookList: BookListType) => bookList.owner.id === localStorageId);
-          const otherLists = response.data.filter((bookList: BookListType) => bookList.owner.id !== localStorageId);
+          const myList = response.data.find(
+            (bookList: BookListType) => bookList.owner.id === localStorageId
+          );
+          const otherLists = response.data.filter(
+            (bookList: BookListType) => bookList.owner.id !== localStorageId
+          );
           setMyBookList(myList);
           setOtherBookLists(otherLists);
           setFilteredBookLists(otherLists);
+
+          if (myList) {
+            getRecBookList(myList.id);
+          }
         }
       } catch (error) {
         console.error("Error fetching book lists:", error);
       }
     }
-  }
+  };
+
+  const getRecBookList = async (myBookListId: string) => {
+    if (myBookListId) {
+      try {
+        const response = await EventService.getRecBookList(myBookListId);
+        setRecBookList(response.data);
+      } catch (error) {
+        console.error("Error fetching recommended book list:", error);
+      }
+    }
+  };
 
   const downloadJsonFile = async () => {
     try {
       const response = await EventService.getBookListAdminView(bookListType.id);
       const dataStr = JSON.stringify(response.data, null, 2);
-      const blob = new Blob([dataStr], { type: 'application/json' });
+      const blob = new Blob([dataStr], { type: "application/json" });
       const url = URL.createObjectURL(blob);
-      const link = document.createElement('a');
+      const link = document.createElement("a");
       link.href = url;
       link.download = `${bookListType.type}.json`;
       document.body.appendChild(link);
@@ -58,14 +79,15 @@ const GenrePage = () => {
   };
 
   const handleSearch = (searchTerm1: string, searchTerm2: string) => {
-    if (searchTerm1 === '' && searchTerm2 === '') {
+    if (searchTerm1 === "" && searchTerm2 === "") {
       setFilteredBookLists(otherBookLists);
     } else {
       const filteredLists = otherBookLists.filter((bookList) => {
         const bookTitles = bookList.books.map((book) => book.title);
         return (
           bookTitles.some((title) => title.includes(searchTerm1)) &&
-          (searchTerm2 === '' || bookTitles.some((title) => title.includes(searchTerm2)))
+          (searchTerm2 === "" ||
+            bookTitles.some((title) => title.includes(searchTerm2)))
         );
       });
       setFilteredBookLists(filteredLists);
@@ -76,12 +98,15 @@ const GenrePage = () => {
     const id = window.localStorage.getItem("id");
     setLocalStorageId(id);
     const isSuperUserStr = window.localStorage.getItem("is_superuser");
-    setIsSuperuser(isSuperUserStr === "true")
+    setIsSuperuser(isSuperUserStr === "true");
   }, []);
 
   useEffect(() => {
     if (localStorageId !== null) {
       getBookLists();
+      if (myBookList) {
+        getRecBookList(myBookList.id);
+      }
     }
   }, [bookListType, localStorageId]);
 
@@ -97,6 +122,10 @@ const GenrePage = () => {
   //   console.log("otherBookLists:", otherBookLists);
   // }, [otherBookLists]);
 
+  useEffect(() => {
+    console.log("recBookList:", recBookList);
+  }, [recBookList]);
+
   // useEffect(() => {
   //   console.log("localStorageId:", localStorageId);
   // }, [localStorageId]);
@@ -110,11 +139,14 @@ const GenrePage = () => {
   }
 
   return (
-    
     <div>
-      <div style={{ display: 'flex', alignItems: 'center', marginBottom: '20px' }}>
-        <p style={{ fontWeight: 'bold', fontSize: '24px', marginRight: '10px' }}>
-          「{ bookListType.type }」の推し棚
+      <div
+        style={{ display: "flex", alignItems: "center", marginBottom: "20px" }}
+      >
+        <p
+          style={{ fontWeight: "bold", fontSize: "24px", marginRight: "10px" }}
+        >
+          「{bookListType.type}」の推し棚
         </p>
 
         {isSuperUser && (
@@ -124,27 +156,70 @@ const GenrePage = () => {
         )}
       </div>
 
-      <SearchComponent onSearch={handleSearch} />
+      {/* 検索機能 */}
+      {/* <SearchComponent onSearch={handleSearch} />
 
       <div style={{ fontWeight: 'bold', textAlign: 'center' }}>
         {filteredBookLists.length} 件の結果が見つかりました
-      </div>
-      
-      <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
-        {filteredBookLists.length > 0 && filteredBookLists.map((bookList, index) => (
+      </div> */}
+
+      <div
+        style={{
+          display: "flex",
+          flexDirection: "column",
+          alignItems: "center",
+        }}
+      >
+        {/* 自分の本棚を表示 */}
+        {myBookList && (
           <div
-            key={bookList.id}
-            className={`bookCard ${bookList.owner.id === localStorageId? 'highlight' : ''}`}
+            key={myBookList.id}
+            className={`bookCard ${
+              myBookList.owner.id === localStorageId ? "highlight" : ""
+            }`}
           >
             <BookList
-              title={isSuperUser ? bookList.owner.username : `other${String(index + 1).padStart(2, '0')}`}
-              bookList={bookList}
+              title={myBookList.owner.username}
+              bookList={myBookList}
               reviewer_id={localStorageId}
             />
           </div>
-        ))}
+        )}
+
+        {/* おすすめ漫画を表示 */}
+        {recBookList && recBookList.length > 0 && (
+          <div className={"bookCard"}>
+            <div className="books">
+              {recBookList.map((book) => (
+                <div key={book.id}>
+                  <RecBook book={book} />
+                </div>
+              ))}
+            </div>
+          </div>
+        )}
+
+        {/* 他ユーザの本棚を表示 */}
+        {/* {filteredBookLists.length > 0 &&
+          filteredBookLists.map((bookList, index) => (
+            <div
+              key={bookList.id}
+              className={`bookCard ${
+                bookList.owner.id === localStorageId ? "highlight" : ""
+              }`}
+            >
+              <BookList
+                title={
+                  isSuperUser
+                    ? bookList.owner.username
+                    : `other${String(index + 1).padStart(2, "0")}`
+                }
+                bookList={bookList}
+                reviewer_id={localStorageId}
+              />
+            </div>
+          ))} */}
       </div>
-      
     </div>
   );
 };
