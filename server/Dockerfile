@@ -22,7 +22,14 @@ RUN pip install -r requirements.txt
 # add app
 COPY . .
 
-COPY entrypoint.sh /entrypoint.sh
-RUN chmod +x /entrypoint.sh
+# COPY entrypoint.sh /entrypoint.sh
+# RUN chmod +x /entrypoint.sh
 
-ENTRYPOINT ["/entrypoint.sh"]
+# ENTRYPOINT ["/entrypoint.sh"]
+# エントリーポイントスクリプトの権限を設定
+COPY entrypoint.sh /usr/src/
+RUN chmod 755 /usr/src/entrypoint.sh \
+    && sed -i -e 's/\r$//' /usr/src/entrypoint.sh
+
+# エントリーポイントを設定（シェル形式に変更）
+ENTRYPOINT ["sh", "/usr/src/entrypoint.sh"]

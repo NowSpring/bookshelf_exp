@@ -1,5 +1,5 @@
 from django.contrib import admin
-from .models import BookListType, BookList, Book
+from .models import BookListType, BookList, Book, RecBook
 from django.utils.html import format_html
 
 
@@ -24,7 +24,7 @@ class BookListAdmin(admin.ModelAdmin):
 
   @admin.display(description='いいねしたユーザー')
   def like_names(self, obj):
-    
+
     return ", ".join([like.username for like in obj.likes.all()])
 
 
@@ -50,3 +50,21 @@ class BookAdmin(admin.ModelAdmin):
     queryset = super().get_queryset(request)
 
     return queryset.select_related('booklist', 'booklist__owner')
+
+
+@admin.register(RecBook)
+class RecBookAdmin(admin.ModelAdmin):
+
+  list_display = ('title', 'rec_method', 'booklist_type', 'booklist_owner')
+  search_fields = ('title', 'rec_method', 'booklist__type__type', 'booklist__owner__username')
+  ordering = ('booklist__owner__username', 'booklist__type__type', 'rec_method', 'title')
+
+  @admin.display(ordering='booklist__type', description='タイプ')
+  def booklist_type(self, obj):
+
+    return obj.booklist.type
+
+  @admin.display(ordering='booklist__owner__username', description='レコメンド先')
+  def booklist_owner(self, obj):
+
+    return obj.booklist.owner.username

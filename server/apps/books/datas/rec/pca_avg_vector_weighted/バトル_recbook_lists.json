@@ -1,0 +1,932 @@
+[
+  {
+    "username": "中島楓華",
+    "rec_books": [
+      {
+        "title": "トモダチゲーム",
+        "description": "主人公の友一は4人の友達とともに、借金返済のため謎のゲームにのぞむ。友情さえあれば、おそろしく簡単なゲームのはずだった。そう、友情さえあれば…。だが、誰かのおかした裏切りが疑心を生み、ゲームは息づまる心理戦となる！！",
+        "image": "http://books.google.com/books/content?id=49bJBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "かくかくしかじか",
+        "description": "自分は絵がうまい。本気でうぬぼれていた林明子（高3）は竹刀を持った絵画教師・日高先生に罵られ…!? 少女まんが家を夢みたあの頃を描くドラマチック・メモリーズ！",
+        "image": "http://books.google.com/books/content?id=FhXGCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "ブルーピリオド",
+        "description": "成績優秀かつスクールカースト上位の充実した毎日を送りつつ、どこか空虚な焦燥感を感じて生きる高校生・矢口八虎（やぐち やとら）は、ある日、一枚の絵に心奪われる。その衝撃は八虎を駆り立て、美しくも厳しい美術の世界へ身を投じていく。美術のノウハウうんちく満載、美大を目指して青春を燃やすスポ根受験物語、八虎と仲間たちは「好きなこと」を支えに未来を目指す！",
+        "image": "http://books.google.com/books/content?id=WslCDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "るろうに剣心",
+        "description": "逆刃刀を腰に下げ、不殺を誓う流浪人・緋村剣心――彼こそは維新志士の中で最強無比の伝説をもつ「人斬り抜刀斎」であった。維新後、その熱き想いで人々を守り続けた流浪人・剣心の活躍を描く！ 【同時収録】「巻末特別編(1) るろうに―明治剣客浪漫譚―」",
+        "image": "http://books.google.com/books/content?id=jPwKDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "STEINS;GATE",
+        "description": "これは、世界線変動率0.571046%の世界線で語られる牧瀬紅莉栖の物語。天才少女科学者・牧瀬紅莉栖は、ある“事実”を突きつけられ、秋葉原の街をさまよう。そこで出会ったメイド少女・フェイリスの行動が、秘められた過去や想いの数々を浮かび上がらせて行く。伝えられなかった言葉は、いつか、未来へと届くのだろうか―。",
+        "image": "http://books.google.com/books/content?id=MpPrmgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      }
+    ]
+  },
+  {
+    "username": "佐々木誠ニコラス",
+    "rec_books": [
+      {
+        "title": "キングダム",
+        "description": "2023年11月のコミックス累計1億部突破を記念して、 『キングダム』完全版を新たに刊行します! コミックスから仕様・デザインを一新した超豪華仕様の永久保存版!! 大きい判型、真っ白い紙、作者の全話解説付きで、また改めて『キングダム』をお楽しみいただけるシリーズです!! 《完全版の注目ポイント》 【全体の仕様】A5判(漫画誌とコミックスの中間の大きさ)、ハードカバー、見返し・スピン(紐)・トレーシングペーパー付きという文芸書の装い。 【本文の紙】白い上質紙を使用し、コミックスよりもさらに絵柄が鮮明に。 【表紙デザイン】飛信隊のキーカラーにちなみ、青箔でタイトルを印字。戦国七雄の判子をイメージした空押し加工も。また、カバーを取った本体表紙にも注目! 【カラーページ】週刊ヤングジャンプ掲載時のカラー扉を再現。さらにコミックス未収録のカットも多数掲載。 【全話解説】作者・原泰久が収録全話を解説。執筆当時の裏側を一話ごとに振り返り、『キングダム』の世界を隅々まで語り尽くす。 【収録話】完全版1冊につき、コミックス2巻分を収録。 ※『キングダム完全版』2巻には、YJC『キングダム』3~4巻の内容を掲載しています。 ※『キングダム完全版』は、2024年3月より毎月2冊発売。全20冊(YJC40巻分)を刊行予定です。",
+        "image": "http://books.google.com/books/content?id=4AVx0AEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      },
+      {
+        "title": "鬼滅の刃",
+        "description": "概要情報なし",
+        "image": "http://books.google.com/books/content?id=Mj1cDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "NARUTO",
+        "description": "オビトの力に折れかけた忍達の心を、ナルトの想いが繋ぎ止めた！ 戦場では五影と共に全軍が力を集結し、神樹に立ち向かう！ 一方、ナルトとサスケはオビトの無限月読を止めるべく二つの力を重ね合わせ!?",
+        "image": "http://books.google.com/books/content?id=khzLCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "約束のネバーランド",
+        "description": "母と慕う彼女は親ではない。共に暮らす彼らは兄弟ではない。エマ・ノーマン・レイの三人はこの小さな孤児院で幸せな毎日を送っていた。しかし、彼らの日常はある日突然終わりを告げた。真実を知った彼らを待つ運命とは…!?",
+        "image": "http://books.google.com/books/content?id=9o2yDQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "終わりのセラフ",
+        "description": "名古屋出撃命令を受け、優一郎たちは部隊の集結地へ向かう。だが大遅刻をしグレンの怒りを買ってしまう。隊全体に闘志と緊張が漂う中、遅刻の罰を受けることになる優一郎は!? また作戦を共にする小隊と出会い…。",
+        "image": "http://books.google.com/books/content?id=6ubLCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      }
+    ]
+  },
+  {
+    "username": "前田拓海",
+    "rec_books": [
+      {
+        "title": "WIND BREAKER",
+        "description": "孤独な獅子を救え！ 立ち向かうは“防風鈴”最強の男、梅宮 一!! 最強の不良高校、そして街を守る英雄。 二つの顔を持つ風鈴高校に入学した桜遥は、 強き仲間に囲まれながら、その頂点を目指す。 力の絶対信仰を掲げる「獅子頭連」とチームを賭けてはじまった タイマン勝負は、ついにトップ同士の決戦を迎える。 力に執着し、暴走してしまった兎耳山に対し、梅宮が出した答えは――！",
+        "image": "http://books.google.com/books/content?id=GcpLEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "朱月事変",
+        "description": "「家」と生きる御家変革ファンタジー開幕！ 人々を神獣から救う 「霊術師」の名家・朱鶴（スカク）家。 霊術の才能を持ち 将来を期待される次男・ 望月（ムツキ）だったが、 霊術の能力がない妹・初月（ウヅキ）は 家のしきたりによって 幽閉されていた…！ 愛する妹を家から解放するため、 望月は七年かけた脱出計画を敢行する。 しかし脱出間近、父の刺客が立ち塞がる――！？ 「家は決して切り離せない 俺の一部だ。」 決意が望月を強く、深く成長させていく御家変革ファンタジー！！",
+        "image": "http://books.google.com/books/content?id=M7ulEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "魔女の旅々",
+        "description": "イレイナとフランの二人旅、終焉の刻 あるところに一人の魔女がいました。名前はイレイナ。 師匠との旅は終わりの刻を迎えようとしています。 そんな折に出会うのは、恋に悩める人魚と奥手な旅人。 若き日の「星屑の魔女」と困った師匠、そして偏屈な小説家。 新たな故郷を探す姉妹と天空の廃城に暮らす魔法使い。 本に潜む悪魔、ほうきと「灰の魔女」をかたどった魔法人形。 そして、大切な親友を亡くし傷心の「炭の魔女」……。 旅の終わりを阻むように、様々な出来事が二人を引き止めますが――。 「私はずっと、出会ったときから、ここにいるじゃないですか」 夜空を舞う数多の光に導かれ、少女たちは一夜限りの奇跡を起こすのです。 ※電子版は紙書籍版と一部異なる場合がありますので、あらかじめご了承ください",
+        "image": "http://books.google.com/books/content?id=ir2mDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "魔法使いの嫁",
+        "description": "誰を救けたくば己が何者かを、識れ。 そして、顕現する写しの偽神。“遺言”かフィロメラか――混ざりあったそれは学院からの脱出を図る為、祝祭の会場で学院の最高実力者と向き合う。緊迫する状況下で、チセとエリアスは両者と対峙するが……。 ※本書はマッグガーデンより配信されていた『魔法使いの嫁』と漫画内容に変更はございません。ご購入の際はご注意ください。",
+        "image": "http://books.google.com/books/content?id=bXL1EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "ハルロック",
+        "description": "時代はアプリ？ いやいや、電子工作でしょ！ 女子大生の向阪晴（さきさかはる）が得意の電子工作を駆使してあれやこれやを一気に解決!? 前代未聞の「電子工作コミック」！",
+        "image": "http://books.google.com/books/content?id=qQDKBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      }
+    ]
+  },
+  {
+    "username": "北畑由莉香",
+    "rec_books": [
+      {
+        "title": "ダンガンロンパ",
+        "description": "戦慄のサイコポップ・アニメの公式ノベライズ登場!超高校級の学生が集う伝説の学校「私立希望ケ峰学園」に入学した『超高校級の幸運』苗木誠は、玄関ホールに入った瞬間気を失ってしまう。目覚めた彼を待っていたのは、全ての出口が封鎖され密室化した校舎、14人の超高校級の生徒、そして学園長と称するぬいぐるみ・モノクマだった―「皆さんは一生ここで暮らしていただきます。学園から卒業したければ、仲間を殺してください!うぷぷ」...絶望の学級裁判、開廷!",
+        "image": "http://books.google.com/books/content?id=pYMQngEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      },
+      {
+        "title": "ジャックジャンヌ七つ風",
+        "description": "大ヒット少年歌劇SLG「ジャックジャンヌ」、スピンオフ短編集が登場!! ユニヴェール公演まで、もうまもなく。それぞれが大切な思いを育む、七つの休日の物語。 ゲーム本編最終公演でのメインキャラクター7人のエピソードが小説化!! 石田スイが彩り、十和田シンが描いた、それぞれの決意と希望がここに――。",
+        "image": "http://books.google.com/books/content?id=y5m00AEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      },
+      {
+        "title": "PSYCHO-PASS",
+        "description": "日本に向かう輸送船・グローツラング号が、武装組織・ピースブレイカーの襲撃を受ける事件が発生。常守朱たち公安局刑事課一係は、禾生局長の指示で、外務省の海外調整局行動課と共同捜査をすることになる。そんな彼らの前に、かつての同僚で、国外に逃亡していた狡噛慎也が姿を現す。狡噛は行動課の特別捜査官として、日本に戻ってきたのだった……。",
+        "image": "http://books.google.com/books/content?id=EibxEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "かがみの孤城下",
+        "description": "居場所のない彼らが集められた理由。全てが明らかになる時、驚きと大きな感動に包まれる。本屋大賞受賞、堂々8冠のベストセラー",
+        "image": "http://books.google.com/books/content?id=yvP3zgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      },
+      {
+        "title": "対世界用魔法少女つばめ",
+        "description": "【デジタル版限定！「少年ジャンプ+」掲載時のカラーページを完全収録!!】魔法少女とは、かわいくて強くて汚いことは考えず、この世界を救うことができる者！ たとえ仲間が死んだとしても…。 空はハートで埋め尽くされ、その一つが割れた時、ある“思念”が放出され人々は正気を失う世界。大親友の心心（ここ）と泪（るい）だけは守りたいと、進路希望に魔法少女を選ぶ女子高生・燕。ある日、バスの中で“思念”を浴びた心心と燕だが…!? 魔法少女誕生の第1巻!!",
+        "image": "http://books.google.com/books/content?id=P2_wEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      }
+    ]
+  },
+  {
+    "username": "土井弘人",
+    "rec_books": [
+      {
+        "title": "ようこそ実力至上主義の教室へ",
+        "description": "新１年生の仕掛けを回避した綾小路。だが「取れるはずのない満点を綾小路が取った。俺は……手品を見てるみたいだ」数学試験の満点獲得が波紋を広げる。そんな中、試験の結果を受け堀北鈴音が生徒会入りを要望する。来るもの拒まずの南雲はそれを受け入れるものの色々な思惑が絡むようで……。 軽井沢との仲が少しずつ深まるなど、状況が変化を迎える中、全学年で競いあう無人島サバイバル試験の夏休み開催が発表された。戦いはグループ戦で上位３グループに莫大な報酬が与えられる一方、下位グループは退学ペナルティを受ける。前哨戦として上陸前にグループ作りが許可された結果、全クラスを巻き込んだ人材獲得合戦が始まる！",
+        "image": "http://books.google.com/books/content?id=isXqDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "化物語",
+        "description": "【 西尾維新 × 大暮維人 】!!! 阿良々木暦を目がけて空から降ってきた女の子・戦場ヶ原ひたぎには、およそ体重と呼べるようなものが、全くと言っていいほど、なかった――!?アニメ化・ゲーム化など多数のメディアミックスを果たした西尾維新の代表作『化物語』を、『エア・ギア』の大暮維人が豪華漫画化!!現代青春ノベルの金字塔を世界一の絵で！ 「週刊少年マガジン」にしかできない最高最興奮の新しい“物語”!!",
+        "image": "http://books.google.com/books/content?id=QLJeDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "ブルーロック",
+        "description": "２０１８年、W杯、日本代表ベスト１６敗退…。これを受け日本フットボール連合は、W杯優勝のため、３００人の高校生を集めた育成寮“青い監獄（ブルーロック）”を設立。コーチを務める男・絵心甚八は、日本に必要なのは「エゴイズムにあふれるストライカーだ」と断言。無名のFW・潔 世一たちは、己をエゴイストに変える蹴落とし合いの選別に挑む！",
+        "image": "http://books.google.com/books/content?id=5Ft2DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "魔女の旅々",
+        "description": "イレイナとフランの二人旅、終焉の刻 あるところに一人の魔女がいました。名前はイレイナ。 師匠との旅は終わりの刻を迎えようとしています。 そんな折に出会うのは、恋に悩める人魚と奥手な旅人。 若き日の「星屑の魔女」と困った師匠、そして偏屈な小説家。 新たな故郷を探す姉妹と天空の廃城に暮らす魔法使い。 本に潜む悪魔、ほうきと「灰の魔女」をかたどった魔法人形。 そして、大切な親友を亡くし傷心の「炭の魔女」……。 旅の終わりを阻むように、様々な出来事が二人を引き止めますが――。 「私はずっと、出会ったときから、ここにいるじゃないですか」 夜空を舞う数多の光に導かれ、少女たちは一夜限りの奇跡を起こすのです。 ※電子版は紙書籍版と一部異なる場合がありますので、あらかじめご了承ください",
+        "image": "http://books.google.com/books/content?id=ir2mDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "魔法使いの嫁",
+        "description": "誰を救けたくば己が何者かを、識れ。 そして、顕現する写しの偽神。“遺言”かフィロメラか――混ざりあったそれは学院からの脱出を図る為、祝祭の会場で学院の最高実力者と向き合う。緊迫する状況下で、チセとエリアスは両者と対峙するが……。 ※本書はマッグガーデンより配信されていた『魔法使いの嫁』と漫画内容に変更はございません。ご購入の際はご注意ください。",
+        "image": "http://books.google.com/books/content?id=bXL1EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      }
+    ]
+  },
+  {
+    "username": "大角駿人",
+    "rec_books": [
+      {
+        "title": "魍魎少女",
+        "description": "時は大正時代。この世の様々な化け物ども・魍魎(もうりょう)を種にして売る「魍魎屋」を営む少女・林檎丸(りんごまる)は、同業者のライバル・八房(やつふさ)の手でバラバラにされた師匠・雪之条(ゆきのじょう)の7つの体を探す旅を続けていた――。立ちはだかるは八房の配下の魍魎たち。ドデカイ武器に、オッドアイ、口が悪くて、超強い林檎丸が、バッサバッサと魍魎を斬るッ!!奇妙痛快冒険譚!!!",
+        "image": "http://books.google.com/books/content?id=xhdpDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "シャーマンキング",
+        "description": "概要情報なし",
+        "image": "http://books.google.com/books/content?id=OFZ1MwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      },
+      {
+        "title": "姫様“拷問”の時間です",
+        "description": "国王軍と魔王軍が衝突を始め幾年月。王女にして国王軍第三騎士団“騎士団長”の姫は、魔王軍により囚われの身となっていた！ やがて、姫に待ち受けるのは斜め上の拷問の数々で――!? 最も残酷な拷問の時間が今、始まる!!",
+        "image": "http://books.google.com/books/content?id=84KkDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "からくりサーカス",
+        "description": "錬金術師・白銀と、貧しくとも気高き女・フランシーヌとの、あまりに悲しき運命の恋…。明かされた最大の謎に打ちひしがれる鳴海の元へ、最強の自動人形の一体・パンタローネ来襲！一方、仲町サーカスに救われたギイは、しろがねと…。",
+        "image": "http://books.google.com/books/content?id=YBr2CgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "天上天下",
+        "description": "【デジタル着色によるフルカラー版！】復活した凄王に立ち向かい、光臣は何を手に入れるのか。人をも超えた戦いを前に、雅孝は新たなる決意を胸にその拳を硬くする。そして天照である真夜の目覚め!! 人は生きるために藻掻き苦しむ。その戦いの先にある希望を信じて……。人生という刹那を生き抜くために、今この戦場に立つ！",
+        "image": "http://books.google.com/books/content?id=2lFyCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      }
+    ]
+  },
+  {
+    "username": "小川",
+    "rec_books": [
+      {
+        "title": "BORUTO",
+        "description": "ボルトはコードとの戦いで、「楔（カーマ）」の力を発動。難敵と拮抗するボルトだが、突如体に異変が！ モモシキの意識がボルトの体を乗っ取りコードやカワキと乱戦に。一方、ナルトもボルトのチャクラを追うが――!?",
+        "image": "http://books.google.com/books/content?id=SGlmEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "聲の形",
+        "description": "「俺は彼女が嫌いだった」――明るく！ 楽しく！ 大冒険！ がモットーの少年、石田将也（いしだ・しょうや）。耳の聞こえない転校生の少女、西宮硝子（にしみや・しょうこ）。2人の出会いが、教室を、学校を、そして将也の人生を変えていく――。余りにもみずみずしい青春のカケラたち。最高に切なく、心ゆさぶる物語が生まれました。",
+        "image": "http://books.google.com/books/content?id=NU_IBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "HUNTER×HUNTER",
+        "description": "東ゴルトーに潜入し、王討伐に動き出したハンター達！ 潜伏するゴンとは別行動を取るキルアは、敵に見つかり、絶え間なく刺客に襲撃され続ける。完全監視の中、手の内は見せられない…。勝機はあるのか!?",
+        "image": "http://books.google.com/books/content?id=L9bKCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "カモのネギには毒がある",
+        "description": "そこのアナタ、カモられてませんか――？ 「カモリズム経済理論」が世界的に評価されている天才経済学者・加茂洋平。“フィールドワーク”と称して様々な姿に成りすます「変人」だが、経済弱者が搾取され、騙される社会で、自らの経済理論を実践し、ペテン強者たちに毒を喰らわせる――!!",
+        "image": "http://books.google.com/books/content?id=24thEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "鬼滅の刃",
+        "description": "概要情報なし",
+        "image": "http://books.google.com/books/content?id=Mj1cDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      }
+    ]
+  },
+  {
+    "username": "山田航",
+    "rec_books": [
+      {
+        "title": "呪術廻戦",
+        "description": "類稀な身体能力を持つ高校生・虎杖悠仁（いたどりゆうじ）は、病床に伏せる祖父の見舞いを日課にしていた。だがある日学校に眠る「呪物」の封印が解かれ、化物が現れてしまう。取り残された先輩を救う為、校舎へ乗り込む虎杖だが!?",
+        "image": "http://books.google.com/books/content?id=SXRiDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "鬼滅の刃",
+        "description": "概要情報なし",
+        "image": "http://books.google.com/books/content?id=Mj1cDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "転生したらスライムだった件",
+        "description": "WEBで記録的なPVを集めた異世界転生モノの名作を、原作者完全監修でコミカライズ！ 巻末には原作者書き下ろしの短編小説を収録した、ファン必携の単行本いよいよ発売！＊「転スラ」スピンオフ５作品の第１話をまとめた試し読みパック付き！",
+        "image": "http://books.google.com/books/content?id=9krpCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "ちはやふる",
+        "description": "クイーン戦第二試合。詩暢の歌の世界へ没入し3枚差まで迫るも、あえなく敗れてしまう。次負けたら、クイーンへの道は絶たれる――。できる限りを尽くした千早は、絶望感に苛まれる。そんな千早を救ったのは…！？ そして、最強の名人に王手をかけた新。あとがない周防は、太一が引き合わせたおば・兼子と出会って、どう変わる…！？",
+        "image": "http://books.google.com/books/content?id=RP4AEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "文豪ストレイドッグス",
+        "description": "孤児院を追われた青年・中島敦は、とある自殺志願の男を助ける。男の名は太宰治...国木田、与謝野らと共に異能力集団「武装探偵社」に所属し、「人食い虎事件」を調査していて...!? 新感覚横浜文豪異能力アクション!",
+        "image": "http://books.google.com/books/content?id=0UkKm8qXSM8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      }
+    ]
+  },
+  {
+    "username": "川上輝",
+    "rec_books": [
+      {
+        "title": "文豪ストレイドッグス",
+        "description": "孤児院を追われた青年・中島敦は、とある自殺志願の男を助ける。男の名は太宰治...国木田、与謝野らと共に異能力集団「武装探偵社」に所属し、「人食い虎事件」を調査していて...!? 新感覚横浜文豪異能力アクション!",
+        "image": "http://books.google.com/books/content?id=0UkKm8qXSM8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "HUNTER×HUNTER",
+        "description": "東ゴルトーに潜入し、王討伐に動き出したハンター達！ 潜伏するゴンとは別行動を取るキルアは、敵に見つかり、絶え間なく刺客に襲撃され続ける。完全監視の中、手の内は見せられない…。勝機はあるのか!?",
+        "image": "http://books.google.com/books/content?id=L9bKCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "無職転生",
+        "description": "ギースとルイジェルドの新たな情報。またしてもヒトガミの『罠』なのか!?",
+        "image": "http://books.google.com/books/content?id=vzskzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      },
+      {
+        "title": "進撃の巨人",
+        "description": "概要情報なし",
+        "image": "http://books.google.com/books/content?id=nMjEBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "ワールドトリガー",
+        "description": "全部隊が転送されランク戦第6戦が開幕！ 序盤､王子隊は修に狙いを絞る策に出る。対する玉狛第2の戦略とは…!? また生駒隊は生駒が破壊力抜群の旋空弧月を炸裂させて…。大乱戦の展開の中、生き残るのは!?",
+        "image": "http://books.google.com/books/content?id=IkE8DgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      }
+    ]
+  },
+  {
+    "username": "川島 励仁",
+    "rec_books": [
+      {
+        "title": "彩純ちゃんはレズ風俗に興味があります！",
+        "description": "20歳なりたて大人初心者の彩純は、かつて幼馴染みの麻衣としたキスを悔やんでいて、いつか会えたら謝りたいと考えていた。その話を先輩の謳歌にすると、以前麻衣を見かけたかもと目撃情報が！ しかし、目撃したという場所はまさかのレズ風俗で…!? 大人女子の社交場で巻き起こる人探し系エロコメディ!! ※本作は月刊コミック百合姫2020年9月号に掲載されたものです。",
+        "image": "http://books.google.com/books/content?id=wuITEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "深東京",
+        "description": "【デジタル版限定！「少年ジャンプ+」掲載時のカラーページを完全収録!!】人を死に追いやった者が堕ち、番人に処刑されるという都市伝説の街「深東京」。双子の高校生ヨミとヤミは、課外授業の帰路、担任の自殺により級友達とこの街に堕ちる。残忍な番人に級友は次々と命を落とし…。地獄からの逃走劇が開幕!!",
+        "image": "http://books.google.com/books/content?id=ijmYEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "地獄楽",
+        "description": "最強の忍として畏れられ、抜け忍として囚われていた画眉丸は、打ち首執行人の“山田浅ェ門佐切”から無罪放免になる為の条件を突きつけられる。その条件とは極楽浄土と噂の地で「不老不死の仙薬」を手に入れること…!! 生死を悟る忍法浪漫活劇、開幕――!!",
+        "image": "http://books.google.com/books/content?id=7a5TDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "ナヴィガトリア",
+        "description": "【デジタル版限定！「少年ジャンプ+」掲載時のカラーページを完全収録!!】第一次宇宙大戦での活躍が認められ、初の植民星を獲得した地球。自由を奪われた独裁国家で、政府高官を親に持つ鳳凰學は、ある日、植民星に設立された学校への入学を命じられる。幼馴染のヒナちゃんとの禁じられた自由を手にするため學は植民星の“ナヴィガトリア（最高指導者）”になることを決意するが!?",
+        "image": "http://books.google.com/books/content?id=d4b9EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "エクソシストを堕とせない",
+        "description": "【デジタル版限定！「少年ジャンプ+」掲載時のカラーページを完全収録!!】魔王サタンを倒すために最強のエクソシストとして、劣悪な環境で育てられた神父の少年は、心に深い傷を負いながら各地に蔓延る悪魔と戦い続けていた。やがて訪れる一人の少女との出会いをきっかけに、少年はこれまで抱くこともなかった温かな感情に触れて――…。これは、聖戦の中で芽生える恋と希望の物語。",
+        "image": "http://books.google.com/books/content?id=kGlmEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      }
+    ]
+  },
+  {
+    "username": "平尾 七虹",
+    "rec_books": [
+      {
+        "title": "わたしに××しなさい！",
+        "description": "ようやく時雨への思いを自覚した雪菜。時雨と雪菜の「ラブ」は新たなステップへと向かう。しかし、「恋人」であるはずの晶と雪菜の関係は……!? いっぽう、マミへの報われない思いをかかえる氷雨も……。5人それぞれの恋模様が動きだす！ 「×しな！」史上最もせつない、急展開続きの15巻！電子版のみ6ページがカラー化＆スペシャル4コマも読める!!",
+        "image": "http://books.google.com/books/content?id=FZjDBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "赤ちゃんと僕",
+        "description": "榎木家にはママがいない。パパと小学生の拓也と赤ちゃんの実の3人家族。わがままいっぱいの2歳児は泣いてばかりで、お兄ちゃんはもう大変！「赤僕(あかぼく）」待望の文庫化！！",
+        "image": "http://books.google.com/books/content?id=KuB9DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "この手を離さないで",
+        "description": "とある問題を起こし、αのエリート校から一般校へ転校してきた晴斗。 αというだけで目の色が変わるクラスで、隣席の生徒会長・雅だけは、やけに当たりが強く…？ 「嫌な予感したんだ…」 そう言って突如、晴斗の目の前で大量の錠剤を嘔吐した雅。 介抱しながらも制服の隙間から覗く、あまりに細い身体が、晴斗の目に焼き付いて――。 その日から学校に来なくなった雅がどうにも気になり、家まで押しかけた晴斗が目にしたのは、ヒートで倒れている雅だった――。 世話焼きエリートα×愛を知らない孤高のΩ 《持てる者×持たざる者》が互いを求め合う、トワイライト・ラブストーリー！ ※咲本崎の「崎」は「たつさき」が正式表記",
+        "image": "http://books.google.com/books/content?id=XKU4EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "ミルモでポン！",
+        "description": "あたし、楓。恋の妖精・ミルモと暮らしてるの。ミルモは恋をかなえる魔法を使えるんだけど、ヘソ曲がりで、なかなかお願いを聞いてくれないんだ。ある日、ミルモのところに女の子の妖精・リルムが訪ねてきます。ミルモが好きなリルムは、なんとあたしが片思いしている結木（ゆうき）くんの家に住みついて!?",
+        "image": "http://books.google.com/books/content?id=bjT1CgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "光が死んだ夏",
+        "description": "ある集落で暮らす少年、よしきと光。同い年の2人はずっと一緒に育ってきた。 しかしある日、よしきが光だと思っていたものは別のナニカにすり替わっていたことに確信を持ってしまう。 それでも、一緒にいたい。 友人の姿をしたナニカとの、いつも通りの日々が始まる。 時を同じくして、集落では様々な事件が起こっていき――。 新進気鋭の作家・モクモクれんが描く、未知のナニカへ堕ちていく物語、開幕。 巻末には在りし日の2人を描いた、描き下ろし短編も収録。",
+        "image": "http://books.google.com/books/content?id=dbFfEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      }
+    ]
+  },
+  {
+    "username": "床田将一朗",
+    "rec_books": [
+      {
+        "title": "文豪ストレイドッグス",
+        "description": "孤児院を追われた青年・中島敦は、とある自殺志願の男を助ける。男の名は太宰治...国木田、与謝野らと共に異能力集団「武装探偵社」に所属し、「人食い虎事件」を調査していて...!? 新感覚横浜文豪異能力アクション!",
+        "image": "http://books.google.com/books/content?id=0UkKm8qXSM8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "東京喰種",
+        "description": "【雑誌掲載時の著者カラー原画を収録したリマスター版！】“聞きたいんだ、お前の物語を。” 熾烈を極める、〔CCG〕による、20区「隻眼の梟討伐戦」。「あんていく」へ急ぐカネキの前に、立ちはだかる亜門鋼太郎。因縁にも似た宿命の対峙の結末は…？ 同時刻、各所で勃発する「悲劇」の連鎖。己と、かけがえのないものを失いながら、貫こうとする、それぞれの正義。止むことのない雨が、悲しみの螺旋を描き続ける。まるで、すべてを放擲した涙のように。",
+        "image": "http://books.google.com/books/content?id=dXjMCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "史上最強の弟子ケンイチ",
+        "description": "概要情報なし",
+        "image": "http://books.google.com/books/content?id=S3z0CgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "ダンダダン",
+        "description": "気付けば幽体で北海道の星子のもとに来たオカルン。宇宙人の侵略の危機を伝え、ターボババアに戦いの秘訣と、体に戻る方法を教えてもらい、一路自分の体へ…。一方、モモ達は宇宙人の再襲撃に備え、連係の特訓を重ねる。そして、襲来の予測日に街へ戻ると、既に宇宙人の侵攻が…!! みんなが戦う中、モモは敵の本体が来るのを阻止するために、セルポ星人とゲートへ向かうが!?",
+        "image": "http://books.google.com/books/content?id=2O_fEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "るろうに剣心",
+        "description": "逆刃刀を腰に下げ、不殺を誓う流浪人・緋村剣心――彼こそは維新志士の中で最強無比の伝説をもつ「人斬り抜刀斎」であった。維新後、その熱き想いで人々を守り続けた流浪人・剣心の活躍を描く！ 【同時収録】「巻末特別編(1) るろうに―明治剣客浪漫譚―」",
+        "image": "http://books.google.com/books/content?id=jPwKDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      }
+    ]
+  },
+  {
+    "username": "徳丸晴天",
+    "rec_books": [
+      {
+        "title": "奴隷区",
+        "description": "主人でも奴隷でもない、謎の【ＳＣＭ】反応が突然現れた。リュウオウは真相を探るためジュリアとフジコを向かわせるが……。２４人の主人公が繰り広げる群像劇コミック!!",
+        "image": "http://books.google.com/books/content?id=E9lYCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "ひぐらしのなく頃に",
+        "description": "寒村・雛見沢で楽しく生活していた少年・前原圭一は、平和なこの村で起きたバラバラ殺人の事を知る。そしてその事件は、「オヤシロさまの祟り」と呼ばれる奇怪な連続怪死事件に繋がっていたのだった…。 謎と恐怖でネット界を揺るがした同人ノベルゲーム、そのプロローグ・シナリオの「鬼隠し編」をコミック化!!",
+        "image": "http://books.google.com/books/content?id=yaDFDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "東京喰種",
+        "description": "【雑誌掲載時の著者カラー原画を収録したリマスター版！】“聞きたいんだ、お前の物語を。” 熾烈を極める、〔CCG〕による、20区「隻眼の梟討伐戦」。「あんていく」へ急ぐカネキの前に、立ちはだかる亜門鋼太郎。因縁にも似た宿命の対峙の結末は…？ 同時刻、各所で勃発する「悲劇」の連鎖。己と、かけがえのないものを失いながら、貫こうとする、それぞれの正義。止むことのない雨が、悲しみの螺旋を描き続ける。まるで、すべてを放擲した涙のように。",
+        "image": "http://books.google.com/books/content?id=dXjMCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "るろうに剣心",
+        "description": "逆刃刀を腰に下げ、不殺を誓う流浪人・緋村剣心――彼こそは維新志士の中で最強無比の伝説をもつ「人斬り抜刀斎」であった。維新後、その熱き想いで人々を守り続けた流浪人・剣心の活躍を描く！ 【同時収録】「巻末特別編(1) るろうに―明治剣客浪漫譚―」",
+        "image": "http://books.google.com/books/content?id=jPwKDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "ONE PIECE",
+        "description": "打倒カイドウを諦めないルフィの復活を信じ、幹部達と激闘を繰り広げる仲間達!! 一方、鬼ヶ島屋上では、ヤマトとカイドウ因縁の親子対決が始まろうとしていた!! “ひとつなぎの大秘宝”を巡る海洋冒険ロマン!!",
+        "image": "http://books.google.com/books/content?id=2shLEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      }
+    ]
+  },
+  {
+    "username": "森野穣",
+    "rec_books": [
+      {
+        "title": "ダーウィンズゲーム",
+        "description": "見知らぬアプリ「ダーウィンズ・ゲーム」を起動させてしまった高校生・カナメの前に、対戦相手のパンダ男現実に現れ…!? 生死を懸けたソーシャルゲームが始まった!!",
+        "image": "http://books.google.com/books/content?id=j9PaDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "金色のガッシュ！！",
+        "description": "あの「金色のガッシュ！！」が完全版として登場！雷句誠による表紙全巻描き下ろし、カラーページはカラーのまま鮮やかによみがえります。そして注目は描き下ろしとなるオマケの短編マンガ「ガッシュカフェ」。魔物の子供達が戦いを離れ、お茶を飲みながら語り合い、意外な一面を見せ合います。第１回は「ガッシュとゴフレ」がお客様。 週刊少年サンデー2001年6号から、2008年4/5合併号まで連載。魔界の王を決めるため、100名の魔物の子供達が人間とコンビを組み、最後の1組になるまで戦う。ファンタジー系バトル漫画。 天才ゆえに妬まれ、友達のいなかった清麿と、素っ裸で清麿の部屋の窓を割って入ってきたガッシュ。二人が出会い、過酷な戦い、運命の中で共に助け合い、成長してゆく物語。 第1巻はLEVEL1〜LEVEL19までを収録。",
+        "image": "http://books.google.com/books/content?id=xRNhDwAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      },
+      {
+        "title": "文豪ストレイドッグス",
+        "description": "孤児院を追われた青年・中島敦は、とある自殺志願の男を助ける。男の名は太宰治...国木田、与謝野らと共に異能力集団「武装探偵社」に所属し、「人食い虎事件」を調査していて...!? 新感覚横浜文豪異能力アクション!",
+        "image": "http://books.google.com/books/content?id=0UkKm8qXSM8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "ワールドトリガー",
+        "description": "全部隊が転送されランク戦第6戦が開幕！ 序盤､王子隊は修に狙いを絞る策に出る。対する玉狛第2の戦略とは…!? また生駒隊は生駒が破壊力抜群の旋空弧月を炸裂させて…。大乱戦の展開の中、生き残るのは!?",
+        "image": "http://books.google.com/books/content?id=IkE8DgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "ジョジョの奇妙な冒険 第7部",
+        "description": "大統領をあと一歩の所まで追いつめるも、無惨な最期を遂げたDio。その事を知ったジャイロとジョニィはルーシーを救うべく、いよいよ大統領の乗っている列車に乗り込む事に。遂に始まる直接対決！ 2人に勝機は…!?",
+        "image": "http://books.google.com/books/content?id=5oLLCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      }
+    ]
+  },
+  {
+    "username": "横井優",
+    "rec_books": [
+      {
+        "title": "文豪ストレイドッグス",
+        "description": "孤児院を追われた青年・中島敦は、とある自殺志願の男を助ける。男の名は太宰治...国木田、与謝野らと共に異能力集団「武装探偵社」に所属し、「人食い虎事件」を調査していて...!? 新感覚横浜文豪異能力アクション!",
+        "image": "http://books.google.com/books/content?id=0UkKm8qXSM8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "無職転生",
+        "description": "ギースとルイジェルドの新たな情報。またしてもヒトガミの『罠』なのか!?",
+        "image": "http://books.google.com/books/content?id=vzskzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      },
+      {
+        "title": "るろうに剣心",
+        "description": "逆刃刀を腰に下げ、不殺を誓う流浪人・緋村剣心――彼こそは維新志士の中で最強無比の伝説をもつ「人斬り抜刀斎」であった。維新後、その熱き想いで人々を守り続けた流浪人・剣心の活躍を描く！ 【同時収録】「巻末特別編(1) るろうに―明治剣客浪漫譚―」",
+        "image": "http://books.google.com/books/content?id=jPwKDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "呪術廻戦",
+        "description": "類稀な身体能力を持つ高校生・虎杖悠仁（いたどりゆうじ）は、病床に伏せる祖父の見舞いを日課にしていた。だがある日学校に眠る「呪物」の封印が解かれ、化物が現れてしまう。取り残された先輩を救う為、校舎へ乗り込む虎杖だが!?",
+        "image": "http://books.google.com/books/content?id=SXRiDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "NARUTO",
+        "description": "オビトの力に折れかけた忍達の心を、ナルトの想いが繋ぎ止めた！ 戦場では五影と共に全軍が力を集結し、神樹に立ち向かう！ 一方、ナルトとサスケはオビトの無限月読を止めるべく二つの力を重ね合わせ!?",
+        "image": "http://books.google.com/books/content?id=khzLCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      }
+    ]
+  },
+  {
+    "username": "武内謙晴",
+    "rec_books": [
+      {
+        "title": "NARUTO",
+        "description": "オビトの力に折れかけた忍達の心を、ナルトの想いが繋ぎ止めた！ 戦場では五影と共に全軍が力を集結し、神樹に立ち向かう！ 一方、ナルトとサスケはオビトの無限月読を止めるべく二つの力を重ね合わせ!?",
+        "image": "http://books.google.com/books/content?id=khzLCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "転生したらスライムだった件",
+        "description": "WEBで記録的なPVを集めた異世界転生モノの名作を、原作者完全監修でコミカライズ！ 巻末には原作者書き下ろしの短編小説を収録した、ファン必携の単行本いよいよ発売！＊「転スラ」スピンオフ５作品の第１話をまとめた試し読みパック付き！",
+        "image": "http://books.google.com/books/content?id=9krpCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "ちはやふる",
+        "description": "クイーン戦第二試合。詩暢の歌の世界へ没入し3枚差まで迫るも、あえなく敗れてしまう。次負けたら、クイーンへの道は絶たれる――。できる限りを尽くした千早は、絶望感に苛まれる。そんな千早を救ったのは…！？ そして、最強の名人に王手をかけた新。あとがない周防は、太一が引き合わせたおば・兼子と出会って、どう変わる…！？",
+        "image": "http://books.google.com/books/content?id=RP4AEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "呪術廻戦",
+        "description": "類稀な身体能力を持つ高校生・虎杖悠仁（いたどりゆうじ）は、病床に伏せる祖父の見舞いを日課にしていた。だがある日学校に眠る「呪物」の封印が解かれ、化物が現れてしまう。取り残された先輩を救う為、校舎へ乗り込む虎杖だが!?",
+        "image": "http://books.google.com/books/content?id=SXRiDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "HUNTER×HUNTER",
+        "description": "東ゴルトーに潜入し、王討伐に動き出したハンター達！ 潜伏するゴンとは別行動を取るキルアは、敵に見つかり、絶え間なく刺客に襲撃され続ける。完全監視の中、手の内は見せられない…。勝機はあるのか!?",
+        "image": "http://books.google.com/books/content?id=L9bKCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      }
+    ]
+  },
+  {
+    "username": "池町和史",
+    "rec_books": [
+      {
+        "title": "呪術廻戦",
+        "description": "類稀な身体能力を持つ高校生・虎杖悠仁（いたどりゆうじ）は、病床に伏せる祖父の見舞いを日課にしていた。だがある日学校に眠る「呪物」の封印が解かれ、化物が現れてしまう。取り残された先輩を救う為、校舎へ乗り込む虎杖だが!?",
+        "image": "http://books.google.com/books/content?id=SXRiDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "HUNTER×HUNTER",
+        "description": "東ゴルトーに潜入し、王討伐に動き出したハンター達！ 潜伏するゴンとは別行動を取るキルアは、敵に見つかり、絶え間なく刺客に襲撃され続ける。完全監視の中、手の内は見せられない…。勝機はあるのか!?",
+        "image": "http://books.google.com/books/content?id=L9bKCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "BLEACH",
+        "description": "概要情報なし",
+        "image": "http://books.google.com/books/content?id=F1JQXwAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      },
+      {
+        "title": "MAJOR",
+        "description": "【無料試し読み閲覧期間2021/02/18～2021/03/03】 光の猛烈な後押しによって、ドルフィンズに復帰することになった大吾。 野球への情熱を取り戻した大吾は、次の大会へ向け特訓を重ねる。 だがそんな大吾に、信じられない知らせが届き……？",
+        "image": "http://books.google.com/books/content?id=Bs8eEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      },
+      {
+        "title": "カモのネギには毒がある",
+        "description": "そこのアナタ、カモられてませんか――？ 「カモリズム経済理論」が世界的に評価されている天才経済学者・加茂洋平。“フィールドワーク”と称して様々な姿に成りすます「変人」だが、経済弱者が搾取され、騙される社会で、自らの経済理論を実践し、ペテン強者たちに毒を喰らわせる――!!",
+        "image": "http://books.google.com/books/content?id=24thEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      }
+    ]
+  },
+  {
+    "username": "清野陽平",
+    "rec_books": [
+      {
+        "title": "ONE PIECE",
+        "description": "打倒カイドウを諦めないルフィの復活を信じ、幹部達と激闘を繰り広げる仲間達!! 一方、鬼ヶ島屋上では、ヤマトとカイドウ因縁の親子対決が始まろうとしていた!! “ひとつなぎの大秘宝”を巡る海洋冒険ロマン!!",
+        "image": "http://books.google.com/books/content?id=2shLEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "君の膵臓をたべたい",
+        "description": "偶然、僕が拾った1冊の文庫本。それはクラスメイトである山内桜良が綴った、秘密の日記帳だった―圧倒的デビュー作!",
+        "image": "http://books.google.com/books/content?id=oTLTsgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      },
+      {
+        "title": "鬼滅の刃",
+        "description": "概要情報なし",
+        "image": "http://books.google.com/books/content?id=Mj1cDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "転生したらスライムだった件",
+        "description": "WEBで記録的なPVを集めた異世界転生モノの名作を、原作者完全監修でコミカライズ！ 巻末には原作者書き下ろしの短編小説を収録した、ファン必携の単行本いよいよ発売！＊「転スラ」スピンオフ５作品の第１話をまとめた試し読みパック付き！",
+        "image": "http://books.google.com/books/content?id=9krpCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "ちはやふる",
+        "description": "クイーン戦第二試合。詩暢の歌の世界へ没入し3枚差まで迫るも、あえなく敗れてしまう。次負けたら、クイーンへの道は絶たれる――。できる限りを尽くした千早は、絶望感に苛まれる。そんな千早を救ったのは…！？ そして、最強の名人に王手をかけた新。あとがない周防は、太一が引き合わせたおば・兼子と出会って、どう変わる…！？",
+        "image": "http://books.google.com/books/content?id=RP4AEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      }
+    ]
+  },
+  {
+    "username": "渡辺爽斗",
+    "rec_books": [
+      {
+        "title": "るろうに剣心",
+        "description": "逆刃刀を腰に下げ、不殺を誓う流浪人・緋村剣心――彼こそは維新志士の中で最強無比の伝説をもつ「人斬り抜刀斎」であった。維新後、その熱き想いで人々を守り続けた流浪人・剣心の活躍を描く！ 【同時収録】「巻末特別編(1) るろうに―明治剣客浪漫譚―」",
+        "image": "http://books.google.com/books/content?id=jPwKDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "魔入りました！入間くん",
+        "description": "デビキュラムを終えて、敬愛する兄と対立し極度のストレスがかかったカルエゴ先生。悪周期寸前である彼を慮ってか、オペラが魔界の海に課外授業へ行くことを提案!! 問題児クラスみんなで魔界の海へやってきて……そこで新たな出会いが!? 大人気悪魔学校ファンタジー!! 楽しい楽しい36巻が登場!!",
+        "image": "http://books.google.com/books/content?id=iUXqEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "文豪ストレイドッグス",
+        "description": "孤児院を追われた青年・中島敦は、とある自殺志願の男を助ける。男の名は太宰治...国木田、与謝野らと共に異能力集団「武装探偵社」に所属し、「人食い虎事件」を調査していて...!? 新感覚横浜文豪異能力アクション!",
+        "image": "http://books.google.com/books/content?id=0UkKm8qXSM8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "アンデッドアンラック",
+        "description": "風子奪還とスプリング討伐に向かうアンディ達。待ち構えるアンダーとの激戦の中、一人タワーの頂上へと到達した風子は、スプリングに対話を持ち掛ける。しかし神に縛られたスプリングは、風子との三本勝負を望み!?",
+        "image": "http://books.google.com/books/content?id=hkVbEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "HUNTER×HUNTER",
+        "description": "東ゴルトーに潜入し、王討伐に動き出したハンター達！ 潜伏するゴンとは別行動を取るキルアは、敵に見つかり、絶え間なく刺客に襲撃され続ける。完全監視の中、手の内は見せられない…。勝機はあるのか!?",
+        "image": "http://books.google.com/books/content?id=L9bKCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      }
+    ]
+  },
+  {
+    "username": "田中瑠彗",
+    "rec_books": [
+      {
+        "title": "BLEACH",
+        "description": "概要情報なし",
+        "image": "http://books.google.com/books/content?id=F1JQXwAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      },
+      {
+        "title": "カモのネギには毒がある",
+        "description": "そこのアナタ、カモられてませんか――？ 「カモリズム経済理論」が世界的に評価されている天才経済学者・加茂洋平。“フィールドワーク”と称して様々な姿に成りすます「変人」だが、経済弱者が搾取され、騙される社会で、自らの経済理論を実践し、ペテン強者たちに毒を喰らわせる――!!",
+        "image": "http://books.google.com/books/content?id=24thEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "文豪ストレイドッグス",
+        "description": "孤児院を追われた青年・中島敦は、とある自殺志願の男を助ける。男の名は太宰治...国木田、与謝野らと共に異能力集団「武装探偵社」に所属し、「人食い虎事件」を調査していて...!? 新感覚横浜文豪異能力アクション!",
+        "image": "http://books.google.com/books/content?id=0UkKm8qXSM8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "BORUTO",
+        "description": "ボルトはコードとの戦いで、「楔（カーマ）」の力を発動。難敵と拮抗するボルトだが、突如体に異変が！ モモシキの意識がボルトの体を乗っ取りコードやカワキと乱戦に。一方、ナルトもボルトのチャクラを追うが――!?",
+        "image": "http://books.google.com/books/content?id=SGlmEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "進撃の巨人",
+        "description": "概要情報なし",
+        "image": "http://books.google.com/books/content?id=nMjEBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      }
+    ]
+  },
+  {
+    "username": "田中翔大",
+    "rec_books": [
+      {
+        "title": "君の膵臓をたべたい",
+        "description": "偶然、僕が拾った1冊の文庫本。それはクラスメイトである山内桜良が綴った、秘密の日記帳だった―圧倒的デビュー作!",
+        "image": "http://books.google.com/books/content?id=oTLTsgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      },
+      {
+        "title": "DEATH NOTE",
+        "description": "デスノートを現在所有するヨツバ・火口を包囲した捜査本部。その時、月は再びデスノートを手にする事ができるのか!? そして、月が監禁前に思い描いていた計画は実現するのか!? 衝撃の事実が待ち受ける……!!",
+        "image": "http://books.google.com/books/content?id=UdXKCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "文豪ストレイドッグス",
+        "description": "孤児院を追われた青年・中島敦は、とある自殺志願の男を助ける。男の名は太宰治...国木田、与謝野らと共に異能力集団「武装探偵社」に所属し、「人食い虎事件」を調査していて...!? 新感覚横浜文豪異能力アクション!",
+        "image": "http://books.google.com/books/content?id=0UkKm8qXSM8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "NARUTO",
+        "description": "オビトの力に折れかけた忍達の心を、ナルトの想いが繋ぎ止めた！ 戦場では五影と共に全軍が力を集結し、神樹に立ち向かう！ 一方、ナルトとサスケはオビトの無限月読を止めるべく二つの力を重ね合わせ!?",
+        "image": "http://books.google.com/books/content?id=khzLCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "無職転生",
+        "description": "ギースとルイジェルドの新たな情報。またしてもヒトガミの『罠』なのか!?",
+        "image": "http://books.google.com/books/content?id=vzskzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      }
+    ]
+  },
+  {
+    "username": "田崎丈太郎",
+    "rec_books": [
+      {
+        "title": "NARUTO",
+        "description": "オビトの力に折れかけた忍達の心を、ナルトの想いが繋ぎ止めた！ 戦場では五影と共に全軍が力を集結し、神樹に立ち向かう！ 一方、ナルトとサスケはオビトの無限月読を止めるべく二つの力を重ね合わせ!?",
+        "image": "http://books.google.com/books/content?id=khzLCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "文豪ストレイドッグス",
+        "description": "孤児院を追われた青年・中島敦は、とある自殺志願の男を助ける。男の名は太宰治...国木田、与謝野らと共に異能力集団「武装探偵社」に所属し、「人食い虎事件」を調査していて...!? 新感覚横浜文豪異能力アクション!",
+        "image": "http://books.google.com/books/content?id=0UkKm8qXSM8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "進撃の巨人",
+        "description": "概要情報なし",
+        "image": "http://books.google.com/books/content?id=nMjEBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "鬼滅の刃",
+        "description": "概要情報なし",
+        "image": "http://books.google.com/books/content?id=Mj1cDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "転生したらスライムだった件",
+        "description": "WEBで記録的なPVを集めた異世界転生モノの名作を、原作者完全監修でコミカライズ！ 巻末には原作者書き下ろしの短編小説を収録した、ファン必携の単行本いよいよ発売！＊「転スラ」スピンオフ５作品の第１話をまとめた試し読みパック付き！",
+        "image": "http://books.google.com/books/content?id=9krpCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      }
+    ]
+  },
+  {
+    "username": "田所拓人",
+    "rec_books": [
+      {
+        "title": "無職転生",
+        "description": "ギースとルイジェルドの新たな情報。またしてもヒトガミの『罠』なのか!?",
+        "image": "http://books.google.com/books/content?id=vzskzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      },
+      {
+        "title": "終末のワルキューレ",
+        "description": "全世界の神VS偉人、武人、傑人!!!!地上で横暴を極める人類に対し、神々は人類の滅亡を決定する。その決定を覆すべく選ばれたのは人類史上最強、13人の戦士たち。神々とのタイマン13番勝負に勝ち、人類を存続させることは出来るのか!?第一回戦は北欧神話最強「トール神」VS三国志最強「呂布奉先」！人類存亡を賭けた戦いが、今始まる!!",
+        "image": "http://books.google.com/books/content?id=SvtaDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "結界師",
+        "description": "概要情報なし",
+        "image": "http://books.google.com/books/content?id=spX1CgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "ドラゴンボール",
+        "description": "【デジタル着色によるフルカラー版！】全王様主催による『力の大会』が開催されることに!! 破壊神達によるお披露目試合が終わり、ルールも決定。優勝以外の宇宙は消滅というこの大会。神を除く第7宇宙最強の10名を選抜するため、奔走する悟空だが!?",
+        "image": "http://books.google.com/books/content?id=BlLsDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "転生したら第七王子だったので、気ままに魔術を極めます",
+        "description": "マガポケセールスランキング1位の超話題作！ 小説家になろう発！ 累計1800万PVの超人気作がコミカライズ!! 俺が興味あるのは魔術だけだ── 庶民の転生先は王子!? 桁外れの魔力と家柄でお気楽無双ライフ!! 「魔術を極めたい！」たった一つの想いを残し死んだ男は、生前の記憶を残したままサルーム国の第七王子として転生を果たした！ 前世とは異なる桁違いの魔力量。第七王子という自由な身分。最高の環境で少年ロイドは魔術浸りの生活を望むが…。",
+        "image": "http://books.google.com/books/content?id=gCEGEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      }
+    ]
+  },
+  {
+    "username": "真田葵生",
+    "rec_books": [
+      {
+        "title": "ワンパンマン",
+        "description": "概要情報なし",
+        "image": "http://books.google.com/books/content?id=q9UvDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "ドラゴンボール",
+        "description": "【デジタル着色によるフルカラー版！】全王様主催による『力の大会』が開催されることに!! 破壊神達によるお披露目試合が終わり、ルールも決定。優勝以外の宇宙は消滅というこの大会。神を除く第7宇宙最強の10名を選抜するため、奔走する悟空だが!?",
+        "image": "http://books.google.com/books/content?id=BlLsDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "呪術廻戦",
+        "description": "類稀な身体能力を持つ高校生・虎杖悠仁（いたどりゆうじ）は、病床に伏せる祖父の見舞いを日課にしていた。だがある日学校に眠る「呪物」の封印が解かれ、化物が現れてしまう。取り残された先輩を救う為、校舎へ乗り込む虎杖だが!?",
+        "image": "http://books.google.com/books/content?id=SXRiDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "君の名は。",
+        "description": "山深い町の女子高生・三葉が夢で見た、東京の男子高校生・瀧。2人の隔たりとつながりから生まれる「距離」のドラマを描く新海誠的ボーイミーツガール。2016年8月26日公開映画の、新海監督みずから執筆した原作小説。",
+        "image": "http://books.google.com/books/content?id=qmVcDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "HUNTER×HUNTER",
+        "description": "東ゴルトーに潜入し、王討伐に動き出したハンター達！ 潜伏するゴンとは別行動を取るキルアは、敵に見つかり、絶え間なく刺客に襲撃され続ける。完全監視の中、手の内は見せられない…。勝機はあるのか!?",
+        "image": "http://books.google.com/books/content?id=L9bKCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      }
+    ]
+  },
+  {
+    "username": "石田優希",
+    "rec_books": [
+      {
+        "title": "ソードアート・オンライン",
+        "description": "物語の舞台は《アインクラッド》第２層へ！ アスナの愛剣・シルバーフルーレ消失の裏に隠された、意外な真相とは？ そして細剣の使い手のアスナが、なんと《体術》習得に挑む!? 《閃光》アスナ、その誕生の軌跡を綴る《アインクラッド》編の進化形（プログレッシブ）、コミックス第３巻！",
+        "image": "http://books.google.com/books/content?id=3Q4bBgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "弱虫ペダル",
+        "description": "インターハイ開幕。今泉の宿敵・御堂筋が登場し、坂道も箱根学園の真波と再会。個性的な選手が勢ぞろいしたレースの行方は?",
+        "image": "http://books.google.com/books/content?id=9VlAzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      },
+      {
+        "title": "マッシュル-MASHLE-",
+        "description": "誰もが魔法を使い、その優劣が全てを決める魔法界。人里離れた森の中で、日々筋トレの鬼と化す少年・マッシュの秘密は、魔法が使えないこと。その秘密を他人に知られた時、日常は一変!! なぜか魔法学校に入学し、トップを目指すことに…!? 鍛え上げた筋力とパワーで、全ての魔法を粉砕するアブノーマル魔法ファンタジー、ここに開幕!!",
+        "image": "http://books.google.com/books/content?id=Dg_eDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "ハイキュー!!",
+        "description": "おれは飛べる!! バレーボールに魅せられ、中学最初で最後の公式戦に臨んだ日向翔陽。だが、「コート上の王様」と異名を取る天才選手・影山に惨敗してしまう。リベンジを誓い烏野高校バレー部の門を叩く日向だが!?",
+        "image": "http://books.google.com/books/content?id=wI7LCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "七つの大罪",
+        "description": "いま明かされる〈七つの大罪〉結成の真実──!! メリオダス死す！ 英雄は煉獄に堕ち、大地は戒めの闇に沈んだ。荒廃する人心。迫るリオネス亡国の刻。来襲した〈十戒〉の前に、王城は為す術なく陥ちるのか!? 慈悲なき「慈愛」と傲慢なる「太陽」が真っ向激突!! 一方、必死に前を向くエリザベスのもとには謎の騎士が訪れ……。煌めくは最後の希望の灯！ 王都、燃ゆ。",
+        "image": "http://books.google.com/books/content?id=XGlpDQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      }
+    ]
+  },
+  {
+    "username": "福井拓真",
+    "rec_books": [
+      {
+        "title": "忘却バッテリー",
+        "description": "帝徳の猛攻を防げば、小手指の勝利が決まる最終局面！ しかし、試合開始から一人で投球し続けた清峰の体力は既に限界を迎えていた。9回裏無死（ノーアウト）ランナー一・二塁、迎える帝徳打者は国都。極限まで追い込まれ、威圧感で潰されそうな雰囲気の中、小手指バッテリーがとった行動は――…。",
+        "image": "http://books.google.com/books/content?id=2zg1EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "魔入りました！入間くん",
+        "description": "デビキュラムを終えて、敬愛する兄と対立し極度のストレスがかかったカルエゴ先生。悪周期寸前である彼を慮ってか、オペラが魔界の海に課外授業へ行くことを提案!! 問題児クラスみんなで魔界の海へやってきて……そこで新たな出会いが!? 大人気悪魔学校ファンタジー!! 楽しい楽しい36巻が登場!!",
+        "image": "http://books.google.com/books/content?id=iUXqEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "ジャンケットバンク",
+        "description": "真経津（マフツ）vs眞鍋最高潮!! 文字通り命懸けの1ヘッドバトルは、眞鍋優勢のママ終盤戦へ…!! 勝利と明日を掴み取るのは果たして…？ 第7ゲーム「シヴァリング・ファイア」劇的決着!!",
+        "image": "http://books.google.com/books/content?id=M_XYEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "炎炎ノ消防隊",
+        "description": "全人類は怯えていた──。何の変哲もない人が突如燃え出し、炎の怪物“焔ビト”となって、破壊の限りを尽くす“人体発火現象”。炎の恐怖に立ち向かう特殊消防隊は、現象の謎を解明し、人類を救うことが使命！ とある理由から“悪魔”と呼ばれる、新入隊員の少年・シンラは、“ヒーロー”を目指し、仲間たちと共に、“焔ビト”との戦いの日々に身を投じる！！ 燃え上がるバトル・ファンタジー、始動！！ 大災害は完遂し、“アドラ”と同化した地球は黒く燃ゆる炎と滅びの星となった。絶望に降り立つはヒーロー・森羅万象マン！ 人類が無意識の果てに望んだ“絶望”。その願いが成就したのだと語るハウメア。相対する森羅万象の救世主は、それでも“希望”を求め、人を超越した力を放つ。人類の代弁者・ハウメアの“絶望”と、神のごときシンラの“希望”の終末決戦！！ 創世の時。ヒトは、絶つか、希うか。炎炎なる物語、堂々完結！！",
+        "image": "http://books.google.com/books/content?id=4ihtEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "タコピーの原罪",
+        "description": "【デジタル版限定！「少年ジャンプ+」掲載時のカラーページを完全収録!!】地球にハッピーを広めるため降り立ったハッピー星人・タコピー。助けてくれた少女・しずかの笑顔を取り戻すため奔走するが、少女を取り巻く環境は壮絶。無垢なタコピーには想像がつかないものだった。ただ笑って欲しかったタコピーが犯す罪とは…!?",
+        "image": "http://books.google.com/books/content?id=6kVbEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      }
+    ]
+  },
+  {
+    "username": "秋山明日香",
+    "rec_books": [
+      {
+        "title": "るろうに剣心",
+        "description": "逆刃刀を腰に下げ、不殺を誓う流浪人・緋村剣心――彼こそは維新志士の中で最強無比の伝説をもつ「人斬り抜刀斎」であった。維新後、その熱き想いで人々を守り続けた流浪人・剣心の活躍を描く！ 【同時収録】「巻末特別編(1) るろうに―明治剣客浪漫譚―」",
+        "image": "http://books.google.com/books/content?id=jPwKDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "進撃の巨人",
+        "description": "概要情報なし",
+        "image": "http://books.google.com/books/content?id=nMjEBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "呪術廻戦",
+        "description": "類稀な身体能力を持つ高校生・虎杖悠仁（いたどりゆうじ）は、病床に伏せる祖父の見舞いを日課にしていた。だがある日学校に眠る「呪物」の封印が解かれ、化物が現れてしまう。取り残された先輩を救う為、校舎へ乗り込む虎杖だが!?",
+        "image": "http://books.google.com/books/content?id=SXRiDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "鋼の錬金術師",
+        "description": "兄・エドワード・エルリック、弟・アルフォンス。2人の若き天才錬金術師は、幼いころ、病気で失った母を甦らせるため禁断の人体錬成を試みる。しかしその代償はあまりにも高すぎた…。錬成は失敗、エドワードはみずからの左足と、ただ一人の肉親・アルフォンスを失ってしまう。かけがえのない弟をこの世に呼び戻すため、エドワードは自身の右腕を代価とすることで、弟の魂を錬成し、鎧に定着させることに成功。そして兄弟は、すべてを取り戻すための長い旅に出る…。",
+        "image": "http://books.google.com/books/content?id=PQ7FDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "無職転生",
+        "description": "ギースとルイジェルドの新たな情報。またしてもヒトガミの『罠』なのか!?",
+        "image": "http://books.google.com/books/content?id=vzskzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      }
+    ]
+  },
+  {
+    "username": "竹元亨舟",
+    "rec_books": [
+      {
+        "title": "ジョジョの奇妙な冒険 第4部",
+        "description": "【デジタル着色によるフルカラー版！】1999年の日本。平和な地方都市杜王町に空条承太郎がやって来た。この町に住む高校生、東方仗助はジョセフの浮気で産まれた息子だったのだ。そしてこの町に無気味なスタンドが迫っていた…。（「空条承太郎！東方仗助に会う その1」～「虹村兄弟 その1」までの9話分を収録）",
+        "image": "http://books.google.com/books/content?id=IDhyCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "闇金ウシジマくん",
+        "description": "【無料試し読み閲覧期間2017/11/10～2017/11/24】 丑嶋のもとを毎朝9時に訪れる「奴隷くん」と呼ばれる人々。それはパチンコ依存症の主婦たちのことで、丑嶋は彼女らに3万円の現金と引き換えに5万円の借用書にサインさせる。あらかじめ金利・手数料2万円を引いた上、1日3割もの暴利を課しているにも拘わらず、今日も彼の会社には哀れな訪問者が引きも切らない。",
+        "image": "http://books.google.com/books/content?id=KcE9DwAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      },
+      {
+        "title": "タッチ",
+        "description": "努力という言葉に縁のない兄・上杉達也と、何事にも一生懸命努力する弟・上杉和也。二人は、双子の兄弟。隣の喫茶店「南風」の一人娘・浅倉南とは幼なじみ。三人の「青春」から、目が離せない……！",
+        "image": "http://books.google.com/books/content?id=fvpiDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "恋は雨上がりのように",
+        "description": "橘あきら。17歳。高校2年生。 感情表現が少ないクールな彼女が、胸に秘めし恋。 その相手はバイト先のファミレス店長。 ちょっと寝ぐせがついてて、 たまにチャックが開いてて、 後頭部には10円ハゲのある そんな冴えないおじさん。 青春の交差点で立ち止まったままの彼女と、 人生の折り返し地点にさしかかった彼が織りなす、 恋と青春の物語。」",
+        "image": "http://books.google.com/books/content?id=IJL8CgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "ジョジョの奇妙な冒険 第6部",
+        "description": "【ページ数が多いビッグボリューム版！】2011年アメリカ、空条徐倫は恋人・ロメオの運転する車でのドライブ中、交通事故に遭遇する。そして弁護士とロメオに嵌められ、なんと15年の刑務所暮らしが確定してしまった…。母親の差し入れにより、父・承太郎から託されたペンダントに触れた徐倫にある変化が!?",
+        "image": "http://books.google.com/books/content?id=qSTHCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      }
+    ]
+  },
+  {
+    "username": "藤川 雄翔",
+    "rec_books": [
+      {
+        "title": "ダンダダン",
+        "description": "気付けば幽体で北海道の星子のもとに来たオカルン。宇宙人の侵略の危機を伝え、ターボババアに戦いの秘訣と、体に戻る方法を教えてもらい、一路自分の体へ…。一方、モモ達は宇宙人の再襲撃に備え、連係の特訓を重ねる。そして、襲来の予測日に街へ戻ると、既に宇宙人の侵攻が…!! みんなが戦う中、モモは敵の本体が来るのを阻止するために、セルポ星人とゲートへ向かうが!?",
+        "image": "http://books.google.com/books/content?id=2O_fEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "史上最強の弟子ケンイチ",
+        "description": "概要情報なし",
+        "image": "http://books.google.com/books/content?id=S3z0CgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "修羅の門",
+        "description": "日本に古くから伝わり、底知れぬ破壊力をもつ幻の武術、陸奥圓明流（むつえんめいりゅう）の使い手・陸奥九十九（むつつくも）が現れた！ 実戦空手道場・神武館（しんぶかん）をぶったおすため、九十九の荒技がさえる。段違いの迫力でせまる本格格闘技巨編、登場!!",
+        "image": "http://books.google.com/books/content?id=qZjDBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "ジョジョの奇妙な冒険 第7部",
+        "description": "大統領をあと一歩の所まで追いつめるも、無惨な最期を遂げたDio。その事を知ったジャイロとジョニィはルーシーを救うべく、いよいよ大統領の乗っている列車に乗り込む事に。遂に始まる直接対決！ 2人に勝機は…!?",
+        "image": "http://books.google.com/books/content?id=5oLLCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "ケンガンアシュラ",
+        "description": "家庭は崩壊、仕事はできない56歳のダメリーマン、山下一夫(ヤマシタカズオ)が会社の会長から突然呼び出された！弱気なおっさん・山下一夫は、日本経済の「裏」を知る――企業が巨額の利益を賭けて、雇った闘技者の殴り合いでビジネスを決める格闘試合の存在。…その名も「拳願仕合(ケンガンジアイ)」!!!!そして一夫に命じられた任務は――自社の闘技者、暴力を体現したような若者・十鬼蛇王馬（トキタオウマ）の世話係!!!果たして、ダメリーマン・山下一夫の運命は…!!??暴力×企業×人間ドラマ。男たちは「なぜ」闘い、拳で「何」をつかむのか？「究極」の格闘エンターテインメントが今、始まるッ!!!!",
+        "image": "http://books.google.com/books/content?id=62f4CgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      }
+    ]
+  },
+  {
+    "username": "藤本直樹",
+    "rec_books": [
+      {
+        "title": "HUNTER×HUNTER",
+        "description": "東ゴルトーに潜入し、王討伐に動き出したハンター達！ 潜伏するゴンとは別行動を取るキルアは、敵に見つかり、絶え間なく刺客に襲撃され続ける。完全監視の中、手の内は見せられない…。勝機はあるのか!?",
+        "image": "http://books.google.com/books/content?id=L9bKCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "るろうに剣心",
+        "description": "逆刃刀を腰に下げ、不殺を誓う流浪人・緋村剣心――彼こそは維新志士の中で最強無比の伝説をもつ「人斬り抜刀斎」であった。維新後、その熱き想いで人々を守り続けた流浪人・剣心の活躍を描く！ 【同時収録】「巻末特別編(1) るろうに―明治剣客浪漫譚―」",
+        "image": "http://books.google.com/books/content?id=jPwKDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "無職転生",
+        "description": "ギースとルイジェルドの新たな情報。またしてもヒトガミの『罠』なのか!?",
+        "image": "http://books.google.com/books/content?id=vzskzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      },
+      {
+        "title": "僕のヒーローアカデミア",
+        "description": "死柄木を逃した上、被害は甚大である。でも…それでも我々ヒーローは、一糸の綻びさえもない信念を以て、戦い続けなくてはならない！ それが散っていった仲間の想いであり、次代へと紡がれていくのだから…。“Plus Ultra”!!",
+        "image": "http://books.google.com/books/content?id=zzg1EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "NARUTO",
+        "description": "オビトの力に折れかけた忍達の心を、ナルトの想いが繋ぎ止めた！ 戦場では五影と共に全軍が力を集結し、神樹に立ち向かう！ 一方、ナルトとサスケはオビトの無限月読を止めるべく二つの力を重ね合わせ!?",
+        "image": "http://books.google.com/books/content?id=khzLCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      }
+    ]
+  },
+  {
+    "username": "酒向ひばり",
+    "rec_books": [
+      {
+        "title": "文豪ストレイドッグス",
+        "description": "孤児院を追われた青年・中島敦は、とある自殺志願の男を助ける。男の名は太宰治...国木田、与謝野らと共に異能力集団「武装探偵社」に所属し、「人食い虎事件」を調査していて...!? 新感覚横浜文豪異能力アクション!",
+        "image": "http://books.google.com/books/content?id=0UkKm8qXSM8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "無職転生",
+        "description": "ギースとルイジェルドの新たな情報。またしてもヒトガミの『罠』なのか!?",
+        "image": "http://books.google.com/books/content?id=vzskzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      },
+      {
+        "title": "SKET DANCE",
+        "description": "牛のウ●コが大活躍（？）のスケット版『さるかに合戦』に始まり、久々のJソン先生登場まで、どこを読んでもハズレなし！ 占い師とのバトルやボッスンのおり紙なども必見!! そしてキャプテンからの依頼とは…!?",
+        "image": "http://books.google.com/books/content?id=Xj_MCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "鋼の錬金術師",
+        "description": "兄・エドワード・エルリック、弟・アルフォンス。2人の若き天才錬金術師は、幼いころ、病気で失った母を甦らせるため禁断の人体錬成を試みる。しかしその代償はあまりにも高すぎた…。錬成は失敗、エドワードはみずからの左足と、ただ一人の肉親・アルフォンスを失ってしまう。かけがえのない弟をこの世に呼び戻すため、エドワードは自身の右腕を代価とすることで、弟の魂を錬成し、鎧に定着させることに成功。そして兄弟は、すべてを取り戻すための長い旅に出る…。",
+        "image": "http://books.google.com/books/content?id=PQ7FDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "宇宙兄弟",
+        "description": "無事に月面を発ったムッタたち。しかし、帰還船に乗り移るためにハッチを開けた先でなんと火災が発生！途切れた通信、そして火に巻き込まれた吾妻は一体どうなる…！更に、この火災によって更なるトラブルも発生。近くて遠い、地球へ向けて――危機的状況にムッタとヒビトが立ち上がる！",
+        "image": "http://books.google.com/books/content?id=9wHWEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      }
+    ]
+  }
+]

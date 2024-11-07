@@ -1,0 +1,932 @@
+[
+  {
+    "username": "中島楓華",
+    "rec_books": [
+      {
+        "title": "炎炎ノ消防隊",
+        "description": "全人類は怯えていた──。何の変哲もない人が突如燃え出し、炎の怪物“焔ビト”となって、破壊の限りを尽くす“人体発火現象”。炎の恐怖に立ち向かう特殊消防隊は、現象の謎を解明し、人類を救うことが使命！ とある理由から“悪魔”と呼ばれる、新入隊員の少年・シンラは、“ヒーロー”を目指し、仲間たちと共に、“焔ビト”との戦いの日々に身を投じる！！ 燃え上がるバトル・ファンタジー、始動！！ 大災害は完遂し、“アドラ”と同化した地球は黒く燃ゆる炎と滅びの星となった。絶望に降り立つはヒーロー・森羅万象マン！ 人類が無意識の果てに望んだ“絶望”。その願いが成就したのだと語るハウメア。相対する森羅万象の救世主は、それでも“希望”を求め、人を超越した力を放つ。人類の代弁者・ハウメアの“絶望”と、神のごときシンラの“希望”の終末決戦！！ 創世の時。ヒトは、絶つか、希うか。炎炎なる物語、堂々完結！！",
+        "image": "http://books.google.com/books/content?id=4ihtEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "進撃の巨人",
+        "description": "概要情報なし",
+        "image": "http://books.google.com/books/content?id=nMjEBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "呪術廻戦",
+        "description": "類稀な身体能力を持つ高校生・虎杖悠仁（いたどりゆうじ）は、病床に伏せる祖父の見舞いを日課にしていた。だがある日学校に眠る「呪物」の封印が解かれ、化物が現れてしまう。取り残された先輩を救う為、校舎へ乗り込む虎杖だが!?",
+        "image": "http://books.google.com/books/content?id=SXRiDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "転生したら第七王子だったので、気ままに魔術を極めます",
+        "description": "マガポケセールスランキング1位の超話題作！ 小説家になろう発！ 累計1800万PVの超人気作がコミカライズ!! 俺が興味あるのは魔術だけだ── 庶民の転生先は王子!? 桁外れの魔力と家柄でお気楽無双ライフ!! 「魔術を極めたい！」たった一つの想いを残し死んだ男は、生前の記憶を残したままサルーム国の第七王子として転生を果たした！ 前世とは異なる桁違いの魔力量。第七王子という自由な身分。最高の環境で少年ロイドは魔術浸りの生活を望むが…。",
+        "image": "http://books.google.com/books/content?id=gCEGEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "文豪ストレイドッグス",
+        "description": "孤児院を追われた青年・中島敦は、とある自殺志願の男を助ける。男の名は太宰治...国木田、与謝野らと共に異能力集団「武装探偵社」に所属し、「人食い虎事件」を調査していて...!? 新感覚横浜文豪異能力アクション!",
+        "image": "http://books.google.com/books/content?id=0UkKm8qXSM8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      }
+    ]
+  },
+  {
+    "username": "佐々木誠ニコラス",
+    "rec_books": [
+      {
+        "title": "NARUTO",
+        "description": "オビトの力に折れかけた忍達の心を、ナルトの想いが繋ぎ止めた！ 戦場では五影と共に全軍が力を集結し、神樹に立ち向かう！ 一方、ナルトとサスケはオビトの無限月読を止めるべく二つの力を重ね合わせ!?",
+        "image": "http://books.google.com/books/content?id=khzLCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "暗殺教室",
+        "description": "号令と共に教室を満たす銃声！ 椚ヶ丘中学校3年E組は生徒全員が先生の命を狙う暗殺教室。教師と生徒、標的と暗殺者の異常な日常が始まる――!!",
+        "image": "http://books.google.com/books/content?id=xZ_MCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "BLEACH",
+        "description": "黒崎一護・15歳・ユウレイの見える男。その特異な体質のわりに安穏とした日々を送っていた一護だが、突如、自らを死神と名乗る少女と遭遇、「虚」と呼ばれる悪霊に襲われる。次々と倒れる家族を前に一護は!?",
+        "image": "http://books.google.com/books/content?id=0aDLCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "ONE PIECE",
+        "description": "時は大海賊時代。いまや伝説の海賊王G・ロジャーの遺した『ひとつなぎの大秘宝』を巡って、幾人もの海賊達が戦っていた。そんな海賊に憧れる少年ルフィは、海賊王目指して大いなる旅に出る!!",
+        "image": "http://books.google.com/books/content?id=pjLMCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "東京喰種",
+        "description": "【雑誌掲載時の著者カラー原画を収録したリマスター版！】“僕は──「あんていく」に戻る” 6区のアジトを解散し、芳村の元へ戻る決意をしたカネキ。“ただの自分”を取り戻すために。一方、SSS級駆逐対象“梟”の居場所を突き止め、「梟討伐作戦」の決行に踏み切る〔CCG〕。“10年前の戦い”を彷彿とさせる様相に、歴戦の捜査官たちが集結する。「悲しみの装具」を携えて。その舞台は──東京20区・喫茶「あんていく」。",
+        "image": "http://books.google.com/books/content?id=TtfLCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      }
+    ]
+  },
+  {
+    "username": "前田拓海",
+    "rec_books": [
+      {
+        "title": "ザ・ファブル",
+        "description": "表の顔は善良な興信所の社長…。裏の顔は過保護の若者を食い物にする怪悪党…。大阪は太平市に暗躍するウツボなる男が、冷酷キラー・鈴木や元ヤクザの井崎、車イスのヒナコを従えて、ついにファブル暗殺計画を実行す！ジワジワとウツボらの罠が迫る中、ファブルは相棒ヨウコと共に、ヒナコ救出に動き出す。一難去って、二難三難。頑張れ無敵の殺し屋休業お兄さん！！！",
+        "image": "http://books.google.com/books/content?id=8z5ADwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "しゅごキャラ！",
+        "description": "聖夜学園でウワサの小学生、日奈森（ひなもり）あむちゃん。クールでかっこよくて、みんなから一目置かれる存在。でも、ホントのあむちゃんは……？ 「理想のキャラに生まれかわりたい！」と願ったら、突然3つのたまごがあらわれた。そこから「しゅごキャラ」が生まれて……！？ 憧れの王子、辺里唯世（ほとり・ただせ）くんに好きになってもらえるような、かわいくて素直な女の子になりたいの。でも、謎のしゅごたま「エンブリオ」を狙うヤツらは許せない！ 王子たちとともにガーディアンの一員となり、あむちゃん大活躍！！",
+        "image": "http://books.google.com/books/content?id=qTXHBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "チョコレート・ヴァンパイア",
+        "description": "幼い頃に“紅血の契約（アーティクルブラッド）”と呼ばれる契約を交わした千代と雪。ヴァンパイアの雪は、千代の血しか飲まないし、千代は雪にしか血を与えないという血の契り。 月日は流れ、二人は成長し、篝月学園に通う中学生と高校生になった、そこは吸血鬼たちと普通の人間が共存する学園だった。契約は続いているものの月日が刻んだ爪痕でお互い心から向き合えない二人。 だけど決して離れられない千代と雪、血と血がつなぐふたりの物語が、今始まる！",
+        "image": "http://books.google.com/books/content?id=-bgKDgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "ドラゴンボール",
+        "description": "Songoku has a superhuman power living in a mountain. One day, Songoku gets to know about '7 Dragon Balls', which will grant any wishes, and leave to collect them. On the way, Bulma joins and they together start on a journey!",
+        "image": "http://books.google.com/books/content?id=SL39GgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      },
+      {
+        "title": "鬼滅の刃",
+        "description": "概要情報なし",
+        "image": "http://books.google.com/books/content?id=Mj1cDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      }
+    ]
+  },
+  {
+    "username": "北畑由莉香",
+    "rec_books": [
+      {
+        "title": "チョコレート・ヴァンパイア",
+        "description": "幼い頃に“紅血の契約（アーティクルブラッド）”と呼ばれる契約を交わした千代と雪。ヴァンパイアの雪は、千代の血しか飲まないし、千代は雪にしか血を与えないという血の契り。 月日は流れ、二人は成長し、篝月学園に通う中学生と高校生になった、そこは吸血鬼たちと普通の人間が共存する学園だった。契約は続いているものの月日が刻んだ爪痕でお互い心から向き合えない二人。 だけど決して離れられない千代と雪、血と血がつなぐふたりの物語が、今始まる！",
+        "image": "http://books.google.com/books/content?id=-bgKDgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "チェンソーマン",
+        "description": "悪魔のポチタと共にデビルハンターとして借金取りにこき使われる超貧乏な少年・デンジ。ド底辺の日々は、残忍な裏切りで一変する!! 悪魔をその身に宿し、悪魔を狩る、新時代ダークヒーローアクション、開幕！",
+        "image": "http://books.google.com/books/content?id=NyOEDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "かみかみかえし",
+        "description": "遠山えまの和ファンタジー！！この髪には、神さまがいるんだよ－－。髪の中で神さまを休ませ癒す神事「神々返し」－－。幽閉の身の少女・ましろはある日、自らの髪に封印されていた神さま・ヒノカグと出会い－－！？スーパー神（々）（かみがみ）ファンタジー！！",
+        "image": "http://books.google.com/books/content?id=kZnGBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "終わりのセラフ",
+        "description": "名古屋出撃命令を受け、優一郎たちは部隊の集結地へ向かう。だが大遅刻をしグレンの怒りを買ってしまう。隊全体に闘志と緊張が漂う中、遅刻の罰を受けることになる優一郎は!? また作戦を共にする小隊と出会い…。",
+        "image": "http://books.google.com/books/content?id=6ubLCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "リコリス・リコイル",
+        "description": "凶悪犯罪が一切起こらない国・日本。 その治安を陰から維持するエージェント「リコリス」の正体は、 制服に身を包み、都市に紛れる少女たちであった――。",
+        "image": "http://books.google.com/books/content?id=iVSgEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      }
+    ]
+  },
+  {
+    "username": "土井弘人",
+    "rec_books": [
+      {
+        "title": "暗殺教室",
+        "description": "号令と共に教室を満たす銃声！ 椚ヶ丘中学校3年E組は生徒全員が先生の命を狙う暗殺教室。教師と生徒、標的と暗殺者の異常な日常が始まる――!!",
+        "image": "http://books.google.com/books/content?id=xZ_MCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "東京喰種",
+        "description": "【雑誌掲載時の著者カラー原画を収録したリマスター版！】“僕は──「あんていく」に戻る” 6区のアジトを解散し、芳村の元へ戻る決意をしたカネキ。“ただの自分”を取り戻すために。一方、SSS級駆逐対象“梟”の居場所を突き止め、「梟討伐作戦」の決行に踏み切る〔CCG〕。“10年前の戦い”を彷彿とさせる様相に、歴戦の捜査官たちが集結する。「悲しみの装具」を携えて。その舞台は──東京20区・喫茶「あんていく」。",
+        "image": "http://books.google.com/books/content?id=TtfLCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "チョコレート・ヴァンパイア",
+        "description": "幼い頃に“紅血の契約（アーティクルブラッド）”と呼ばれる契約を交わした千代と雪。ヴァンパイアの雪は、千代の血しか飲まないし、千代は雪にしか血を与えないという血の契り。 月日は流れ、二人は成長し、篝月学園に通う中学生と高校生になった、そこは吸血鬼たちと普通の人間が共存する学園だった。契約は続いているものの月日が刻んだ爪痕でお互い心から向き合えない二人。 だけど決して離れられない千代と雪、血と血がつなぐふたりの物語が、今始まる！",
+        "image": "http://books.google.com/books/content?id=-bgKDgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "るろうに剣心",
+        "description": "逆刃刀を腰に下げ、不殺を誓う流浪人・緋村剣心――彼こそは維新志士の中で最強無比の伝説をもつ「人斬り抜刀斎」であった。維新後、その熱き想いで人々を守り続けた流浪人・剣心の活躍を描く！ 【同時収録】「巻末特別編(1) るろうに―明治剣客浪漫譚―」",
+        "image": "http://books.google.com/books/content?id=jPwKDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "マッシュル-MASHLE-",
+        "description": "誰もが魔法を使い、その優劣が全てを決める魔法界。人里離れた森の中で、日々筋トレの鬼と化す少年・マッシュの秘密は、魔法が使えないこと。その秘密を他人に知られた時、日常は一変!! なぜか魔法学校に入学し、トップを目指すことに…!? 鍛え上げた筋力とパワーで、全ての魔法を粉砕するアブノーマル魔法ファンタジー、ここに開幕!!",
+        "image": "http://books.google.com/books/content?id=Dg_eDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      }
+    ]
+  },
+  {
+    "username": "大角駿人",
+    "rec_books": [
+      {
+        "title": "ジョジョの奇妙な冒険 第3部",
+        "description": "【ページ数が多いビッグボリューム版！】妹とアヴドゥルの仇、J・ガイルを倒したポルナレフ。だがそのことがエンヤ婆の復讐心に火をつけた。聖地ベナレスで承太郎に差し向けられた「女帝」のスタンドは、ジョセフの腕に寄生し取り殺そうと成長し始めた。本体もわからず倒す術なきままに街を走るジョセフだが…!?",
+        "image": "http://books.google.com/books/content?id=SzzJCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "天上天下",
+        "description": "【デジタル着色によるフルカラー版！】復活した凄王に立ち向かい、光臣は何を手に入れるのか。人をも超えた戦いを前に、雅孝は新たなる決意を胸にその拳を硬くする。そして天照である真夜の目覚め!! 人は生きるために藻掻き苦しむ。その戦いの先にある希望を信じて……。人生という刹那を生き抜くために、今この戦場に立つ！",
+        "image": "http://books.google.com/books/content?id=2lFyCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "炎炎ノ消防隊",
+        "description": "全人類は怯えていた──。何の変哲もない人が突如燃え出し、炎の怪物“焔ビト”となって、破壊の限りを尽くす“人体発火現象”。炎の恐怖に立ち向かう特殊消防隊は、現象の謎を解明し、人類を救うことが使命！ とある理由から“悪魔”と呼ばれる、新入隊員の少年・シンラは、“ヒーロー”を目指し、仲間たちと共に、“焔ビト”との戦いの日々に身を投じる！！ 燃え上がるバトル・ファンタジー、始動！！ 大災害は完遂し、“アドラ”と同化した地球は黒く燃ゆる炎と滅びの星となった。絶望に降り立つはヒーロー・森羅万象マン！ 人類が無意識の果てに望んだ“絶望”。その願いが成就したのだと語るハウメア。相対する森羅万象の救世主は、それでも“希望”を求め、人を超越した力を放つ。人類の代弁者・ハウメアの“絶望”と、神のごときシンラの“希望”の終末決戦！！ 創世の時。ヒトは、絶つか、希うか。炎炎なる物語、堂々完結！！",
+        "image": "http://books.google.com/books/content?id=4ihtEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "進撃の巨人",
+        "description": "概要情報なし",
+        "image": "http://books.google.com/books/content?id=nMjEBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "七つの大罪",
+        "description": "いま明かされる〈七つの大罪〉結成の真実──!! メリオダス死す！ 英雄は煉獄に堕ち、大地は戒めの闇に沈んだ。荒廃する人心。迫るリオネス亡国の刻。来襲した〈十戒〉の前に、王城は為す術なく陥ちるのか!? 慈悲なき「慈愛」と傲慢なる「太陽」が真っ向激突!! 一方、必死に前を向くエリザベスのもとには謎の騎士が訪れ……。煌めくは最後の希望の灯！ 王都、燃ゆ。",
+        "image": "http://books.google.com/books/content?id=XGlpDQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      }
+    ]
+  },
+  {
+    "username": "小川",
+    "rec_books": [
+      {
+        "title": "チョコレート・ヴァンパイア",
+        "description": "幼い頃に“紅血の契約（アーティクルブラッド）”と呼ばれる契約を交わした千代と雪。ヴァンパイアの雪は、千代の血しか飲まないし、千代は雪にしか血を与えないという血の契り。 月日は流れ、二人は成長し、篝月学園に通う中学生と高校生になった、そこは吸血鬼たちと普通の人間が共存する学園だった。契約は続いているものの月日が刻んだ爪痕でお互い心から向き合えない二人。 だけど決して離れられない千代と雪、血と血がつなぐふたりの物語が、今始まる！",
+        "image": "http://books.google.com/books/content?id=-bgKDgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "しゅごキャラ！",
+        "description": "聖夜学園でウワサの小学生、日奈森（ひなもり）あむちゃん。クールでかっこよくて、みんなから一目置かれる存在。でも、ホントのあむちゃんは……？ 「理想のキャラに生まれかわりたい！」と願ったら、突然3つのたまごがあらわれた。そこから「しゅごキャラ」が生まれて……！？ 憧れの王子、辺里唯世（ほとり・ただせ）くんに好きになってもらえるような、かわいくて素直な女の子になりたいの。でも、謎のしゅごたま「エンブリオ」を狙うヤツらは許せない！ 王子たちとともにガーディアンの一員となり、あむちゃん大活躍！！",
+        "image": "http://books.google.com/books/content?id=qTXHBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "HUNTER×HUNTER",
+        "description": "概要情報なし",
+        "image": "http://books.google.com/books/content?id=hw3kCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "かみかみかえし",
+        "description": "遠山えまの和ファンタジー！！この髪には、神さまがいるんだよ－－。髪の中で神さまを休ませ癒す神事「神々返し」－－。幽閉の身の少女・ましろはある日、自らの髪に封印されていた神さま・ヒノカグと出会い－－！？スーパー神（々）（かみがみ）ファンタジー！！",
+        "image": "http://books.google.com/books/content?id=kZnGBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "BLEACH",
+        "description": "黒崎一護・15歳・ユウレイの見える男。その特異な体質のわりに安穏とした日々を送っていた一護だが、突如、自らを死神と名乗る少女と遭遇、「虚」と呼ばれる悪霊に襲われる。次々と倒れる家族を前に一護は!?",
+        "image": "http://books.google.com/books/content?id=0aDLCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      }
+    ]
+  },
+  {
+    "username": "山田航",
+    "rec_books": [
+      {
+        "title": "DEATH NOTE",
+        "description": "◎夜神月とLの結末のその後を描いた「Cキラ編」 ◎死神リュークと出遭った田中実が驚くべき方法でデスノートを使った「aキラ編」 ◎最初のデスノートの物語「鏡太郎編」 ◎Lの日常と過去「L―One Day」「L―The Wammy's House」 上記の読切他を収録した珠玉の短編集。",
+        "image": "http://books.google.com/books/content?id=yG4QEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "ドラゴンボール",
+        "description": "Songoku has a superhuman power living in a mountain. One day, Songoku gets to know about '7 Dragon Balls', which will grant any wishes, and leave to collect them. On the way, Bulma joins and they together start on a journey!",
+        "image": "http://books.google.com/books/content?id=SL39GgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      },
+      {
+        "title": "ワールドトリガー",
+        "description": "異次元からの侵略者「近界民」の脅威にさらされている三門市。そこに住む少し正義感の強い中学生・三雲修は、謎の転校生・空閑遊真と出会う。遊真の行動に振り回される修の運命は!? 最新型SFアクション始動!!",
+        "image": "http://books.google.com/books/content?id=wPfJCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "東京喰種",
+        "description": "【雑誌掲載時の著者カラー原画を収録したリマスター版！】“僕は──「あんていく」に戻る” 6区のアジトを解散し、芳村の元へ戻る決意をしたカネキ。“ただの自分”を取り戻すために。一方、SSS級駆逐対象“梟”の居場所を突き止め、「梟討伐作戦」の決行に踏み切る〔CCG〕。“10年前の戦い”を彷彿とさせる様相に、歴戦の捜査官たちが集結する。「悲しみの装具」を携えて。その舞台は──東京20区・喫茶「あんていく」。",
+        "image": "http://books.google.com/books/content?id=TtfLCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "黒子のバスケ",
+        "description": "【デジタル着色によるフルカラー版！】ストリートバスケの親善試合で日本チームを嘲笑うUSA（アメリカ）チーム・Jabberwock。だがリコの父・景虎は誠凛の光（火神）と影（黒子）やキセキの世代を集め、リベンジマッチを宣言する!! 今回限りの最強ドリームチーム、ここに集結!!",
+        "image": "http://books.google.com/books/content?id=6JhDDgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      }
+    ]
+  },
+  {
+    "username": "川上輝",
+    "rec_books": [
+      {
+        "title": "炎炎ノ消防隊",
+        "description": "全人類は怯えていた──。何の変哲もない人が突如燃え出し、炎の怪物“焔ビト”となって、破壊の限りを尽くす“人体発火現象”。炎の恐怖に立ち向かう特殊消防隊は、現象の謎を解明し、人類を救うことが使命！ とある理由から“悪魔”と呼ばれる、新入隊員の少年・シンラは、“ヒーロー”を目指し、仲間たちと共に、“焔ビト”との戦いの日々に身を投じる！！ 燃え上がるバトル・ファンタジー、始動！！ 大災害は完遂し、“アドラ”と同化した地球は黒く燃ゆる炎と滅びの星となった。絶望に降り立つはヒーロー・森羅万象マン！ 人類が無意識の果てに望んだ“絶望”。その願いが成就したのだと語るハウメア。相対する森羅万象の救世主は、それでも“希望”を求め、人を超越した力を放つ。人類の代弁者・ハウメアの“絶望”と、神のごときシンラの“希望”の終末決戦！！ 創世の時。ヒトは、絶つか、希うか。炎炎なる物語、堂々完結！！",
+        "image": "http://books.google.com/books/content?id=4ihtEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "マッシュル-MASHLE-",
+        "description": "誰もが魔法を使い、その優劣が全てを決める魔法界。人里離れた森の中で、日々筋トレの鬼と化す少年・マッシュの秘密は、魔法が使えないこと。その秘密を他人に知られた時、日常は一変!! なぜか魔法学校に入学し、トップを目指すことに…!? 鍛え上げた筋力とパワーで、全ての魔法を粉砕するアブノーマル魔法ファンタジー、ここに開幕!!",
+        "image": "http://books.google.com/books/content?id=Dg_eDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "ザ・ファブル",
+        "description": "表の顔は善良な興信所の社長…。裏の顔は過保護の若者を食い物にする怪悪党…。大阪は太平市に暗躍するウツボなる男が、冷酷キラー・鈴木や元ヤクザの井崎、車イスのヒナコを従えて、ついにファブル暗殺計画を実行す！ジワジワとウツボらの罠が迫る中、ファブルは相棒ヨウコと共に、ヒナコ救出に動き出す。一難去って、二難三難。頑張れ無敵の殺し屋休業お兄さん！！！",
+        "image": "http://books.google.com/books/content?id=8z5ADwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "ワールドトリガー",
+        "description": "異次元からの侵略者「近界民」の脅威にさらされている三門市。そこに住む少し正義感の強い中学生・三雲修は、謎の転校生・空閑遊真と出会う。遊真の行動に振り回される修の運命は!? 最新型SFアクション始動!!",
+        "image": "http://books.google.com/books/content?id=wPfJCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "七つの大罪",
+        "description": "いま明かされる〈七つの大罪〉結成の真実──!! メリオダス死す！ 英雄は煉獄に堕ち、大地は戒めの闇に沈んだ。荒廃する人心。迫るリオネス亡国の刻。来襲した〈十戒〉の前に、王城は為す術なく陥ちるのか!? 慈悲なき「慈愛」と傲慢なる「太陽」が真っ向激突!! 一方、必死に前を向くエリザベスのもとには謎の騎士が訪れ……。煌めくは最後の希望の灯！ 王都、燃ゆ。",
+        "image": "http://books.google.com/books/content?id=XGlpDQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      }
+    ]
+  },
+  {
+    "username": "川島 励仁",
+    "rec_books": [
+      {
+        "title": "東京喰種",
+        "description": "【雑誌掲載時の著者カラー原画を収録したリマスター版！】“僕は──「あんていく」に戻る” 6区のアジトを解散し、芳村の元へ戻る決意をしたカネキ。“ただの自分”を取り戻すために。一方、SSS級駆逐対象“梟”の居場所を突き止め、「梟討伐作戦」の決行に踏み切る〔CCG〕。“10年前の戦い”を彷彿とさせる様相に、歴戦の捜査官たちが集結する。「悲しみの装具」を携えて。その舞台は──東京20区・喫茶「あんていく」。",
+        "image": "http://books.google.com/books/content?id=TtfLCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "HUNTER×HUNTER",
+        "description": "概要情報なし",
+        "image": "http://books.google.com/books/content?id=hw3kCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "チョコレート・ヴァンパイア",
+        "description": "幼い頃に“紅血の契約（アーティクルブラッド）”と呼ばれる契約を交わした千代と雪。ヴァンパイアの雪は、千代の血しか飲まないし、千代は雪にしか血を与えないという血の契り。 月日は流れ、二人は成長し、篝月学園に通う中学生と高校生になった、そこは吸血鬼たちと普通の人間が共存する学園だった。契約は続いているものの月日が刻んだ爪痕でお互い心から向き合えない二人。 だけど決して離れられない千代と雪、血と血がつなぐふたりの物語が、今始まる！",
+        "image": "http://books.google.com/books/content?id=-bgKDgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "マッシュル-MASHLE-",
+        "description": "誰もが魔法を使い、その優劣が全てを決める魔法界。人里離れた森の中で、日々筋トレの鬼と化す少年・マッシュの秘密は、魔法が使えないこと。その秘密を他人に知られた時、日常は一変!! なぜか魔法学校に入学し、トップを目指すことに…!? 鍛え上げた筋力とパワーで、全ての魔法を粉砕するアブノーマル魔法ファンタジー、ここに開幕!!",
+        "image": "http://books.google.com/books/content?id=Dg_eDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "進撃の巨人",
+        "description": "概要情報なし",
+        "image": "http://books.google.com/books/content?id=nMjEBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      }
+    ]
+  },
+  {
+    "username": "平尾 七虹",
+    "rec_books": [
+      {
+        "title": "東京喰種",
+        "description": "【雑誌掲載時の著者カラー原画を収録したリマスター版！】“僕は──「あんていく」に戻る” 6区のアジトを解散し、芳村の元へ戻る決意をしたカネキ。“ただの自分”を取り戻すために。一方、SSS級駆逐対象“梟”の居場所を突き止め、「梟討伐作戦」の決行に踏み切る〔CCG〕。“10年前の戦い”を彷彿とさせる様相に、歴戦の捜査官たちが集結する。「悲しみの装具」を携えて。その舞台は──東京20区・喫茶「あんていく」。",
+        "image": "http://books.google.com/books/content?id=TtfLCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "進撃の巨人",
+        "description": "概要情報なし",
+        "image": "http://books.google.com/books/content?id=nMjEBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "ONE PIECE",
+        "description": "時は大海賊時代。いまや伝説の海賊王G・ロジャーの遺した『ひとつなぎの大秘宝』を巡って、幾人もの海賊達が戦っていた。そんな海賊に憧れる少年ルフィは、海賊王目指して大いなる旅に出る!!",
+        "image": "http://books.google.com/books/content?id=pjLMCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "NARUTO",
+        "description": "オビトの力に折れかけた忍達の心を、ナルトの想いが繋ぎ止めた！ 戦場では五影と共に全軍が力を集結し、神樹に立ち向かう！ 一方、ナルトとサスケはオビトの無限月読を止めるべく二つの力を重ね合わせ!?",
+        "image": "http://books.google.com/books/content?id=khzLCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "るろうに剣心",
+        "description": "逆刃刀を腰に下げ、不殺を誓う流浪人・緋村剣心――彼こそは維新志士の中で最強無比の伝説をもつ「人斬り抜刀斎」であった。維新後、その熱き想いで人々を守り続けた流浪人・剣心の活躍を描く！ 【同時収録】「巻末特別編(1) るろうに―明治剣客浪漫譚―」",
+        "image": "http://books.google.com/books/content?id=jPwKDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      }
+    ]
+  },
+  {
+    "username": "床田将一朗",
+    "rec_books": [
+      {
+        "title": "ダンダダン",
+        "description": "気付けば幽体で北海道の星子のもとに来たオカルン。宇宙人の侵略の危機を伝え、ターボババアに戦いの秘訣と、体に戻る方法を教えてもらい、一路自分の体へ…。一方、モモ達は宇宙人の再襲撃に備え、連係の特訓を重ねる。そして、襲来の予測日に街へ戻ると、既に宇宙人の侵攻が…!! みんなが戦う中、モモは敵の本体が来るのを阻止するために、セルポ星人とゲートへ向かうが!?",
+        "image": "http://books.google.com/books/content?id=2O_fEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "暗殺教室",
+        "description": "号令と共に教室を満たす銃声！ 椚ヶ丘中学校3年E組は生徒全員が先生の命を狙う暗殺教室。教師と生徒、標的と暗殺者の異常な日常が始まる――!!",
+        "image": "http://books.google.com/books/content?id=xZ_MCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "鬼滅の刃",
+        "description": "概要情報なし",
+        "image": "http://books.google.com/books/content?id=Mj1cDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "史上最強の弟子ケンイチ",
+        "description": "概要情報なし",
+        "image": "http://books.google.com/books/content?id=S3z0CgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "呪術廻戦",
+        "description": "類稀な身体能力を持つ高校生・虎杖悠仁（いたどりゆうじ）は、病床に伏せる祖父の見舞いを日課にしていた。だがある日学校に眠る「呪物」の封印が解かれ、化物が現れてしまう。取り残された先輩を救う為、校舎へ乗り込む虎杖だが!?",
+        "image": "http://books.google.com/books/content?id=SXRiDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      }
+    ]
+  },
+  {
+    "username": "徳丸晴天",
+    "rec_books": [
+      {
+        "title": "東京卍リベンジャーズ",
+        "description": "『新宿スワン』の和久井健、一世一代の最新作！！ 今度は不良が、タイムリープ！？ 最愛の人を救うため、ダメフリーター・花垣タケミチが中学時代に戻り、関東最凶不良集団の頂点を目指す！！ 最新タイムリープ・サスペンス第25巻！！ 10年前の高校時代にタイムリープしたタケミチ。 そこは、六破羅単代、梵(ブラフマン)、そして関東卍會。見知らぬ３チームが覇を争う”三天時代”になっていた！！ マイキーを救うため、梵の首領・瓦城千咒(かわらぎせんじゅ)と行動を共にすることになったタケミチ。謎に包まれた千咒の素顔とは？ そして、タケミチに現代(みらい)の行方を決める決戦の時が迫る！！",
+        "image": "http://books.google.com/books/content?id=bHJTEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "東京喰種",
+        "description": "【雑誌掲載時の著者カラー原画を収録したリマスター版！】“僕は──「あんていく」に戻る” 6区のアジトを解散し、芳村の元へ戻る決意をしたカネキ。“ただの自分”を取り戻すために。一方、SSS級駆逐対象“梟”の居場所を突き止め、「梟討伐作戦」の決行に踏み切る〔CCG〕。“10年前の戦い”を彷彿とさせる様相に、歴戦の捜査官たちが集結する。「悲しみの装具」を携えて。その舞台は──東京20区・喫茶「あんていく」。",
+        "image": "http://books.google.com/books/content?id=TtfLCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "NARUTO",
+        "description": "オビトの力に折れかけた忍達の心を、ナルトの想いが繋ぎ止めた！ 戦場では五影と共に全軍が力を集結し、神樹に立ち向かう！ 一方、ナルトとサスケはオビトの無限月読を止めるべく二つの力を重ね合わせ!?",
+        "image": "http://books.google.com/books/content?id=khzLCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "怪獣8号",
+        "description": "識別クラス怪獣に襲われた東方師団エリア。鳴海とキコルは各個に撃破するも、保科の対戦相手は試作品・10号の完成品・11号。さらに保科が装着する識別怪獣兵器は、解放戦力が83％以上にならず苦戦を強いられ!? ――想定を超えた、第十二巻!!",
+        "image": "http://books.google.com/books/content?id=t1b3EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "ONE PIECE",
+        "description": "時は大海賊時代。いまや伝説の海賊王G・ロジャーの遺した『ひとつなぎの大秘宝』を巡って、幾人もの海賊達が戦っていた。そんな海賊に憧れる少年ルフィは、海賊王目指して大いなる旅に出る!!",
+        "image": "http://books.google.com/books/content?id=pjLMCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      }
+    ]
+  },
+  {
+    "username": "森野穣",
+    "rec_books": [
+      {
+        "title": "BLEACH",
+        "description": "黒崎一護・15歳・ユウレイの見える男。その特異な体質のわりに安穏とした日々を送っていた一護だが、突如、自らを死神と名乗る少女と遭遇、「虚」と呼ばれる悪霊に襲われる。次々と倒れる家族を前に一護は!?",
+        "image": "http://books.google.com/books/content?id=0aDLCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "僕のヒーローアカデミア",
+        "description": "目覚めた黒霧の“個性（ワープ）”で、荼毘やトゥワイスの血を使ったトガヒミコが群訝山荘跡に集結したことによりヒーローによる分断作戦は瓦解しかけている。ここで敵（ヴィラン）に屈すれば世界は終わるやもしれん。緑谷少年、君はまだ誰かの笑顔の為に戦っているのかい？ 私も本当は誰かの為に…。",
+        "image": "http://books.google.com/books/content?id=lYG7EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "呪術廻戦",
+        "description": "類稀な身体能力を持つ高校生・虎杖悠仁（いたどりゆうじ）は、病床に伏せる祖父の見舞いを日課にしていた。だがある日学校に眠る「呪物」の封印が解かれ、化物が現れてしまう。取り残された先輩を救う為、校舎へ乗り込む虎杖だが!?",
+        "image": "http://books.google.com/books/content?id=SXRiDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "金色のガッシュ！！",
+        "description": "あの「金色のガッシュ！！」が完全版として登場！雷句誠による表紙全巻描き下ろし、カラーページはカラーのまま鮮やかによみがえります。そして注目は描き下ろしとなるオマケの短編マンガ「ガッシュカフェ」。魔物の子供達が戦いを離れ、お茶を飲みながら語り合い、意外な一面を見せ合います。第１回は「ガッシュとゴフレ」がお客様。 週刊少年サンデー2001年6号から、2008年4/5合併号まで連載。魔界の王を決めるため、100名の魔物の子供達が人間とコンビを組み、最後の1組になるまで戦う。ファンタジー系バトル漫画。 天才ゆえに妬まれ、友達のいなかった清麿と、素っ裸で清麿の部屋の窓を割って入ってきたガッシュ。二人が出会い、過酷な戦い、運命の中で共に助け合い、成長してゆく物語。 第1巻はLEVEL1〜LEVEL19までを収録。",
+        "image": "http://books.google.com/books/content?id=xRNhDwAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      },
+      {
+        "title": "NARUTO",
+        "description": "オビトの力に折れかけた忍達の心を、ナルトの想いが繋ぎ止めた！ 戦場では五影と共に全軍が力を集結し、神樹に立ち向かう！ 一方、ナルトとサスケはオビトの無限月読を止めるべく二つの力を重ね合わせ!?",
+        "image": "http://books.google.com/books/content?id=khzLCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      }
+    ]
+  },
+  {
+    "username": "横井優",
+    "rec_books": [
+      {
+        "title": "ぼくらの",
+        "description": "概要情報なし",
+        "image": "http://books.google.com/books/content?id=uKb2CgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "GANTZE",
+        "description": "――時は江戸。川で溺れ死んだ百姓の半兵衛と政吉は、気がつくと謎の古寺に転送されていた。堂内に鎮座するのは得体の知れない黒い球。戸惑う半兵衛たちをよそに、球は「宮本武蔵を倒せ」という指令を彼らに与え…。「GANTZ」シリーズ最新作、開幕!!",
+        "image": "http://books.google.com/books/content?id=U0XzDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "呪術廻戦",
+        "description": "類稀な身体能力を持つ高校生・虎杖悠仁（いたどりゆうじ）は、病床に伏せる祖父の見舞いを日課にしていた。だがある日学校に眠る「呪物」の封印が解かれ、化物が現れてしまう。取り残された先輩を救う為、校舎へ乗り込む虎杖だが!?",
+        "image": "http://books.google.com/books/content?id=SXRiDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "無職転生",
+        "description": "ギースとルイジェルドの新たな情報。またしてもヒトガミの『罠』なのか!?",
+        "image": "http://books.google.com/books/content?id=vzskzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      },
+      {
+        "title": "僕のヒーローアカデミア",
+        "description": "目覚めた黒霧の“個性（ワープ）”で、荼毘やトゥワイスの血を使ったトガヒミコが群訝山荘跡に集結したことによりヒーローによる分断作戦は瓦解しかけている。ここで敵（ヴィラン）に屈すれば世界は終わるやもしれん。緑谷少年、君はまだ誰かの笑顔の為に戦っているのかい？ 私も本当は誰かの為に…。",
+        "image": "http://books.google.com/books/content?id=lYG7EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      }
+    ]
+  },
+  {
+    "username": "武内謙晴",
+    "rec_books": [
+      {
+        "title": "進撃の巨人",
+        "description": "概要情報なし",
+        "image": "http://books.google.com/books/content?id=nMjEBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "HUNTER×HUNTER",
+        "description": "概要情報なし",
+        "image": "http://books.google.com/books/content?id=hw3kCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "NARUTO",
+        "description": "オビトの力に折れかけた忍達の心を、ナルトの想いが繋ぎ止めた！ 戦場では五影と共に全軍が力を集結し、神樹に立ち向かう！ 一方、ナルトとサスケはオビトの無限月読を止めるべく二つの力を重ね合わせ!?",
+        "image": "http://books.google.com/books/content?id=khzLCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "チェンソーマン",
+        "description": "悪魔のポチタと共にデビルハンターとして借金取りにこき使われる超貧乏な少年・デンジ。ド底辺の日々は、残忍な裏切りで一変する!! 悪魔をその身に宿し、悪魔を狩る、新時代ダークヒーローアクション、開幕！",
+        "image": "http://books.google.com/books/content?id=NyOEDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "僕のヒーローアカデミア",
+        "description": "目覚めた黒霧の“個性（ワープ）”で、荼毘やトゥワイスの血を使ったトガヒミコが群訝山荘跡に集結したことによりヒーローによる分断作戦は瓦解しかけている。ここで敵（ヴィラン）に屈すれば世界は終わるやもしれん。緑谷少年、君はまだ誰かの笑顔の為に戦っているのかい？ 私も本当は誰かの為に…。",
+        "image": "http://books.google.com/books/content?id=lYG7EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      }
+    ]
+  },
+  {
+    "username": "池町和史",
+    "rec_books": [
+      {
+        "title": "BLEACH",
+        "description": "黒崎一護・15歳・ユウレイの見える男。その特異な体質のわりに安穏とした日々を送っていた一護だが、突如、自らを死神と名乗る少女と遭遇、「虚」と呼ばれる悪霊に襲われる。次々と倒れる家族を前に一護は!?",
+        "image": "http://books.google.com/books/content?id=0aDLCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "ザ・ファブル",
+        "description": "表の顔は善良な興信所の社長…。裏の顔は過保護の若者を食い物にする怪悪党…。大阪は太平市に暗躍するウツボなる男が、冷酷キラー・鈴木や元ヤクザの井崎、車イスのヒナコを従えて、ついにファブル暗殺計画を実行す！ジワジワとウツボらの罠が迫る中、ファブルは相棒ヨウコと共に、ヒナコ救出に動き出す。一難去って、二難三難。頑張れ無敵の殺し屋休業お兄さん！！！",
+        "image": "http://books.google.com/books/content?id=8z5ADwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "未来日記",
+        "description": "雪輝・由乃ペア対7thペア、邸宅内で熾烈なバトルが始まった...。二組のカップル同士のこの戦い、勝敗を決するのは互いを思いやる「愛」の力。雪輝は真に由乃を愛することが出来るのか? そして激闘の行方は——!?",
+        "image": "http://books.google.com/books/content?id=b0NyPF0D3kIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "HUNTER×HUNTER",
+        "description": "概要情報なし",
+        "image": "http://books.google.com/books/content?id=hw3kCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "青の祓魔師",
+        "description": "【雑誌掲載時の著者カラー原画を収録したリマスター版！】悪魔の血を継ぐ少年・奥村燐の前に、突如父を名乗る魔神が現れ、悪魔が棲む虚無界へと連れ去ろうとする。高名な祓魔師である養父は、命を懸けて燐を守り死んでしまう…。燐は己の無力さを悔やみ、祓魔師になって魔神と闘うことを強く決意するッ!!",
+        "image": "http://books.google.com/books/content?id=C-_KCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      }
+    ]
+  },
+  {
+    "username": "清野陽平",
+    "rec_books": [
+      {
+        "title": "進撃の巨人",
+        "description": "概要情報なし",
+        "image": "http://books.google.com/books/content?id=nMjEBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "暗殺教室",
+        "description": "号令と共に教室を満たす銃声！ 椚ヶ丘中学校3年E組は生徒全員が先生の命を狙う暗殺教室。教師と生徒、標的と暗殺者の異常な日常が始まる――!!",
+        "image": "http://books.google.com/books/content?id=xZ_MCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "ONE PIECE",
+        "description": "時は大海賊時代。いまや伝説の海賊王G・ロジャーの遺した『ひとつなぎの大秘宝』を巡って、幾人もの海賊達が戦っていた。そんな海賊に憧れる少年ルフィは、海賊王目指して大いなる旅に出る!!",
+        "image": "http://books.google.com/books/content?id=pjLMCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "ワールドトリガー",
+        "description": "異次元からの侵略者「近界民」の脅威にさらされている三門市。そこに住む少し正義感の強い中学生・三雲修は、謎の転校生・空閑遊真と出会う。遊真の行動に振り回される修の運命は!? 最新型SFアクション始動!!",
+        "image": "http://books.google.com/books/content?id=wPfJCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "呪術廻戦",
+        "description": "類稀な身体能力を持つ高校生・虎杖悠仁（いたどりゆうじ）は、病床に伏せる祖父の見舞いを日課にしていた。だがある日学校に眠る「呪物」の封印が解かれ、化物が現れてしまう。取り残された先輩を救う為、校舎へ乗り込む虎杖だが!?",
+        "image": "http://books.google.com/books/content?id=SXRiDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      }
+    ]
+  },
+  {
+    "username": "渡辺爽斗",
+    "rec_books": [
+      {
+        "title": "ゴールデンカムイ",
+        "description": "『不死身の杉元』日露戦争での鬼神の如き武功から、そう謳われた兵士は、ある目的の為に大金を欲し、かつてゴールドラッシュに沸いた北海道へ足を踏み入れる。そこにはアイヌが隠した莫大な埋蔵金への手掛かりが!? 立ち塞がる圧倒的な大自然と凶悪な死刑囚。そして、アイヌの少女、エゾ狼との出逢い。『黄金を巡る生存競争』開幕ッ!!!!",
+        "image": "http://books.google.com/books/content?id=WX7NCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "HUNTER×HUNTER",
+        "description": "概要情報なし",
+        "image": "http://books.google.com/books/content?id=hw3kCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "進撃の巨人",
+        "description": "概要情報なし",
+        "image": "http://books.google.com/books/content?id=nMjEBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "黄泉のツガイ",
+        "description": "山奥の小さな村落に住む少年のユルは、野鳥を狩り、大自然の中で静かに暮らしていた。しかしユルの双子の妹のアサは、何故か村の奥にある牢の中で「おつとめ」を果たしているという。それはまるで幽閉されているかのように…。穏やかな村に浮かぶ不自然な謎、この村に隠された秘密とは一体…!?未曾有のツガイバトルここに開幕!!",
+        "image": "http://books.google.com/books/content?id=hA5zEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "るろうに剣心",
+        "description": "逆刃刀を腰に下げ、不殺を誓う流浪人・緋村剣心――彼こそは維新志士の中で最強無比の伝説をもつ「人斬り抜刀斎」であった。維新後、その熱き想いで人々を守り続けた流浪人・剣心の活躍を描く！ 【同時収録】「巻末特別編(1) るろうに―明治剣客浪漫譚―」",
+        "image": "http://books.google.com/books/content?id=jPwKDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      }
+    ]
+  },
+  {
+    "username": "田中瑠彗",
+    "rec_books": [
+      {
+        "title": "暗殺教室",
+        "description": "号令と共に教室を満たす銃声！ 椚ヶ丘中学校3年E組は生徒全員が先生の命を狙う暗殺教室。教師と生徒、標的と暗殺者の異常な日常が始まる――!!",
+        "image": "http://books.google.com/books/content?id=xZ_MCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "青の祓魔師",
+        "description": "【雑誌掲載時の著者カラー原画を収録したリマスター版！】悪魔の血を継ぐ少年・奥村燐の前に、突如父を名乗る魔神が現れ、悪魔が棲む虚無界へと連れ去ろうとする。高名な祓魔師である養父は、命を懸けて燐を守り死んでしまう…。燐は己の無力さを悔やみ、祓魔師になって魔神と闘うことを強く決意するッ!!",
+        "image": "http://books.google.com/books/content?id=C-_KCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "僕のヒーローアカデミア",
+        "description": "目覚めた黒霧の“個性（ワープ）”で、荼毘やトゥワイスの血を使ったトガヒミコが群訝山荘跡に集結したことによりヒーローによる分断作戦は瓦解しかけている。ここで敵（ヴィラン）に屈すれば世界は終わるやもしれん。緑谷少年、君はまだ誰かの笑顔の為に戦っているのかい？ 私も本当は誰かの為に…。",
+        "image": "http://books.google.com/books/content?id=lYG7EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "怪物事変",
+        "description": "田舎の静かな村で、家畜が次々と変死するという奇妙な事件が起きておりました。事件解決の為に東京から呼ばれた「隠神」という派手な格好の男。調査の途中で男は、村に住む「泥田坊」と呼ばれる不思議な雰囲気の少年と出会うのでございます。数奇なる怪物物語、これより始まり始まり──。",
+        "image": "http://books.google.com/books/content?id=u-tLDgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "BLEACH",
+        "description": "黒崎一護・15歳・ユウレイの見える男。その特異な体質のわりに安穏とした日々を送っていた一護だが、突如、自らを死神と名乗る少女と遭遇、「虚」と呼ばれる悪霊に襲われる。次々と倒れる家族を前に一護は!?",
+        "image": "http://books.google.com/books/content?id=0aDLCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      }
+    ]
+  },
+  {
+    "username": "田中翔大",
+    "rec_books": [
+      {
+        "title": "無職転生",
+        "description": "ギースとルイジェルドの新たな情報。またしてもヒトガミの『罠』なのか!?",
+        "image": "http://books.google.com/books/content?id=vzskzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      },
+      {
+        "title": "ジョジョの奇妙な冒険 第7部",
+        "description": "姿を見せない謎のスタンド使いの攻撃に、鉄球も爪弾も通じず追い込まれるジャイロ達。逃げ場をなくし、絶望するジョニィに、ジャイロは更なる「回転」の技術を伝授する！ そして、遂に明らかになる敵の正体とは…!?",
+        "image": "http://books.google.com/books/content?id=hSHKCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "NARUTO",
+        "description": "オビトの力に折れかけた忍達の心を、ナルトの想いが繋ぎ止めた！ 戦場では五影と共に全軍が力を集結し、神樹に立ち向かう！ 一方、ナルトとサスケはオビトの無限月読を止めるべく二つの力を重ね合わせ!?",
+        "image": "http://books.google.com/books/content?id=khzLCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "ONE PIECE",
+        "description": "時は大海賊時代。いまや伝説の海賊王G・ロジャーの遺した『ひとつなぎの大秘宝』を巡って、幾人もの海賊達が戦っていた。そんな海賊に憧れる少年ルフィは、海賊王目指して大いなる旅に出る!!",
+        "image": "http://books.google.com/books/content?id=pjLMCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "東京喰種",
+        "description": "【雑誌掲載時の著者カラー原画を収録したリマスター版！】“僕は──「あんていく」に戻る” 6区のアジトを解散し、芳村の元へ戻る決意をしたカネキ。“ただの自分”を取り戻すために。一方、SSS級駆逐対象“梟”の居場所を突き止め、「梟討伐作戦」の決行に踏み切る〔CCG〕。“10年前の戦い”を彷彿とさせる様相に、歴戦の捜査官たちが集結する。「悲しみの装具」を携えて。その舞台は──東京20区・喫茶「あんていく」。",
+        "image": "http://books.google.com/books/content?id=TtfLCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      }
+    ]
+  },
+  {
+    "username": "田崎丈太郎",
+    "rec_books": [
+      {
+        "title": "鬼滅の刃",
+        "description": "概要情報なし",
+        "image": "http://books.google.com/books/content?id=Mj1cDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "鋼の錬金術師",
+        "description": "兄・エドワード・エルリック、弟・アルフォンス。2人の若き天才錬金術師は、幼いころ、病気で失った母を甦らせるため禁断の人体錬成を試みる。しかしその代償はあまりにも高すぎた…。錬成は失敗、エドワードはみずからの左足と、ただ一人の肉親・アルフォンスを失ってしまう。かけがえのない弟をこの世に呼び戻すため、エドワードは自身の右腕を代価とすることで、弟の魂を錬成し、鎧に定着させることに成功。そして兄弟は、すべてを取り戻すための長い旅に出る…。",
+        "image": "http://books.google.com/books/content?id=PQ7FDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "るろうに剣心",
+        "description": "逆刃刀を腰に下げ、不殺を誓う流浪人・緋村剣心――彼こそは維新志士の中で最強無比の伝説をもつ「人斬り抜刀斎」であった。維新後、その熱き想いで人々を守り続けた流浪人・剣心の活躍を描く！ 【同時収録】「巻末特別編(1) るろうに―明治剣客浪漫譚―」",
+        "image": "http://books.google.com/books/content?id=jPwKDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "NARUTO",
+        "description": "オビトの力に折れかけた忍達の心を、ナルトの想いが繋ぎ止めた！ 戦場では五影と共に全軍が力を集結し、神樹に立ち向かう！ 一方、ナルトとサスケはオビトの無限月読を止めるべく二つの力を重ね合わせ!?",
+        "image": "http://books.google.com/books/content?id=khzLCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "暗殺教室",
+        "description": "号令と共に教室を満たす銃声！ 椚ヶ丘中学校3年E組は生徒全員が先生の命を狙う暗殺教室。教師と生徒、標的と暗殺者の異常な日常が始まる――!!",
+        "image": "http://books.google.com/books/content?id=xZ_MCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      }
+    ]
+  },
+  {
+    "username": "田所拓人",
+    "rec_books": [
+      {
+        "title": "転生したら第七王子だったので、気ままに魔術を極めます",
+        "description": "マガポケセールスランキング1位の超話題作！ 小説家になろう発！ 累計1800万PVの超人気作がコミカライズ!! 俺が興味あるのは魔術だけだ── 庶民の転生先は王子!? 桁外れの魔力と家柄でお気楽無双ライフ!! 「魔術を極めたい！」たった一つの想いを残し死んだ男は、生前の記憶を残したままサルーム国の第七王子として転生を果たした！ 前世とは異なる桁違いの魔力量。第七王子という自由な身分。最高の環境で少年ロイドは魔術浸りの生活を望むが…。",
+        "image": "http://books.google.com/books/content?id=gCEGEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "NARUTO",
+        "description": "オビトの力に折れかけた忍達の心を、ナルトの想いが繋ぎ止めた！ 戦場では五影と共に全軍が力を集結し、神樹に立ち向かう！ 一方、ナルトとサスケはオビトの無限月読を止めるべく二つの力を重ね合わせ!?",
+        "image": "http://books.google.com/books/content?id=khzLCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "無職転生",
+        "description": "ギースとルイジェルドの新たな情報。またしてもヒトガミの『罠』なのか!?",
+        "image": "http://books.google.com/books/content?id=vzskzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      },
+      {
+        "title": "からくりサーカス",
+        "description": "錬金術師・白銀と、貧しくとも気高き女・フランシーヌとの、あまりに悲しき運命の恋…。明かされた最大の謎に打ちひしがれる鳴海の元へ、最強の自動人形の一体・パンタローネ来襲！一方、仲町サーカスに救われたギイは、しろがねと…。",
+        "image": "http://books.google.com/books/content?id=YBr2CgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "BLEACH",
+        "description": "黒崎一護・15歳・ユウレイの見える男。その特異な体質のわりに安穏とした日々を送っていた一護だが、突如、自らを死神と名乗る少女と遭遇、「虚」と呼ばれる悪霊に襲われる。次々と倒れる家族を前に一護は!?",
+        "image": "http://books.google.com/books/content?id=0aDLCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      }
+    ]
+  },
+  {
+    "username": "真田葵生",
+    "rec_books": [
+      {
+        "title": "呪術廻戦",
+        "description": "類稀な身体能力を持つ高校生・虎杖悠仁（いたどりゆうじ）は、病床に伏せる祖父の見舞いを日課にしていた。だがある日学校に眠る「呪物」の封印が解かれ、化物が現れてしまう。取り残された先輩を救う為、校舎へ乗り込む虎杖だが!?",
+        "image": "http://books.google.com/books/content?id=SXRiDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "ジョジョの奇妙な冒険 第7部",
+        "description": "姿を見せない謎のスタンド使いの攻撃に、鉄球も爪弾も通じず追い込まれるジャイロ達。逃げ場をなくし、絶望するジョニィに、ジャイロは更なる「回転」の技術を伝授する！ そして、遂に明らかになる敵の正体とは…!?",
+        "image": "http://books.google.com/books/content?id=hSHKCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "ＭＦゴースト",
+        "description": "西暦202X年。車の自動運転が普及した日本。そんな時代に、公道の自動車レースが開催されていた。世界中で人気を集めるレースの名はMFG。ポルシェ、フェラーリ、ランボルギーニなど最速を誇るマシンが次々に参戦していた。一方、イギリスのレーシングスクールを卒業したドライバー、カナタ・リヴィントンは、ある目的を果たすため日本に帰国するのであった。新公道最速伝説、ここに開幕！",
+        "image": "http://books.google.com/books/content?id=JPlDDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "暗殺教室",
+        "description": "号令と共に教室を満たす銃声！ 椚ヶ丘中学校3年E組は生徒全員が先生の命を狙う暗殺教室。教師と生徒、標的と暗殺者の異常な日常が始まる――!!",
+        "image": "http://books.google.com/books/content?id=xZ_MCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "チョコレート・ヴァンパイア",
+        "description": "幼い頃に“紅血の契約（アーティクルブラッド）”と呼ばれる契約を交わした千代と雪。ヴァンパイアの雪は、千代の血しか飲まないし、千代は雪にしか血を与えないという血の契り。 月日は流れ、二人は成長し、篝月学園に通う中学生と高校生になった、そこは吸血鬼たちと普通の人間が共存する学園だった。契約は続いているものの月日が刻んだ爪痕でお互い心から向き合えない二人。 だけど決して離れられない千代と雪、血と血がつなぐふたりの物語が、今始まる！",
+        "image": "http://books.google.com/books/content?id=-bgKDgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      }
+    ]
+  },
+  {
+    "username": "石田優希",
+    "rec_books": [
+      {
+        "title": "炎炎ノ消防隊",
+        "description": "全人類は怯えていた──。何の変哲もない人が突如燃え出し、炎の怪物“焔ビト”となって、破壊の限りを尽くす“人体発火現象”。炎の恐怖に立ち向かう特殊消防隊は、現象の謎を解明し、人類を救うことが使命！ とある理由から“悪魔”と呼ばれる、新入隊員の少年・シンラは、“ヒーロー”を目指し、仲間たちと共に、“焔ビト”との戦いの日々に身を投じる！！ 燃え上がるバトル・ファンタジー、始動！！ 大災害は完遂し、“アドラ”と同化した地球は黒く燃ゆる炎と滅びの星となった。絶望に降り立つはヒーロー・森羅万象マン！ 人類が無意識の果てに望んだ“絶望”。その願いが成就したのだと語るハウメア。相対する森羅万象の救世主は、それでも“希望”を求め、人を超越した力を放つ。人類の代弁者・ハウメアの“絶望”と、神のごときシンラの“希望”の終末決戦！！ 創世の時。ヒトは、絶つか、希うか。炎炎なる物語、堂々完結！！",
+        "image": "http://books.google.com/books/content?id=4ihtEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "鋼の錬金術師",
+        "description": "兄・エドワード・エルリック、弟・アルフォンス。2人の若き天才錬金術師は、幼いころ、病気で失った母を甦らせるため禁断の人体錬成を試みる。しかしその代償はあまりにも高すぎた…。錬成は失敗、エドワードはみずからの左足と、ただ一人の肉親・アルフォンスを失ってしまう。かけがえのない弟をこの世に呼び戻すため、エドワードは自身の右腕を代価とすることで、弟の魂を錬成し、鎧に定着させることに成功。そして兄弟は、すべてを取り戻すための長い旅に出る…。",
+        "image": "http://books.google.com/books/content?id=PQ7FDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "NARUTO",
+        "description": "オビトの力に折れかけた忍達の心を、ナルトの想いが繋ぎ止めた！ 戦場では五影と共に全軍が力を集結し、神樹に立ち向かう！ 一方、ナルトとサスケはオビトの無限月読を止めるべく二つの力を重ね合わせ!?",
+        "image": "http://books.google.com/books/content?id=khzLCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "るろうに剣心",
+        "description": "逆刃刀を腰に下げ、不殺を誓う流浪人・緋村剣心――彼こそは維新志士の中で最強無比の伝説をもつ「人斬り抜刀斎」であった。維新後、その熱き想いで人々を守り続けた流浪人・剣心の活躍を描く！ 【同時収録】「巻末特別編(1) るろうに―明治剣客浪漫譚―」",
+        "image": "http://books.google.com/books/content?id=jPwKDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "七つの大罪",
+        "description": "いま明かされる〈七つの大罪〉結成の真実──!! メリオダス死す！ 英雄は煉獄に堕ち、大地は戒めの闇に沈んだ。荒廃する人心。迫るリオネス亡国の刻。来襲した〈十戒〉の前に、王城は為す術なく陥ちるのか!? 慈悲なき「慈愛」と傲慢なる「太陽」が真っ向激突!! 一方、必死に前を向くエリザベスのもとには謎の騎士が訪れ……。煌めくは最後の希望の灯！ 王都、燃ゆ。",
+        "image": "http://books.google.com/books/content?id=XGlpDQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      }
+    ]
+  },
+  {
+    "username": "福井拓真",
+    "rec_books": [
+      {
+        "title": "鋼の錬金術師",
+        "description": "兄・エドワード・エルリック、弟・アルフォンス。2人の若き天才錬金術師は、幼いころ、病気で失った母を甦らせるため禁断の人体錬成を試みる。しかしその代償はあまりにも高すぎた…。錬成は失敗、エドワードはみずからの左足と、ただ一人の肉親・アルフォンスを失ってしまう。かけがえのない弟をこの世に呼び戻すため、エドワードは自身の右腕を代価とすることで、弟の魂を錬成し、鎧に定着させることに成功。そして兄弟は、すべてを取り戻すための長い旅に出る…。",
+        "image": "http://books.google.com/books/content?id=PQ7FDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "HUNTER×HUNTER",
+        "description": "概要情報なし",
+        "image": "http://books.google.com/books/content?id=hw3kCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "七つの大罪",
+        "description": "いま明かされる〈七つの大罪〉結成の真実──!! メリオダス死す！ 英雄は煉獄に堕ち、大地は戒めの闇に沈んだ。荒廃する人心。迫るリオネス亡国の刻。来襲した〈十戒〉の前に、王城は為す術なく陥ちるのか!? 慈悲なき「慈愛」と傲慢なる「太陽」が真っ向激突!! 一方、必死に前を向くエリザベスのもとには謎の騎士が訪れ……。煌めくは最後の希望の灯！ 王都、燃ゆ。",
+        "image": "http://books.google.com/books/content?id=XGlpDQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "BLEACH",
+        "description": "黒崎一護・15歳・ユウレイの見える男。その特異な体質のわりに安穏とした日々を送っていた一護だが、突如、自らを死神と名乗る少女と遭遇、「虚」と呼ばれる悪霊に襲われる。次々と倒れる家族を前に一護は!?",
+        "image": "http://books.google.com/books/content?id=0aDLCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "呪術廻戦",
+        "description": "類稀な身体能力を持つ高校生・虎杖悠仁（いたどりゆうじ）は、病床に伏せる祖父の見舞いを日課にしていた。だがある日学校に眠る「呪物」の封印が解かれ、化物が現れてしまう。取り残された先輩を救う為、校舎へ乗り込む虎杖だが!?",
+        "image": "http://books.google.com/books/content?id=SXRiDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      }
+    ]
+  },
+  {
+    "username": "秋山明日香",
+    "rec_books": [
+      {
+        "title": "僕のヒーローアカデミア",
+        "description": "目覚めた黒霧の“個性（ワープ）”で、荼毘やトゥワイスの血を使ったトガヒミコが群訝山荘跡に集結したことによりヒーローによる分断作戦は瓦解しかけている。ここで敵（ヴィラン）に屈すれば世界は終わるやもしれん。緑谷少年、君はまだ誰かの笑顔の為に戦っているのかい？ 私も本当は誰かの為に…。",
+        "image": "http://books.google.com/books/content?id=lYG7EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "鋼の錬金術師",
+        "description": "兄・エドワード・エルリック、弟・アルフォンス。2人の若き天才錬金術師は、幼いころ、病気で失った母を甦らせるため禁断の人体錬成を試みる。しかしその代償はあまりにも高すぎた…。錬成は失敗、エドワードはみずからの左足と、ただ一人の肉親・アルフォンスを失ってしまう。かけがえのない弟をこの世に呼び戻すため、エドワードは自身の右腕を代価とすることで、弟の魂を錬成し、鎧に定着させることに成功。そして兄弟は、すべてを取り戻すための長い旅に出る…。",
+        "image": "http://books.google.com/books/content?id=PQ7FDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "BLEACH",
+        "description": "黒崎一護・15歳・ユウレイの見える男。その特異な体質のわりに安穏とした日々を送っていた一護だが、突如、自らを死神と名乗る少女と遭遇、「虚」と呼ばれる悪霊に襲われる。次々と倒れる家族を前に一護は!?",
+        "image": "http://books.google.com/books/content?id=0aDLCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "進撃の巨人",
+        "description": "概要情報なし",
+        "image": "http://books.google.com/books/content?id=nMjEBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "呪術廻戦",
+        "description": "類稀な身体能力を持つ高校生・虎杖悠仁（いたどりゆうじ）は、病床に伏せる祖父の見舞いを日課にしていた。だがある日学校に眠る「呪物」の封印が解かれ、化物が現れてしまう。取り残された先輩を救う為、校舎へ乗り込む虎杖だが!?",
+        "image": "http://books.google.com/books/content?id=SXRiDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      }
+    ]
+  },
+  {
+    "username": "竹元亨舟",
+    "rec_books": [
+      {
+        "title": "チョコレート・ヴァンパイア",
+        "description": "幼い頃に“紅血の契約（アーティクルブラッド）”と呼ばれる契約を交わした千代と雪。ヴァンパイアの雪は、千代の血しか飲まないし、千代は雪にしか血を与えないという血の契り。 月日は流れ、二人は成長し、篝月学園に通う中学生と高校生になった、そこは吸血鬼たちと普通の人間が共存する学園だった。契約は続いているものの月日が刻んだ爪痕でお互い心から向き合えない二人。 だけど決して離れられない千代と雪、血と血がつなぐふたりの物語が、今始まる！",
+        "image": "http://books.google.com/books/content?id=-bgKDgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "終わりのセラフ",
+        "description": "名古屋出撃命令を受け、優一郎たちは部隊の集結地へ向かう。だが大遅刻をしグレンの怒りを買ってしまう。隊全体に闘志と緊張が漂う中、遅刻の罰を受けることになる優一郎は!? また作戦を共にする小隊と出会い…。",
+        "image": "http://books.google.com/books/content?id=6ubLCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "鬼滅の刃",
+        "description": "概要情報なし",
+        "image": "http://books.google.com/books/content?id=Mj1cDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "呪術廻戦",
+        "description": "類稀な身体能力を持つ高校生・虎杖悠仁（いたどりゆうじ）は、病床に伏せる祖父の見舞いを日課にしていた。だがある日学校に眠る「呪物」の封印が解かれ、化物が現れてしまう。取り残された先輩を救う為、校舎へ乗り込む虎杖だが!?",
+        "image": "http://books.google.com/books/content?id=SXRiDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "しゅごキャラ！",
+        "description": "聖夜学園でウワサの小学生、日奈森（ひなもり）あむちゃん。クールでかっこよくて、みんなから一目置かれる存在。でも、ホントのあむちゃんは……？ 「理想のキャラに生まれかわりたい！」と願ったら、突然3つのたまごがあらわれた。そこから「しゅごキャラ」が生まれて……！？ 憧れの王子、辺里唯世（ほとり・ただせ）くんに好きになってもらえるような、かわいくて素直な女の子になりたいの。でも、謎のしゅごたま「エンブリオ」を狙うヤツらは許せない！ 王子たちとともにガーディアンの一員となり、あむちゃん大活躍！！",
+        "image": "http://books.google.com/books/content?id=qTXHBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      }
+    ]
+  },
+  {
+    "username": "藤川 雄翔",
+    "rec_books": [
+      {
+        "title": "亜人",
+        "description": "「亜人」と呼ばれるその生物は「死なない」。高校生・永井圭はある日、交通事故で死ぬが、その直後に生き返った。それは、彼が亜人であり、人間ではないことを意味する。圭をとりまく環境は一変した。彼は人間たちから逃げ惑うことになる。友人のカイは、怯える圭を助けるために駆けつけ、ふたりで人里を離れて山の中に逃げ込んだ。そんな彼に人間と敵対する亜人たちが接触してきた。――彼は何と戦い、誰と生きればいいんだろう？",
+        "image": "http://books.google.com/books/content?id=S1DKBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "BLEACH",
+        "description": "黒崎一護・15歳・ユウレイの見える男。その特異な体質のわりに安穏とした日々を送っていた一護だが、突如、自らを死神と名乗る少女と遭遇、「虚」と呼ばれる悪霊に襲われる。次々と倒れる家族を前に一護は!?",
+        "image": "http://books.google.com/books/content?id=0aDLCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "ザ・ファブル",
+        "description": "表の顔は善良な興信所の社長…。裏の顔は過保護の若者を食い物にする怪悪党…。大阪は太平市に暗躍するウツボなる男が、冷酷キラー・鈴木や元ヤクザの井崎、車イスのヒナコを従えて、ついにファブル暗殺計画を実行す！ジワジワとウツボらの罠が迫る中、ファブルは相棒ヨウコと共に、ヒナコ救出に動き出す。一難去って、二難三難。頑張れ無敵の殺し屋休業お兄さん！！！",
+        "image": "http://books.google.com/books/content?id=8z5ADwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "NARUTO",
+        "description": "オビトの力に折れかけた忍達の心を、ナルトの想いが繋ぎ止めた！ 戦場では五影と共に全軍が力を集結し、神樹に立ち向かう！ 一方、ナルトとサスケはオビトの無限月読を止めるべく二つの力を重ね合わせ!?",
+        "image": "http://books.google.com/books/content?id=khzLCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "HUNTER×HUNTER",
+        "description": "概要情報なし",
+        "image": "http://books.google.com/books/content?id=hw3kCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      }
+    ]
+  },
+  {
+    "username": "藤本直樹",
+    "rec_books": [
+      {
+        "title": "暗殺教室",
+        "description": "号令と共に教室を満たす銃声！ 椚ヶ丘中学校3年E組は生徒全員が先生の命を狙う暗殺教室。教師と生徒、標的と暗殺者の異常な日常が始まる――!!",
+        "image": "http://books.google.com/books/content?id=xZ_MCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "僕のヒーローアカデミア",
+        "description": "目覚めた黒霧の“個性（ワープ）”で、荼毘やトゥワイスの血を使ったトガヒミコが群訝山荘跡に集結したことによりヒーローによる分断作戦は瓦解しかけている。ここで敵（ヴィラン）に屈すれば世界は終わるやもしれん。緑谷少年、君はまだ誰かの笑顔の為に戦っているのかい？ 私も本当は誰かの為に…。",
+        "image": "http://books.google.com/books/content?id=lYG7EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "鬼滅の刃",
+        "description": "概要情報なし",
+        "image": "http://books.google.com/books/content?id=Mj1cDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "HUNTER×HUNTER",
+        "description": "概要情報なし",
+        "image": "http://books.google.com/books/content?id=hw3kCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "ワールドトリガー",
+        "description": "異次元からの侵略者「近界民」の脅威にさらされている三門市。そこに住む少し正義感の強い中学生・三雲修は、謎の転校生・空閑遊真と出会う。遊真の行動に振り回される修の運命は!? 最新型SFアクション始動!!",
+        "image": "http://books.google.com/books/content?id=wPfJCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      }
+    ]
+  },
+  {
+    "username": "酒向ひばり",
+    "rec_books": [
+      {
+        "title": "暗殺教室",
+        "description": "号令と共に教室を満たす銃声！ 椚ヶ丘中学校3年E組は生徒全員が先生の命を狙う暗殺教室。教師と生徒、標的と暗殺者の異常な日常が始まる――!!",
+        "image": "http://books.google.com/books/content?id=xZ_MCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "ジョジョの奇妙な冒険 第7部",
+        "description": "姿を見せない謎のスタンド使いの攻撃に、鉄球も爪弾も通じず追い込まれるジャイロ達。逃げ場をなくし、絶望するジョニィに、ジャイロは更なる「回転」の技術を伝授する！ そして、遂に明らかになる敵の正体とは…!?",
+        "image": "http://books.google.com/books/content?id=hSHKCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "ワールドトリガー",
+        "description": "異次元からの侵略者「近界民」の脅威にさらされている三門市。そこに住む少し正義感の強い中学生・三雲修は、謎の転校生・空閑遊真と出会う。遊真の行動に振り回される修の運命は!? 最新型SFアクション始動!!",
+        "image": "http://books.google.com/books/content?id=wPfJCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "NARUTO",
+        "description": "オビトの力に折れかけた忍達の心を、ナルトの想いが繋ぎ止めた！ 戦場では五影と共に全軍が力を集結し、神樹に立ち向かう！ 一方、ナルトとサスケはオビトの無限月読を止めるべく二つの力を重ね合わせ!?",
+        "image": "http://books.google.com/books/content?id=khzLCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      },
+      {
+        "title": "無職転生",
+        "description": "ギースとルイジェルドの新たな情報。またしてもヒトガミの『罠』なのか!?",
+        "image": "http://books.google.com/books/content?id=vzskzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      }
+    ]
+  }
+]

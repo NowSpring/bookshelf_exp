@@ -13,6 +13,7 @@ django-crum==0.7.9
 django-dbbackup==4.1.0
 django-filter==23.5
 django-js-asset==1.2.2
+django-multiselectfield==0.1.12
 djangorestframework==3.12.4
 drf-writable-nested==0.6.3
 filelock==3.4.0

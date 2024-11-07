@@ -6,7 +6,7 @@ Content-Type: application/json
     "password": "test"
 }
 
-### a31e7d9154fb9cb6e9a61fb9d29f47f45e829783
+### 636ec5258089d8fff6ee08fd30763903a10db95c
 
 POST http://localhost:8000/api/member/
 Content-Type: application/json
@@ -27,22 +27,14 @@ Authorization: Token {{token}}
 ###
 # @prompt token
 
-GET http://localhost:8000/api/booklisttype/?owner_id=0fbbe10c-3b6b-4d4d-813f-50663c83732b
+GET http://localhost:8000/api/booklisttype/?owner_id=a4083333-80f8-4971-9bdd-d208bebf5876
 Content-Type: application/json
 Authorization: Token {{token}}
 
 ###
 # @prompt token
 
-GET http://localhost:8000/api/booklist/?booklisttype_id=ad385e66-5135-4157-8967-aa2d6c594122
-Content-Type: application/json
-Authorization: Token {{token}}
-
-
-###
-# @prompt token
-
-GET http://localhost:8000/api/booklist/?booklisttype_id=ad385e66-5135-4157-8967-aa2d6c594122&reviewer_id=0fbbe10c-3b6b-4d4d-813f-50663c83732b
+GET http://localhost:8000/api/booklist/?booklisttype_id=cd82e517-ce17-4fd9-b670-daf7f0959da9
 Content-Type: application/json
 Authorization: Token {{token}}
 
@@ -50,7 +42,15 @@ Authorization: Token {{token}}
 ###
 # @prompt token
 
-GET http://localhost:8000/api/booklist/?booklisttype_id=ad385e66-5135-4157-8967-aa2d6c594122&reviewer_id=0fbbe10c-3b6b-4d4d-813f-50663c83732b&mode=edit
+GET http://localhost:8000/api/booklist/?booklisttype_id=cd82e517-ce17-4fd9-b670-daf7f0959da9&member_id=a4083333-80f8-4971-9bdd-d208bebf5876
+Content-Type: application/json
+Authorization: Token {{token}}
+
+
+###
+# @prompt token
+
+GET http://localhost:8000/api/booklist/?booklisttype_id=cd82e517-ce17-4fd9-b670-daf7f0959da9&reviewer_id=a4083333-80f8-4971-9bdd-d208bebf5876&mode=edit
 Content-Type: application/json
 Authorization: Token {{token}}
 
@@ -133,3 +133,27 @@ Authorization: Token {{token}}
   "reviewer_id": "0fbbe10c-3b6b-4d4d-813f-50663c83732b",
   "like": true
 }
+
+
+### token: 636ec5258089d8fff6ee08fd30763903a10db95c
+# @prompt token
+
+GET http://localhost:8000/api/recbook/?booklist_id=a7c68145-22a3-40a3-a698-aaf101b42336
+Content-Type: application/json
+Authorization: Token {{token}}
+
+
+### token: 636ec5258089d8fff6ee08fd30763903a10db95c
+# @prompt token
+
+PUT http://localhost:8000/api/recbook/2da4605c-2d31-451d-846d-80c3df3af27b/update_wants/
+Content-Type: application/json
+Authorization: Token {{token}}
+
+{
+  "want_to_see": true
+}
+
+### token: 636ec5258089d8fff6ee08fd30763903a10db95c
+
+GET https://www.googleapis.com/books/v1/volumes?q=DRAGON BALL

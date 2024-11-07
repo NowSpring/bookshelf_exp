@@ -2,7 +2,7 @@ export type MemberType = {
   id: string;
   username: string;
   is_superuser: boolean;
-}
+};
 
 export type BookType = {
   id: string;
@@ -11,7 +11,7 @@ export type BookType = {
   description: string;
   image: string;
   order: number;
-}
+};
 
 export type BookListType = {
   id: string;
@@ -20,19 +20,30 @@ export type BookListType = {
   type: GenreType;
   is_completed: boolean;
   likes: boolean;
-}
+};
+
+export type RecBookType = {
+  id: string;
+  booklist: string;
+  title: string;
+  description: string;
+  image: string;
+  rec_method: string;
+  want_to_see: boolean;
+  want_to_rewatch: boolean;
+};
 
 export type GenreType = {
   id: string;
   type: string;
   booklist: {
     is_completed: boolean;
-  }
-}
+  };
+};
 
 export type SearchBookType = {
   id: string;
   title: string;
   description: string;
   image: string;
-}
+};

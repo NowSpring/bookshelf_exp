@@ -1,0 +1,1858 @@
+[
+  {
+    "id": "ce924673-9390-4fde-b6bf-6cced28f43f9",
+    "type": {
+      "id": "407f0ac4-331f-49ee-b3ce-53e3645d160c",
+      "type": "ラブコメ",
+      "booklist": {
+        "is_completed": null
+      }
+    },
+    "owner": {
+      "id": "5a9fab82-ea3a-4df9-b711-a0747afee75c",
+      "username": "中島楓華",
+      "is_superuser": false
+    },
+    "books": [
+      {
+        "id": "dd70506d-7181-4b2c-b2e8-0c37f5ce552c",
+        "title": "月刊少女野崎くん",
+        "description": "無骨な男子高校生「野崎梅太郎」。彼に恋をした女子高生「佐倉千代」は勇気を振り絞って告白するものの、何故か恋人ではなく少女漫画家のアシスタントになったのでした…。男子高校生でありながら人気少女漫画家でもある野崎くんの日常を描く、少女漫画家男子コメディー!!",
+        "image": "http://books.google.com/books/content?id=qqLFDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 0,
+        "booklist": "ce924673-9390-4fde-b6bf-6cced28f43f9"
+      },
+      {
+        "id": "2b60cd2f-b3e6-4d72-9cf0-f38f3f832ff1",
+        "title": "俺物語!!",
+        "description": "剛田猛男は高校1年生。身長2m・体重120kg（いずれも推定）。好きになった子は、いつも幼馴染みのイケメン・砂川の方に行っちゃうけど、真っ直ぐで不器用で鈍感で、男子からは超モテモテ！ ある朝、通学電車の中で、ひとりの女の子を痴漢から救ったことで猛男にも春到来の予感…!? 笑って泣けて、胸キュンも満載の、爆笑純情コメディー！",
+        "image": "http://books.google.com/books/content?id=oT3ICwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 1,
+        "booklist": "ce924673-9390-4fde-b6bf-6cced28f43f9"
+      },
+      {
+        "id": "4ad66535-53dc-451e-929e-38e8153082be",
+        "title": "名探偵コナン",
+        "description": "概要情報なし",
+        "image": "http://books.google.com/books/content?id=66j1CgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 2,
+        "booklist": "ce924673-9390-4fde-b6bf-6cced28f43f9"
+      },
+      {
+        "id": "303c5d93-1e13-4df7-a711-9ea7fdd91475",
+        "title": "YAIBA",
+        "description": "父・剣十郎とともにジャングルで修行にはげむ型破りの少年剣士…その名もYAIBA（ヤイバ）！そして今度は、新たな修行の地、日本で、風雲児・刃が大活躍。宿敵・鬼丸猛と互角に渡りあって、鉄刃、ただ今サムライ魂一直線！！",
+        "image": "http://books.google.com/books/content?id=6GPzCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 3,
+        "booklist": "ce924673-9390-4fde-b6bf-6cced28f43f9"
+      },
+      {
+        "id": "ddaf6e7d-47fd-4c4a-9af5-d02907e6155f",
+        "title": "かぐや様は告らせたい",
+        "description": "「恋愛は告白した方が負けなのである！」 家柄も人柄も良し!! 将来を期待された秀才が集う秀知院学園!! その生徒会で出会った、副会長・四宮かぐやと会長・白銀御行は互いに惹かれているはずだが…何もないまま半年が経過!! プライドが高く素直になれない2人は、面倒臭いことに、“如何に相手に告白させるか”ばかりを考えるようになってしまった!? 恋愛は成就するまでが楽しい!! 新感覚“頭脳戦”ラブコメ、開戦!!",
+        "image": "http://books.google.com/books/content?id=1hXiCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 4,
+        "booklist": "ce924673-9390-4fde-b6bf-6cced28f43f9"
+      }
+    ],
+    "is_completed": true
+  },
+  {
+    "id": "fd9f67aa-7027-4b73-b3d5-0d4e6fe5b996",
+    "type": {
+      "id": "407f0ac4-331f-49ee-b3ce-53e3645d160c",
+      "type": "ラブコメ",
+      "booklist": {
+        "is_completed": null
+      }
+    },
+    "owner": {
+      "id": "21aab694-9408-4c92-a1b3-4d7a7fe7ca41",
+      "username": "佐々木誠ニコラス",
+      "is_superuser": false
+    },
+    "books": [
+      {
+        "id": "532237db-0273-4b4b-bd59-9320438e770e",
+        "title": "やがて君になる",
+        "description": "七海燈子が生徒会長になり、新たな生徒会が動き出す。生徒会役員となった小糸侑は燈子からの想いを受けつつも、いまだに自分の中に、特別な感情が芽生えないことを苦く感じていた。「わたしも、七海先輩を好きになりたい」そう感じ始める侑だったが──。",
+        "image": "http://books.google.com/books/content?id=eKwCDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 0,
+        "booklist": "fd9f67aa-7027-4b73-b3d5-0d4e6fe5b996"
+      },
+      {
+        "id": "c75a24f1-09c3-4ec9-8122-a816dcf9eb86",
+        "title": "citrus",
+        "description": "全世界待望の甘くかわいいガールズ・ラブコミック始動★ 様々な困難を経て、晴れて恋人同士になった柚子と芽衣。義理の姉妹、そして恋人としての高校生活を始めたふたり。…だけど友人・はるみ、妹分・まつりから見ると、進展してるように見えないようで…。ピュアなギャルと、不器用無表情な生徒会長。何があってももう離れない恋人同士、一歩一歩、毎日想いを育みます♥",
+        "image": "http://books.google.com/books/content?id=aSK-DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 1,
+        "booklist": "fd9f67aa-7027-4b73-b3d5-0d4e6fe5b996"
+      },
+      {
+        "id": "3652b1f4-ca76-4673-97ba-ad961fd873e0",
+        "title": "私を喰べたい、ひとでなし",
+        "description": "「私は君を喰べに来ました。」 突然現れた人魚の少女・汐莉は 海辺の街に独り暮らす女子高生・比名子の手を取り そう優しく語りかける。 妖怪を惹きつける特別に美味しい 血肉を持つ比名子を求め現れた彼女は、 成熟し、最高の状態を迎えるまで比名子を守り、 そして、 すべてを喰らい尽くす。 遠からぬ未来の理不尽な死を突き付けられ、 比名子の胸に渦巻く想いは――。 「このひとなら私を――…」",
+        "image": "http://books.google.com/books/content?id=n_UcEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 2,
+        "booklist": "fd9f67aa-7027-4b73-b3d5-0d4e6fe5b996"
+      },
+      {
+        "id": "38257dc6-8a22-4b9d-bcd9-c0095451a741",
+        "title": "ロンリーガールに逆らえない",
+        "description": "「不登校だった生徒を説得できたら、好きな進学先を推薦する」という先生との約束が本人の本田空にバレて、学校に来てもらうため、毎日１つ「お願い」を聞くことになった桜井彩花。空と一緒にいることが多くなった彩花は、「私は本田さんと、どうなりたいんだろう？」と、じょじょに意識するにようになっていた。そんな中、転校生の守永和奏が、グイグイ空と友だちになっていくのを見た彩花はソワソワ。さらには放課後、空と彩花がキスしているところを、和奏が目撃してしまい…。うかつな委員長とアンニュイ問題児（？）、二人の秘密な青春ラブコメディ！",
+        "image": "http://books.google.com/books/content?id=F94CEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 3,
+        "booklist": "fd9f67aa-7027-4b73-b3d5-0d4e6fe5b996"
+      },
+      {
+        "id": "2d3f2a9d-3d63-41ff-8ec4-c1a7e66a882c",
+        "title": "熱帯魚は雪に焦がれる",
+        "description": "都会の高校から、海辺の田舎町にある七浜高校へ転校してきた小夏は、 周囲にうまくなじめずにいた。 そんなとき、七浜高校水族館部のひとり部員である小雪と出会う。 お互いが抱える寂しさに惹かれ合ったふたりは——? 電子特別版には、作者萩埜まことがTwitterで更新中の 描き下ろしイラストやコミックを10ページ追加収録！",
+        "image": "http://books.google.com/books/content?id=t8dDDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 4,
+        "booklist": "fd9f67aa-7027-4b73-b3d5-0d4e6fe5b996"
+      }
+    ],
+    "is_completed": true
+  },
+  {
+    "id": "9191bfea-668e-4a5c-bc5d-6f9cc38d8ccd",
+    "type": {
+      "id": "407f0ac4-331f-49ee-b3ce-53e3645d160c",
+      "type": "ラブコメ",
+      "booklist": {
+        "is_completed": null
+      }
+    },
+    "owner": {
+      "id": "92ebe0f1-044b-4ebd-841b-6cfb98859d0e",
+      "username": "前田拓海",
+      "is_superuser": false
+    },
+    "books": [
+      {
+        "id": "0141a00b-3524-4ff3-a8e0-4bdcb05616d1",
+        "title": "からかい上手の高木さん",
+        "description": "概要情報なし",
+        "image": "http://books.google.com/books/content?id=Gp_9CgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 0,
+        "booklist": "9191bfea-668e-4a5c-bc5d-6f9cc38d8ccd"
+      },
+      {
+        "id": "3b0b4a84-e279-4011-a1e6-46a802d74434",
+        "title": "かぐや様は告らせたい",
+        "description": "「恋愛は告白した方が負けなのである！」 家柄も人柄も良し!! 将来を期待された秀才が集う秀知院学園!! その生徒会で出会った、副会長・四宮かぐやと会長・白銀御行は互いに惹かれているはずだが…何もないまま半年が経過!! プライドが高く素直になれない2人は、面倒臭いことに、“如何に相手に告白させるか”ばかりを考えるようになってしまった!? 恋愛は成就するまでが楽しい!! 新感覚“頭脳戦”ラブコメ、開戦!!",
+        "image": "http://books.google.com/books/content?id=1hXiCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 1,
+        "booklist": "9191bfea-668e-4a5c-bc5d-6f9cc38d8ccd"
+      },
+      {
+        "id": "744ff95f-4895-4935-80b4-262cede32468",
+        "title": "五等分の花嫁",
+        "description": "貧乏な生活を送る高校２年生・上杉風太郎のもとに、好条件の家庭教師アルバイトの話が舞い込む。ところが教え子はなんと同級生！！ しかも五つ子だった！！ 全員美少女、だけど「落第寸前」「勉強嫌い」の問題児！ 最初の課題は姉妹からの信頼を勝ち取ること…！？ 毎日がお祭り騒ぎ！ 中野家の五つ子が贈る、かわいさ500％の五人五色ラブコメ開演！！",
+        "image": "http://books.google.com/books/content?id=gm04DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 2,
+        "booklist": "9191bfea-668e-4a5c-bc5d-6f9cc38d8ccd"
+      },
+      {
+        "id": "c4c3b439-3373-464e-ba73-1f9bfa859085",
+        "title": "僕は友達が少ない",
+        "description": "友達の少ない羽瀬川小鷹は、ある時、美少女だがいつも不機嫌そうにしているクラスメイトの三日月夜空が一人で楽しげに喋っているのを目撃する。「もしかして幽霊とか見えたりするのか？」「友達と話していただけだ。エア友達と！」「（駄目だこいつ……）」夜空の無駄な行動力で友達を作るための部まで作ってしまうが、集まってくるのは残念な美少女ばかりで!? ＭＦ文庫Ｊの次期エース・アレ気だけどやけに楽しい残念系青春ラブコメを、期待の新人によってコミカライズ！",
+        "image": "http://books.google.com/books/content?id=qSKDBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 3,
+        "booklist": "9191bfea-668e-4a5c-bc5d-6f9cc38d8ccd"
+      },
+      {
+        "id": "cf66f781-ba39-4960-9821-3e51efc62548",
+        "title": "一線こせないカテキョと生徒",
+        "description": "★★★ 合計50万いいね以上を獲得したTwitter漫画、待望の電子書籍化 ★★★ 東京大学に通う家庭教師の夏目ほのかは、生徒のイケメン男子高校生・高木くんに授業そっちのけで色仕掛け！あの手この手で誘惑するカテキョとおバカすぎてナチュラルに回避しちゃう生徒。両思いなのに一生一線をこせなさそうな二人による、予測不能でもどかしい恋の攻防から目が離せない――!! 『男子高校生とふれあう方法』『サボり先輩』『猥談バーで逢いましょう』を描く狂気の漫画家・地球のお魚ぽんちゃんが贈る抱腹絶倒ギャグ漫画、待望の電子書籍第一巻配信開始です！ ■ 二人の馴れ初め含む全28Pの特別描き下ろし漫画を収録 描き下ろし１: 「ほのか先生しっかりしてください！」 描き下ろし２: 「高木くんのプレゼント」 描き下ろし３: 「一線こせないふたりの出逢い」 ＜注意事項 ※2020年11月2日追記＞ 電子版第1巻は、Twitter連載の第1話〜13話と描き下ろし漫画28Pを合わせた80Pの本編を収録しており、一迅社より2020年12月25日に刊行される単行本の収録内容とは大きく異なります。電子版、単行本版それぞれに限定描き下ろし漫画が入っておりますので、どちらも手に取っていただき高木くんとほのか先生のピュアでおバカな恋模様をお楽しみくださいませ。",
+        "image": "http://books.google.com/books/content?id=IM_7DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 4,
+        "booklist": "9191bfea-668e-4a5c-bc5d-6f9cc38d8ccd"
+      }
+    ],
+    "is_completed": true
+  },
+  {
+    "id": "63c8d2c7-7818-4797-8754-8bbb76ba7157",
+    "type": {
+      "id": "407f0ac4-331f-49ee-b3ce-53e3645d160c",
+      "type": "ラブコメ",
+      "booklist": {
+        "is_completed": null
+      }
+    },
+    "owner": {
+      "id": "e57d0f78-1aab-4d95-89fd-d6c9b2bdc4a4",
+      "username": "北畑由莉香",
+      "is_superuser": false
+    },
+    "books": [
+      {
+        "id": "e1163753-f4ee-48d2-9d5b-8b7499024cfe",
+        "title": "【推しの子】",
+        "description": "「この芸能界（せかい）において嘘は武器だ」 地方都市で、産婦人科医として働くゴロー。芸能界とは無縁の日々。一方、彼の“推し”のアイドル・星野アイは、スターダムを上り始めていた。そんな二人が“最悪”の出会いを果たし、運命が動き出す…!? “赤坂アカ×横槍メンゴ”の豪華タッグが全く新しい切り口で“芸能界”を描く衝撃作開幕!!",
+        "image": "http://books.google.com/books/content?id=fyPsDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 0,
+        "booklist": "63c8d2c7-7818-4797-8754-8bbb76ba7157"
+      },
+      {
+        "id": "79aef846-f0b1-4d67-bef2-992d44841343",
+        "title": "葬送のフリーレン",
+        "description": "魔王を倒した勇者一行の後日譚ファンタジー 魔王を倒した勇者一行の“その後”。 魔法使いフリーレンはエルフであり、他の3人と違う部分があります。 彼女が”後”の世界で生きること、感じることとは－－ 残った者たちが紡ぐ、葬送と祈りとは－－ 物語は“冒険の終わり”から始まる。 英雄たちの“生き様”を物語る、後日譚（アフター）ファンタジー！",
+        "image": "http://books.google.com/books/content?id=3B33DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 1,
+        "booklist": "63c8d2c7-7818-4797-8754-8bbb76ba7157"
+      },
+      {
+        "id": "bb98609f-4974-4e75-8bd5-a0ee1fa5d31c",
+        "title": "エクソシストを堕とせない",
+        "description": "【デジタル版限定！「少年ジャンプ+」掲載時のカラーページを完全収録!!】魔王サタンを倒すために最強のエクソシストとして、劣悪な環境で育てられた神父の少年は、心に深い傷を負いながら各地に蔓延る悪魔と戦い続けていた。やがて訪れる一人の少女との出会いをきっかけに、少年はこれまで抱くこともなかった温かな感情に触れて――…。これは、聖戦の中で芽生える恋と希望の物語。",
+        "image": "http://books.google.com/books/content?id=kGlmEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 2,
+        "booklist": "63c8d2c7-7818-4797-8754-8bbb76ba7157"
+      },
+      {
+        "id": "74db1f55-42c3-4df6-9fe1-7d6bd93e791d",
+        "title": "幼稚園WARS",
+        "description": "さぁお遊戯の時間です 囚人番号999、元・伝説の殺し屋のリタ。彼女が今働いているのは、何と世界の重鎮達の子供が通う幼稚園！ その仕事は、日々差し向けられる刺客の魔の手から園児を守ること。圧倒的な力で敵を撃退するリタだが、実はイケメンに弱いという弱点があって…!? “世界一安全な幼稚園”で繰り広げられるバイオレンス×ラブコメディ、開幕!!",
+        "image": "http://books.google.com/books/content?id=o7mpEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 3,
+        "booklist": "63c8d2c7-7818-4797-8754-8bbb76ba7157"
+      },
+      {
+        "id": "a206c209-a3dd-4e84-8166-244b08cdaaac",
+        "title": "ナヴィガトリア",
+        "description": "【デジタル版限定！「少年ジャンプ+」掲載時のカラーページを完全収録!!】第一次宇宙大戦での活躍が認められ、初の植民星を獲得した地球。自由を奪われた独裁国家で、政府高官を親に持つ鳳凰學は、ある日、植民星に設立された学校への入学を命じられる。幼馴染のヒナちゃんとの禁じられた自由を手にするため學は植民星の“ナヴィガトリア（最高指導者）”になることを決意するが!?",
+        "image": "http://books.google.com/books/content?id=d4b9EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 4,
+        "booklist": "63c8d2c7-7818-4797-8754-8bbb76ba7157"
+      }
+    ],
+    "is_completed": true
+  },
+  {
+    "id": "df5639ce-67ed-421e-b078-9d65ddaf5184",
+    "type": {
+      "id": "407f0ac4-331f-49ee-b3ce-53e3645d160c",
+      "type": "ラブコメ",
+      "booklist": {
+        "is_completed": null
+      }
+    },
+    "owner": {
+      "id": "4ed9f02a-21a8-4cae-8531-68ffe9242a8d",
+      "username": "土井弘人",
+      "is_superuser": false
+    },
+    "books": [
+      {
+        "id": "dc0d48fb-6e86-40b8-8eb5-f800d80a04dc",
+        "title": "ゲーマーズ！",
+        "description": "残念すぎるぼっち高校生・雨野と学園のアイドル・天道をくっつけるため、ゲーム同好会を発足するリア充・上原だったが、なぜか自分のカノジョに浮気を疑われ！？ こじらせゲーマーたちによるすれ違い、猛加速中！！",
+        "image": "http://books.google.com/books/content?id=e54oDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 0,
+        "booklist": "df5639ce-67ed-421e-b078-9d65ddaf5184"
+      },
+      {
+        "id": "a2a22b28-36ca-4b6e-ab66-059c84b4f8bc",
+        "title": "やはり俺の青春ラブコメはまちがっている。",
+        "description": "有数の進学校・千葉市立総武高校2年F組所属。国語成績学年ナンバー3、イケメンとは言わないが顔立ちもそこそこ悪くない俺、名前は比企谷八幡。スペック的には決して劣っていない俺が、なぜに彼女なし、友達なしのぼっちなの？ 世の中間違ってるでしょ？ だから「リア充」どもをディスって何が悪いの？そんな俺を、独身女教師・平塚静先生が拉致して押し込んだ先が「奉仕部」…って、あの、一体何するところなんですか？その奉仕部の部長（一人しかいないが…）が学年一の成績優秀者にして美少女・雪ノ下雪乃で…俺すら遠く及ばぬハイスペック完璧超人の雪ノ下との出会いで、これから清く正しい青春や恋愛が始まるかと思いきや、これがねじれる、ゆがむ、自爆する！！青春時代の真ん中は、道に迷って、哀しく間違うばかり。だから、俺は声を大にして言いたい「やはり俺の青春ラブコメはまちがっている。」",
+        "image": "http://books.google.com/books/content?id=uZf5CgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 1,
+        "booklist": "df5639ce-67ed-421e-b078-9d65ddaf5184"
+      },
+      {
+        "id": "b5e4fc5f-53f6-4044-9173-d5e17dc3e179",
+        "title": "俺の妹がこんなに可愛いわけがない",
+        "description": "“俺”こと高坂京介の妹・桐乃は、容姿端麗&成績優秀、おまけに学外では雑誌のモデルを務める完璧少女だが、実は“妹モノ”のエロゲーが好きなアキバ系! 妹と長年にわたり冷戦状態にあった京介だが、その秘密を偶然知って以来、“人生相談”を持ちかけられることになり――!?",
+        "image": "http://books.google.com/books/content?id=zFypKUC8ZUgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 2,
+        "booklist": "df5639ce-67ed-421e-b078-9d65ddaf5184"
+      },
+      {
+        "id": "5a07bdc6-12e5-4459-afe1-db00e73b5240",
+        "title": "エロマンガ先生",
+        "description": "現役高校生ライトノベル作家である和泉マサムネ。引きこもりの妹の正体は、なんとマサムネの担当イラストレーターだった!? 伏見つかさ書き下ろし小説も収録！ 人気作品のコミック版が早くも登場！",
+        "image": "http://books.google.com/books/content?id=XGfYBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 3,
+        "booklist": "df5639ce-67ed-421e-b078-9d65ddaf5184"
+      },
+      {
+        "id": "43b0d564-6ad3-474f-929e-31d6576b3af2",
+        "title": "甘神さんちの縁結び",
+        "description": "――巫女×三姉妹×一つ屋根の下の絶対正義ラブコメ!! 京大医学部を目指す高校生の上終 瓜生。児童養護施設育ちの瓜生は「甘神神社」の宮司さんに引き取られ、居候することに。受験勉強ができる環境があれば…と思っていたが、居候の条件は「婿養子として神社を継ぐ」こと!? しかも結婚相手は同居する巫女三姉妹!! 一つ屋根の下、巫女と紡ぐ恋と奇跡の物語、開幕!!",
+        "image": "http://books.google.com/books/content?id=afg2EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 4,
+        "booklist": "df5639ce-67ed-421e-b078-9d65ddaf5184"
+      }
+    ],
+    "is_completed": true
+  },
+  {
+    "id": "580925b6-8131-42af-9f38-b692d8460aee",
+    "type": {
+      "id": "407f0ac4-331f-49ee-b3ce-53e3645d160c",
+      "type": "ラブコメ",
+      "booklist": {
+        "is_completed": null
+      }
+    },
+    "owner": {
+      "id": "caef7db5-2dd5-4e96-a5d0-938966dac28a",
+      "username": "大角駿人",
+      "is_superuser": false
+    },
+    "books": [
+      {
+        "id": "6a8460fb-b752-4ca4-bc43-eecd3b18c592",
+        "title": "月刊少女野崎くん",
+        "description": "無骨な男子高校生「野崎梅太郎」。彼に恋をした女子高生「佐倉千代」は勇気を振り絞って告白するものの、何故か恋人ではなく少女漫画家のアシスタントになったのでした…。男子高校生でありながら人気少女漫画家でもある野崎くんの日常を描く、少女漫画家男子コメディー!!",
+        "image": "http://books.google.com/books/content?id=qqLFDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 0,
+        "booklist": "580925b6-8131-42af-9f38-b692d8460aee"
+      },
+      {
+        "id": "f06d13ff-72d1-4529-a191-0ab172796c34",
+        "title": "かぐや様は告らせたい",
+        "description": "「恋愛は告白した方が負けなのである！」 家柄も人柄も良し!! 将来を期待された秀才が集う秀知院学園!! その生徒会で出会った、副会長・四宮かぐやと会長・白銀御行は互いに惹かれているはずだが…何もないまま半年が経過!! プライドが高く素直になれない2人は、面倒臭いことに、“如何に相手に告白させるか”ばかりを考えるようになってしまった!? 恋愛は成就するまでが楽しい!! 新感覚“頭脳戦”ラブコメ、開戦!!",
+        "image": "http://books.google.com/books/content?id=1hXiCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 1,
+        "booklist": "580925b6-8131-42af-9f38-b692d8460aee"
+      },
+      {
+        "id": "52b27788-9b92-436a-b957-15fbab310cd7",
+        "title": "あっちこっち",
+        "description": "素直になれないツンデレ娘のつみきさんと、史上最強の朴念仁の伊御さん。誰から見てもすごくイイカンジの二人だけど、まだまだ恋は始まらない！？ 読めばゴロゴロすること間違いなしのツンデレラブコメの決定版！",
+        "image": "http://books.google.com/books/content?id=6EAuDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 2,
+        "booklist": "580925b6-8131-42af-9f38-b692d8460aee"
+      },
+      {
+        "id": "4dc53136-fbf3-4292-af79-5132d992b326",
+        "title": "うちの会社の小さい先輩の話",
+        "description": "ツイッターでシリーズ累計280万「いいね」突破の、「あまあまオフィスラブコメ」がついにコミックス化！！ 新入社員・篠崎の同じ部署の片瀬先輩は背が低くて可愛い巨乳なお姉さん。 しかも褒め上手でとっても後輩思い。 時には頭をなでなでしてくれたり、優しい世界一受けたいパワハラも！？ こんなロリ系先輩、最高すぎでは！？ 連載版に加えて加筆ツイッター版、さらに描き下ろしエピソードと大ボリュームでお届け！！ 応援店共通の描き下ろし特典ペーパーを収録しております！ 電子書籍限定で連載時のカラーページ全収録！！！ ★単行本カバー下画像収録★",
+        "image": "http://books.google.com/books/content?id=05AFEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 3,
+        "booklist": "580925b6-8131-42af-9f38-b692d8460aee"
+      },
+      {
+        "id": "e3799534-45a8-4229-b153-d76cb8aa7f11",
+        "title": "よふかしのうた",
+        "description": "『だがしかし』コトヤマ待望の最新作！！ 恋と青春は、夜に生まれる__ さあ、たのしい夜ふかしの時間だ！ 不眠が続く中2・夜守コウは、初めて一人外に出た夜、美しい吸血鬼・七草ナズナと出会う。 「今日に満足できるまで、夜ふかししてみろよ。少年」 彼女との二人きりの夜ふかしが コウの運命を大きく変えていく__ 「これは、僕が、七草ナズナに恋をするための物語だ」 眠れない夜を過ごす全ての人へ贈る__ 真夜中のボーイ・ミーツ・ガール！ 連載開始から超絶大反響！！ ふたり たのし よふかし ラブストーリー開幕！！",
+        "image": "http://books.google.com/books/content?id=zCm8DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 4,
+        "booklist": "580925b6-8131-42af-9f38-b692d8460aee"
+      }
+    ],
+    "is_completed": true
+  },
+  {
+    "id": "ecff0c24-7ff4-4ec0-be9d-ca1b69f4ef58",
+    "type": {
+      "id": "407f0ac4-331f-49ee-b3ce-53e3645d160c",
+      "type": "ラブコメ",
+      "booklist": {
+        "is_completed": null
+      }
+    },
+    "owner": {
+      "id": "e32d0aa8-631b-4f49-a7d0-b8aeddc13273",
+      "username": "小川",
+      "is_superuser": false
+    },
+    "books": [
+      {
+        "id": "b28061cf-bae9-481c-b8af-b5593d46fe44",
+        "title": "その着せ替え人形は恋をする",
+        "description": "いつも友人の輪の中心にいるギャル系美少女、喜多川海夢。クラスメートの五条新菜は、彼女を“別世界の人間”だと思っていた。雛人形の頭師を目指す新菜が、放課後被服実習室で作業していると、そこに現れたのは…まさかの…!? 二人のドキドキ山盛り☆コスプレ・スクールライフが始まる!!",
+        "image": "http://books.google.com/books/content?id=CjHGDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 0,
+        "booklist": "ecff0c24-7ff4-4ec0-be9d-ca1b69f4ef58"
+      },
+      {
+        "id": "2177bfa4-e2eb-49e8-a519-53ac0a32b44c",
+        "title": "ヲタクに恋は難しい",
+        "description": "隠れ腐女子の成海とゲーヲタの宏嵩の恋愛模様を描いた超人気ヲタ恋も大団円のラスト11巻…！ 成海がヲタバレのピンチをむかえたことで、宏嵩との関係にも今までにない危機が…？ 描き下ろしでは、成海と宏嵩の子供時代の出会いのお話や、その後のみんなのお話も大収録！ ヲタクな人も、そうじゃない人もそれぞれの“好き”を大切にしたくなる。その点ヲタ恋ってすげぇよな、最後までキュンたっぷりだもん！…な内容でおとどけいたします！！",
+        "image": "http://books.google.com/books/content?id=DqZHEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 1,
+        "booklist": "ecff0c24-7ff4-4ec0-be9d-ca1b69f4ef58"
+      },
+      {
+        "id": "ed48b7d8-e2a7-4761-bda5-0374ba58fc0a",
+        "title": "阿波連さんははかれない",
+        "description": "「小さくて」、「物静か」な阿波連れいなさん。隣の席に座るライドウくんは、そんな阿波連さんに距離を感じていた。ある日、阿波連さんが落とした消しゴムをライドウくんが拾ったことで、今度は予想外の急接近!? 「遠すぎたり」「近すぎたり」予測不能な阿波連さん。色んな意味で、『はかれない』青春コメディ第1巻!!",
+        "image": "http://books.google.com/books/content?id=seEuDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 2,
+        "booklist": "ecff0c24-7ff4-4ec0-be9d-ca1b69f4ef58"
+      },
+      {
+        "id": "79df0158-967c-4fce-a4bf-6e38c0c5a7d8",
+        "title": "月刊少女野崎くん",
+        "description": "無骨な男子高校生「野崎梅太郎」。彼に恋をした女子高生「佐倉千代」は勇気を振り絞って告白するものの、何故か恋人ではなく少女漫画家のアシスタントになったのでした…。男子高校生でありながら人気少女漫画家でもある野崎くんの日常を描く、少女漫画家男子コメディー!!",
+        "image": "http://books.google.com/books/content?id=qqLFDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 3,
+        "booklist": "ecff0c24-7ff4-4ec0-be9d-ca1b69f4ef58"
+      },
+      {
+        "id": "c41b9551-02e7-4d52-9cba-721a30227d1d",
+        "title": "うる星やつら",
+        "description": "諸星家の朝は、あたるとテンの大ゲンカで始まる。立て続けに炎を噴き続けるテンに対して、フライパンや鍋のフタで応酬するあたる。しかしトドメを刺すためあたるが投げた電気ガマは、テンの後ろにいたラムの頭に直撃！予想外の出来事にオロオロするあたるとテンに向かって、ラムが放った言葉とは…？ ※MyLumの収録はありません。あらかじめご了承下さい。",
+        "image": "http://books.google.com/books/content?id=YvzzCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 4,
+        "booklist": "ecff0c24-7ff4-4ec0-be9d-ca1b69f4ef58"
+      }
+    ],
+    "is_completed": true
+  },
+  {
+    "id": "bfcea276-c709-44be-844d-c4de87f848aa",
+    "type": {
+      "id": "407f0ac4-331f-49ee-b3ce-53e3645d160c",
+      "type": "ラブコメ",
+      "booklist": {
+        "is_completed": null
+      }
+    },
+    "owner": {
+      "id": "b7a337fc-30ee-4afa-ad5b-65d3cdfc934d",
+      "username": "山田航",
+      "is_superuser": false
+    },
+    "books": [
+      {
+        "id": "e3c5805a-5327-4e55-b996-bdd11f418b05",
+        "title": "その着せ替え人形は恋をする",
+        "description": "いつも友人の輪の中心にいるギャル系美少女、喜多川海夢。クラスメートの五条新菜は、彼女を“別世界の人間”だと思っていた。雛人形の頭師を目指す新菜が、放課後被服実習室で作業していると、そこに現れたのは…まさかの…!? 二人のドキドキ山盛り☆コスプレ・スクールライフが始まる!!",
+        "image": "http://books.google.com/books/content?id=CjHGDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 0,
+        "booklist": "bfcea276-c709-44be-844d-c4de87f848aa"
+      },
+      {
+        "id": "3d8f5a6d-3313-4d00-955f-6d795cd54c48",
+        "title": "五等分の花嫁",
+        "description": "貧乏な生活を送る高校２年生・上杉風太郎のもとに、好条件の家庭教師アルバイトの話が舞い込む。ところが教え子はなんと同級生！！ しかも五つ子だった！！ 全員美少女、だけど「落第寸前」「勉強嫌い」の問題児！ 最初の課題は姉妹からの信頼を勝ち取ること…！？ 毎日がお祭り騒ぎ！ 中野家の五つ子が贈る、かわいさ500％の五人五色ラブコメ開演！！",
+        "image": "http://books.google.com/books/content?id=gm04DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 1,
+        "booklist": "bfcea276-c709-44be-844d-c4de87f848aa"
+      },
+      {
+        "id": "84dc025e-ad18-47a8-9032-b39b9c36cb9f",
+        "title": "可愛いだけじゃない式守さん",
+        "description": "僕の彼女の式守さんは、とても可愛くて、とても××です！！ 和泉くんの彼女は、同じ高校の同級生・式守さん。とっても可愛い女の子。優しくて、よく笑って、和泉くんといるときは、いつも嬉しそう。そんな愛情全開の彼女は、不幸体質で大人しい和泉くんの行動をいつもチェック。彼の言葉や反応ひとつで、あら不思議。 ××な彼女に大変身!!Twitterで累計１５０万超「いいね」を獲得した、超話題の尊さ１０００％ショートラブコメ!!",
+        "image": "http://books.google.com/books/content?id=ayibDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 2,
+        "booklist": "bfcea276-c709-44be-844d-c4de87f848aa"
+      },
+      {
+        "id": "7243af07-9d5a-475c-86c4-019fe1721736",
+        "title": "からかい上手の高木さん",
+        "description": "悶絶者続出！ 話題沸騰の新ヒロイン 「高木さん」第2巻が早くも登場！ もちろんこの巻も「照れたら負け」！",
+        "image": "http://books.google.com/books/content?id=Mej6CgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 3,
+        "booklist": "bfcea276-c709-44be-844d-c4de87f848aa"
+      },
+      {
+        "id": "9fcd10ba-8c7a-45fa-be56-28f485e8ec4c",
+        "title": "僕の心のヤバイやつ",
+        "description": "学園カースト頂点の美少女・山田杏奈の殺害を妄想してはほくそ笑む、重度の中二病の陰キャ・市川京太郎。だが山田を観察する内に、京太郎が思う「底辺を見下す陽キャ」とは全然違うことに徐々に気づいていき…!? 陰キャ男子・京太郎の初めての恋、始まる。陽キャ美少女×陰キャ少年のニヤニヤ系青春格差ラブコメディ!!",
+        "image": "http://books.google.com/books/content?id=xeNzDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 4,
+        "booklist": "bfcea276-c709-44be-844d-c4de87f848aa"
+      }
+    ],
+    "is_completed": true
+  },
+  {
+    "id": "4cfa3c89-8d69-4856-90ab-dbda7a738ce1",
+    "type": {
+      "id": "407f0ac4-331f-49ee-b3ce-53e3645d160c",
+      "type": "ラブコメ",
+      "booklist": {
+        "is_completed": null
+      }
+    },
+    "owner": {
+      "id": "50e1917b-355a-495c-9f52-939c6cf430db",
+      "username": "川上輝",
+      "is_superuser": false
+    },
+    "books": [
+      {
+        "id": "727f1778-8f7d-49b2-8fb7-62a9e9f26003",
+        "title": "スーパーの裏でヤニ吸うふたり",
+        "description": "社畜街道をひた走る、くたびれ中年男性の佐々木。彼のひそやかな癒しといえば、日ごろから愛煙する煙草と、行きつけのスーパーで働く女性店員 山田さんのにこやかな接客くらい。仕事に疲れたある夜、癒しを求めてスーパーに向かうが、目当ての山田さんはおらず、今どき煙草を吸える場所もなし…。意気消沈した佐々木に「ここなら吸える」と声をかけてきたのは、すこし奇抜な服装をした田山という女性だった――。",
+        "image": "http://books.google.com/books/content?id=GqOCEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 0,
+        "booklist": "4cfa3c89-8d69-4856-90ab-dbda7a738ce1"
+      },
+      {
+        "id": "4f4a0594-7e29-4749-94cb-021498f234ac",
+        "title": "よふかしのうた",
+        "description": "『だがしかし』コトヤマ待望の最新作！！ 恋と青春は、夜に生まれる__ さあ、たのしい夜ふかしの時間だ！ 不眠が続く中2・夜守コウは、初めて一人外に出た夜、美しい吸血鬼・七草ナズナと出会う。 「今日に満足できるまで、夜ふかししてみろよ。少年」 彼女との二人きりの夜ふかしが コウの運命を大きく変えていく__ 「これは、僕が、七草ナズナに恋をするための物語だ」 眠れない夜を過ごす全ての人へ贈る__ 真夜中のボーイ・ミーツ・ガール！ 連載開始から超絶大反響！！ ふたり たのし よふかし ラブストーリー開幕！！",
+        "image": "http://books.google.com/books/content?id=zCm8DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 1,
+        "booklist": "4cfa3c89-8d69-4856-90ab-dbda7a738ce1"
+      },
+      {
+        "id": "0b128f9e-858f-4cc6-ba60-7c160dc1d0f5",
+        "title": "からかい上手の高木さん",
+        "description": "概要情報なし",
+        "image": "http://books.google.com/books/content?id=Gp_9CgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 2,
+        "booklist": "4cfa3c89-8d69-4856-90ab-dbda7a738ce1"
+      },
+      {
+        "id": "c2fa8a2a-1061-475e-94f0-a22af3b86b80",
+        "title": "ちえりの恋は8メートル",
+        "description": "【デジタル版限定！「少年ジャンプ+」掲載時のカラーページを完全収録!!】普通の高校生・小滝夢路のクラスに転校してきたのは、身長が8メートルに巨大化した幼馴染・大峰ちえりだった！ ちえりの学校生活のサポートをする「お手伝いさん」を任された夢路。身長差がある二人の日常はドキドキがいっぱいで!? 高低差もなんのその！ 規格外ラブコメディ、開幕!!",
+        "image": "http://books.google.com/books/content?id=ffijEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 3,
+        "booklist": "4cfa3c89-8d69-4856-90ab-dbda7a738ce1"
+      },
+      {
+        "id": "8358e43f-d2a2-4934-98fe-afc0d72eb4b9",
+        "title": "僕の心のヤバイやつ",
+        "description": "学園カースト頂点の美少女・山田杏奈の殺害を妄想してはほくそ笑む、重度の中二病の陰キャ・市川京太郎。だが山田を観察する内に、京太郎が思う「底辺を見下す陽キャ」とは全然違うことに徐々に気づいていき…!? 陰キャ男子・京太郎の初めての恋、始まる。陽キャ美少女×陰キャ少年のニヤニヤ系青春格差ラブコメディ!!",
+        "image": "http://books.google.com/books/content?id=xeNzDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 4,
+        "booklist": "4cfa3c89-8d69-4856-90ab-dbda7a738ce1"
+      }
+    ],
+    "is_completed": true
+  },
+  {
+    "id": "969c0a34-2851-475d-b9d3-edd80bb538b5",
+    "type": {
+      "id": "407f0ac4-331f-49ee-b3ce-53e3645d160c",
+      "type": "ラブコメ",
+      "booklist": {
+        "is_completed": null
+      }
+    },
+    "owner": {
+      "id": "248ecd5c-3607-4186-bfc5-1a6c1e012c74",
+      "username": "川島 励仁",
+      "is_superuser": false
+    },
+    "books": [
+      {
+        "id": "87edb04c-2584-400e-b399-066dc8a44ce6",
+        "title": "五等分の花嫁",
+        "description": "貧乏な生活を送る高校２年生・上杉風太郎のもとに、好条件の家庭教師アルバイトの話が舞い込む。ところが教え子はなんと同級生！！ しかも五つ子だった！！ 全員美少女、だけど「落第寸前」「勉強嫌い」の問題児！ 最初の課題は姉妹からの信頼を勝ち取ること…！？ 毎日がお祭り騒ぎ！ 中野家の五つ子が贈る、かわいさ500％の五人五色ラブコメ開演！！",
+        "image": "http://books.google.com/books/content?id=gm04DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 0,
+        "booklist": "969c0a34-2851-475d-b9d3-edd80bb538b5"
+      },
+      {
+        "id": "d360036c-8597-4943-990f-16160a010916",
+        "title": "かぐや様は告らせたい",
+        "description": "「恋愛は告白した方が負けなのである！」 家柄も人柄も良し!! 将来を期待された秀才が集う秀知院学園!! その生徒会で出会った、副会長・四宮かぐやと会長・白銀御行は互いに惹かれているはずだが…何もないまま半年が経過!! プライドが高く素直になれない2人は、面倒臭いことに、“如何に相手に告白させるか”ばかりを考えるようになってしまった!? 恋愛は成就するまでが楽しい!! 新感覚“頭脳戦”ラブコメ、開戦!!",
+        "image": "http://books.google.com/books/content?id=1hXiCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 1,
+        "booklist": "969c0a34-2851-475d-b9d3-edd80bb538b5"
+      },
+      {
+        "id": "03d31c76-371b-4ffc-92e2-12de76cb64b8",
+        "title": "からかい上手の高木さん",
+        "description": "概要情報なし",
+        "image": "http://books.google.com/books/content?id=Gp_9CgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 2,
+        "booklist": "969c0a34-2851-475d-b9d3-edd80bb538b5"
+      },
+      {
+        "id": "5b488a11-f1db-4c50-a8d9-55c722f2a1ea",
+        "title": "阿波連さんははかれない",
+        "description": "「小さくて」、「物静か」な阿波連れいなさん。隣の席に座るライドウくんは、そんな阿波連さんに距離を感じていた。ある日、阿波連さんが落とした消しゴムをライドウくんが拾ったことで、今度は予想外の急接近!? 「遠すぎたり」「近すぎたり」予測不能な阿波連さん。色んな意味で、『はかれない』青春コメディ第1巻!!",
+        "image": "http://books.google.com/books/content?id=seEuDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 3,
+        "booklist": "969c0a34-2851-475d-b9d3-edd80bb538b5"
+      },
+      {
+        "id": "4058f35c-91f8-4ba6-9f52-fd36ae34b544",
+        "title": "その着せ替え人形は恋をする",
+        "description": "いつも友人の輪の中心にいるギャル系美少女、喜多川海夢。クラスメートの五条新菜は、彼女を“別世界の人間”だと思っていた。雛人形の頭師を目指す新菜が、放課後被服実習室で作業していると、そこに現れたのは…まさかの…!? 二人のドキドキ山盛り☆コスプレ・スクールライフが始まる!!",
+        "image": "http://books.google.com/books/content?id=CjHGDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 4,
+        "booklist": "969c0a34-2851-475d-b9d3-edd80bb538b5"
+      }
+    ],
+    "is_completed": true
+  },
+  {
+    "id": "674c6495-5ff8-4763-b42b-446e776ed9b5",
+    "type": {
+      "id": "407f0ac4-331f-49ee-b3ce-53e3645d160c",
+      "type": "ラブコメ",
+      "booklist": {
+        "is_completed": null
+      }
+    },
+    "owner": {
+      "id": "5a128c62-67d7-46af-b45d-11199906f44c",
+      "username": "平尾 七虹",
+      "is_superuser": false
+    },
+    "books": [
+      {
+        "id": "da7a7cd0-037a-447a-92d3-3d0739fa2c1a",
+        "title": "山田くんとLv999の恋をする",
+        "description": "彼氏をネットゲームで知り合った他の女に取られた茜。ストレス発散に雑魚モンスターを狩っていると、ギルドメンバーのアフロ男・山田に声をかけられる。同じギルメンの誼でフラれたことを愚痴るも、山田は無表情で「興味ない」とそっけない返事。挙句に「狩場を譲れ」と言う山田に「これだからゲームする男なんて！」とキレる茜だったが、好きなゲームをフラれっぱなしでやめられないと一念発起。ネトゲのリアルイベントが開催されることを知った茜は元彼に会えるかも……とお洒落をして会場に乗り込むが、元彼の横には新しい彼女の姿が……。直後、人混みに押され転んでしまった茜に手を差し伸べたのは超イケメンの黒髪男子。しかしそんなイケメンの無愛想な態度と「興味ない」という言葉で頭に浮かんだのはあのアフロ頭のアバター……この眼の前にいるイケメンこそあの山田だった!? 目の前で元カレのイチャコラを見せつけられた茜は山田を居酒屋に連行してヤケ酒に付き合わせる。酔いつぶれた茜が目を覚ますと、そこは見知らぬ場所……山田の部屋だった。もしかして私……!?",
+        "image": "http://books.google.com/books/content?id=6rLODwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 0,
+        "booklist": "674c6495-5ff8-4763-b42b-446e776ed9b5"
+      },
+      {
+        "id": "ff0ae00e-ab92-450b-bd42-cc5b9f47c38e",
+        "title": "オレ様キングダム",
+        "description": "概要情報なし",
+        "image": "http://books.google.com/books/content?id=wCr9CgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 1,
+        "booklist": "674c6495-5ff8-4763-b42b-446e776ed9b5"
+      },
+      {
+        "id": "1c6be329-df32-47e6-90b9-b7db14fa2a58",
+        "title": "わたしに××しなさい！",
+        "description": "ようやく時雨への思いを自覚した雪菜。時雨と雪菜の「ラブ」は新たなステップへと向かう。しかし、「恋人」であるはずの晶と雪菜の関係は……!? いっぽう、マミへの報われない思いをかかえる氷雨も……。5人それぞれの恋模様が動きだす！ 「×しな！」史上最もせつない、急展開続きの15巻！電子版のみ6ページがカラー化＆スペシャル4コマも読める!!",
+        "image": "http://books.google.com/books/content?id=FZjDBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 2,
+        "booklist": "674c6495-5ff8-4763-b42b-446e776ed9b5"
+      },
+      {
+        "id": "c11df54d-be8b-42fd-889f-3be127c2ed7a",
+        "title": "ミルモでポン！",
+        "description": "あたし、楓。恋の妖精・ミルモと暮らしてるの。ミルモは恋をかなえる魔法を使えるんだけど、ヘソ曲がりで、なかなかお願いを聞いてくれないんだ。ある日、ミルモのところに女の子の妖精・リルムが訪ねてきます。ミルモが好きなリルムは、なんとあたしが片思いしている結木（ゆうき）くんの家に住みついて!?",
+        "image": "http://books.google.com/books/content?id=bjT1CgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 3,
+        "booklist": "674c6495-5ff8-4763-b42b-446e776ed9b5"
+      },
+      {
+        "id": "9d340292-0bf5-464f-9261-695ff5b9a226",
+        "title": "しゅごキャラ！",
+        "description": "聖夜学園でウワサの小学生、日奈森（ひなもり）あむちゃん。クールでかっこよくて、みんなから一目置かれる存在。でも、ホントのあむちゃんは……？ 「理想のキャラに生まれかわりたい！」と願ったら、突然3つのたまごがあらわれた。そこから「しゅごキャラ」が生まれて……！？ 憧れの王子、辺里唯世（ほとり・ただせ）くんに好きになってもらえるような、かわいくて素直な女の子になりたいの。でも、謎のしゅごたま「エンブリオ」を狙うヤツらは許せない！ 王子たちとともにガーディアンの一員となり、あむちゃん大活躍！！",
+        "image": "http://books.google.com/books/content?id=qTXHBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 4,
+        "booklist": "674c6495-5ff8-4763-b42b-446e776ed9b5"
+      }
+    ],
+    "is_completed": true
+  },
+  {
+    "id": "75534a92-174f-4609-bea2-59df58151f20",
+    "type": {
+      "id": "407f0ac4-331f-49ee-b3ce-53e3645d160c",
+      "type": "ラブコメ",
+      "booklist": {
+        "is_completed": null
+      }
+    },
+    "owner": {
+      "id": "6e3d3da6-f8ce-439e-917b-c4d4c1121328",
+      "username": "床田将一朗",
+      "is_superuser": false
+    },
+    "books": [
+      {
+        "id": "1d1d722b-7668-43f0-b178-7e4ba20c6042",
+        "title": "To LOVEる",
+        "description": "【デジタル着色によるフルカラー版！】リトのトラブルな日常が帰ってきた。ララの双子の妹・モモとナナが彩南高校に転入。モモは、「ハーレムを創る」という怪しい計画を練り、リトを肉食男子に変身させようとするが……!? 更には、謎の敵がリトを襲撃して!?",
+        "image": "http://books.google.com/books/content?id=CMG7CwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 0,
+        "booklist": "75534a92-174f-4609-bea2-59df58151f20"
+      },
+      {
+        "id": "4a299533-8d28-4c1c-b6e4-9de9b7db9ae1",
+        "title": "冴えない彼女の育てかた",
+        "description": "加藤恵への告白。そしてゲーム完成に向けてのラストスパート。あの日、あの坂道での運命の出会いからすべては始まった。もうお前は冴えない彼女なんかじゃない、胸がキュンキュンするメインヒロインだ！",
+        "image": "http://books.google.com/books/content?id=LKE6DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 1,
+        "booklist": "75534a92-174f-4609-bea2-59df58151f20"
+      },
+      {
+        "id": "0dbd336b-5328-4191-8efb-b9daf049f318",
+        "title": "かぐや様は告らせたい",
+        "description": "「恋愛は告白した方が負けなのである！」 エリートの集う秀知院学園生徒会で出会った会長・白銀御行と副会長・四宮かぐや…。この両想いであるはずの天才2人が、互いに相手に惚れさせ、相手から告白させようと日常の全てで権謀術数の限りを尽くす、新感覚のラブコメ!! …だったはずの2人も付き合い始め、1学年上の世代の卒業式を迎えた!! その日は、石上優が“告白”の返事を、卒業する子安つばめから貰う期日でもある。果たして、恋の行方は…!? そして、父親の提案で引っ越しを決意した白銀家。かぐやが現在のお宅へ訪問する最後の機会が訪れる!! 2人の仲にも変化が生じる事に…!? 大きな転換点となる春休みを描く第21巻!!",
+        "image": "http://books.google.com/books/content?id=QRoXEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 2,
+        "booklist": "75534a92-174f-4609-bea2-59df58151f20"
+      },
+      {
+        "id": "6904527e-9aed-4b07-b9b7-de90e9979461",
+        "title": "とらドラ",
+        "description": "竜虎並び立つ!と思いきや馴れ合い関係に逆戻りしてしまった竜児と大河。そんな二人に活を入れるかのように一人の転校生がやってくる。その名は川嶋亜美。北村の幼なじみにしてファッションモデル。顔よしスタイルよし外面、よし。でもその本性は―?北村に片思い中の大河は心中穏やかでなく、そんな大河に翻弄される竜児になぜか亜美が接近してきて―?新たな女の子を加え、波乱含みの超弩級ラブコメ第2弾!巻末には不幸体質の一年生、富家幸太と“手乗りタイガー”との接近遭遇を描く番外編「幸福の手乗りタイガー伝説」も収録です。",
+        "image": "http://books.google.com/books/content?id=ypHSjgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+        "order": 3,
+        "booklist": "75534a92-174f-4609-bea2-59df58151f20"
+      },
+      {
+        "id": "45d7a226-fb75-45c8-9162-c86bf73b1c37",
+        "title": "ホリミヤ",
+        "description": "イケメン設定の宮村がちょっと霞むほどの“高級食材”柳明音、ついに登場！ 生徒会トリオのバカバカしくてかわいいエピソードや、「ホリミヤ」初、HERO新規描き下ろしエピソード・体育祭編突入など、一気に賑やかに！ ５月のアンニュイを吹き飛ばす第７巻！",
+        "image": "http://books.google.com/books/content?id=E6XFDwAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+        "order": 4,
+        "booklist": "75534a92-174f-4609-bea2-59df58151f20"
+      }
+    ],
+    "is_completed": true
+  },
+  {
+    "id": "67bfa7ca-2331-4942-95aa-7630f4098ed0",
+    "type": {
+      "id": "407f0ac4-331f-49ee-b3ce-53e3645d160c",
+      "type": "ラブコメ",
+      "booklist": {
+        "is_completed": null
+      }
+    },
+    "owner": {
+      "id": "6f940898-5f73-449f-8cf3-7177978929b8",
+      "username": "徳丸晴天",
+      "is_superuser": false
+    },
+    "books": [
+      {
+        "id": "768d9b32-3f04-4d63-98f3-72fddabd3499",
+        "title": "デート・ア・ライブ",
+        "description": "「——君、は……」「……名か。そんなものは、ない」四月一〇日。五河士道は精霊と呼ばれる少女と出会った。世界から否定される少女。だけど自分だけは少女を肯定したいと願った。新世代ボーイ・ミーツ・ガール!! ※本作品はデート・ア・ライブ』シリーズ全22巻を収録しています。 ※本商品は1冊に全巻を収録した合本形式での配信となります。あらかじめご了承ください。",
+        "image": "http://books.google.com/books/content?id=Vkv6EAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+        "order": 0,
+        "booklist": "67bfa7ca-2331-4942-95aa-7630f4098ed0"
+      },
+      {
+        "id": "a2c26af9-74e8-470d-8d4e-a7e607073721",
+        "title": "この素晴らしい世界に祝福を!",
+        "description": "「...金が欲しいっ!」カズマは異世界で初めての冬を迎えようとしていた。本格的な冬に馬小屋暮らしは辛すぎる。生活拠点の確保が急務だ。そんなカズマに「屋敷に住み込みで悪霊退治をして欲しい」と願ってもないチャンスが訪れる。普段はポンコツ駄女神でも、こと除霊に関してはエキスパートのアクアがいるので、二つ返事で依頼を引き受けたカズマだったが...!?「小説家になろう」で人気を博す異世界コメディ第2巻が登場!",
+        "image": "http://books.google.com/books/content?id=7-TJngEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+        "order": 1,
+        "booklist": "67bfa7ca-2331-4942-95aa-7630f4098ed0"
+      },
+      {
+        "id": "d1927c4c-3772-486b-a6b9-c80c133de103",
+        "title": "涼宮ハルヒの憂鬱",
+        "description": "「ただの人間には興味ありません。この中に宇宙人、未来人、超能力者がいたら、あたしのところに来なさい。以上」。入学早々、ぶっ飛んだ挨拶をかましてくれた涼宮ハルヒ。そんなＳＦ小説じゃあるまいし……と誰でも思うよな。俺も思ったよ。だけどハルヒは心の底から真剣だったんだ。それに気づいたときには俺の日常は、もうすでに超常になっていた――。第８回スニーカー大賞〈大賞〉受賞作、ビミョーに非日常系学園ストーリー！",
+        "image": "http://books.google.com/books/content?id=8mQRgvM9lwcC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 2,
+        "booklist": "67bfa7ca-2331-4942-95aa-7630f4098ed0"
+      },
+      {
+        "id": "c8ebe3a1-07cd-4454-92fe-da625725de33",
+        "title": "ニセコイ",
+        "description": "ヤクザの2代目だが、ごく普通の高校生・一条楽。そんな彼の前に現れた、転校生の美少女・桐崎千棘。喧嘩っ早く、楽とは何から何まで相性最悪な千棘だが、ある事情から二人は恋人を演じるハメになり!?",
+        "image": "http://books.google.com/books/content?id=7YTLCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 3,
+        "booklist": "67bfa7ca-2331-4942-95aa-7630f4098ed0"
+      },
+      {
+        "id": "63bfc2cd-1748-43b6-8a26-a9509dc4ac8f",
+        "title": "五等分の花嫁",
+        "description": "貧乏な生活を送る高校２年生・上杉風太郎のもとに、好条件の家庭教師アルバイトの話が舞い込む。ところが教え子はなんと同級生！！ しかも五つ子だった！！ 全員美少女、だけど「落第寸前」「勉強嫌い」の問題児！ 最初の課題は姉妹からの信頼を勝ち取ること…！？ 毎日がお祭り騒ぎ！ 中野家の五つ子が贈る、かわいさ500％の五人五色ラブコメ開演！！",
+        "image": "http://books.google.com/books/content?id=gm04DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 4,
+        "booklist": "67bfa7ca-2331-4942-95aa-7630f4098ed0"
+      }
+    ],
+    "is_completed": true
+  },
+  {
+    "id": "d10b25fd-12ff-4461-b0f5-778432e85619",
+    "type": {
+      "id": "407f0ac4-331f-49ee-b3ce-53e3645d160c",
+      "type": "ラブコメ",
+      "booklist": {
+        "is_completed": null
+      }
+    },
+    "owner": {
+      "id": "50179d9c-5b0e-4af1-a624-737ec437fd2a",
+      "username": "森野穣",
+      "is_superuser": false
+    },
+    "books": [
+      {
+        "id": "ac3ccc95-0007-4509-86df-9c731d05b545",
+        "title": "ラブひな",
+        "description": "赤松ラブコメをもっともっと！ 景太郎＆なるが帰ってきた♪ 子供のころに少女とかわした「いっしょに東大へ行く」という約束を守るため、浦島景太郎は2浪中。家を追い出された景太郎は祖母が経営する温泉旅館を頼るも、旅館は男子禁制の女子寮「ひなた荘」になっていた！ 行きがかりで「ひなた荘」の管理人になった景太郎。成瀬川なるをはじめ、いろんなタイプの美少女に振り回されながらドタバタ受験生生活をスタートさせる！",
+        "image": "http://books.google.com/books/content?id=h0FBDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 0,
+        "booklist": "d10b25fd-12ff-4461-b0f5-778432e85619"
+      },
+      {
+        "id": "3876a852-d077-4a60-9ccb-6d10a69d4cc7",
+        "title": "うる星やつら",
+        "description": "諸星家の朝は、あたるとテンの大ゲンカで始まる。立て続けに炎を噴き続けるテンに対して、フライパンや鍋のフタで応酬するあたる。しかしトドメを刺すためあたるが投げた電気ガマは、テンの後ろにいたラムの頭に直撃！予想外の出来事にオロオロするあたるとテンに向かって、ラムが放った言葉とは…？ ※MyLumの収録はありません。あらかじめご了承下さい。",
+        "image": "http://books.google.com/books/content?id=YvzzCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 1,
+        "booklist": "d10b25fd-12ff-4461-b0f5-778432e85619"
+      },
+      {
+        "id": "52fd5158-0885-4abc-a8e9-f7ea330b94e0",
+        "title": "ホリミヤ",
+        "description": "名残惜しさと、ほんの少しのそわそわを纏った校舎。息を吸い込むだけで切なさで胸がいっぱいになる。ほんのささいなきっかけと、あたりまえの毎日が、この場所をこんなに愛しいものにしたんだね。大人気超微炭酸系スクールライフ、ついに卒業、完結巻。",
+        "image": "http://books.google.com/books/content?id=Zn83EAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+        "order": 2,
+        "booklist": "d10b25fd-12ff-4461-b0f5-778432e85619"
+      },
+      {
+        "id": "bb6b20c2-5ec7-4ee8-b117-68c05adc2e99",
+        "title": "不器用な先輩。",
+        "description": "後輩社員亀川から突然告白された鉄輪先輩。亀川の純粋な気持ちにどう応えるべきか…。煩悶してしまった鉄輪が下す決断とは―!?二人の関係が大きく変わる!!",
+        "image": "http://books.google.com/books/content?id=f3HdEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 3,
+        "booklist": "d10b25fd-12ff-4461-b0f5-778432e85619"
+      },
+      {
+        "id": "dda7f7e8-5f25-42ad-8b2d-d70b1b52b",
+        "title": "ヲタクに恋は難しい",
+        "description": "隠れ腐女子の成海とゲーヲタの宏嵩の恋愛模様を描いた超人気ヲタ恋も大団円のラスト11巻…！ 成海がヲタバレのピンチをむかえたことで、宏嵩との関係にも今までにない危機が…？ 描き下ろしでは、成海と宏嵩の子供時代の出会いのお話や、その後のみんなのお話も大収録！ ヲタクな人も、そうじゃない人もそれぞれの“好き”を大切にしたくなる。その点ヲタ恋ってすげぇよな、最後までキュンたっぷりだもん！…な内容でおとどけいたします！！",
+        "image": "http://books.google.com/books/content?id=DqZHEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 4,
+        "booklist": "d10b25fd-12ff-4461-b0f5-778432e85619"
+      }
+    ],
+    "is_completed": true
+  },
+  {
+    "id": "74baebf0-7cbc-49c9-8bea-f87d80696ea9",
+    "type": {
+      "id": "407f0ac4-331f-49ee-b3ce-53e3645d160c",
+      "type": "ラブコメ",
+      "booklist": {
+        "is_completed": null
+      }
+    },
+    "owner": {
+      "id": "645ea896-f934-4d83-bd44-f47334a367fc",
+      "username": "森陽光",
+      "is_superuser": false
+    },
+    "books": [
+      {
+        "id": "9cc4e705-abad-42e1-9abd-db842dc3cfcb",
+        "title": "マコさんは死んでも自立しない",
+        "description": "高校生・遠野隣は、とある事情で大好きな女子大生・栗橋真子さんと同居中。ピュアな二人は相思相愛。でも、本人たちは気づいてなくて……。“愛”で満ち、“愛”にあふれ、“愛”にまみれたかわいくて、愛しくて、幸せなだけの２人の日々！",
+        "image": "http://books.google.com/books/content?id=Uv5TDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 0,
+        "booklist": "74baebf0-7cbc-49c9-8bea-f87d80696ea9"
+      },
+      {
+        "id": "71c8a515-0e71-464e-9a07-ec4e54cd7f25",
+        "title": "未登録",
+        "description": "未登録",
+        "image": null,
+        "order": 1,
+        "booklist": "74baebf0-7cbc-49c9-8bea-f87d80696ea9"
+      },
+      {
+        "id": "f553330e-de9c-48a7-8d63-05cd68034ebb",
+        "title": "未登録",
+        "description": "未登録",
+        "image": null,
+        "order": 2,
+        "booklist": "74baebf0-7cbc-49c9-8bea-f87d80696ea9"
+      },
+      {
+        "id": "8d18ce8f-c038-49de-9e8b-71d2b9c0e542",
+        "title": "未登録",
+        "description": "未登録",
+        "image": null,
+        "order": 3,
+        "booklist": "74baebf0-7cbc-49c9-8bea-f87d80696ea9"
+      },
+      {
+        "id": "bf0482dc-5878-465e-ace9-2b22be1df9b8",
+        "title": "未登録",
+        "description": "未登録",
+        "image": null,
+        "order": 4,
+        "booklist": "74baebf0-7cbc-49c9-8bea-f87d80696ea9"
+      }
+    ],
+    "is_completed": false
+  },
+  {
+    "id": "9679026b-5ab8-479c-8d1e-faf6f6a932cf",
+    "type": {
+      "id": "407f0ac4-331f-49ee-b3ce-53e3645d160c",
+      "type": "ラブコメ",
+      "booklist": {
+        "is_completed": null
+      }
+    },
+    "owner": {
+      "id": "fe297bd5-7658-493e-ae4a-d89929aebd34",
+      "username": "横井優",
+      "is_superuser": false
+    },
+    "books": [
+      {
+        "id": "741367a4-05aa-480a-8139-38966f333893",
+        "title": "やはり俺の青春ラブコメはまちがっている。",
+        "description": "有数の進学校・千葉市立総武高校2年F組所属。国語成績学年ナンバー3、イケメンとは言わないが顔立ちもそこそこ悪くない俺、名前は比企谷八幡。スペック的には決して劣っていない俺が、なぜに彼女なし、友達なしのぼっちなの？ 世の中間違ってるでしょ？ だから「リア充」どもをディスって何が悪いの？そんな俺を、独身女教師・平塚静先生が拉致して押し込んだ先が「奉仕部」…って、あの、一体何するところなんですか？その奉仕部の部長（一人しかいないが…）が学年一の成績優秀者にして美少女・雪ノ下雪乃で…俺すら遠く及ばぬハイスペック完璧超人の雪ノ下との出会いで、これから清く正しい青春や恋愛が始まるかと思いきや、これがねじれる、ゆがむ、自爆する！！青春時代の真ん中は、道に迷って、哀しく間違うばかり。だから、俺は声を大にして言いたい「やはり俺の青春ラブコメはまちがっている。」",
+        "image": "http://books.google.com/books/content?id=uZf5CgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 0,
+        "booklist": "9679026b-5ab8-479c-8d1e-faf6f6a932cf"
+      },
+      {
+        "id": "54797377-8723-4afd-afb1-8e426593eb1b",
+        "title": "かぐや様は告らせたい",
+        "description": "「恋愛は告白した方が負けなのである！」 家柄も人柄も良し!! 将来を期待された秀才が集う秀知院学園!! その生徒会で出会った、副会長・四宮かぐやと会長・白銀御行は互いに惹かれているはずだが…何もないまま半年が経過!! プライドが高く素直になれない2人は、面倒臭いことに、“如何に相手に告白させるか”ばかりを考えるようになってしまった!? 恋愛は成就するまでが楽しい!! 新感覚“頭脳戦”ラブコメ、開戦!!",
+        "image": "http://books.google.com/books/content?id=1hXiCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 1,
+        "booklist": "9679026b-5ab8-479c-8d1e-faf6f6a932cf"
+      },
+      {
+        "id": "fee6d4fa-b99b-4c37-ae62-e1e4fe340a64",
+        "title": "からかい上手の高木さん",
+        "description": "概要情報なし",
+        "image": "http://books.google.com/books/content?id=Gp_9CgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 2,
+        "booklist": "9679026b-5ab8-479c-8d1e-faf6f6a932cf"
+      },
+      {
+        "id": "52629b07-321b-4bd3-b1c1-e141139cdb17",
+        "title": "五等分の花嫁",
+        "description": "貧乏な生活を送る高校２年生・上杉風太郎のもとに、好条件の家庭教師アルバイトの話が舞い込む。ところが教え子はなんと同級生！！ しかも五つ子だった！！ 全員美少女、だけど「落第寸前」「勉強嫌い」の問題児！ 最初の課題は姉妹からの信頼を勝ち取ること…！？ 毎日がお祭り騒ぎ！ 中野家の五つ子が贈る、かわいさ500％の五人五色ラブコメ開演！！",
+        "image": "http://books.google.com/books/content?id=gm04DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 3,
+        "booklist": "9679026b-5ab8-479c-8d1e-faf6f6a932cf"
+      },
+      {
+        "id": "2a36ad13-7b3d-4348-90c1-dc8655b8a677",
+        "title": "ヲタクに恋は難しい",
+        "description": "隠れ腐女子のOL・成海(なるみ)と、ルックス良く有能だが重度のゲーヲタである宏嵩(ひろたか)とのヲタク同士の不器用な恋愛を描いたラブコメディ。『次にくるマンガ大賞2014』の“本にして欲しいWebマンガ部門”第1位、pixiv内オリジナルコミックブックマーク数歴代1位の大人気作品が多数の描き下ろしを加えて待望の書籍化。",
+        "image": "http://books.google.com/books/content?id=fvmDDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 4,
+        "booklist": "9679026b-5ab8-479c-8d1e-faf6f6a932cf"
+      }
+    ],
+    "is_completed": true
+  },
+  {
+    "id": "d9f13dfb-0166-49f0-bbdd-0b840e12c3ca",
+    "type": {
+      "id": "407f0ac4-331f-49ee-b3ce-53e3645d160c",
+      "type": "ラブコメ",
+      "booklist": {
+        "is_completed": null
+      }
+    },
+    "owner": {
+      "id": "837d681c-5447-4ac6-b21a-62448021dcc8",
+      "username": "武内謙晴",
+      "is_superuser": false
+    },
+    "books": [
+      {
+        "id": "7d041de6-af4c-4d85-a515-338d882278f1",
+        "title": "ニセコイ",
+        "description": "クリスマスの季節到来！ 久しぶりに日本へ帰国した千棘の母親・桐崎華に恋人として紹介された楽は、クリスマスまで華の秘書として働くことに!! ぎこちない様子の千棘と華の様子が気になる楽だが…!?",
+        "image": "http://books.google.com/books/content?id=lJvMCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 0,
+        "booklist": "d9f13dfb-0166-49f0-bbdd-0b840e12c3ca"
+      },
+      {
+        "id": "595b0789-391b-4d4c-9a46-4aac02334060",
+        "title": "かぐや様は告らせたい",
+        "description": "「恋愛は告白した方が負けなのである！」 エリートの集う秀知院学園生徒会で出会った会長・白銀御行と副会長・四宮かぐや…。この両想いであるはずの天才2人が、互いに相手に惚れさせ、相手から告白させようと日常の全てで権謀術数の限りを尽くす、新感覚のラブコメ!! …だったはずの2人も付き合い始め、1学年上の世代の卒業式を迎えた!! その日は、石上優が“告白”の返事を、卒業する子安つばめから貰う期日でもある。果たして、恋の行方は…!? そして、父親の提案で引っ越しを決意した白銀家。かぐやが現在のお宅へ訪問する最後の機会が訪れる!! 2人の仲にも変化が生じる事に…!? 大きな転換点となる春休みを描く第21巻!!",
+        "image": "http://books.google.com/books/content?id=QRoXEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 1,
+        "booklist": "d9f13dfb-0166-49f0-bbdd-0b840e12c3ca"
+      },
+      {
+        "id": "a4f306fc-0605-4d39-9af3-1336c7c043e6",
+        "title": "アオのハコ",
+        "description": "バドミントン部に所属する猪股大喜（いのまたたいき）は、女子バスケ部の先輩・鹿野千夏（かのちなつ）に恋をしていた――。自主練を真摯に取り組む姿に心惹かれていたが、思いもよらぬ事実が発覚し…!? 道のりは遠く、想いは近く。青春ラブストーリー、はじまり。",
+        "image": "http://books.google.com/books/content?id=VDs1EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 2,
+        "booklist": "d9f13dfb-0166-49f0-bbdd-0b840e12c3ca"
+      },
+      {
+        "id": "4601d7e4-aea2-434a-b098-ccfc0db99ba2",
+        "title": "僕の心のヤバイやつ",
+        "description": "学園カースト頂点の美少女・山田杏奈の殺害を妄想してはほくそ笑む、重度の中二病の陰キャ・市川京太郎。だが山田を観察する内に、京太郎が思う「底辺を見下す陽キャ」とは全然違うことに徐々に気づいていき…!? 陰キャ男子・京太郎の初めての恋、始まる。陽キャ美少女×陰キャ少年のニヤニヤ系青春格差ラブコメディ!!",
+        "image": "http://books.google.com/books/content?id=xeNzDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 3,
+        "booklist": "d9f13dfb-0166-49f0-bbdd-0b840e12c3ca"
+      },
+      {
+        "id": "0506d152-90f1-4939-9167-375007a3185b",
+        "title": "その着せ替え人形は恋をする",
+        "description": "いつも友人の輪の中心にいるギャル系美少女、喜多川海夢。クラスメートの五条新菜は、彼女を“別世界の人間”だと思っていた。雛人形の頭師を目指す新菜が、放課後被服実習室で作業していると、そこに現れたのは…まさかの…!? 二人のドキドキ山盛り☆コスプレ・スクールライフが始まる!!",
+        "image": "http://books.google.com/books/content?id=CjHGDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 4,
+        "booklist": "d9f13dfb-0166-49f0-bbdd-0b840e12c3ca"
+      }
+    ],
+    "is_completed": true
+  },
+  {
+    "id": "5f374cf2-160e-47d1-a95b-f08848219200",
+    "type": {
+      "id": "407f0ac4-331f-49ee-b3ce-53e3645d160c",
+      "type": "ラブコメ",
+      "booklist": {
+        "is_completed": null
+      }
+    },
+    "owner": {
+      "id": "02e06a07-b322-4ac1-8c9e-6c1a789c7bf6",
+      "username": "池町和史",
+      "is_superuser": false
+    },
+    "books": [
+      {
+        "id": "5bcf8276-7ceb-4610-b7ff-91039c5e8de5",
+        "title": "かぐや様は告らせたい",
+        "description": "「恋愛は告白した方が負けなのである！」 家柄も人柄も良し!! 将来を期待された秀才が集う秀知院学園!! その生徒会で出会った、副会長・四宮かぐやと会長・白銀御行は互いに惹かれているはずだが…何もないまま半年が経過!! プライドが高く素直になれない2人は、面倒臭いことに、“如何に相手に告白させるか”ばかりを考えるようになってしまった!? 恋愛は成就するまでが楽しい!! 新感覚“頭脳戦”ラブコメ、開戦!!",
+        "image": "http://books.google.com/books/content?id=1hXiCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 0,
+        "booklist": "5f374cf2-160e-47d1-a95b-f08848219200"
+      },
+      {
+        "id": "75301d8b-8830-4441-a53e-8017e74ec8be",
+        "title": "山田くんとLv999の恋をする",
+        "description": "彼氏をネットゲームで知り合った他の女に取られた茜。ストレス発散に雑魚モンスターを狩っていると、ギルドメンバーのアフロ男・山田に声をかけられる。同じギルメンの誼でフラれたことを愚痴るも、山田は無表情で「興味ない」とそっけない返事。挙句に「狩場を譲れ」と言う山田に「これだからゲームする男なんて！」とキレる茜だったが、好きなゲームをフラれっぱなしでやめられないと一念発起。ネトゲのリアルイベントが開催されることを知った茜は元彼に会えるかも……とお洒落をして会場に乗り込むが、元彼の横には新しい彼女の姿が……。直後、人混みに押され転んでしまった茜に手を差し伸べたのは超イケメンの黒髪男子。しかしそんなイケメンの無愛想な態度と「興味ない」という言葉で頭に浮かんだのはあのアフロ頭のアバター……この眼の前にいるイケメンこそあの山田だった!? 目の前で元カレのイチャコラを見せつけられた茜は山田を居酒屋に連行してヤケ酒に付き合わせる。酔いつぶれた茜が目を覚ますと、そこは見知らぬ場所……山田の部屋だった。もしかして私……!?",
+        "image": "http://books.google.com/books/content?id=6rLODwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 1,
+        "booklist": "5f374cf2-160e-47d1-a95b-f08848219200"
+      },
+      {
+        "id": "4228cd35-763c-40b3-a3fe-919f2a1ef0cd",
+        "title": "正反対な君と僕",
+        "description": "【デジタル版限定！「少年ジャンプ+」掲載時のカラーページを完全収録!!】元気いっぱいだけど周りの目を気にしてしまう鈴木は、自分の意見を言える物静か男子・谷くんに絶賛片思い中。だが周りの目が気になって普通に接せず、いつも谷くんにダル絡みばかり…。しかしある日勇気を出して、一緒に帰ろうと誘ってみたところ…!? 共感マックスの等身大ラブコメ、開幕!!",
+        "image": "http://books.google.com/books/content?id=GkVxEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 2,
+        "booklist": "5f374cf2-160e-47d1-a95b-f08848219200"
+      },
+      {
+        "id": "1e065e12-222e-4965-bf24-c64dabf79d58",
+        "title": "その着せ替え人形は恋をする",
+        "description": "いつも友人の輪の中心にいるギャル系美少女、喜多川海夢。クラスメートの五条新菜は、彼女を“別世界の人間”だと思っていた。雛人形の頭師を目指す新菜が、放課後被服実習室で作業していると、そこに現れたのは…まさかの…!? 二人のドキドキ山盛り☆コスプレ・スクールライフが始まる!!",
+        "image": "http://books.google.com/books/content?id=CjHGDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 3,
+        "booklist": "5f374cf2-160e-47d1-a95b-f08848219200"
+      },
+      {
+        "id": "fc0dd72e-02a9-4a4b-8382-7be10f72204e",
+        "title": "からかい上手の高木さん",
+        "description": "悶絶者続出！ 話題沸騰の新ヒロイン 「高木さん」第2巻が早くも登場！ もちろんこの巻も「照れたら負け」！",
+        "image": "http://books.google.com/books/content?id=Mej6CgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 4,
+        "booklist": "5f374cf2-160e-47d1-a95b-f08848219200"
+      }
+    ],
+    "is_completed": true
+  },
+  {
+    "id": "3f8f98a3-0a2f-42ba-924c-4d5e27963834",
+    "type": {
+      "id": "407f0ac4-331f-49ee-b3ce-53e3645d160c",
+      "type": "ラブコメ",
+      "booklist": {
+        "is_completed": null
+      }
+    },
+    "owner": {
+      "id": "7a033b80-339b-4227-a0f6-23cafad98b24",
+      "username": "清野陽平",
+      "is_superuser": false
+    },
+    "books": [
+      {
+        "id": "34b0aebd-5ffb-4462-b861-ec83afffa28c",
+        "title": "月刊少女野崎くん",
+        "description": "無骨な男子高校生「野崎梅太郎」。彼に恋をした女子高生「佐倉千代」は勇気を振り絞って告白するものの、何故か恋人ではなく少女漫画家のアシスタントになったのでした…。男子高校生でありながら人気少女漫画家でもある野崎くんの日常を描く、少女漫画家男子コメディー!!",
+        "image": "http://books.google.com/books/content?id=qqLFDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 0,
+        "booklist": "3f8f98a3-0a2f-42ba-924c-4d5e27963834"
+      },
+      {
+        "id": "db08d964-d4b6-416c-a62e-d6df57dd494d",
+        "title": "ニセコイ",
+        "description": "クリスマスの季節到来！ 久しぶりに日本へ帰国した千棘の母親・桐崎華に恋人として紹介された楽は、クリスマスまで華の秘書として働くことに!! ぎこちない様子の千棘と華の様子が気になる楽だが…!?",
+        "image": "http://books.google.com/books/content?id=lJvMCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 1,
+        "booklist": "3f8f98a3-0a2f-42ba-924c-4d5e27963834"
+      },
+      {
+        "id": "f62cfa32-fa97-40bc-b4d7-e99fd92a62db",
+        "title": "かぐや様は告らせたい",
+        "description": "「恋愛は告白した方が負けなのである！」 エリートの集う秀知院学園生徒会で出会った会長・白銀御行と副会長・四宮かぐや…。この両想いであるはずの天才2人が、互いに相手に惚れさせ、相手から告白させようと日常の全てで権謀術数の限りを尽くす、新感覚のラブコメ!! …だったはずの2人も付き合い始め、1学年上の世代の卒業式を迎えた!! その日は、石上優が“告白”の返事を、卒業する子安つばめから貰う期日でもある。果たして、恋の行方は…!? そして、父親の提案で引っ越しを決意した白銀家。かぐやが現在のお宅へ訪問する最後の機会が訪れる!! 2人の仲にも変化が生じる事に…!? 大きな転換点となる春休みを描く第21巻!!",
+        "image": "http://books.google.com/books/content?id=QRoXEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 2,
+        "booklist": "3f8f98a3-0a2f-42ba-924c-4d5e27963834"
+      },
+      {
+        "id": "d19c268e-482e-483e-83d5-1af57de1d06a",
+        "title": "白聖女と黒牧師",
+        "description": "とある国の教会。そこには可愛いけどだらけグセのある聖女さまと、過保護で料理上手で鈍感な牧師さまが住んでいました。くっつき過ぎず、離れ過ぎずな二人の関係を温かい目で見守ってください！ ファンタジーな世界観のもと繰り広げられる“無自覚いちゃラブコメディ”、開幕！！ ７巻は、「ウェイトレスになっちゃう話」や「いわくつきの館に調査に行く話」、「お引っ越しをする話」などを収録！！",
+        "image": "http://books.google.com/books/content?id=4wQOEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 3,
+        "booklist": "3f8f98a3-0a2f-42ba-924c-4d5e27963834"
+      },
+      {
+        "id": "444191df-0c8e-4ade-8f88-61a4f821964b",
+        "title": "ヲタクに恋は難しい",
+        "description": "“何度も仲直りして、またケンカして、二人で歩いてきた。” 隠れ腐女子の成海とゲーヲタの宏嵩の恋愛模様を描いた超人気ヲタ恋も、めでたくたのしく第9巻！！ 貴重な宏嵩の新人時代がみれたり、成海が沼のハマり方や上級者向けの恵方巻の食べ方を教えてくれたり…？ …また、みなさまご準備よろしいでしょうか？ 樺倉と花子の結婚式編を含む約40Pの描き下ろしもおめでとうの大収録です。ヲタクな人も、そうじゃない人もきっと誰かを祝福したくなる！！ でも幸せならOKです！！ …な内容でおとどけいたします！！",
+        "image": "http://books.google.com/books/content?id=d-70DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 4,
+        "booklist": "3f8f98a3-0a2f-42ba-924c-4d5e27963834"
+      }
+    ],
+    "is_completed": true
+  },
+  {
+    "id": "fa56f199-9d5a-42ac-b74f-9228ed96273e",
+    "type": {
+      "id": "407f0ac4-331f-49ee-b3ce-53e3645d160c",
+      "type": "ラブコメ",
+      "booklist": {
+        "is_completed": null
+      }
+    },
+    "owner": {
+      "id": "15aa4bb0-a688-4b60-8036-c354ea53b174",
+      "username": "渡辺爽斗",
+      "is_superuser": false
+    },
+    "books": [
+      {
+        "id": "26d1a4f5-5b48-4e3d-8ece-f19c2687eef1",
+        "title": "その着せ替え人形は恋をする",
+        "description": "いつも友人の輪の中心にいるギャル系美少女、喜多川海夢。クラスメートの五条新菜は、彼女を“別世界の人間”だと思っていた。雛人形の頭師を目指す新菜が、放課後被服実習室で作業していると、そこに現れたのは…まさかの…!? 二人のドキドキ山盛り☆コスプレ・スクールライフが始まる!!",
+        "image": "http://books.google.com/books/content?id=CjHGDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 0,
+        "booklist": "fa56f199-9d5a-42ac-b74f-9228ed96273e"
+      },
+      {
+        "id": "af661721-9c64-4515-805b-50bf65b0ed88",
+        "title": "かぐや様は告らせたい",
+        "description": "「恋愛は告白した方が負けなのである！」 エリートの集う秀知院学園生徒会で出会った会長・白銀御行と副会長・四宮かぐや…。この両想いであるはずの天才2人が、互いに相手に惚れさせ、相手から告白させようと日常の全てで権謀術数の限りを尽くす、新感覚のラブコメ!! …だったはずの2人は、交際を始め、“男と女にとって最も山場となる恋愛頭脳戦”すらも乗り越えて“男女の関係”に!! 幸福感に包まれて、“普通の少女”になっていくかぐや。白銀が海外に進学するまでの限られた期間を、目一杯、楽しもうと決意する。そして、学園内で噂になる前に、どうしても自分の口から交際の事実を伝えたい相手…藤原千花と2人きりで話をする事に――。一方、自身の石上優への想いに気付き始めた伊井野ミコ。気持ちのやり場を見失った伊井野は、“パパ活”に手を染める事に…!? 遂に、石上と伊井野の恋愛も動き出す23巻!!",
+        "image": "http://books.google.com/books/content?id=h4M6EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 1,
+        "booklist": "fa56f199-9d5a-42ac-b74f-9228ed96273e"
+      },
+      {
+        "id": "ff328472-14a4-4b19-b5df-ae445acd6f84",
+        "title": "ヲタクに恋は難しい",
+        "description": "隠れ腐女子の成海とゲーヲタの宏嵩の恋愛模様を描いた超人気ヲタ恋も大団円のラスト11巻…！ 成海がヲタバレのピンチをむかえたことで、宏嵩との関係にも今までにない危機が…？ 描き下ろしでは、成海と宏嵩の子供時代の出会いのお話や、その後のみんなのお話も大収録！ ヲタクな人も、そうじゃない人もそれぞれの“好き”を大切にしたくなる。その点ヲタ恋ってすげぇよな、最後までキュンたっぷりだもん！…な内容でおとどけいたします！！",
+        "image": "http://books.google.com/books/content?id=DqZHEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 2,
+        "booklist": "fa56f199-9d5a-42ac-b74f-9228ed96273e"
+      },
+      {
+        "id": "dd1046fb-f66b-4bd4-9175-ceb2fb235171",
+        "title": "カノジョも彼女",
+        "description": "自分の気持ちに正直な高校生の直也には、 咲というカワイイ彼女がいる！ 幸せの絶頂にいる直也。そのうえ、 突如あらわれた美少女、渚から告白される。 渚の思いを受け止めた直也は、渚に対して 好意を抱き、まさかの提案をするのだった…！！ 自分に絶対嘘をつかない、 ネオスタンダード・ラブコメ！ 12月31日、ミリカと直也の最後の約束の日。自身の持っている輝きと魅力を全て出し切って直也にアピールしてきたミリカに対して、3人の彼女か1人の彼女かで揺れ動く直也の決断は…!! 二股から始まったネオスタンダードラブコメ、堂々完結の第16巻!!",
+        "image": "http://books.google.com/books/content?id=w2jJEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 3,
+        "booklist": "fa56f199-9d5a-42ac-b74f-9228ed96273e"
+      },
+      {
+        "id": "fb53ac72-c398-4e97-9d4d-81a29bdc3bad",
+        "title": "僕の心のヤバイやつ",
+        "description": "TVアニメ第二期2024年1月放送決定！！ 「夢じゃ…ない！！」。想いを伝え合いついに山田の彼氏になった京太郎！！！ 何もかもが初めてで「彼氏彼女」の関係を手探り状態で楽しむ２人。そして、大事な人達へお付き合いの報告を！？ 一方、進路に悩む京太郎は…？？ 受験勉強、おねえのライブ、そして山田と恋人として過ごす初めての夏が始まる…",
+        "image": "http://books.google.com/books/content?id=EQPdEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 4,
+        "booklist": "fa56f199-9d5a-42ac-b74f-9228ed96273e"
+      }
+    ],
+    "is_completed": true
+  },
+  {
+    "id": "b3f6e601-e78f-432e-ac88-196ccb2b7174",
+    "type": {
+      "id": "407f0ac4-331f-49ee-b3ce-53e3645d160c",
+      "type": "ラブコメ",
+      "booklist": {
+        "is_completed": null
+      }
+    },
+    "owner": {
+      "id": "09e422c8-2440-4590-bc0b-a9e5b6de83aa",
+      "username": "田中瑠彗",
+      "is_superuser": false
+    },
+    "books": [
+      {
+        "id": "79916ca2-6ced-4f66-9a50-16aa6ad6cf36",
+        "title": "からかい上手の高木さん",
+        "description": "悶絶者続出！ 話題沸騰の新ヒロイン 「高木さん」第2巻が早くも登場！ もちろんこの巻も「照れたら負け」！",
+        "image": "http://books.google.com/books/content?id=Mej6CgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 0,
+        "booklist": "b3f6e601-e78f-432e-ac88-196ccb2b7174"
+      },
+      {
+        "id": "4b2a18f5-1f51-4bd3-892a-c456a112e01f",
+        "title": "未登録",
+        "description": "未登録",
+        "image": null,
+        "order": 1,
+        "booklist": "b3f6e601-e78f-432e-ac88-196ccb2b7174"
+      },
+      {
+        "id": "9353a204-8860-4de4-a716-d44187020da3",
+        "title": "未登録",
+        "description": "未登録",
+        "image": null,
+        "order": 2,
+        "booklist": "b3f6e601-e78f-432e-ac88-196ccb2b7174"
+      },
+      {
+        "id": "e670d891-7ebb-43cb-8930-538dfe17d048",
+        "title": "未登録",
+        "description": "未登録",
+        "image": null,
+        "order": 3,
+        "booklist": "b3f6e601-e78f-432e-ac88-196ccb2b7174"
+      },
+      {
+        "id": "a726d7e5-2e88-4c71-912d-1abab4af3502",
+        "title": "未登録",
+        "description": "未登録",
+        "image": null,
+        "order": 4,
+        "booklist": "b3f6e601-e78f-432e-ac88-196ccb2b7174"
+      }
+    ],
+    "is_completed": false
+  },
+  {
+    "id": "74ef74ea-a791-46ec-b979-81d76d7c90d8",
+    "type": {
+      "id": "407f0ac4-331f-49ee-b3ce-53e3645d160c",
+      "type": "ラブコメ",
+      "booklist": {
+        "is_completed": null
+      }
+    },
+    "owner": {
+      "id": "0d3b53e2-b573-4a3e-8d7d-fd5139adaec9",
+      "username": "田中翔大",
+      "is_superuser": false
+    },
+    "books": [
+      {
+        "id": "5b5707ee-5ea7-41aa-ad72-bb6cf7202214",
+        "title": "五等分の花嫁",
+        "description": "貧乏な生活を送る高校２年生・上杉風太郎のもとに、好条件の家庭教師アルバイトの話が舞い込む。ところが教え子はなんと同級生！！ しかも五つ子だった！！ 全員美少女、だけど「落第寸前」「勉強嫌い」の問題児！ 最初の課題は姉妹からの信頼を勝ち取ること…！？ 毎日がお祭り騒ぎ！ 中野家の五つ子が贈る、かわいさ500％の五人五色ラブコメ開演！！",
+        "image": "http://books.google.com/books/content?id=gm04DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 0,
+        "booklist": "74ef74ea-a791-46ec-b979-81d76d7c90d8"
+      },
+      {
+        "id": "1a24b2d9-f48c-417a-a8ab-c1cdb6497d14",
+        "title": "うる星やつら",
+        "description": "【無料試し読み閲覧期間2017/03/22～2017/04/04】 なぜかこの世の不幸を一身に集めてしまう「見るからに凶相の持ち主」・諸星あたる。UFOに乗ってやってきた女の子・ラムちゃんの鬼ごっこの相手に選ばれてしまったことから、あたるの運命はさらなる不幸（？）へと突入していく……。コミック界をゆるがした高橋留美子の奇想天外SFコメディが、ついに新装版で再スタート！！ ※MyLumの収録はありません。あらかじめご了承下さい。",
+        "image": "http://books.google.com/books/content?id=ErZtDgAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+        "order": 1,
+        "booklist": "74ef74ea-a791-46ec-b979-81d76d7c90d8"
+      },
+      {
+        "id": "571d7c05-55e2-4e30-a7eb-0d1372a069a1",
+        "title": "かぐや様は告らせたい",
+        "description": "「恋愛は告白した方が負けなのである！」 家柄も人柄も良し!! 将来を期待された秀才が集う秀知院学園!! その生徒会で出会った、副会長・四宮かぐやと会長・白銀御行は互いに惹かれているはずだが…何もないまま半年が経過!! プライドが高く素直になれない2人は、面倒臭いことに、“如何に相手に告白させるか”ばかりを考えるようになってしまった!? 恋愛は成就するまでが楽しい!! 新感覚“頭脳戦”ラブコメ、開戦!!",
+        "image": "http://books.google.com/books/content?id=1hXiCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 2,
+        "booklist": "74ef74ea-a791-46ec-b979-81d76d7c90d8"
+      },
+      {
+        "id": "b7b2f4b2-c199-4ef2-b3c2-ef175a6e66e7",
+        "title": "やはり俺の青春ラブコメはまちがっている。",
+        "description": "「俺ガイル」もう一つの物語。 冷たい木枯らしの吹くクリスマス。 ささやかながらも暖かなパーティーの後、結衣は自身の心にもある“想い”が灯っていることに気付く。 届かない祈りも、叶わない願いもきっとある。でも、欲しいものがある。 本当は、嘘でもいい。 たとえ、まちがっていても、正しくなくても、その手を握っていたいーー。 数多の人が欲しいものを願う夜。願いの数だけ、想いの数だけ語られない物語がある－－。 だから、これは、由比ヶ浜結衣の物語。 ※「ガ報」付き！ ※この作品は底本と同じクオリティのカラーイラスト、モノクロの挿絵イラストが収録されています。",
+        "image": "http://books.google.com/books/content?id=xSJBEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 3,
+        "booklist": "74ef74ea-a791-46ec-b979-81d76d7c90d8"
+      },
+      {
+        "id": "736caf65-6f75-4c4f-bf31-9589926d5839",
+        "title": "からかい上手の高木さん",
+        "description": "からかい、笑顔、青春。毎日が最高の日！ 『高木さん』待望の第14巻！ 放課後の帰り道、西片が高木さんを誘ったのは、 まさかのウワサのラブ・パワースポット！？ 浜口＆北条さん、中井＆真野ちゃんたちの 様子も切り取った変則構成が楽しめる「寄り道」。 高木さんのかわいいモグモグタイム「お弁当」。 新年一発目の勝負の模様を描いた「初詣で」。 1巻収録の「傘」と一緒に読むと、 2人の距離感に胸がキュンとする「雨」。 高木さんが、ちょっと言葉にはしにくい 乙女心を覗かせる「相談」。 まさか！？ ついに！？ マジで！？ な「告白」などなど。 今巻も珠玉の9編＆おまけを収録！ 春夏秋冬、登校から放課後まで。ここにしかない青春の1ページ。",
+        "image": "http://books.google.com/books/content?id=VnD1DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 4,
+        "booklist": "74ef74ea-a791-46ec-b979-81d76d7c90d8"
+      }
+    ],
+    "is_completed": true
+  },
+  {
+    "id": "8f082425-5e89-43cc-9531-61782f58a454",
+    "type": {
+      "id": "407f0ac4-331f-49ee-b3ce-53e3645d160c",
+      "type": "ラブコメ",
+      "booklist": {
+        "is_completed": null
+      }
+    },
+    "owner": {
+      "id": "609c8ebd-0a18-44d3-9174-1ec336924712",
+      "username": "田崎丈太郎",
+      "is_superuser": false
+    },
+    "books": [
+      {
+        "id": "335ccfd1-74ce-4c11-bf2c-0706f45a48ed",
+        "title": "ぼくたちは勉強ができない",
+        "description": "大学推薦を狙う、高校3年生の唯我成幸（ゆいがなりゆき）はなぜか天才美少女の文乃（ふみの）と理珠（りず）の教育係を任される。完全無欠に見えた二人だが実は意外な悩みを抱えていて……!?",
+        "image": "http://books.google.com/books/content?id=P-cmDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 0,
+        "booklist": "8f082425-5e89-43cc-9531-61782f58a454"
+      },
+      {
+        "id": "c65fc2f5-62bb-4494-b44c-b582bef63251",
+        "title": "月刊少女野崎くん",
+        "description": "無骨な男子高校生「野崎梅太郎」。彼に恋をした女子高生「佐倉千代」は勇気を振り絞って告白するものの、何故か恋人ではなく少女漫画家のアシスタントになったのでした…。男子高校生でありながら人気少女漫画家でもある野崎くんの日常を描く、少女漫画家男子コメディー!!",
+        "image": "http://books.google.com/books/content?id=qqLFDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 1,
+        "booklist": "8f082425-5e89-43cc-9531-61782f58a454"
+      },
+      {
+        "id": "68505fbc-d710-47eb-b8fc-4c696843cbc6",
+        "title": "2.5次元の誘惑",
+        "description": "現実の女に興味無し！ 2次元のキャラクター・リリエルを愛す漫画研究部部長・奥村のもとにやってきたのは、「リリエルになりたい」という3次元女子・天乃リリサ。彼女の頼みでコスプレの撮影に協力することになった奥村だが、目の前に現れたのは――本物（リアル）なリリエル!? この誘惑は2次元（フィクション）じゃない！ ドキドキコスプレコメディ開幕!!",
+        "image": "http://books.google.com/books/content?id=5iyrDwAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+        "order": 2,
+        "booklist": "8f082425-5e89-43cc-9531-61782f58a454"
+      },
+      {
+        "id": "9557e83f-1a3f-435c-be18-69680343cc9b",
+        "title": "僕の心のヤバイやつ",
+        "description": "学園カースト頂点の美少女・山田杏奈の殺害を妄想してはほくそ笑む、重度の中二病の陰キャ・市川京太郎。だが山田を観察する内に、京太郎が思う「底辺を見下す陽キャ」とは全然違うことに徐々に気づいていき…!? 陰キャ男子・京太郎の初めての恋、始まる。陽キャ美少女×陰キャ少年のニヤニヤ系青春格差ラブコメディ!!",
+        "image": "http://books.google.com/books/content?id=xeNzDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 3,
+        "booklist": "8f082425-5e89-43cc-9531-61782f58a454"
+      },
+      {
+        "id": "3f9054ee-f337-4937-b8ca-3a5c9ff39c7f",
+        "title": "その着せ替え人形は恋をする",
+        "description": "いつも友人の輪の中心にいるギャル系美少女、喜多川海夢。クラスメートの五条新菜は、彼女を“別世界の人間”だと思っていた。雛人形の頭師を目指す新菜が、放課後被服実習室で作業していると、そこに現れたのは…まさかの…!? 二人のドキドキ山盛り☆コスプレ・スクールライフが始まる!!",
+        "image": "http://books.google.com/books/content?id=CjHGDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 4,
+        "booklist": "8f082425-5e89-43cc-9531-61782f58a454"
+      }
+    ],
+    "is_completed": true
+  },
+  {
+    "id": "6022654a-2284-420d-a751-fb5c338c8482",
+    "type": {
+      "id": "407f0ac4-331f-49ee-b3ce-53e3645d160c",
+      "type": "ラブコメ",
+      "booklist": {
+        "is_completed": null
+      }
+    },
+    "owner": {
+      "id": "30659a3e-e853-4b41-a63f-eef28a81711e",
+      "username": "田所拓人",
+      "is_superuser": false
+    },
+    "books": [
+      {
+        "id": "abb0afee-c224-4e94-a190-5f6c9eae068e",
+        "title": "その着せ替え人形は恋をする",
+        "description": "いつも友人の輪の中心にいるギャル系美少女、喜多川海夢。クラスメートの五条新菜は、彼女を“別世界の人間”だと思っていた。雛人形の頭師を目指す新菜が、放課後被服実習室で作業していると、そこに現れたのは…まさかの…!? 二人のドキドキ山盛り☆コスプレ・スクールライフが始まる!!",
+        "image": "http://books.google.com/books/content?id=CjHGDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 0,
+        "booklist": "6022654a-2284-420d-a751-fb5c338c8482"
+      },
+      {
+        "id": "b7517273-8ca3-4a7c-a90d-79969f10a066",
+        "title": "かぐや様は告らせたい",
+        "description": "「恋愛は告白した方が負けなのである！」 エリートの集う秀知院学園生徒会で出会った会長・白銀御行と副会長・四宮かぐや…。この両想いであるはずの天才2人が、互いに相手に惚れさせ、相手から告白させようと日常の全てで権謀術数の限りを尽くす、新感覚のラブコメ!! …だったはずの2人も付き合い始め、1学年上の世代の卒業式を迎えた!! その日は、石上優が“告白”の返事を、卒業する子安つばめから貰う期日でもある。果たして、恋の行方は…!? そして、父親の提案で引っ越しを決意した白銀家。かぐやが現在のお宅へ訪問する最後の機会が訪れる!! 2人の仲にも変化が生じる事に…!? 大きな転換点となる春休みを描く第21巻!!",
+        "image": "http://books.google.com/books/content?id=QRoXEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 1,
+        "booklist": "6022654a-2284-420d-a751-fb5c338c8482"
+      },
+      {
+        "id": "47daedf2-318e-45bd-990f-8c122f7b332d",
+        "title": "荒川アンダー ザ ブリッジ",
+        "description": "ニノが河川敷の外へ…！ 失恋死の危機を乗り越えリクは追う！ 河川敷から始まった電波なラブコメついに完結！",
+        "image": "http://books.google.com/books/content?id=A57FDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 2,
+        "booklist": "6022654a-2284-420d-a751-fb5c338c8482"
+      },
+      {
+        "id": "501cffba-205f-403f-a33e-4fde8f64891f",
+        "title": "君のことが大大大大大好きな100人の彼女",
+        "description": "“彼も彼女も全員幸せ”がウルトラスタンダード!! 負け彼女（ヒロイン）0の純情ハーレムラブコメディ!! 高校1年生の愛城恋太郎は、中学卒業時に遭遇した恋の神様から驚天動地の未来を聞かされる。「高校生活で出会う“運命の人”100人と愛し合って幸せにならなければなんやかんや（中略）あって…死ぬ」――ならばみんな愛してみせるッ！ かわいい！ 大好き!! 幸せ!!! 溢れ出る愛に止めどないオキシトシン!! この愛――クセになるッ！ みんなの大運動会と大感謝人気投票回収録！ 最愛、最高、最大級!!! ファミリーの人数とともに増し増す愛 毎日愛情満天の12巻!!",
+        "image": "http://books.google.com/books/content?id=vjeYEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 3,
+        "booklist": "6022654a-2284-420d-a751-fb5c338c8482"
+      },
+      {
+        "id": "6f208443-3090-42f5-8a7e-8c2125405646",
+        "title": "貧乏神が！",
+        "description": "人並外れた強運で、努力とは無縁の人生を歩んできた幸運少女・桜市子。しかし膨大な運気を持つ彼女は、人間界の「運」のバランスをどえらく乱していた！ 世界の均衡を保つべく、貧乏神の紅葉が市子にとり憑いた!!",
+        "image": "http://books.google.com/books/content?id=3N7KCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 4,
+        "booklist": "6022654a-2284-420d-a751-fb5c338c8482"
+      }
+    ],
+    "is_completed": true
+  },
+  {
+    "id": "b961bc86-e015-4d13-8f1a-34c10effa6fe",
+    "type": {
+      "id": "407f0ac4-331f-49ee-b3ce-53e3645d160c",
+      "type": "ラブコメ",
+      "booklist": {
+        "is_completed": null
+      }
+    },
+    "owner": {
+      "id": "b41f95b2-91a9-4bb9-813e-05ab6001c6de",
+      "username": "真田葵生",
+      "is_superuser": false
+    },
+    "books": [
+      {
+        "id": "6b0a72f0-21dd-4a8f-b7c5-18b9010ea21a",
+        "title": "かぐや様は告らせたい",
+        "description": "「恋愛は告白した方が負けなのである！」 エリートの集う秀知院学園生徒会で出会った会長・白銀御行と副会長・四宮かぐや…。この両想いであるはずの天才2人が、互いに相手に惚れさせ、相手から告白させようと日常の全てで権謀術数の限りを尽くす、新感覚のラブコメ!! …だったはずの2人は、交際を始め、“男と女にとって最も山場となる恋愛頭脳戦”すらも乗り越えて“男女の関係”に!! 幸福感に包まれて、“普通の少女”になっていくかぐや。白銀が海外に進学するまでの限られた期間を、目一杯、楽しもうと決意する。そして、学園内で噂になる前に、どうしても自分の口から交際の事実を伝えたい相手…藤原千花と2人きりで話をする事に――。一方、自身の石上優への想いに気付き始めた伊井野ミコ。気持ちのやり場を見失った伊井野は、“パパ活”に手を染める事に…!? 遂に、石上と伊井野の恋愛も動き出す23巻!!",
+        "image": "http://books.google.com/books/content?id=h4M6EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 0,
+        "booklist": "b961bc86-e015-4d13-8f1a-34c10effa6fe"
+      },
+      {
+        "id": "343cc1d3-d0a2-40ef-ab17-733e8fc62a17",
+        "title": "地縛少年 花子くん",
+        "description": "かもめ学園に伝わる七不思議の噂。旧校舎３階女子トイレの３番目には「花子さん」がいて、呼び出した者の願いをなんでも叶えてくれるという。自分の願いを叶えるため、八尋寧々は学校の怪談に身を委ねる…。学園の七不思議“花子くん”とオカルト少女が繰り広げるハートフル便所コメディ第１巻！",
+        "image": "http://books.google.com/books/content?id=hdXFDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 1,
+        "booklist": "b961bc86-e015-4d13-8f1a-34c10effa6fe"
+      },
+      {
+        "id": "1beee73f-58d1-44da-a7ad-02dd37dea",
+        "title": "フルーツバスケット",
+        "description": "依鈴に会いに行った透は、そこで改めて一番大切な人は夾だと気付く。そしてその想いを相手に伝えることを決意するが――！？一方、十二支の呪いがまた…。",
+        "image": "http://books.google.com/books/content?id=eOB9DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 2,
+        "booklist": "b961bc86-e015-4d13-8f1a-34c10effa6fe"
+      },
+      {
+        "id": "aa64f110-3a0a-4453-a745-aab5755de7f8",
+        "title": "彼女、お借りします",
+        "description": "都内在住のダメダメ大学生、木ノ下和也（20）。ある日、“ワケアリ”の超絶美少女、水原千鶴との出会いをキッカケに、彼の人生は大きく変わり始めて──！？ “リアル”輝く“レンタル”ラブライフ、開幕！",
+        "image": "http://books.google.com/books/content?id=zG04DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 3,
+        "booklist": "b961bc86-e015-4d13-8f1a-34c10effa6fe"
+      },
+      {
+        "id": "4be0fc04-401f-47fb-ba6b-b336758937cb",
+        "title": "エクソシストを堕とせない",
+        "description": "歌姫アリアとして神父に近づくアスモデウス。そんな彼女に不満を募らせるイムリは神父争奪の決着をつけるため、文化祭でのアプローチ勝負を受けて立つことに。渦中の神父はイムリへの想いを再認識する一方、アリアに自身の過去を重ね一層心を開いていく…。そして魔王の宣告日、神父の下した決断は――…？",
+        "image": "http://books.google.com/books/content?id=5r7lEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 4,
+        "booklist": "b961bc86-e015-4d13-8f1a-34c10effa6fe"
+      }
+    ],
+    "is_completed": true
+  },
+  {
+    "id": "7a9d252c-ffbd-47ff-ab7c-67ac06627910",
+    "type": {
+      "id": "407f0ac4-331f-49ee-b3ce-53e3645d160c",
+      "type": "ラブコメ",
+      "booklist": {
+        "is_completed": null
+      }
+    },
+    "owner": {
+      "id": "3b0f0ea8-0efe-451b-ad80-5950adf25b0e",
+      "username": "石田優希",
+      "is_superuser": false
+    },
+    "books": [
+      {
+        "id": "96e023e2-dcff-4220-9aba-df9165db4ecd",
+        "title": "転生悪女の黒歴史",
+        "description": "佐藤コノハには「黒歴史」がある。中学時代の全てを懸けて書いたそれは・・・ 伯爵令嬢コノハが騎士に愛される、恋と魔法の冒険ファンタジー！ ある日、「黒歴史」を母親に見つけられそうになったコノハは、焦って交通事故で本当に死んでしまう!! 次に目を醒ますと、そこは自分の創作した「黒歴史」の世界で、コノハの妹である、自分の考えた最強の悪女・イアナに転生していて？",
+        "image": "http://books.google.com/books/content?id=Y-OADwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 0,
+        "booklist": "7a9d252c-ffbd-47ff-ab7c-67ac06627910"
+      },
+      {
+        "id": "830b1685-05a6-407a-bf07-a13ae306abf2",
+        "title": "なまいきざかり。",
+        "description": "バスケ部マネージャーの由希は、キャプテンにひそかな片想い中。ところが、生意気な後輩男子・成瀬に弱みを握られて大ピンチ！強引な成瀬に振り回されるうちに、由希はいつの間にか…？ ド直球★バスケ部青春ラブコメ第１巻！",
+        "image": "http://books.google.com/books/content?id=7u99DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 1,
+        "booklist": "7a9d252c-ffbd-47ff-ab7c-67ac06627910"
+      },
+      {
+        "id": "877570b0-6eb9-4710-8130-21306f7fc5eb",
+        "title": "小林が可愛すぎてツライっ！！",
+        "description": "十（みつる）と愛（めぐむ）は双子の兄妹。 積極的で女子にモテモテの十とヲタクで二次元ラブな愛。 対照的な2人が、とある理由で入れ替わって、お互いの学校に通うことに・・・。 愛が向かった十の学校は、なんと超ヤンキー学校！！ 不良に襲われピンチに陥った愛が出会ったのは、眼帯をした謎の男の子で・・・？！ 一方の十もイジメを助けたのをきっかけに耳の聞こえない女の子と出会って・・・。 『好きです鈴木くん！！』池山田剛の大人気！大反響のミラクルラブコメ第1巻！ 奇跡の恋の物語がはじまる！！",
+        "image": "http://books.google.com/books/content?id=Gzr8CgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 2,
+        "booklist": "7a9d252c-ffbd-47ff-ab7c-67ac06627910"
+      },
+      {
+        "id": "ef1c42c0-1223-4146-b485-30560fd87af6",
+        "title": "30歳まで童貞だと魔法使いになれるらしい",
+        "description": "30歳まで童貞だったので、魔法を使えるようになってしまった安達は、「触れた人の心が読める」という地味な魔法の力（スキル）を持て余していた。そんなある日、仕事の出来る同期のイケメン・黒沢の心を読んでしまう。黒沢の心の中は、安達への恋心でいっぱいで――!? Twitter＆pixivで大人気のマンガがついに書籍化！ 40ページ以上の描き下ろしを収録。爽やかイケメン→→→拗らせ童貞による好意が丸見え純愛（ピュアラブ）BL、ここに爆誕。 ※デジタル版限定特典：描き下ろしマンガ1P収録",
+        "image": "http://books.google.com/books/content?id=vzLGDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 3,
+        "booklist": "7a9d252c-ffbd-47ff-ab7c-67ac06627910"
+      },
+      {
+        "id": "b7d9679e-295c-43e9-8ae3-2c6b1b44418d",
+        "title": "古見さんは、コミュ症です。",
+        "description": "【無料試し読み閲覧期間2017/11/02～2017/11/16】 話したい、話せない。この緊張が、伝わってたらどうしよう。 万人が振り返る美少女・古見（こみ）さんは、コミュ症です。 コミュニケーションがとても苦手で、周囲は近寄りがたく感じている？ 「どうやって話しかけよう」「話しかけた後どうしよう」 と考えてしまう古見さん。 そんな古見さんと、友達になった只野（ただの）くんの学園生活、 開校です！！ 心も指先も震えるけど、目標は友達を100人作ること！ 思わずニヤニヤ、でもたまに胸をつくコミュニケーションコメディー！！",
+        "image": "http://books.google.com/books/content?id=9FA8DwAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+        "order": 4,
+        "booklist": "7a9d252c-ffbd-47ff-ab7c-67ac06627910"
+      }
+    ],
+    "is_completed": true
+  },
+  {
+    "id": "2ee34e6b-f5ed-4a87-b227-2905f67a277b",
+    "type": {
+      "id": "407f0ac4-331f-49ee-b3ce-53e3645d160c",
+      "type": "ラブコメ",
+      "booklist": {
+        "is_completed": null
+      }
+    },
+    "owner": {
+      "id": "3df9f382-6aca-4585-bc64-183b4e0504ca",
+      "username": "福井拓真",
+      "is_superuser": false
+    },
+    "books": [
+      {
+        "id": "8c9042cb-a973-4599-bdff-05ba7746818c",
+        "title": "クソ女に幸あれ",
+        "description": "【デジタル版限定！「少年ジャンプ+」掲載時のカラーページを完全収録!!】「実は4股してるの ごめんね」。中学時代、人生で初めての彼女にヒドイ振られ方をした秋吉直（あきよしすなお）。「もう誰かを好きになることなんてない」と思っていたが、大学生となり映画サークルの先輩・小河原菜摘（こがはらなつみ）に惹かれ始める。しかし、そんな折に元カノ・西川檸檬（にしかわれもん）と再会。しかも翌朝目が覚めると、身体が入れ替わっていて…!? 替わる、変わる、恋愛模様の第1巻!!",
+        "image": "http://books.google.com/books/content?id=Sr_lEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 0,
+        "booklist": "2ee34e6b-f5ed-4a87-b227-2905f67a277b"
+      },
+      {
+        "id": "3c84174d-ba16-4b52-9ee5-de9a4e5bb3d7",
+        "title": "君のことが大大大大大好きな100人の彼女",
+        "description": "“彼も彼女も全員幸せ”がウルトラスタンダード!! 負け彼女（ヒロイン）0の純情ハーレムラブコメディ!! 高校1年生の愛城恋太郎は、中学卒業時に遭遇した恋の神様から驚天動地の未来を聞かされる。「高校生活で出会う“運命の人”100人と愛し合って幸せにならなければなんやかんや（中略）あって…死ぬ」――ならばみんな愛してみせるッ！ かわいい！ 大好き!! 幸せ!!! 溢れ出る愛に止めどないオキシトシン!! この愛――クセになるッ！ みんなの大運動会と大感謝人気投票回収録！ 最愛、最高、最大級!!! ファミリーの人数とともに増し増す愛 毎日愛情満天の12巻!!",
+        "image": "http://books.google.com/books/content?id=vjeYEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 1,
+        "booklist": "2ee34e6b-f5ed-4a87-b227-2905f67a277b"
+      },
+      {
+        "id": "196b3d3b-1384-4e41-888f-8c84086ff14e",
+        "title": "2.5次元の誘惑",
+        "description": "2次元のキャラクター・リリエルを愛する奥村は、イベントで折れかけていたリリサの心に寄り添う。そのおかげで753（なごみ）との直接対決も、心から楽しんでいたリリサだった。そして、部の存続がかかった偽りのないレポートを提出した奥村に、顧問のまゆりが…!? オタク道をひた走る!! ドキドキコスプレコメディ第5巻!!",
+        "image": "http://books.google.com/books/content?id=WTfmDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 2,
+        "booklist": "2ee34e6b-f5ed-4a87-b227-2905f67a277b"
+      },
+      {
+        "id": "e64e6df8-8f8e-4239-bab1-fcfd3e93c54b",
+        "title": "死神坊ちゃんと黒メイド",
+        "description": "触りたい 触れない 僕が触れると君は死ぬ 町から外れた森の奥、ひっそりと佇む大きなお屋敷。 そこには「死神」が住んでいる― 幼い頃、「触れたもの全てを死なせてしまう」呪いをかけられ、周囲に拒絶されるようになった貴族の「坊ちゃん」。 そんな坊ちゃんが今一番困惑していることは… 彼に仕えるメイド「アリス」の逆セクハラ！ 触れないのを良いことに、絶妙な逆セクハラを続けるアリス。 彼女のことが気になる坊ちゃん、触りたいけど触れないのは嬉しいようでツラい… アリスの手さえも繋げない。 二人の純愛は実を結ぶのか！？ Twitterで大反響を呼んだ、二人の切ない恋物語、待望の第1巻！！",
+        "image": "http://books.google.com/books/content?id=JW9GDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 3,
+        "booklist": "2ee34e6b-f5ed-4a87-b227-2905f67a277b"
+      },
+      {
+        "id": "b80ff58d-a6a4-412c-b9bf-c8ff69d063d9",
+        "title": "帝乃三姉妹は案外、チョロい。",
+        "description": "天才三姉妹、ヤキモチ爆発!! 三姉妹に初めての感情が 押し寄せるーー 三和のライバル・桜が帝乃家に一泊することに。 優と桜の距離の近さに動揺する三姉妹...!! ヤキモチを抑えきれない三姉妹は 、思いがけない行動に出て...?そして、帝乃・父からの 一本の電話により帝乃家に激震がーー 天才達の胸が高鳴る第6巻。 【編集担当からのおすすめ情報】 次にくるマンガ大賞2023ノミネート!既刊全巻大重版中の注目度NO.1ラブコメ!!",
+        "image": "http://books.google.com/books/content?id=pocF0AEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+        "order": 4,
+        "booklist": "2ee34e6b-f5ed-4a87-b227-2905f67a277b"
+      }
+    ],
+    "is_completed": true
+  },
+  {
+    "id": "0c12bd7c-d4da-443d-b8e2-9fb2298ba8ec",
+    "type": {
+      "id": "407f0ac4-331f-49ee-b3ce-53e3645d160c",
+      "type": "ラブコメ",
+      "booklist": {
+        "is_completed": null
+      }
+    },
+    "owner": {
+      "id": "6a0a1e44-ea0e-4226-a290-4baae2e4ab82",
+      "username": "秋山明日香",
+      "is_superuser": false
+    },
+    "books": [
+      {
+        "id": "fa6585e8-fe1d-4dcf-89c9-7539f7a003a2",
+        "title": "恋と嘘",
+        "description": "「嘘」は許されない。「恋」はもっと許されない。すこし未来。日本では16歳になると、政府から結婚相手が指名される世の中になっていた。根島由佳吏15歳は、日本の片隅に住む、うだつの上がらない少年。成績もスポーツも中の下。だがしかし、その胸に燃えるような恋心を秘めていた！ 恋が許されない世界で、誰かを好きになってしまった少年の運命は‥‥！？ 「誰かを好きになる」━━人はいつの間にその罠に墜ちるのか。人生のパートナーを国が決める世界。それは希望であり、絶望であった。どこにでもいる古墳好きの少年・根島由佳吏は、そのちっぽけな胸に、燃えるような恋心を秘めていた。恋が許されない世界で、16歳の夜、少年は、禁じられた冒険へはしり出す！！",
+        "image": "http://books.google.com/books/content?id=oGPwBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 0,
+        "booklist": "0c12bd7c-d4da-443d-b8e2-9fb2298ba8ec"
+      },
+      {
+        "id": "4284b52e-c419-4f03-87a6-83cfb96369bb",
+        "title": "その着せ替え人形は恋をする",
+        "description": "いつも友人の輪の中心にいるギャル系美少女、喜多川海夢。クラスメートの五条新菜は、彼女を“別世界の人間”だと思っていた。雛人形の頭師を目指す新菜が、放課後被服実習室で作業していると、そこに現れたのは…まさかの…!? 二人のドキドキ山盛り☆コスプレ・スクールライフが始まる!!",
+        "image": "http://books.google.com/books/content?id=CjHGDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 1,
+        "booklist": "0c12bd7c-d4da-443d-b8e2-9fb2298ba8ec"
+      },
+      {
+        "id": "be17563c-8223-40d7-aa11-ee63fa2a773e",
+        "title": "五等分の花嫁",
+        "description": "貧乏な生活を送る高校２年生・上杉風太郎のもとに、好条件の家庭教師アルバイトの話が舞い込む。ところが教え子はなんと同級生！！ しかも五つ子だった！！ 全員美少女、だけど「落第寸前」「勉強嫌い」の問題児！ 最初の課題は姉妹からの信頼を勝ち取ること…！？ 毎日がお祭り騒ぎ！ 中野家の五つ子が贈る、かわいさ500％の五人五色ラブコメ開演！！",
+        "image": "http://books.google.com/books/content?id=gm04DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 2,
+        "booklist": "0c12bd7c-d4da-443d-b8e2-9fb2298ba8ec"
+      },
+      {
+        "id": "67e7b766-261d-4a90-aeea-ab49254a386b",
+        "title": "2.5次元の誘惑",
+        "description": "2次元のキャラクター・リリエルを愛する奥村。お互いが友達になりたいノノアとリリサだが、そんな想いはすれ違う。焦りから会場を出たノノアだが、追ってきた奥村との会話を機に、新たな一歩を踏み出す。一方会場では、撮影に集中出来ないリリサが…!? オタク道が交錯する!! ドキドキコスプレコメディ第6巻!!",
+        "image": "http://books.google.com/books/content?id=MUXzDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 3,
+        "booklist": "0c12bd7c-d4da-443d-b8e2-9fb2298ba8ec"
+      },
+      {
+        "id": "02b7340c-d6e0-4a68-8999-6f3900d603be",
+        "title": "古見さんは、コミュ症です。",
+        "description": "【無料試し読み閲覧期間2018/03/30～2018/04/12】 話したい、話せない。この緊張が、伝わってたらどうしよう。 万人が振り返る美少女・古見（こみ）さんは、コミュ症です。 コミュニケーションがとても苦手で、周囲は近寄りがたく感じている？ 「どうやって話しかけよう」「話しかけた後どうしよう」 と考えてしまう古見さん。 そんな古見さんと、友達になった只野（ただの）くんの学園生活、 開校です！！ 心も指先も震えるけど、目標は友達を100人作ること！ 思わずニヤニヤ、でもたまに胸をつくコミュニケーションコメディー！！",
+        "image": "http://books.google.com/books/content?id=TaNTDwAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+        "order": 4,
+        "booklist": "0c12bd7c-d4da-443d-b8e2-9fb2298ba8ec"
+      }
+    ],
+    "is_completed": true
+  },
+  {
+    "id": "1ad638f4-5901-47ab-8858-cb2187b09506",
+    "type": {
+      "id": "407f0ac4-331f-49ee-b3ce-53e3645d160c",
+      "type": "ラブコメ",
+      "booklist": {
+        "is_completed": null
+      }
+    },
+    "owner": {
+      "id": "ccaf3e84-c7b8-4855-a658-19a6924b9592",
+      "username": "竹元亨舟",
+      "is_superuser": false
+    },
+    "books": [
+      {
+        "id": "f91a9c56-03a4-45cd-83a6-c3734c120a0a",
+        "title": "恋は雨上がりのように",
+        "description": "橘あきら。17歳。高校2年生。 感情表現が少ないクールな彼女が、胸に秘めし恋。 その相手はバイト先のファミレス店長。 ちょっと寝ぐせがついてて、 たまにチャックが開いてて、 後頭部には10円ハゲのある そんな冴えないおじさん。 青春の交差点で立ち止まったままの彼女と、 人生の折り返し地点にさしかかった彼が織りなす、 恋と青春の物語。」",
+        "image": "http://books.google.com/books/content?id=IJL8CgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 0,
+        "booklist": "1ad638f4-5901-47ab-8858-cb2187b09506"
+      },
+      {
+        "id": "4da02220-4890-4556-bb8c-07fabbfa5f06",
+        "title": "頭文字Ｄ",
+        "description": "概要情報なし",
+        "image": "http://books.google.com/books/content?id=34LCBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 1,
+        "booklist": "1ad638f4-5901-47ab-8858-cb2187b09506"
+      },
+      {
+        "id": "e6ac39ed-2625-4347-8016-ea691ac93efe",
+        "title": "ＭＦゴースト",
+        "description": "西暦202X年。車の自動運転が普及した日本。そんな時代に、公道の自動車レースが開催されていた。世界中で人気を集めるレースの名はMFG。ポルシェ、フェラーリ、ランボルギーニなど最速を誇るマシンが次々に参戦していた。一方、イギリスのレーシングスクールを卒業したドライバー、カナタ・リヴィントンは、ある目的を果たすため日本に帰国するのであった。新公道最速伝説、ここに開幕！",
+        "image": "http://books.google.com/books/content?id=JPlDDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 2,
+        "booklist": "1ad638f4-5901-47ab-8858-cb2187b09506"
+      },
+      {
+        "id": "d63f2b25-d843-402e-a8a0-21f2157ffc3f",
+        "title": "君に届け",
+        "description": "高1の爽子のあだ名は、“貞子”。ホラー映画に出てくる幽霊の名前だ。クラスでも浮いた存在だけど、本当はけなげな女の子。そんな爽子に、クラスの人気者、風早くんはわけへだてなく接してくれる。あこがれの風早くんと話をしていくうちに、爽子の生活にもちょっとずつ変化が起きて...。風早くん、そしてクラスメイトの千鶴やあやねをめぐる、熱~い友情と、ピュアな恋愛物語。小学上級・中学から。",
+        "image": "http://books.google.com/books/content?id=WI9YuQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+        "order": 3,
+        "booklist": "1ad638f4-5901-47ab-8858-cb2187b09506"
+      },
+      {
+        "id": "d92dcea1-df4b-41fb-b14a-5ae00d7c21b9",
+        "title": "タッチ",
+        "description": "努力という言葉に縁のない兄・上杉達也と、何事にも一生懸命努力する弟・上杉和也。二人は、双子の兄弟。隣の喫茶店「南風」の一人娘・浅倉南とは幼なじみ。三人の「青春」から、目が離せない……！",
+        "image": "http://books.google.com/books/content?id=fvpiDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 4,
+        "booklist": "1ad638f4-5901-47ab-8858-cb2187b09506"
+      }
+    ],
+    "is_completed": true
+  },
+  {
+    "id": "972ba8c1-d99b-48c9-8cda-92643917938f",
+    "type": {
+      "id": "407f0ac4-331f-49ee-b3ce-53e3645d160c",
+      "type": "ラブコメ",
+      "booklist": {
+        "is_completed": null
+      }
+    },
+    "owner": {
+      "id": "3b8d45cf-5669-41e6-980c-67c7246a3ea9",
+      "username": "藤川 雄翔",
+      "is_superuser": false
+    },
+    "books": [
+      {
+        "id": "165b3fe3-3227-459f-b32a-a13dc6caed97",
+        "title": "好きな子がめがねを忘れた",
+        "description": "隣の席の女の子がめがねを忘れた。困っている三重さんをフォローしてあげたい小村くんだけど、見ようと一生懸命な彼女の距離が近すぎて── 。「カワイイ」「尊い」とTwitterで話題沸騰！ド天然女子×ヘタレ男子のゼロ距離ラブコメ、第１巻。",
+        "image": "http://books.google.com/books/content?id=NjzGDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 0,
+        "booklist": "972ba8c1-d99b-48c9-8cda-92643917938f"
+      },
+      {
+        "id": "57f26bef-3f65-4ff7-bcb1-03da4f1157c2",
+        "title": "その着せ替え人形は恋をする",
+        "description": "いつも友人の輪の中心にいるギャル系美少女、喜多川海夢。クラスメートの五条新菜は、彼女を“別世界の人間”だと思っていた。雛人形の頭師を目指す新菜が、放課後被服実習室で作業していると、そこに現れたのは…まさかの…!? 二人のドキドキ山盛り☆コスプレ・スクールライフが始まる!!",
+        "image": "http://books.google.com/books/content?id=CjHGDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 1,
+        "booklist": "972ba8c1-d99b-48c9-8cda-92643917938f"
+      },
+      {
+        "id": "f372882d-b675-47a3-9d43-197ef9a072ed",
+        "title": "今日から始める幼なじみ",
+        "description": "転校生の柚木楓と、家も学校の席も隣同士になった相田航平。仲良くなろうと話しかけるのだが会話が続かず…。そんなある日、彼女に話があると呼び出され、告げられた言葉は──。幼なじみになっていく系(?)ラブコメディ、開幕。【電子版特典】巻末には電子書籍限定のカラーイラストを収録！",
+        "image": "http://books.google.com/books/content?id=lRxGEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 2,
+        "booklist": "972ba8c1-d99b-48c9-8cda-92643917938f"
+      },
+      {
+        "id": "a59b9849-9a82-41fb-9895-4a0afe5d4cec",
+        "title": "君のことが大大大大大好きな100人の彼女",
+        "description": "「好き」っていいたい！ いわれたい！ 中学卒業式に100回目の失恋をした愛城恋太郎は、高校でこそ初めての彼女を！と願う。そんな彼の前に現れた恋の神様が告げた未来は「高校生活で出会う“運命の人”は100人。しかし彼女達は、幸せになれなければなんやかんや（中略）あって…死ぬ」 突然始まるDEAD OR LOVEな純愛ハーレムライフ!! 絶対に脱落しない・させない！ 負け彼女（ヒロイン）0の多人数（ハーレム）LOVEコメディの新発明・新回答の第1巻!!",
+        "image": "http://books.google.com/books/content?id=Tc7YDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 3,
+        "booklist": "972ba8c1-d99b-48c9-8cda-92643917938f"
+      },
+      {
+        "id": "d3a916c1-79ef-4bf0-a09c-4d2966dfd6d6",
+        "title": "僕の心のヤバイやつ",
+        "description": "学園カースト頂点の美少女・山田杏奈の殺害を妄想してはほくそ笑む、重度の中二病の陰キャ・市川京太郎。だが山田を観察する内に、京太郎が思う「底辺を見下す陽キャ」とは全然違うことに徐々に気づいていき…!? 陰キャ男子・京太郎の初めての恋、始まる。陽キャ美少女×陰キャ少年のニヤニヤ系青春格差ラブコメディ!!",
+        "image": "http://books.google.com/books/content?id=xeNzDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 4,
+        "booklist": "972ba8c1-d99b-48c9-8cda-92643917938f"
+      }
+    ],
+    "is_completed": true
+  },
+  {
+    "id": "1f311f8e-85c0-4ec8-81b3-7e541df7d684",
+    "type": {
+      "id": "407f0ac4-331f-49ee-b3ce-53e3645d160c",
+      "type": "ラブコメ",
+      "booklist": {
+        "is_completed": null
+      }
+    },
+    "owner": {
+      "id": "a59fa2f6-06f4-464f-9942-18bbd3afabc7",
+      "username": "藤本直樹",
+      "is_superuser": false
+    },
+    "books": [
+      {
+        "id": "a53c1320-1d3d-47fe-a32d-32c33f74c4be",
+        "title": "かぐや様は告らせたい",
+        "description": "「恋愛は告白した方が負けなのである！」 エリートの集う秀知院学園生徒会で出会った会長・白銀御行と副会長・四宮かぐや…。この両想いであるはずの天才2人が、互いに相手に惚れさせ、相手から告白させようと日常の全てで権謀術数の限りを尽くす、新感覚のラブコメ!! …だったはずの2人も付き合い始め、1学年上の世代の卒業式を迎えた!! その日は、石上優が“告白”の返事を、卒業する子安つばめから貰う期日でもある。果たして、恋の行方は…!? そして、父親の提案で引っ越しを決意した白銀家。かぐやが現在のお宅へ訪問する最後の機会が訪れる!! 2人の仲にも変化が生じる事に…!? 大きな転換点となる春休みを描く第21巻!!",
+        "image": "http://books.google.com/books/content?id=QRoXEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 0,
+        "booklist": "1f311f8e-85c0-4ec8-81b3-7e541df7d684"
+      },
+      {
+        "id": "48f571d8-1a5e-4cf7-9c92-13da8f72f337",
+        "title": "BEASTARS",
+        "description": "隕石祭が迫る中、ジュノとルイが対峙。次なるビースターの座を目指して、肉食獣と草食獣の静かなる戦いが始まった。一方、ハルのことを好きだと気づいてしまったレゴシは、意を決して告白しようとするが…そのハルが何者かに攫われてしまった!!",
+        "image": "http://books.google.com/books/content?id=9244DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 1,
+        "booklist": "1f311f8e-85c0-4ec8-81b3-7e541df7d684"
+      },
+      {
+        "id": "992fa683-d77c-46bb-836e-0a24bb29a342",
+        "title": "村井の恋",
+        "description": "修学旅行の一件をごまかすため、山門先生は田中にプロポーズをする。 村井はその姿を見て、あまりのショックで深い眠りについてしまう。 そんな中、山門先生と田中の結婚の噂が職員室まで届いていて…!? 堂々完結!! 波乱万丈の恋の行方やいかに!!?",
+        "image": "http://books.google.com/books/content?id=5UlyEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 2,
+        "booklist": "1f311f8e-85c0-4ec8-81b3-7e541df7d684"
+      },
+      {
+        "id": "bd14c790-cc87-45f9-983a-2cd39f3db3cd",
+        "title": "よふかしのうた",
+        "description": "『だがしかし』コトヤマ待望の最新作！！ 恋と青春は、夜に生まれる__ さあ、たのしい夜ふかしの時間だ！ 不眠が続く中2・夜守コウは、初めて一人外に出た夜、美しい吸血鬼・七草ナズナと出会う。 「今日に満足できるまで、夜ふかししてみろよ。少年」 彼女との二人きりの夜ふかしが コウの運命を大きく変えていく__ 「これは、僕が、七草ナズナに恋をするための物語だ」 眠れない夜を過ごす全ての人へ贈る__ 真夜中のボーイ・ミーツ・ガール！ 連載開始から超絶大反響！！ ふたり たのし よふかし ラブストーリー開幕！！",
+        "image": "http://books.google.com/books/content?id=zCm8DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 3,
+        "booklist": "1f311f8e-85c0-4ec8-81b3-7e541df7d684"
+      },
+      {
+        "id": "f0dd2fcd-3c2f-4ee6-a290-5ba31369b61e",
+        "title": "その着せ替え人形は恋をする",
+        "description": "いつも友人の輪の中心にいるギャル系美少女、喜多川海夢。クラスメートの五条新菜は、彼女を“別世界の人間”だと思っていた。雛人形の頭師を目指す新菜が、放課後被服実習室で作業していると、そこに現れたのは…まさかの…!? 二人のドキドキ山盛り☆コスプレ・スクールライフが始まる!!",
+        "image": "http://books.google.com/books/content?id=CjHGDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 4,
+        "booklist": "1f311f8e-85c0-4ec8-81b3-7e541df7d684"
+      }
+    ],
+    "is_completed": true
+  },
+  {
+    "id": "5eafb4bb-f8e9-4dcc-91da-21eb41d53a89",
+    "type": {
+      "id": "407f0ac4-331f-49ee-b3ce-53e3645d160c",
+      "type": "ラブコメ",
+      "booklist": {
+        "is_completed": null
+      }
+    },
+    "owner": {
+      "id": "8e8e57a1-912a-4c9e-a3aa-68729845f66c",
+      "username": "酒向ひばり",
+      "is_superuser": false
+    },
+    "books": [
+      {
+        "id": "d7a19a9d-f665-45e1-91b9-37605edbdee8",
+        "title": "五等分の花嫁",
+        "description": "「落第寸前」「勉強嫌い」の美少女五つ子を、アルバイト家庭教師として「卒業」まで導くことになった風太郎。まずは、一人一人との関係構築を目指すべく奔走。三女・三玖との戦国武将知識バトルの末、信頼を獲得した。ところがその矢先、中野家で風呂上がりの次女・二乃と出くわしてしまうハプニングによって、五つ子の信頼が崩壊する危機に直面！！ 風太郎は、無実を証明できるか──！！",
+        "image": "http://books.google.com/books/content?id=zT9BDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 0,
+        "booklist": "5eafb4bb-f8e9-4dcc-91da-21eb41d53a89"
+      },
+      {
+        "id": "fecfe7f9-bcbe-4553-94d9-b083b55d56fe",
+        "title": "僕の心のヤバイやつ",
+        "description": "学園カースト頂点の美少女・山田杏奈の殺害を妄想してはほくそ笑む、重度の中二病の陰キャ・市川京太郎。だが山田を観察する内に、京太郎が思う「底辺を見下す陽キャ」とは全然違うことに徐々に気づいていき…!? 陰キャ男子・京太郎の初めての恋、始まる。陽キャ美少女×陰キャ少年のニヤニヤ系青春格差ラブコメディ!!",
+        "image": "http://books.google.com/books/content?id=xeNzDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 1,
+        "booklist": "5eafb4bb-f8e9-4dcc-91da-21eb41d53a89"
+      },
+      {
+        "id": "d1e02dd4-1fd8-4ad8-b6f3-ed9eb719f78b",
+        "title": "俺物語!!",
+        "description": "概要情報なし",
+        "image": "http://books.google.com/books/content?id=uEjFCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 2,
+        "booklist": "5eafb4bb-f8e9-4dcc-91da-21eb41d53a89"
+      },
+      {
+        "id": "2e9ca4c5-ff1e-4d44-9bef-ad17570354ba",
+        "title": "からかい上手の高木さん",
+        "description": "悶絶者続出！ 話題沸騰の新ヒロイン 「高木さん」第2巻が早くも登場！ もちろんこの巻も「照れたら負け」！",
+        "image": "http://books.google.com/books/content?id=Mej6CgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 3,
+        "booklist": "5eafb4bb-f8e9-4dcc-91da-21eb41d53a89"
+      },
+      {
+        "id": "2c3890c0-b7eb-4fee-bd52-2557ba555c08",
+        "title": "シガレット＆チェリー",
+        "description": "先輩の卒業が近づいたある日、ついに先輩が後輩くんの家に…!? 不器用に…でも丁寧に積み重ねてきた2人の関係がついに実を結ぶ!? 先輩美人と後輩童貞のすれ違いキャパスラブコメディ!!",
+        "image": "http://books.google.com/books/content?id=zx2qDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 4,
+        "booklist": "5eafb4bb-f8e9-4dcc-91da-21eb41d53a89"
+      }
+    ],
+    "is_completed": true
+  }
+]

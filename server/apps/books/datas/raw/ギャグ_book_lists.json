@@ -1,0 +1,1858 @@
+[
+  {
+    "id": "df52c500-3456-47e7-af70-528e997902d1",
+    "type": {
+      "id": "50257c87-7406-4f59-a3d4-8a02126ab825",
+      "type": "ギャグ",
+      "booklist": {
+        "is_completed": null
+      }
+    },
+    "owner": {
+      "id": "5a9fab82-ea3a-4df9-b711-a0747afee75c",
+      "username": "中島楓華",
+      "is_superuser": false
+    },
+    "books": [
+      {
+        "id": "859e5ed1-53ec-47cb-b107-293dc9b9b8ce",
+        "title": "月刊少女野崎くん",
+        "description": "無骨な男子高校生「野崎梅太郎」。彼に恋をした女子高生「佐倉千代」は勇気を振り絞って告白するものの、何故か恋人ではなく少女漫画家のアシスタントになったのでした…。男子高校生でありながら人気少女漫画家でもある野崎くんの日常を描く、少女漫画家男子コメディー!!",
+        "image": "http://books.google.com/books/content?id=qqLFDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 0,
+        "booklist": "df52c500-3456-47e7-af70-528e997902d1"
+      },
+      {
+        "id": "7768f4f0-87e0-4134-aa81-bffe65d62d45",
+        "title": "ハムスターの研究レポート",
+        "description": "著者のハムスターへの愛情と、彼らの何気ない行動を見逃さない俊逸な観察眼から生まれた、あの“ハムスターファンの聖書(バイブル)”",
+        "image": "http://books.google.com/books/content?id=yauADwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 1,
+        "booklist": "df52c500-3456-47e7-af70-528e997902d1"
+      },
+      {
+        "id": "dd5c86e0-c495-41e3-a057-dd52397ad9e2",
+        "title": "ぼのぼの",
+        "description": "ラッコの「ぼのぼの」と森の仲間が繰り広げる、かわいくてちょっとヘンな日常は、笑えるだけではなく哲学的ですらあると評価され続けています。",
+        "image": "http://books.google.com/books/content?id=Tv7lAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 2,
+        "booklist": "df52c500-3456-47e7-af70-528e997902d1"
+      },
+      {
+        "id": "81556d8e-0581-4494-a9bd-dc2cf505f323",
+        "title": "女の園の星",
+        "description": "【電子限定！描き下ろし特典ペーパー収録】 「声を出して笑った」の声、続出!!! 漫画賞総ナメ『夢中さ、きみに。』の和山やま初連載！ ある女子校、２年４組担任・星先生。生徒たちが学級日誌で繰り広げる絵しりとりに翻弄され、教室で犬のお世話をし、漫画家志望の生徒にアドバイス。時には同僚と飲みに行く…。な〜んてことない日常が、なぜこんなにも笑えて愛おしいんでしょう!?どんな時もあなたを笑わせる未体験マンガ、お確かめあれ！電子版にも本体表紙を収録！【祥伝社／shodensha】",
+        "image": "http://books.google.com/books/content?id=5ivvDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 3,
+        "booklist": "df52c500-3456-47e7-af70-528e997902d1"
+      },
+      {
+        "id": "0be1cd32-eda4-4769-bdf1-e792b34e8310",
+        "title": "百姓貴族",
+        "description": "「水がなければ牛乳を飲めばいいのに」。 マンガ家になる前は、北海道で七年間農業に従事していた荒川弘。牛を飼い、野菜を作り、クマにおびえ、エゾシマリスに翻弄される－－。朝から晩まで年中無休で働く、タフでハ－ドな仕事。でも読めばわかります。お百姓さんは、かっこいいのです！！ あの『鋼の錬金術師』の作者がおくる、血と汗と笑いの知られざる農家エッセイ・コミック！！",
+        "image": "http://books.google.com/books/content?id=-DUyDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 4,
+        "booklist": "df52c500-3456-47e7-af70-528e997902d1"
+      }
+    ],
+    "is_completed": true
+  },
+  {
+    "id": "13f2e866-21c3-493c-9c49-aee61b7b9c94",
+    "type": {
+      "id": "50257c87-7406-4f59-a3d4-8a02126ab825",
+      "type": "ギャグ",
+      "booklist": {
+        "is_completed": null
+      }
+    },
+    "owner": {
+      "id": "21aab694-9408-4c92-a1b3-4d7a7fe7ca41",
+      "username": "佐々木誠ニコラス",
+      "is_superuser": false
+    },
+    "books": [
+      {
+        "id": "4e77cfb8-1790-4a0f-b92e-6b87d36dcb4f",
+        "title": "この素晴らしい世界に祝福を！",
+        "description": "「何の力も無かった最弱職の少年がたった一人で魔王を倒す。……そっちの方が格好良いじゃないですか！」 大量のマナタイトを使用し、めぐみんの爆裂魔法で魔王城の結界を破ったカズマ一行。アクア達とも合流し、目的を果たしたとばかりに引き返そうする面々に対してカズマは――「魔王に掛かった賞金って、いくらぐらいなんだろうな？」 根性なしのニートは、遂に魔王との最終決戦へ挑む!! カズマ・アクア・めぐみん・ダクネス―――アクセルが誇る問題児が愉快な仲間と共に魔王城に集結!! 国民的人気の異世界コメディ「このすば」、堂々完結！",
+        "image": "http://books.google.com/books/content?id=uhTdDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 0,
+        "booklist": "13f2e866-21c3-493c-9c49-aee61b7b9c94"
+      },
+      {
+        "id": "1f29b030-6841-4ce2-908e-e84338ea5ab5",
+        "title": "魔法少女にあこがれて",
+        "description": "★☆TVアニメ好評放送中！！！☆★ トレスマジアで唯一、真化できていなかったマゼンタ・・・。 しかしそんな彼女についに真化の兆しが！？ 期待に胸を膨らませるベーゼとサルファ。 しかし、異様な花弁がマゼンタを包んでいき・・・？ サディスティックマジカルコメディ漆黒の第11巻！！ ★単行本カバー下画像収録★",
+        "image": "http://books.google.com/books/content?id=H7DtEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 1,
+        "booklist": "13f2e866-21c3-493c-9c49-aee61b7b9c94"
+      },
+      {
+        "id": "adca2293-db3d-4dd2-9c0d-bef5bf6f221b",
+        "title": "日常",
+        "description": "普段はおとなしめな夢見る女子高生・みおのまわりにはロボやら大福やら謎なものがいっぱい。五巻でも微妙にすれ違い続ける日常。話題のポストモダンギャグ第五巻!",
+        "image": "http://books.google.com/books/content?id=3fmIewtH1RwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 2,
+        "booklist": "13f2e866-21c3-493c-9c49-aee61b7b9c94"
+      },
+      {
+        "id": "2ac038e7-004c-4c0c-bcaa-067db12d524f",
+        "title": "極主夫道",
+        "description": "元最凶ヤクザ、専業主夫になって初めてのパートタイム！ 漫画賞続々受賞!! 伝説のヤクザが主夫に転身!? アットホーム任侠コメディ!!",
+        "image": "http://books.google.com/books/content?id=KmKbDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 3,
+        "booklist": "13f2e866-21c3-493c-9c49-aee61b7b9c94"
+      },
+      {
+        "id": "6c86a903-6b82-44fc-bdad-23c921acd64d",
+        "title": "あそびあそばせ",
+        "description": "まさかのオリヴィア帰国!?その時、華子と香純の取った行動とは…。濃すぎる新キャラも登場で、ますます賑やか♪爆笑お遊戯コメディ、ついに10巻突入です!!",
+        "image": "http://books.google.com/books/content?id=kXPzDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 4,
+        "booklist": "13f2e866-21c3-493c-9c49-aee61b7b9c94"
+      }
+    ],
+    "is_completed": true
+  },
+  {
+    "id": "0e90b01d-52b5-4f99-883e-fad8b4519773",
+    "type": {
+      "id": "50257c87-7406-4f59-a3d4-8a02126ab825",
+      "type": "ギャグ",
+      "booklist": {
+        "is_completed": null
+      }
+    },
+    "owner": {
+      "id": "92ebe0f1-044b-4ebd-841b-6cfb98859d0e",
+      "username": "前田拓海",
+      "is_superuser": false
+    },
+    "books": [
+      {
+        "id": "72eceb9a-0184-4039-a111-08834a74dee2",
+        "title": "マッシュル-MASHLE-",
+        "description": "誰もが魔法を使い、その優劣が全てを決める魔法界。人里離れた森の中で、日々筋トレの鬼と化す少年・マッシュの秘密は、魔法が使えないこと。その秘密を他人に知られた時、日常は一変!! なぜか魔法学校に入学し、トップを目指すことに…!? 鍛え上げた筋力とパワーで、全ての魔法を粉砕するアブノーマル魔法ファンタジー、ここに開幕!!",
+        "image": "http://books.google.com/books/content?id=Dg_eDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 0,
+        "booklist": "0e90b01d-52b5-4f99-883e-fad8b4519773"
+      },
+      {
+        "id": "acec11ab-3fdc-4f00-beb8-6725eaea3b5f",
+        "title": "一線こせないカテキョと生徒",
+        "description": "★★★ 合計50万いいね以上を獲得したTwitter漫画、待望の電子書籍化 ★★★ 東京大学に通う家庭教師の夏目ほのかは、生徒のイケメン男子高校生・高木くんに授業そっちのけで色仕掛け！あの手この手で誘惑するカテキョとおバカすぎてナチュラルに回避しちゃう生徒。両思いなのに一生一線をこせなさそうな二人による、予測不能でもどかしい恋の攻防から目が離せない――!! 『男子高校生とふれあう方法』『サボり先輩』『猥談バーで逢いましょう』を描く狂気の漫画家・地球のお魚ぽんちゃんが贈る抱腹絶倒ギャグ漫画、待望の電子書籍第一巻配信開始です！ ■ 二人の馴れ初め含む全28Pの特別描き下ろし漫画を収録 描き下ろし１: 「ほのか先生しっかりしてください！」 描き下ろし２: 「高木くんのプレゼント」 描き下ろし３: 「一線こせないふたりの出逢い」 ＜注意事項 ※2020年11月2日追記＞ 電子版第1巻は、Twitter連載の第1話〜13話と描き下ろし漫画28Pを合わせた80Pの本編を収録しており、一迅社より2020年12月25日に刊行される単行本の収録内容とは大きく異なります。電子版、単行本版それぞれに限定描き下ろし漫画が入っておりますので、どちらも手に取っていただき高木くんとほのか先生のピュアでおバカな恋模様をお楽しみくださいませ。",
+        "image": "http://books.google.com/books/content?id=IM_7DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 1,
+        "booklist": "0e90b01d-52b5-4f99-883e-fad8b4519773"
+      },
+      {
+        "id": "9c13a757-6095-4140-8006-f7efead9a945",
+        "title": "SPY×FAMILY",
+        "description": "名門校潜入のために「家族」を作れと命じられた凄腕スパイの〈黄昏〉。だが、彼が出会った“娘”は心を読む超能力者！ “妻”は暗殺者で!? 互いに正体を隠した仮初め家族が、受験と世界の危機に立ち向かう痛快ホームコメディ!!",
+        "image": "http://books.google.com/books/content?id=0dSZDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 2,
+        "booklist": "0e90b01d-52b5-4f99-883e-fad8b4519773"
+      },
+      {
+        "id": "ed6a5572-7b01-45f0-ab4d-fab5131bc133",
+        "title": "ハルロック",
+        "description": "時代はアプリ？ いやいや、電子工作でしょ！ 女子大生の向阪晴（さきさかはる）が得意の電子工作を駆使してあれやこれやを一気に解決!? 前代未聞の「電子工作コミック」！",
+        "image": "http://books.google.com/books/content?id=qQDKBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 3,
+        "booklist": "0e90b01d-52b5-4f99-883e-fad8b4519773"
+      },
+      {
+        "id": "800af7cb-0580-4adf-86b1-7fb04da3c996",
+        "title": "銀魂",
+        "description": "【デジタル着色によるフルカラー版！】江戸では、突如宙から舞い降りた異人「天人」の台頭と廃刀令により侍が衰退の一途をたどっていた。しかし一人、侍の魂を堅持する男が…。その名は坂田銀時。甘党＆無鉄砲なこの男が、腐った江戸を一刀両断…するかも!? ※巻末に「だんでらいおん」（モノクロ版）も収録。",
+        "image": "http://books.google.com/books/content?id=ovY7DAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 4,
+        "booklist": "0e90b01d-52b5-4f99-883e-fad8b4519773"
+      }
+    ],
+    "is_completed": true
+  },
+  {
+    "id": "f14f1c00-e813-412b-ad2d-fa577a6cd100",
+    "type": {
+      "id": "50257c87-7406-4f59-a3d4-8a02126ab825",
+      "type": "ギャグ",
+      "booklist": {
+        "is_completed": null
+      }
+    },
+    "owner": {
+      "id": "e57d0f78-1aab-4d95-89fd-d6c9b2bdc4a4",
+      "username": "北畑由莉香",
+      "is_superuser": false
+    },
+    "books": [
+      {
+        "id": "e661ab1f-7016-42d1-b9eb-379189b0940f",
+        "title": "対世界用魔法少女つばめ",
+        "description": "【デジタル版限定！「少年ジャンプ+」掲載時のカラーページを完全収録!!】魔法少女とは、かわいくて強くて汚いことは考えず、この世界を救うことができる者！ たとえ仲間が死んだとしても…。 空はハートで埋め尽くされ、その一つが割れた時、ある“思念”が放出され人々は正気を失う世界。大親友の心心（ここ）と泪（るい）だけは守りたいと、進路希望に魔法少女を選ぶ女子高生・燕。ある日、バスの中で“思念”を浴びた心心と燕だが…!? 魔法少女誕生の第1巻!!",
+        "image": "http://books.google.com/books/content?id=P2_wEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 0,
+        "booklist": "f14f1c00-e813-412b-ad2d-fa577a6cd100"
+      },
+      {
+        "id": "8efe9056-c79a-4e8d-93a1-df9665eb4cbd",
+        "title": "吸血鬼すぐ死ぬ",
+        "description": "行方不明の子供を助けるため、真祖にして無敵の吸血鬼・ドラルクの城にやってきた吸血鬼ハンター・ロナルド! だがドラルクの正体は、凄まじい頻度で死んで塵と化す史上最弱のザコ吸血鬼で!?",
+        "image": "http://books.google.com/books/content?id=-PDYDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 1,
+        "booklist": "f14f1c00-e813-412b-ad2d-fa577a6cd100"
+      },
+      {
+        "id": "b230f63d-ac1d-4717-aa2f-af2b13822fa8",
+        "title": "百姓貴族",
+        "description": "「水がなければ牛乳を飲めばいいのに」。 マンガ家になる前は、北海道で七年間農業に従事していた荒川弘。牛を飼い、野菜を作り、クマにおびえ、エゾシマリスに翻弄される－－。朝から晩まで年中無休で働く、タフでハ－ドな仕事。でも読めばわかります。お百姓さんは、かっこいいのです！！ あの『鋼の錬金術師』の作者がおくる、血と汗と笑いの知られざる農家エッセイ・コミック！！",
+        "image": "http://books.google.com/books/content?id=-DUyDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 2,
+        "booklist": "f14f1c00-e813-412b-ad2d-fa577a6cd100"
+      },
+      {
+        "id": "1ba16e49-64fb-4dd2-ab76-e016ed981cf9",
+        "title": "ポプテピピック",
+        "description": "概要情報なし",
+        "image": "http://books.google.com/books/content?id=KGtUDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 3,
+        "booklist": "f14f1c00-e813-412b-ad2d-fa577a6cd100"
+      },
+      {
+        "id": "74ce4c7d-2baf-4d29-8fc3-fbeffe57b682",
+        "title": "坂本ですが?",
+        "description": "この物語は、とあるクール、いや、クーレストな高校生・坂本の学園生活を綴ったものである――。入学早々、クラスの、いや学校中の注目を集める一人の生徒がいた。その名は坂本（さかもと）。彼にかかれば、ただの反復横跳びは、秘技「レペティションサイドステップ」へと変貌し、上級生からの「パシリ」は、「おもてなし」へとクラスチェンジする。そんな彼のクールな一挙手一投足から、目が離せない。漫画誌ハルタで熱い注目を浴びる人気連載がついに単行本化！ 端整な絵柄で本物の笑いを生み出す新鋭・佐野菜見のデビュー作。分冊版第1弾。",
+        "image": "http://books.google.com/books/content?id=lNRvEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+        "order": 4,
+        "booklist": "f14f1c00-e813-412b-ad2d-fa577a6cd100"
+      }
+    ],
+    "is_completed": true
+  },
+  {
+    "id": "33dea0e3-8c10-41e4-b7af-ba0c56ada871",
+    "type": {
+      "id": "50257c87-7406-4f59-a3d4-8a02126ab825",
+      "type": "ギャグ",
+      "booklist": {
+        "is_completed": null
+      }
+    },
+    "owner": {
+      "id": "4ed9f02a-21a8-4cae-8531-68ffe9242a8d",
+      "username": "土井弘人",
+      "is_superuser": false
+    },
+    "books": [
+      {
+        "id": "b379ec4e-fcd7-4160-9cf9-e1beb3e6e97e",
+        "title": "ゲーマーズ！",
+        "description": "天道とのデートでいいところなしの雨野。なりゆきで子供たちとカートゲームで勝負することのなるのだが…？ そして千秋が手に入れた「ラブラブ半生ゲーム」がこじらせゲーマーたちの関係に新たな波乱を巻き起こす！",
+        "image": "http://books.google.com/books/content?id=M6luDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 0,
+        "booklist": "33dea0e3-8c10-41e4-b7af-ba0c56ada871"
+      },
+      {
+        "id": "6d7d4739-cf21-4d0a-9248-0e4e27dbc72e",
+        "title": "日常",
+        "description": "普段はおとなしめな夢見る女子高生・みおのまわりにはロボやら大福やら謎なものがいっぱい。五巻でも微妙にすれ違い続ける日常。話題のポストモダンギャグ第五巻!",
+        "image": "http://books.google.com/books/content?id=3fmIewtH1RwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 1,
+        "booklist": "33dea0e3-8c10-41e4-b7af-ba0c56ada871"
+      },
+      {
+        "id": "83606d44-b853-4f49-98c5-dac56c4811ad",
+        "title": "斉木楠雄のΨ難",
+        "description": "皆の期待膨らむ修学旅行、目指すはちゅら海・沖縄!! だが台風接近で、まさかの中止危機!! 更に楠雄は飛行機事故を予知！ 続々と起きるトラブルに超能力を駆使して回避するも疲労困憊の楠雄に予想外の事態が!?",
+        "image": "http://books.google.com/books/content?id=3IvLCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 2,
+        "booklist": "33dea0e3-8c10-41e4-b7af-ba0c56ada871"
+      },
+      {
+        "id": "5fb86372-3da4-4f79-9a0e-011b5210e70e",
+        "title": "灼熱のニライカナイ",
+        "description": "海機捜と海底遺跡を捜査する鮫島とオルフェウス。海人（マーマン）の毒をうけ朦朧とする鮫島の前にさらなる敵が現れて…。一方、陸（おか）で鮫島らの帰りを待つ七瀬とチャコにも教団の魔の手が！ 窮地の鮫島と七瀬に新たな決断の刻が迫る!!",
+        "image": "http://books.google.com/books/content?id=YD4wEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 3,
+        "booklist": "33dea0e3-8c10-41e4-b7af-ba0c56ada871"
+      },
+      {
+        "id": "2010eb2c-fb76-4069-92bc-57fbc4f3de83",
+        "title": "SAKAMOTO DAYS",
+        "description": "在悠閒小鎮開設商店的發福男子‧坂本太郎，真實身分竟是在遇見真命天女後隱退數年的傳奇殺手！昔日搭檔兼小弟阿新捎來消息，有人在殺手界重金懸賞要坂本太郎的命，從那一刻起，平靜的生活一去不復返……但是坂本太郎不允許！於是，為了保衛家人和美好的日常生活，坂本帶領小弟和許多新、舊朋友，抵抗接連來襲的敵人，卻慢慢發現幕後黑手似乎沒那麼簡單……？",
+        "image": "http://books.google.com/books/content?id=PuOwEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+        "order": 4,
+        "booklist": "33dea0e3-8c10-41e4-b7af-ba0c56ada871"
+      }
+    ],
+    "is_completed": true
+  },
+  {
+    "id": "581f27b4-6f3f-4c1e-8283-618cbdfcce0b",
+    "type": {
+      "id": "50257c87-7406-4f59-a3d4-8a02126ab825",
+      "type": "ギャグ",
+      "booklist": {
+        "is_completed": null
+      }
+    },
+    "owner": {
+      "id": "caef7db5-2dd5-4e96-a5d0-938966dac28a",
+      "username": "大角駿人",
+      "is_superuser": false
+    },
+    "books": [
+      {
+        "id": "6ca7b974-c026-4bc6-b7f4-9552f13a1238",
+        "title": "日常",
+        "description": "妄想がふくらみがちな夢見る女子高生・ゆっこの回りにはロボやらヤギやら謎なものがいっぱい。今日も微妙にシュールな日常が始まります。",
+        "image": "http://books.google.com/books/content?id=0v8xVa8xlP0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 0,
+        "booklist": "581f27b4-6f3f-4c1e-8283-618cbdfcce0b"
+      },
+      {
+        "id": "35cb1c69-bfdf-4938-9a32-ac35b307c202",
+        "title": "銀魂",
+        "description": "在江戶，因為突然從宇宙來的異人「天人」勢力的抬頭加上頒布廢刀令，使得武士走上衰退的道路。但是有個人依然堅持武士的靈魂…。他叫做?田銀時。這個喜歡吃甜食＆又無厘頭的傢伙，說不定能將腐敗的江戶給一分為二呢……？",
+        "image": "http://books.google.com/books/content?id=_3ItDwAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+        "order": 1,
+        "booklist": "581f27b4-6f3f-4c1e-8283-618cbdfcce0b"
+      },
+      {
+        "id": "464c2029-98ed-4512-8668-5e6ffc7ba128",
+        "title": "Dr.スランプ",
+        "description": "【ページ数が多いビッグボリューム版！】天才科学者(？)の則巻千兵衛が作った人間型ロボット・アラレちゃんが暴れまくるパワフルGAGワールド！ ペンギン村を舞台に、個性あふれるキャラクター達が続々登場！",
+        "image": "http://books.google.com/books/content?id=TUPHCwAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+        "order": 2,
+        "booklist": "581f27b4-6f3f-4c1e-8283-618cbdfcce0b"
+      },
+      {
+        "id": "17367eef-f0fa-4cb0-b07e-b708ee83c4b0",
+        "title": "まったく最近の探偵ときたら",
+        "description": "世間を騒がす難事件を即解決！ その名は名探偵・名雲桂一郎!! だったのは10年以上も昔の話……。 名雲はいまや、ただの渋いおっさんになってしまった……。時代に取り残され、スマホすら扱えない彼のもとに、若さあふれる女子高生・真白が助手希望で押しかけてきて——!?",
+        "image": "http://books.google.com/books/content?id=fYa2DAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 3,
+        "booklist": "581f27b4-6f3f-4c1e-8283-618cbdfcce0b"
+      },
+      {
+        "id": "14f50387-8383-4b6f-b60b-feff4c93f492",
+        "title": "かってにシロクマ",
+        "description": "グズでのろまでちょっと間抜けなシロクマの『シロ』は、母ちゃんとすべてに抜け目のない弟・大ちゃんとの三人家族。厳しい自然界で生き抜くために母ちゃんは、二人の息子にいろいろと教えるのだが……。仲間に加わったいのししのウリ坊やシロの恋人（？）ちょしちゃんなど、おもしろキャラも多数登場！ 相原コージの人気を決定づけた記念すべき作品!!",
+        "image": "http://books.google.com/books/content?id=Du1XCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 4,
+        "booklist": "581f27b4-6f3f-4c1e-8283-618cbdfcce0b"
+      }
+    ],
+    "is_completed": true
+  },
+  {
+    "id": "a38c50be-6a9a-477e-ab44-67bfd1b34a49",
+    "type": {
+      "id": "50257c87-7406-4f59-a3d4-8a02126ab825",
+      "type": "ギャグ",
+      "booklist": {
+        "is_completed": null
+      }
+    },
+    "owner": {
+      "id": "e32d0aa8-631b-4f49-a7d0-b8aeddc13273",
+      "username": "小川",
+      "is_superuser": false
+    },
+    "books": [
+      {
+        "id": "c7b9a234-3f17-4676-9eea-2c98a22f6dc4",
+        "title": "うらみちお兄さん",
+        "description": "よい子のみんな～! 努力と我慢は表裏一体、程々が大事だよ～! 教育番組「ママンとトゥギャザー」の体操のお兄さん・表田裏道(31)。通称“うらみちお兄さん”と、おなじみの番組出演者陣、更には彼らを取り巻くクセの強いキャラクター達が、今回も悲喜こもごも大活躍☆ うらみち画伯の才能が爆発したり、生きにくさを吹き飛ばす珠玉(?)の名言も多数登場…! 描き下ろしエピソードでは、新キャラ解禁…!? その他、単行本のみ収録の“過去編”も必見です!",
+        "image": "http://books.google.com/books/content?id=tw2VEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 0,
+        "booklist": "a38c50be-6a9a-477e-ab44-67bfd1b34a49"
+      },
+      {
+        "id": "26330558-f349-46a6-9ffc-482c712b997a",
+        "title": "銀魂",
+        "description": "得体の知れぬ者たちから執拗に追われる銀時。その懐には、追っ手がなりふり構わず奪い取ろうとする代物が…。行方を暗ませていた二年間、銀時の身に起きた人智を越えた出来事と、その時手に入れたモノとは!?",
+        "image": "http://books.google.com/books/content?id=ROZwDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 1,
+        "booklist": "a38c50be-6a9a-477e-ab44-67bfd1b34a49"
+      },
+      {
+        "id": "24f3b292-2f74-4a2d-ade1-a4470d2a3361",
+        "title": "鬼灯の冷徹",
+        "description": "猫好好ちゃん、大繁殖！ 十二巻にしてついに100話到達！ 100話目の鬼灯はと言うと、閻魔大王の逸話に興味津々。人間で言うところの15歳頃の鬼灯はと言うと、授業サボって呪いの金棒に興味津々。そして仕事柄…いや、半分趣味で残酷な童話に興味津々な鬼灯は「おおかみと7ひきのこやぎ」の山羊達から直接話をきくため西洋の天国へ！ ちっちゃい頃から鬼灯とつるんでた友達2人の名前も明らかに！",
+        "image": "http://books.google.com/books/content?id=kFvGBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 2,
+        "booklist": "a38c50be-6a9a-477e-ab44-67bfd1b34a49"
+      },
+      {
+        "id": "8b8e1744-129e-45a1-9384-a3ffe1f078ee",
+        "title": "斉木楠雄のΨ難",
+        "description": "春休みを利用して、母の実家に帰省することになった斉木一家。出迎えてくれたのは、やさしい祖母と気難しい祖父！ しかし、この寡黙で無愛想な祖父には、楠雄だけが知っている面倒くさい秘密があって…!?",
+        "image": "http://books.google.com/books/content?id=a8vMCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 3,
+        "booklist": "a38c50be-6a9a-477e-ab44-67bfd1b34a49"
+      },
+      {
+        "id": "d4c0c25e-7feb-421e-a52a-bb480eba0919",
+        "title": "只野工業高校の日常",
+        "description": "只野工業高校で年2回開催される体育祭、後期は紅白対抗戦！ 紅組白組それぞれが気合いっぱいで各競技に臨む中、女子の期待に応えたい赤崎（あかさき）も大奮闘するが…!? 普段見られないコンビネーションが炸裂したり、本気の女子が見られちゃったり！ 面白さ満載の工業高校体感青春コメディ第8巻!!",
+        "image": "http://books.google.com/books/content?id=bXCwEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 4,
+        "booklist": "a38c50be-6a9a-477e-ab44-67bfd1b34a49"
+      }
+    ],
+    "is_completed": true
+  },
+  {
+    "id": "3092dee4-962e-4b88-9877-85176b207d73",
+    "type": {
+      "id": "50257c87-7406-4f59-a3d4-8a02126ab825",
+      "type": "ギャグ",
+      "booklist": {
+        "is_completed": null
+      }
+    },
+    "owner": {
+      "id": "b7a337fc-30ee-4afa-ad5b-65d3cdfc934d",
+      "username": "山田航",
+      "is_superuser": false
+    },
+    "books": [
+      {
+        "id": "ab6012a7-b623-4f69-9ea0-70cb1b99030b",
+        "title": "銀魂",
+        "description": "得体の知れぬ者たちから執拗に追われる銀時。その懐には、追っ手がなりふり構わず奪い取ろうとする代物が…。行方を暗ませていた二年間、銀時の身に起きた人智を越えた出来事と、その時手に入れたモノとは!?",
+        "image": "http://books.google.com/books/content?id=ROZwDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 0,
+        "booklist": "3092dee4-962e-4b88-9877-85176b207d73"
+      },
+      {
+        "id": "01b1039a-4af5-4246-94f8-31e8c631a1d2",
+        "title": "ぐらんぶる",
+        "description": "事実無根なのに「美人のカノジョ」がいると勘違いされた伊織（いおり）。キャンパス内の男たちの怒りを買ったまま生き延びられるのか？ そしてサークルにまさかの新入女子会員が！ 屈指の人気を誇る衝撃の「合コン回」収録!!!",
+        "image": "http://books.google.com/books/content?id=yiGqBwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 1,
+        "booklist": "3092dee4-962e-4b88-9877-85176b207d73"
+      },
+      {
+        "id": "c3f2ba5e-e213-405d-bfba-c5c639c159d4",
+        "title": "異世界おじさん",
+        "description": "17年間の昏睡状態から目覚めたおじさんは、異世界からの帰還者だった……。甥っ子たかふみと共同生活を始めたおじさんが語る、新感覚異世界＆異文化コメディ！",
+        "image": "http://books.google.com/books/content?id=cCt6DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 2,
+        "booklist": "3092dee4-962e-4b88-9877-85176b207d73"
+      },
+      {
+        "id": "ceaefe20-c2bd-4110-b02f-8fbd4d8cce2f",
+        "title": "斉木楠雄のΨ難",
+        "description": "春休みを利用して、母の実家に帰省することになった斉木一家。出迎えてくれたのは、やさしい祖母と気難しい祖父！ しかし、この寡黙で無愛想な祖父には、楠雄だけが知っている面倒くさい秘密があって…!?",
+        "image": "http://books.google.com/books/content?id=a8vMCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 3,
+        "booklist": "3092dee4-962e-4b88-9877-85176b207d73"
+      },
+      {
+        "id": "c79e407e-c96e-471b-9886-c5dde5ff9a0e",
+        "title": "浦安鉄筋家族",
+        "description": "元気一番の小鉄にオモシロ家族と仲間たち。ちょー変なご近所さんも乱入のウルトラ人気ギャグ！！",
+        "image": "http://books.google.com/books/content?id=ec_XDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 4,
+        "booklist": "3092dee4-962e-4b88-9877-85176b207d73"
+      }
+    ],
+    "is_completed": true
+  },
+  {
+    "id": "114aded9-1e50-4c75-b68d-473acffdfb8c",
+    "type": {
+      "id": "50257c87-7406-4f59-a3d4-8a02126ab825",
+      "type": "ギャグ",
+      "booklist": {
+        "is_completed": null
+      }
+    },
+    "owner": {
+      "id": "50e1917b-355a-495c-9f52-939c6cf430db",
+      "username": "川上輝",
+      "is_superuser": false
+    },
+    "books": [
+      {
+        "id": "0126bf3a-5aff-4487-8ad6-aec045b8f596",
+        "title": "銀魂",
+        "description": "江戸では、突如宙から舞い降りた異人「天人」の台頭と廃刀令により侍が衰退の一途をたどっていた。しかし一人、侍の魂を堅持する男が…。その名は坂田銀時。甘党＆無鉄砲なこの男が、腐った江戸を一刀両断…するかも!?",
+        "image": "http://books.google.com/books/content?id=lwLKCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 0,
+        "booklist": "114aded9-1e50-4c75-b68d-473acffdfb8c"
+      },
+      {
+        "id": "a06ceb31-d08f-4884-ab15-0f32d7cb7cb8",
+        "title": "日常",
+        "description": "妄想がふくらみがちな夢見る女子高生・ゆっこの回りにはロボやらヤギやら謎なものがいっぱい。今日も微妙にシュールな日常が始まります。",
+        "image": "http://books.google.com/books/content?id=0v8xVa8xlP0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 1,
+        "booklist": "114aded9-1e50-4c75-b68d-473acffdfb8c"
+      },
+      {
+        "id": "844e5e7e-7b83-4201-9634-66ea72028748",
+        "title": "聖☆おにいさん",
+        "description": "目覚めた人・ブッダ、神の子・イエス。世紀末を無事に越えた二人は、東京・立川でアパートをシェアし、下界でバカンスを過ごしていた。近所のおばちゃんのように細かいお金を気にするブッダ。衝動買いが多いイエス。そんな“最聖”コンビの立川デイズ。“笑い”でも世界を救う！ 聖人in立川。ブッダとイエスのぬくぬくコメディ。",
+        "image": "http://books.google.com/books/content?id=YaXDBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 2,
+        "booklist": "114aded9-1e50-4c75-b68d-473acffdfb8c"
+      },
+      {
+        "id": "d178dabc-fa88-4494-9c8f-881126131652",
+        "title": "ギャグマンガ日和",
+        "description": "古今東西のネタを盛り込んだ、めくるめくギャグマンガ登場。うすた京介先生を始め各界から絶賛を受けたヘンテコワールドがキミの臓腑をじわじわ刺激する！ 伝説の読切「夢―赤壁の戦い―」「青春のしたたり」も収録！",
+        "image": "http://books.google.com/books/content?id=95TLCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 3,
+        "booklist": "114aded9-1e50-4c75-b68d-473acffdfb8c"
+      },
+      {
+        "id": "33475b44-d2e4-4c6c-a23d-18584bd70002",
+        "title": "小林さんちのメイドラゴン",
+        "description": "アパートに住む小林さんのもとに、メイドとして押しかけて同居しているトール。トールは、人類のことは基本、下等で愚かだと思っているけれど、小林さんには過去に助けてもらった恩があるため、全力でご奉仕。今日もあの手この手で頑張るのでした。ドラゴン娘と１人暮らしお疲れOLの人外系日常コメディ！",
+        "image": "http://books.google.com/books/content?id=f9hYCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 4,
+        "booklist": "114aded9-1e50-4c75-b68d-473acffdfb8c"
+      }
+    ],
+    "is_completed": true
+  },
+  {
+    "id": "38508233-682a-4fc8-a9db-0d8d1e2d55b8",
+    "type": {
+      "id": "50257c87-7406-4f59-a3d4-8a02126ab825",
+      "type": "ギャグ",
+      "booklist": {
+        "is_completed": null
+      }
+    },
+    "owner": {
+      "id": "248ecd5c-3607-4186-bfc5-1a6c1e012c74",
+      "username": "川島 励仁",
+      "is_superuser": false
+    },
+    "books": [
+      {
+        "id": "5b1ac1ce-2fb1-4a8e-ab86-f3703efdec2d",
+        "title": "幼稚園WARS",
+        "description": "さぁお遊戯の時間です 囚人番号999、元・伝説の殺し屋のリタ。彼女が今働いているのは、何と世界の重鎮達の子供が通う幼稚園！ その仕事は、日々差し向けられる刺客の魔の手から園児を守ること。圧倒的な力で敵を撃退するリタだが、実はイケメンに弱いという弱点があって…!? “世界一安全な幼稚園”で繰り広げられるバイオレンス×ラブコメディ、開幕!!",
+        "image": "http://books.google.com/books/content?id=o7mpEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 0,
+        "booklist": "38508233-682a-4fc8-a9db-0d8d1e2d55b8"
+      },
+      {
+        "id": "637977b1-af01-41db-9574-b8dc5fdd65d4",
+        "title": "接客無双",
+        "description": "【デジタル版限定！「少年ジャンプ+」掲載時のカラーページを完全収録!!】腹を空かし行き倒れていたウェイター、その名はナスノスケ。彼は生まれた瞬間には接客を始め、身体におもてなしの神を宿していた。そんな男の下に押し寄せるのは、店を狙う強烈な悪質クレーマー達!? 前代未聞の「接客」バトルギャグ、開幕!!",
+        "image": "http://books.google.com/books/content?id=B8rAEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 1,
+        "booklist": "38508233-682a-4fc8-a9db-0d8d1e2d55b8"
+      },
+      {
+        "id": "6f9e76d5-2a0a-43b6-89de-3c8c3a97dc6a",
+        "title": "異世界の主役は我々だ！",
+        "description": "実況プレイ動画製作集団「〇〇の主役は我々だ！」のメンバーたちが本人として登場！ 彼らの生き様と思想が衝突する！ 人にはそれぞれの幸せの形がある！",
+        "image": "http://books.google.com/books/content?id=Uzg2DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 2,
+        "booklist": "38508233-682a-4fc8-a9db-0d8d1e2d55b8"
+      },
+      {
+        "id": "d8b0a90c-9abf-4697-9722-41041b60ff3c",
+        "title": "ヘルドクターくられの科学はすべてを解決する!!",
+        "description": "実況プレイ動画製作集団「〇〇の主役は我々だ！」コミカライズ第２弾！ 小学４年生のウツくんの前に現れたのは、狐面の妖しいマッドサイエンティストだった！ 彼は「科学で解決できないものはない」と主張する！",
+        "image": "http://books.google.com/books/content?id=hEZqDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 3,
+        "booklist": "38508233-682a-4fc8-a9db-0d8d1e2d55b8"
+      },
+      {
+        "id": "c8df8eba-1a12-448c-9b30-c599e29442f5",
+        "title": "バキ道",
+        "description": "角力(相撲)の「祖」であり日本最古の公式試合の勝者である野見宿禰。その「宿禰」の称号を継ぐ者が現世にいることを知らされる刃牙。脆くて壊れやすい炭素の塊をこの世で一番硬い物質であるダイヤモンドに変える超絶握力を持つ男が…、日本最古にして最強の「相撲」の神が…、バキの前に立ちはだかる。",
+        "image": "http://books.google.com/books/content?id=BiyIDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 4,
+        "booklist": "38508233-682a-4fc8-a9db-0d8d1e2d55b8"
+      }
+    ],
+    "is_completed": true
+  },
+  {
+    "id": "9b84f53c-1ab0-4d7c-ac83-da665a04c0de",
+    "type": {
+      "id": "50257c87-7406-4f59-a3d4-8a02126ab825",
+      "type": "ギャグ",
+      "booklist": {
+        "is_completed": null
+      }
+    },
+    "owner": {
+      "id": "5a128c62-67d7-46af-b45d-11199906f44c",
+      "username": "平尾 七虹",
+      "is_superuser": false
+    },
+    "books": [
+      {
+        "id": "9e25ba6b-8d84-492a-a2fc-846643f4c565",
+        "title": "赤ずきんチャチャ",
+        "description": "【魔女見習いのチャチャでーす!!】チャチャはまっ赤なずきんがトレードマークの魔女のたまご。世界一の魔法使い・セラヴィー先生のもとで日々修業中です。そんな中セラヴィー先生が、世界一の座をねらう魔女どろしーにさらわれちゃって… ＴＶアニメでも大人気を呼んだ、痛快！チャチャワールドの第1巻!!",
+        "image": "http://books.google.com/books/content?id=SmrICwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 0,
+        "booklist": "9b84f53c-1ab0-4d7c-ac83-da665a04c0de"
+      },
+      {
+        "id": "1370d6f1-b3ff-48c8-b78a-3c2ce800c198",
+        "title": "ミルモでポン！",
+        "description": "あたし、楓。恋の妖精・ミルモと暮らしてるの。ミルモは恋をかなえる魔法を使えるんだけど、ヘソ曲がりで、なかなかお願いを聞いてくれないんだ。ある日、ミルモのところに女の子の妖精・リルムが訪ねてきます。ミルモが好きなリルムは、なんとあたしが片思いしている結木（ゆうき）くんの家に住みついて!?",
+        "image": "http://books.google.com/books/content?id=bjT1CgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 1,
+        "booklist": "9b84f53c-1ab0-4d7c-ac83-da665a04c0de"
+      },
+      {
+        "id": "05fef0c7-aefc-44d7-bbaf-12aa05ec0f67",
+        "title": "恋するプリン！",
+        "description": "概要情報なし",
+        "image": "http://books.google.com/books/content?id=BjD7CgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 2,
+        "booklist": "9b84f53c-1ab0-4d7c-ac83-da665a04c0de"
+      },
+      {
+        "id": "7853f4db-b8ed-4efd-9199-08743158ac6b",
+        "title": "オレ様キングダム",
+        "description": "概要情報なし",
+        "image": "http://books.google.com/books/content?id=wCr9CgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 3,
+        "booklist": "9b84f53c-1ab0-4d7c-ac83-da665a04c0de"
+      },
+      {
+        "id": "fd2b5a78-5fd6-4fcc-ab54-a457a80244d1",
+        "title": "四月一日さんには僕がたりない",
+        "description": "生徒会長・四月一日（わたぬき）レイラの秘密は、同級生の三月終（さんがつ・おわる）と自宅のラブホで同居していること…と、異性にふれられると汗がとまらなくなること。恋愛体質の女生徒・うるるにラブホで目撃され、副会長でレイラの理解者である立夏（りっか）が2人の仲を疑いはじめ…四月一日さんの完璧な人生設計に大大ピンチがおとずれる!? 少女漫画的にアリかは読んで確かめてほしい第2巻！",
+        "image": "http://books.google.com/books/content?id=eBPJCQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 4,
+        "booklist": "9b84f53c-1ab0-4d7c-ac83-da665a04c0de"
+      }
+    ],
+    "is_completed": true
+  },
+  {
+    "id": "fc5ed7b4-f77e-4636-a349-52c470029e0e",
+    "type": {
+      "id": "50257c87-7406-4f59-a3d4-8a02126ab825",
+      "type": "ギャグ",
+      "booklist": {
+        "is_completed": null
+      }
+    },
+    "owner": {
+      "id": "6e3d3da6-f8ce-439e-917b-c4d4c1121328",
+      "username": "床田将一朗",
+      "is_superuser": false
+    },
+    "books": [
+      {
+        "id": "90d58ef4-dcc0-4226-baef-eef4e518d643",
+        "title": "この素晴らしい世界に祝福を！",
+        "description": "「何の力も無かった最弱職の少年がたった一人で魔王を倒す。……そっちの方が格好良いじゃないですか！」 大量のマナタイトを使用し、めぐみんの爆裂魔法で魔王城の結界を破ったカズマ一行。アクア達とも合流し、目的を果たしたとばかりに引き返そうする面々に対してカズマは――「魔王に掛かった賞金って、いくらぐらいなんだろうな？」 根性なしのニートは、遂に魔王との最終決戦へ挑む!! カズマ・アクア・めぐみん・ダクネス―――アクセルが誇る問題児が愉快な仲間と共に魔王城に集結!! 国民的人気の異世界コメディ「このすば」、堂々完結！",
+        "image": "http://books.google.com/books/content?id=uhTdDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 0,
+        "booklist": "fc5ed7b4-f77e-4636-a349-52c470029e0e"
+      },
+      {
+        "id": "8eb24c08-0f6e-4713-b132-ed6e4f7b99dd",
+        "title": "ぐらんぶる",
+        "description": "海沿いの街で一人暮らしを始めた北原伊織は衝撃の大学デビューを果たす。出会ったのは美女とダイビング、そして愛すべき野郎ども！ バカを描かせたら天下一品の井上堅二と、裸の若者を描く達人・吉岡公威が繰り出す、酒とノリがあふれる最高のキャンパスライフ!!",
+        "image": "http://books.google.com/books/content?id=0YDHBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 1,
+        "booklist": "fc5ed7b4-f77e-4636-a349-52c470029e0e"
+      },
+      {
+        "id": "0ae229b4-7ad9-49b3-af85-96c85e6ab3d4",
+        "title": "ヒナまつり",
+        "description": "女の子のすこやかなる成長を願うのが雛祭り。傍若無人なサイキッカー・ヒナ、けなげなホームレス・アンズ、ハイスペックな巻き込まれ中学生・瞳。『ヒナまつり』に登場する３人の女の子たちもすこやかに成長していきます。雛祭りを祝して、描き下ろしのおまけ漫画は２本立て！",
+        "image": "http://books.google.com/books/content?id=s1hWDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 2,
+        "booklist": "fc5ed7b4-f77e-4636-a349-52c470029e0e"
+      },
+      {
+        "id": "2b5243cc-cf44-45f3-be1b-6e9072a02dcd",
+        "title": "日常",
+        "description": "普段はおとなしめな夢見る女子高生・みおのまわりにはロボやら大福やら謎なものがいっぱい。五巻でも微妙にすれ違い続ける日常。話題のポストモダンギャグ第五巻!",
+        "image": "http://books.google.com/books/content?id=3fmIewtH1RwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 3,
+        "booklist": "fc5ed7b4-f77e-4636-a349-52c470029e0e"
+      },
+      {
+        "id": "09e0e7dc-f7bc-41a0-b1f3-843912b211d3",
+        "title": "ぼっち・ざ・ろっく！",
+        "description": "「ぼっちちゃん」こと後藤ひとりは、ギターを愛する孤独な少女。 家で一人寂しく弾くだけの毎日でしたが、ひょんなことから伊地知虹夏が率いる「結束バンド」に加入することに。 人前での演奏に不慣れな後藤は、立派なバンドマンになれるのか！？ 全国のぼっちな少年少女に届ける、いま最高にアツい音楽漫画！！",
+        "image": "http://books.google.com/books/content?id=FmaFDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 4,
+        "booklist": "fc5ed7b4-f77e-4636-a349-52c470029e0e"
+      }
+    ],
+    "is_completed": true
+  },
+  {
+    "id": "1668d1d6-9fdc-4ea2-91a1-b0961ed4bfb5",
+    "type": {
+      "id": "50257c87-7406-4f59-a3d4-8a02126ab825",
+      "type": "ギャグ",
+      "booklist": {
+        "is_completed": null
+      }
+    },
+    "owner": {
+      "id": "6f940898-5f73-449f-8cf3-7177978929b8",
+      "username": "徳丸晴天",
+      "is_superuser": false
+    },
+    "books": [
+      {
+        "id": "0aac5ae8-1672-48ae-b426-2562b0d39d20",
+        "title": "日常",
+        "description": "普段はおとなしめな謎の女子高生・麻衣のまわりにはロボやら大福やら謎なものでいっぱい。八巻でもシュールなのかかわいいのか予断を許さない日常。夢、幻の如くなり。",
+        "image": "http://books.google.com/books/content?id=ehnN3k3yOpwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 0,
+        "booklist": "1668d1d6-9fdc-4ea2-91a1-b0961ed4bfb5"
+      },
+      {
+        "id": "d167721d-824e-4f09-a219-011e6c2e598f",
+        "title": "+チック姉さん",
+        "description": "箕輪ハルナの「勃気」、超越──。 「昨日、家の前に赤ちゃんが湧いてなー、私は迷惑した」「あいつらはまた、やりたい放題やるに決まっている」書道部だけど、街に出没する女性赤ちゃんを討伐するため武器を調達した姉さんたちの青春チックコメディー24巻。",
+        "image": "http://books.google.com/books/content?id=orc60AEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+        "order": 1,
+        "booklist": "1668d1d6-9fdc-4ea2-91a1-b0961ed4bfb5"
+      },
+      {
+        "id": "c20be80b-fd6a-4e0d-8317-cf2cefd0f1c5",
+        "title": "あそびあそばせ",
+        "description": "まさかのオリヴィア帰国!?その時、華子と香純の取った行動とは…。濃すぎる新キャラも登場で、ますます賑やか♪爆笑お遊戯コメディ、ついに10巻突入です!!",
+        "image": "http://books.google.com/books/content?id=kXPzDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 2,
+        "booklist": "1668d1d6-9fdc-4ea2-91a1-b0961ed4bfb5"
+      },
+      {
+        "id": "26633284-87d5-4388-a50d-10a8b3b2bd67",
+        "title": "らき☆すた",
+        "description": "マンガ、アニメが大好きな女子高生・こなたは、好きなもののためには努力を惜しまない女の子。そんな彼女が友達と繰り広げる、思わず突っ込みたくなる、共感したくなるネタ満載で、ついにやけてしまうそんな一冊! ※本書は、『らき☆すた』を電子配信用に再構成し、2分割した特別版です。",
+        "image": "http://books.google.com/books/content?id=SnMw7u1ujTgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 3,
+        "booklist": "1668d1d6-9fdc-4ea2-91a1-b0961ed4bfb5"
+      },
+      {
+        "id": "2ffbc187-e64a-4df2-817c-afd892ac31bc",
+        "title": "小林さんちのメイドラゴン",
+        "description": "アパートに住む小林さんのもとに、メイドとして押しかけて同居しているトール。トールは、人類のことは基本、下等で愚かだと思っているけれど、小林さんには過去に助けてもらった恩があるため、全力でご奉仕。今日もあの手この手で頑張るのでした。ドラゴン娘と１人暮らしお疲れOLの人外系日常コメディ！",
+        "image": "http://books.google.com/books/content?id=f9hYCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 4,
+        "booklist": "1668d1d6-9fdc-4ea2-91a1-b0961ed4bfb5"
+      }
+    ],
+    "is_completed": true
+  },
+  {
+    "id": "404b0461-741f-43a2-8735-14ba34c4912e",
+    "type": {
+      "id": "50257c87-7406-4f59-a3d4-8a02126ab825",
+      "type": "ギャグ",
+      "booklist": {
+        "is_completed": null
+      }
+    },
+    "owner": {
+      "id": "50179d9c-5b0e-4af1-a624-737ec437fd2a",
+      "username": "森野穣",
+      "is_superuser": false
+    },
+    "books": [
+      {
+        "id": "f594f6f9-1416-4e31-9d6f-dde474fde9a0",
+        "title": "荒川アンダー ザ ブリッジ",
+        "description": "ニノが河川敷の外へ…！ 失恋死の危機を乗り越えリクは追う！ 河川敷から始まった電波なラブコメついに完結！",
+        "image": "http://books.google.com/books/content?id=A57FDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 0,
+        "booklist": "404b0461-741f-43a2-8735-14ba34c4912e"
+      },
+      {
+        "id": "785b5a49-c486-4d9d-8d17-698ff49dbbc2",
+        "title": "ボボボーボ・ボーボボ",
+        "description": "西暦300X年、全世界を支配する皇帝は、国民全てをボーズにすべく「毛狩り」を開始！ そんな世に一人の男が現れた！ その名もボボボーボ・ボーボボ！ 究極の拳法「鼻毛真拳」を使う彼こそ、救世主だといいな!?",
+        "image": "http://books.google.com/books/content?id=AfXJCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 1,
+        "booklist": "404b0461-741f-43a2-8735-14ba34c4912e"
+      },
+      {
+        "id": "90bebb04-962e-4987-bc57-12c2514be303",
+        "title": "男子高校生の日常",
+        "description": "ネットで話題騒然となった、「男子高校生の日常」の単行本１巻がついに登場！ ショートギャグ１５本に加え、「お嬢様の日常」、描き下ろし「女子高生は異常」が収録され、読み応え十分な１冊です!!!",
+        "image": "http://books.google.com/books/content?id=zZ_FDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 2,
+        "booklist": "404b0461-741f-43a2-8735-14ba34c4912e"
+      },
+      {
+        "id": "0e744cbd-0987-4db3-9848-23f84bf3d50f",
+        "title": "主に泣いてます",
+        "description": "死にもの狂いで非モテ道！ あり余る美貌が故、絶対的不幸に苛まれる美人絵画モデル・紺野泉（こんの・いずみ）。涙腺、ゆるゆる。幸せ、ぽろぽろ。あの手この手で“非モテ道”に邁進する川沿い美人協奏曲、開演。これこそ、誰も描かなかった不幸――東村ワールド、炸裂です!!",
+        "image": "http://books.google.com/books/content?id=BV7GBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 3,
+        "booklist": "404b0461-741f-43a2-8735-14ba34c4912e"
+      },
+      {
+        "id": "33b10a80-e657-4dbb-9faf-3884ccf70d5f",
+        "title": "エンジェル伝説",
+        "description": "【ページ数が多いビッグボリューム版！】その容貌が災いして（？）番長になってしまった北野君。そのつもりは全くないのに近隣校の番長を次々と倒し、最恐伝説はノンストップ!! だが、立て続けに起きたケンカを逆手にとって生徒会長・須田が暗躍し始めた!? ケンカと恋の渦巻く最“恐”顔ギャグ第2巻!!",
+        "image": "http://books.google.com/books/content?id=V6zICwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 4,
+        "booklist": "404b0461-741f-43a2-8735-14ba34c4912e"
+      }
+    ],
+    "is_completed": true
+  },
+  {
+    "id": "c5f64c5d-bc59-4574-9d78-eb0b45e5a3e7",
+    "type": {
+      "id": "50257c87-7406-4f59-a3d4-8a02126ab825",
+      "type": "ギャグ",
+      "booklist": {
+        "is_completed": null
+      }
+    },
+    "owner": {
+      "id": "645ea896-f934-4d83-bd44-f47334a367fc",
+      "username": "森　陽光",
+      "is_superuser": false
+    },
+    "books": [
+      {
+        "id": "66887dbd-ce34-4ff2-b8ab-107ad207731e",
+        "title": "ＵＱ　ＨＯＬＤＥＲ！",
+        "description": "『ラブひな』『ネギま！』の赤松健、待望の新作はバトルファンタジー！！ ろくでもないモノになってしまった者達の物語。――都に行って一旗揚げる！ それが近衛刀太（このえ・とうた）の大きな夢。村長が課した旅立ちの条件は、育ての親であり、優れた魔法の使い手、雪姫（ゆきひめ）を倒してみせること。雪姫に挑戦する日々を送っていた刀太だが、2人の前に現れた賞金稼ぎによって、平穏だった日々は終わりを告げる！",
+        "image": "http://books.google.com/books/content?id=mY_KBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 0,
+        "booklist": "c5f64c5d-bc59-4574-9d78-eb0b45e5a3e7"
+      },
+      {
+        "id": "4371bb3d-a9e8-439d-a085-e358537da4df",
+        "title": "左門くんはサモナー",
+        "description": "優しく無欲な女子高生・天使ヶ原さんが出会った、ナゾの転校生・左門くん。彼は悪魔の召喚が趣味の召喚術士（サモナー）で、おまけに 生粋の善人嫌い!! アノ手コノ手で天使ヶ原さんを「欲」の道に導こうとするが…!? 強毒性召喚術士コメディ、開幕――!! ●特別収録／読切版『モロモノの事情』",
+        "image": "http://books.google.com/books/content?id=5lrKCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 1,
+        "booklist": "c5f64c5d-bc59-4574-9d78-eb0b45e5a3e7"
+      },
+      {
+        "id": "cc61aec7-1285-4fd8-86ef-7f721a345c54",
+        "title": "マコさんは死んでも自立しない",
+        "description": "高校生・遠野隣は、とある事情で大好きな女子大生・栗橋真子さんと同居中。ピュアな二人は相思相愛。でも、本人たちは気づいてなくて……。“愛”で満ち、“愛”にあふれ、“愛”にまみれたかわいくて、愛しくて、幸せなだけの２人の日々！",
+        "image": "http://books.google.com/books/content?id=Uv5TDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 2,
+        "booklist": "c5f64c5d-bc59-4574-9d78-eb0b45e5a3e7"
+      },
+      {
+        "id": "6807e8f4-993e-4ae0-9c27-afe2dd18f202",
+        "title": "未登録",
+        "description": "未登録",
+        "image": null,
+        "order": 3,
+        "booklist": "c5f64c5d-bc59-4574-9d78-eb0b45e5a3e7"
+      },
+      {
+        "id": "0730f5ea-34ae-48f1-8afe-d22e953a8e9f",
+        "title": "未登録",
+        "description": "未登録",
+        "image": null,
+        "order": 4,
+        "booklist": "c5f64c5d-bc59-4574-9d78-eb0b45e5a3e7"
+      }
+    ],
+    "is_completed": false
+  },
+  {
+    "id": "4e2216d4-9a42-480f-8748-bf762f6964a5",
+    "type": {
+      "id": "50257c87-7406-4f59-a3d4-8a02126ab825",
+      "type": "ギャグ",
+      "booklist": {
+        "is_completed": null
+      }
+    },
+    "owner": {
+      "id": "fe297bd5-7658-493e-ae4a-d89929aebd34",
+      "username": "横井優",
+      "is_superuser": false
+    },
+    "books": [
+      {
+        "id": "a6f26656-8ced-4919-badc-a5d1e87532ca",
+        "title": "銀魂",
+        "description": "江戸では、突如宙から舞い降りた異人「天人」の台頭と廃刀令により侍が衰退の一途をたどっていた。しかし一人、侍の魂を堅持する男が…。その名は坂田銀時。甘党＆無鉄砲なこの男が、腐った江戸を一刀両断…するかも!?",
+        "image": "http://books.google.com/books/content?id=lwLKCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 0,
+        "booklist": "4e2216d4-9a42-480f-8748-bf762f6964a5"
+      },
+      {
+        "id": "3b58e45b-51b1-4b7e-a9b8-a80968e9b49e",
+        "title": "男子高校生の日常",
+        "description": "ネットで話題騒然となった、「男子高校生の日常」の単行本１巻がついに登場！ ショートギャグ１５本に加え、「お嬢様の日常」、描き下ろし「女子高生は異常」が収録され、読み応え十分な１冊です!!!",
+        "image": "http://books.google.com/books/content?id=zZ_FDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 1,
+        "booklist": "4e2216d4-9a42-480f-8748-bf762f6964a5"
+      },
+      {
+        "id": "92a95bfb-dc50-4e28-852d-0acb69c4f1cb",
+        "title": "斉木楠雄のΨ難",
+        "description": "彼の名前は斉木楠雄、超能力者である。誰もが羨む才能も、本人にとっては災難を呼ぶ不幸の元凶。故に人前では力を封印、目立たず人と関わらずを心掛けてきた斉木だったが、何故かワケあり同級生が急接近!?",
+        "image": "http://books.google.com/books/content?id=WO3JCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 2,
+        "booklist": "4e2216d4-9a42-480f-8748-bf762f6964a5"
+      },
+      {
+        "id": "b1d9b20c-daf0-4fc2-bf10-721e87531364",
+        "title": "坂本ですが?",
+        "description": "この物語は、とあるクール、いや、クーレストな高校生・坂本の学園生活を綴ったものである——。入学早々、クラスの、いや学校中の注目を集める一人の生徒がいた。その名は坂本（さかもと）。彼にかかれば、ただの反復横跳びは、秘技「レペティションサイドステップ」へと変貌し、上級生からの「パシリ」は、「おもてなし」へとクラスチェンジする。そんな彼のクールな一挙手一投足から、目が離せない。漫画誌ハルタで熱い注目を浴びる人気連載がついに単行本化！ 端整な絵柄で本物の笑いを生み出す新鋭・佐野菜見のデビュー作。肩パッドを巡る熱いほとばしりを描く読切「肩幅ひろし」を特別収録！",
+        "image": "http://books.google.com/books/content?id=8VhWDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 3,
+        "booklist": "4e2216d4-9a42-480f-8748-bf762f6964a5"
+      },
+      {
+        "id": "d69f3904-9a18-4b51-b578-a49cce784303",
+        "title": "ボボボーボ・ボーボボ",
+        "description": "西暦300X年、全世界を支配する皇帝は、国民全てをボーズにすべく「毛狩り」を開始！ そんな世に一人の男が現れた！ その名もボボボーボ・ボーボボ！ 究極の拳法「鼻毛真拳」を使う彼こそ、救世主だといいな!?",
+        "image": "http://books.google.com/books/content?id=AfXJCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 4,
+        "booklist": "4e2216d4-9a42-480f-8748-bf762f6964a5"
+      }
+    ],
+    "is_completed": true
+  },
+  {
+    "id": "61fe4758-8d04-4e2e-9ee9-a58bd86c2bb0",
+    "type": {
+      "id": "50257c87-7406-4f59-a3d4-8a02126ab825",
+      "type": "ギャグ",
+      "booklist": {
+        "is_completed": null
+      }
+    },
+    "owner": {
+      "id": "837d681c-5447-4ac6-b21a-62448021dcc8",
+      "username": "武内謙晴",
+      "is_superuser": false
+    },
+    "books": [
+      {
+        "id": "e327fc07-694d-4cda-a408-de08523e0a18",
+        "title": "銀魂",
+        "description": "銀さんの財布をスッた少年。吉原一番の花魁を買うつもりだと話す少年の真意とは!? 悲運に翻弄される母子の為に一肌脱ぐ万事屋。だが事は、吉原を統べる“夜王”を敵に回す大騒乱に。暗雲漂う吉原に神楽因縁の人物が!!",
+        "image": "http://books.google.com/books/content?id=ZejKCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 0,
+        "booklist": "61fe4758-8d04-4e2e-9ee9-a58bd86c2bb0"
+      },
+      {
+        "id": "66f3bd3b-8b3a-465c-9325-7ad940a047e1",
+        "title": "こちら葛飾区亀有公園前派出所",
+        "description": "いずこも混み合うゴールデンウィークに、両さんは檸檬たちを連れて都会の穴場、交通博物館へ。ところがなぜか館内は、鉄道オタクで超満員！博物館は、その長い歴史に幕を降ろそうとしていたのだ…。「交通博物館物語の巻」他８編収録！",
+        "image": "http://books.google.com/books/content?id=7D3MCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 1,
+        "booklist": "61fe4758-8d04-4e2e-9ee9-a58bd86c2bb0"
+      },
+      {
+        "id": "753acfd8-2390-460a-9756-90f776a4dab3",
+        "title": "斉木楠雄のΨ難",
+        "description": "スイーツが大好物の楠雄が出かけたのは、最近評判の洋菓子店。しかし店には女性限定スイーツバイキングの張り紙が！ 超能力で女体化してバイキングに参加した楠雄だが、そこにはクラスメイトの3人娘が!?",
+        "image": "http://books.google.com/books/content?id=HN_LCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 2,
+        "booklist": "61fe4758-8d04-4e2e-9ee9-a58bd86c2bb0"
+      },
+      {
+        "id": "cf16eb05-ad54-4c6e-84e7-aadfe5c42a35",
+        "title": "ドラゴンボール",
+        "description": "Songoku has a superhuman power living in a mountain. One day, Songoku gets to know about '7 Dragon Balls', which will grant any wishes, and leave to collect them. On the way, Bulma joins and they together start on a journey!",
+        "image": "http://books.google.com/books/content?id=SL39GgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+        "order": 3,
+        "booklist": "61fe4758-8d04-4e2e-9ee9-a58bd86c2bb0"
+      },
+      {
+        "id": "ab50148f-25f1-4cce-878e-6b051bcf6775",
+        "title": "ボボボーボ・ボーボボ",
+        "description": "西暦300X年、全世界を支配する皇帝は、国民全てをボーズにすべく「毛狩り」を開始！ そんな世に一人の男が現れた！ その名もボボボーボ・ボーボボ！ 究極の拳法「鼻毛真拳」を使う彼こそ、救世主だといいな!?",
+        "image": "http://books.google.com/books/content?id=AfXJCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 4,
+        "booklist": "61fe4758-8d04-4e2e-9ee9-a58bd86c2bb0"
+      }
+    ],
+    "is_completed": true
+  },
+  {
+    "id": "22a8335a-552a-491e-b9d6-98c38a337b8d",
+    "type": {
+      "id": "50257c87-7406-4f59-a3d4-8a02126ab825",
+      "type": "ギャグ",
+      "booklist": {
+        "is_completed": null
+      }
+    },
+    "owner": {
+      "id": "02e06a07-b322-4ac1-8c9e-6c1a789c7bf6",
+      "username": "池町和史",
+      "is_superuser": false
+    },
+    "books": [
+      {
+        "id": "5b10a6bf-6ca0-4600-95df-41c56c50471e",
+        "title": "銀魂",
+        "description": "【デジタル着色によるフルカラー版！】江戸では、突如宙から舞い降りた異人「天人」の台頭と廃刀令により侍が衰退の一途をたどっていた。しかし一人、侍の魂を堅持する男が…。その名は坂田銀時。甘党＆無鉄砲なこの男が、腐った江戸を一刀両断…するかも!? ※巻末に「だんでらいおん」（モノクロ版）も収録。",
+        "image": "http://books.google.com/books/content?id=ovY7DAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 0,
+        "booklist": "22a8335a-552a-491e-b9d6-98c38a337b8d"
+      },
+      {
+        "id": "293a50ff-9b6f-4741-8156-876fff3dc162",
+        "title": "宇宙戦艦ティラミス",
+        "description": "宇宙暦０１５６年、地球連邦政府と宇宙移民との抗争は激化していた。戦局を打開する為、地球連邦は新鋭宇宙軍用艦「ティラミス」を出航させる――。ティラミスの若きエース、スバル・イチノセは、眉目秀麗、成績優秀な天才パイロット。……だが彼の真の姿は、ティラミス艦内の集団生活に馴染めず、いつも専用機・汎用人型機動兵器デュランダルのコックピットにひきこもってばかりいる奴で……。孤独のコックピットギャグ、出撃!!",
+        "image": "http://books.google.com/books/content?id=G2MZDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 1,
+        "booklist": "22a8335a-552a-491e-b9d6-98c38a337b8d"
+      },
+      {
+        "id": "eaf1add7-b9b2-44e9-8690-98389aca3176",
+        "title": "織田シナモン信長",
+        "description": "中毒者続出!!既刊本続々重版で大ブレイク中!唯一無二の武将犬転生漫画、第5巻!!今、歴史が覆る!!本能寺の変にて信長を討った謀反者は明智光秀じゃなかった!?そして、犬たちがトリミング(毛刈り)でイメージ一新?第5巻も武将犬たちの可愛さ全開で走り抜けます!",
+        "image": "http://books.google.com/books/content?id=WBdpDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 2,
+        "booklist": "22a8335a-552a-491e-b9d6-98c38a337b8d"
+      },
+      {
+        "id": "88a807d1-bf3d-469d-b1ad-49e2e56f8f66",
+        "title": "吸血鬼すぐ死ぬ",
+        "description": "行方不明の子供を助けるため、真祖にして無敵の吸血鬼・ドラルクの城にやってきた吸血鬼ハンター・ロナルド! だがドラルクの正体は、凄まじい頻度で死んで塵と化す史上最弱のザコ吸血鬼で!?",
+        "image": "http://books.google.com/books/content?id=-PDYDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 3,
+        "booklist": "22a8335a-552a-491e-b9d6-98c38a337b8d"
+      },
+      {
+        "id": "364b31e2-4faf-439a-acf7-bf53c137116e",
+        "title": "学園BASARA",
+        "description": "『戦国BASARA』シリーズに登場する武将たちが、戦場から学園を舞台にして大騒ぎするアンソロジー第8弾！ 今回は学園祭で政宗、幸村、家康、三成、左近、勝家をはじめとするおなじみの武将たちが大暴れ!?",
+        "image": "http://books.google.com/books/content?id=Bq11CQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 4,
+        "booklist": "22a8335a-552a-491e-b9d6-98c38a337b8d"
+      }
+    ],
+    "is_completed": true
+  },
+  {
+    "id": "2e709085-f40d-4e7f-83cb-6b956213b175",
+    "type": {
+      "id": "50257c87-7406-4f59-a3d4-8a02126ab825",
+      "type": "ギャグ",
+      "booklist": {
+        "is_completed": null
+      }
+    },
+    "owner": {
+      "id": "7a033b80-339b-4227-a0f6-23cafad98b24",
+      "username": "清野陽平",
+      "is_superuser": false
+    },
+    "books": [
+      {
+        "id": "4054f43c-0e02-4ce5-82b0-5fe9a6c3c026",
+        "title": "日常",
+        "description": "普段はおとなしめな夢見る女子高生・みおのまわりにはロボやら大福やら謎なものがいっぱい。五巻でも微妙にすれ違い続ける日常。話題のポストモダンギャグ第五巻!",
+        "image": "http://books.google.com/books/content?id=3fmIewtH1RwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 0,
+        "booklist": "2e709085-f40d-4e7f-83cb-6b956213b175"
+      },
+      {
+        "id": "c92d1c54-5682-4002-bbaa-fbb1e9e11be8",
+        "title": "銀魂",
+        "description": "概要情報なし",
+        "image": "http://books.google.com/books/content?id=VTUqNwAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+        "order": 1,
+        "booklist": "2e709085-f40d-4e7f-83cb-6b956213b175"
+      },
+      {
+        "id": "aa083e73-670e-467d-8c71-287af288d513",
+        "title": "こちら葛飾区亀有公園前派出所",
+        "description": "こちら「こち亀」道案内 〜両さんはお巡りさん！〜「亀有に両津がやってきた！の巻」（巻頭カラー） 「両津の決断の巻」／〜両さんの遥かな少年時代〜「おばけ煙突が消えた日の巻」（オールカラー23P） 「ぼくたちの東京タワーの巻」／〜セレブ！ 中川＆麗子〜「中川メモリアル」「中川家の人々〜大集結編〜の巻」「麗子メモリアル」「女の敵 大追跡!!の巻」／〜両さんは人間じゃない!?〜「鉄人レースin葛飾区!!の巻」「女だらけの派出所！の巻」／・時空コラム「東京・下町・葛飾めぐり」",
+        "image": "http://books.google.com/books/content?id=mQPGCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 2,
+        "booklist": "2e709085-f40d-4e7f-83cb-6b956213b175"
+      },
+      {
+        "id": "797f7dc0-74d1-4d9e-9077-adcaad8b134c",
+        "title": "男子高校生の日常",
+        "description": "ネットで話題騒然となった、「男子高校生の日常」の単行本１巻がついに登場！ ショートギャグ１５本に加え、「お嬢様の日常」、描き下ろし「女子高生は異常」が収録され、読み応え十分な１冊です!!!",
+        "image": "http://books.google.com/books/content?id=zZ_FDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 3,
+        "booklist": "2e709085-f40d-4e7f-83cb-6b956213b175"
+      },
+      {
+        "id": "1d819039-4022-4323-a454-50adc71fb2a4",
+        "title": "磯部磯兵衛物語〜浮世はつらいよ〜",
+        "description": "花のお江戸に暮らす青年武士・磯部磯兵衛の夢は立派な武士になること。そのため武士道学校に通い、日々精進…する予定!? 実際は励まず学ばず勤しまず、ぐっだぐだな日々を送る磯兵衛の物語、幕を開けるで候。（『磯部磯兵衛物語』読切作品4本同時収録）",
+        "image": "http://books.google.com/books/content?id=dkHKCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 4,
+        "booklist": "2e709085-f40d-4e7f-83cb-6b956213b175"
+      }
+    ],
+    "is_completed": true
+  },
+  {
+    "id": "fd7610d9-2b52-4064-8f99-e3f1f9ad7476",
+    "type": {
+      "id": "50257c87-7406-4f59-a3d4-8a02126ab825",
+      "type": "ギャグ",
+      "booklist": {
+        "is_completed": null
+      }
+    },
+    "owner": {
+      "id": "15aa4bb0-a688-4b60-8036-c354ea53b174",
+      "username": "渡辺爽斗",
+      "is_superuser": false
+    },
+    "books": [
+      {
+        "id": "70cd5b0d-93ec-44ec-a4af-b140be84ef22",
+        "title": "極主夫道",
+        "description": "元・最凶ヤクザが選んだのは、主夫としての道だった――。話題の新鋭作家がおくる、アットホーム任侠コメディ！",
+        "image": "http://books.google.com/books/content?id=_CxnDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 0,
+        "booklist": "fd7610d9-2b52-4064-8f99-e3f1f9ad7476"
+      },
+      {
+        "id": "039d5964-f655-4809-b113-3b2c4c59d057",
+        "title": "ボボボーボ・ボーボボ",
+        "description": "西暦300X年、全世界を支配する皇帝は、国民全てをボーズにすべく「毛狩り」を開始！ そんな世に一人の男が現れた！ その名もボボボーボ・ボーボボ！ 究極の拳法「鼻毛真拳」を使う彼こそ、救世主だといいな!?",
+        "image": "http://books.google.com/books/content?id=AfXJCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 1,
+        "booklist": "fd7610d9-2b52-4064-8f99-e3f1f9ad7476"
+      },
+      {
+        "id": "e2e24444-1bf6-4682-a176-b156509246bb",
+        "title": "ヒナまつり",
+        "description": "芦川組の若手ホープ・新田の部屋に落ちてきた奇妙な楕円形の物体。それが全ての始まりだった！物体のなかに居たのは、無表情な少女・ヒナ。強力な念動力で新田を脅し、ヒナは新田家に住みつくことに。かくしてヤクザとサイキック少女の危険な共同生活が始まった！漫画誌Fellows!にて、読切から連載化、そして一躍人気作に。読者の熱い支持が押し上げたネオ・ユニバース、遂に単行本刊行！",
+        "image": "http://books.google.com/books/content?id=m1hWDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 2,
+        "booklist": "fd7610d9-2b52-4064-8f99-e3f1f9ad7476"
+      },
+      {
+        "id": "4207d752-66bd-4c1c-a87c-f5ed50b20855",
+        "title": "異世界おじさん",
+        "description": "17年間の昏睡状態から目覚めたおじさんは、異世界からの帰還者だった……。甥っ子たかふみと共同生活を始めたおじさんが語る、新感覚異世界＆異文化コメディ！",
+        "image": "http://books.google.com/books/content?id=cCt6DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 3,
+        "booklist": "fd7610d9-2b52-4064-8f99-e3f1f9ad7476"
+      },
+      {
+        "id": "2bdea09f-e09e-4bd2-ad54-4015c51cf4bd",
+        "title": "姫様“拷問”の時間です",
+        "description": "国王軍と魔王軍が衝突を始め幾年月。王女にして国王軍第三騎士団“騎士団長”の姫は、魔王軍により囚われの身となっていた！ やがて、姫に待ち受けるのは斜め上の拷問の数々で――!? 最も残酷な拷問の時間が今、始まる!!",
+        "image": "http://books.google.com/books/content?id=84KkDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 4,
+        "booklist": "fd7610d9-2b52-4064-8f99-e3f1f9ad7476"
+      }
+    ],
+    "is_completed": true
+  },
+  {
+    "id": "6600c9a4-9b92-48e6-9def-bafcc36b3b1c",
+    "type": {
+      "id": "50257c87-7406-4f59-a3d4-8a02126ab825",
+      "type": "ギャグ",
+      "booklist": {
+        "is_completed": null
+      }
+    },
+    "owner": {
+      "id": "09e422c8-2440-4590-bc0b-a9e5b6de83aa",
+      "username": "田中瑠彗",
+      "is_superuser": false
+    },
+    "books": [
+      {
+        "id": "c4bddfbc-5f06-42ec-ab5a-7226bdfa3383",
+        "title": "こちら葛飾区亀有公園前派出所",
+        "description": "まさかのコミックス続刊！ 両さんたちが変わらず派出所でお騒がせ！ 連載終了から多岐にわたって掲載されたエピソード計11編に加えて、「こち亀展」会場でしか読めなかった展示原稿『想い出の巻』も豪華収録ッ！",
+        "image": "http://books.google.com/books/content?id=7io_EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 0,
+        "booklist": "6600c9a4-9b92-48e6-9def-bafcc36b3b1c"
+      },
+      {
+        "id": "bb422b3d-6b4b-4dcd-a73e-b5e42232f791",
+        "title": "未登録",
+        "description": "未登録",
+        "image": null,
+        "order": 1,
+        "booklist": "6600c9a4-9b92-48e6-9def-bafcc36b3b1c"
+      },
+      {
+        "id": "2f522028-4eaf-4e62-9e82-082de4495dc2",
+        "title": "未登録",
+        "description": "未登録",
+        "image": null,
+        "order": 2,
+        "booklist": "6600c9a4-9b92-48e6-9def-bafcc36b3b1c"
+      },
+      {
+        "id": "9daf4489-84f7-48d1-8889-8fb6011d03d5",
+        "title": "未登録",
+        "description": "未登録",
+        "image": null,
+        "order": 3,
+        "booklist": "6600c9a4-9b92-48e6-9def-bafcc36b3b1c"
+      },
+      {
+        "id": "23641162-b17b-4b0f-a7d7-f5754c8c370b",
+        "title": "未登録",
+        "description": "未登録",
+        "image": null,
+        "order": 4,
+        "booklist": "6600c9a4-9b92-48e6-9def-bafcc36b3b1c"
+      }
+    ],
+    "is_completed": false
+  },
+  {
+    "id": "b6ec0762-cd78-49a5-a5dc-d8b7722f2083",
+    "type": {
+      "id": "50257c87-7406-4f59-a3d4-8a02126ab825",
+      "type": "ギャグ",
+      "booklist": {
+        "is_completed": null
+      }
+    },
+    "owner": {
+      "id": "0d3b53e2-b573-4a3e-8d7d-fd5139adaec9",
+      "username": "田中翔大",
+      "is_superuser": false
+    },
+    "books": [
+      {
+        "id": "047c11b1-caca-49fc-a872-ac32af9cde29",
+        "title": "銀魂",
+        "description": "【フルカラー版！】年に一度の花見の席で銀ちゃん一家と真選組が鉢合わせ。この面子で騒ぎが起きないわけがない。花見の場所を巡り「第一回叩いてかぶってジャンケンポン大会」で勝負することに。そこへ巨大メカを操る桂が乱入し…。",
+        "image": "http://books.google.com/books/content?id=lBmADwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 0,
+        "booklist": "b6ec0762-cd78-49a5-a5dc-d8b7722f2083"
+      },
+      {
+        "id": "109d03e8-35fe-420a-8e93-d99d0ffb26a4",
+        "title": "クレヨンしんちゃん",
+        "description": "むかしむかし埼玉県に『いっすんぼう しんちゃん』という小指サイズの男の子がおったそうな。しんのすけは都のネネ姫様の付き人オーディションを受けるため、おわんの船に乗って都へと旅立った。そうして見事付き人となった風間くんとしんのすけ。ある日ハイキングへと出かけたネネ姫は、赤鬼に襲われてしまい??!!",
+        "image": "http://books.google.com/books/content?id=uvVXCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 1,
+        "booklist": "b6ec0762-cd78-49a5-a5dc-d8b7722f2083"
+      },
+      {
+        "id": "7e87218f-dae5-44de-bbbe-18dad7e706a3",
+        "title": "ドラえもん",
+        "description": "この巻で「ドラえもん」の全てが収録完了！ 大長編シリーズの原点ともなった名作揃いの『少年サンデー』『コロコロコミック』編に加え、『ドラミちゃん』を単行本版と雑誌版の2パターンで初めて完全収録。幻の企画「ドラとバケルともうひとつ」、作者自身による百科企画の先駆け「ドラえもん大事典」、3大主人公豪華競演の「ドラQパーマン」、ドラえもん誕生秘話「ドラえもん誕生」も収めた究極の最終刊！ 解説／平山隆",
+        "image": "http://books.google.com/books/content?id=dtdAEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 2,
+        "booklist": "b6ec0762-cd78-49a5-a5dc-d8b7722f2083"
+      },
+      {
+        "id": "beca208e-b003-43e5-bb9d-e4d799b66c75",
+        "title": "こちら葛飾区亀有公園前派出所",
+        "description": "まさかのコミックス続刊！ 両さんたちが変わらず派出所でお騒がせ！ 連載終了から多岐にわたって掲載されたエピソード計11編に加えて、「こち亀展」会場でしか読めなかった展示原稿『想い出の巻』も豪華収録ッ！",
+        "image": "http://books.google.com/books/content?id=7io_EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 3,
+        "booklist": "b6ec0762-cd78-49a5-a5dc-d8b7722f2083"
+      },
+      {
+        "id": "7a9c6cfd-72f2-4147-9ffa-a5188f47e34a",
+        "title": "絶体絶命 でんぢゃらすじーさん",
+        "description": "概要情報なし",
+        "image": "http://books.google.com/books/content?id=WDD2CgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 4,
+        "booklist": "b6ec0762-cd78-49a5-a5dc-d8b7722f2083"
+      }
+    ],
+    "is_completed": true
+  },
+  {
+    "id": "d00ca16a-9aa8-4e1d-9310-fa189e91a4e4",
+    "type": {
+      "id": "50257c87-7406-4f59-a3d4-8a02126ab825",
+      "type": "ギャグ",
+      "booklist": {
+        "is_completed": null
+      }
+    },
+    "owner": {
+      "id": "609c8ebd-0a18-44d3-9174-1ec336924712",
+      "username": "田崎丈太郎",
+      "is_superuser": false
+    },
+    "books": [
+      {
+        "id": "ecc7adce-b52c-40b5-8906-3a6e7a84df94",
+        "title": "月刊少女野崎くん",
+        "description": "無骨な男子高校生「野崎梅太郎」。彼に恋をした女子高生「佐倉千代」は勇気を振り絞って告白するものの、何故か恋人ではなく少女漫画家のアシスタントになったのでした…。男子高校生でありながら人気少女漫画家でもある野崎くんの日常を描く、少女漫画家男子コメディー!!",
+        "image": "http://books.google.com/books/content?id=qqLFDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 0,
+        "booklist": "d00ca16a-9aa8-4e1d-9310-fa189e91a4e4"
+      },
+      {
+        "id": "641e100a-f724-45cd-b490-8e6db571b29d",
+        "title": "WORKING!!",
+        "description": "日本一の４コマWEBサイトが生んだドキドキハラハラのファミレスバイト４コマ!!",
+        "image": "http://books.google.com/books/content?id=q53FDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 1,
+        "booklist": "d00ca16a-9aa8-4e1d-9310-fa189e91a4e4"
+      },
+      {
+        "id": "33cf0f64-41ff-49d3-a02b-f2970e700955",
+        "title": "だがしかし",
+        "description": "ここは、のどかな田舎町。 駄菓子屋の息子・ココノツはある日、都会から来た美少女に出会う… 「うまい棒で最高の組み合わせを作って、私を満足させてごらんなさい！！」 「見せてあげるわ…ポテトフライの一番贅沢な食べ方…！！」 うまい棒、ブタメン、ラムネなどなど…駄菓子マニアの美少女・ほたるが繰り出す数々の駄菓子たちに…困惑するココノツ！！ こうして、少年×少女×駄菓子のおかしな夏が始まった…！！",
+        "image": "http://books.google.com/books/content?id=ifb5CgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 2,
+        "booklist": "d00ca16a-9aa8-4e1d-9310-fa189e91a4e4"
+      },
+      {
+        "id": "e665cda5-2e95-4dbf-bfd4-459c5ec2ce52",
+        "title": "超巡！超条先輩",
+        "description": "超能力捜査官 それは読心術や千里眼、テレパシーといったありとあらゆる超能力を駆使する犯罪捜査のスペシャリスト。しかし、そんな力を持ちながらも、場末の交番で働く街の厄介者がいた!! その名は超条巡。人は彼を超能力巡査長と呼ぶ!! 予測不能の超能力ポリスコメディ開幕!!",
+        "image": "http://books.google.com/books/content?id=Y1AEEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 3,
+        "booklist": "d00ca16a-9aa8-4e1d-9310-fa189e91a4e4"
+      },
+      {
+        "id": "19c3458c-8baa-4b47-9c29-55df0b004840",
+        "title": "惰性67パーセント",
+        "description": "美術系の大学に通う、女子大学生・吉澤みなみ。彼女の住む部屋には、毎日友達が入り浸って…!? リア充ってほどではないけれど、ソコソコ楽しい日常が、惰性でダラダラ続いていく。ちょっとエッチで小難しい、女子大学生お部屋コメディ、始まるよ。",
+        "image": "http://books.google.com/books/content?id=ilTKCwAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+        "order": 4,
+        "booklist": "d00ca16a-9aa8-4e1d-9310-fa189e91a4e4"
+      }
+    ],
+    "is_completed": true
+  },
+  {
+    "id": "4477975e-9c7a-4dde-81a1-caf41dc3e1a6",
+    "type": {
+      "id": "50257c87-7406-4f59-a3d4-8a02126ab825",
+      "type": "ギャグ",
+      "booklist": {
+        "is_completed": null
+      }
+    },
+    "owner": {
+      "id": "30659a3e-e853-4b41-a63f-eef28a81711e",
+      "username": "田所拓人",
+      "is_superuser": false
+    },
+    "books": [
+      {
+        "id": "ca6c6397-7395-461d-b48a-f13cfb02429e",
+        "title": "銀魂",
+        "description": "神楽が父親に連れられ故郷の星へ帰ることに！ 更に謎の巨大生物も現れ!? 万事屋はこのまま解散してしまうのか!? 他にも女だらけのヒロイン争いとか怖〜いお隣さんとか真選組のデート尾行とか…万事屋は今日もワイワイ大騒ぎ!!",
+        "image": "http://books.google.com/books/content?id=xQXKCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 0,
+        "booklist": "4477975e-9c7a-4dde-81a1-caf41dc3e1a6"
+      },
+      {
+        "id": "304f2e51-a5cb-4fd2-9658-2f836fba3e50",
+        "title": "月刊少女野崎くん",
+        "description": "無骨な男子高校生「野崎梅太郎」。彼に恋をした女子高生「佐倉千代」は勇気を振り絞って告白するものの、何故か恋人ではなく少女漫画家のアシスタントになったのでした…。男子高校生でありながら人気少女漫画家でもある野崎くんの日常を描く、少女漫画家男子コメディー!!",
+        "image": "http://books.google.com/books/content?id=qqLFDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 1,
+        "booklist": "4477975e-9c7a-4dde-81a1-caf41dc3e1a6"
+      },
+      {
+        "id": "75ba1957-f366-4bde-b795-39d301ed0b13",
+        "title": "聖☆おにいさん",
+        "description": "目覚めた人・ブッダ、神の子・イエス。世紀末を無事に越えた二人は、東京・立川でアパートをシェアし、下界でバカンスを過ごしていた。近所のおばちゃんのように細かいお金を気にするブッダ。衝動買いが多いイエス。そんな“最聖”コンビの立川デイズ。“笑い”でも世界を救う！ 聖人in立川。ブッダとイエスのぬくぬくコメディ。",
+        "image": "http://books.google.com/books/content?id=YaXDBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 2,
+        "booklist": "4477975e-9c7a-4dde-81a1-caf41dc3e1a6"
+      },
+      {
+        "id": "eafc24b6-c1c0-4c20-aea3-01173615c90a",
+        "title": "荒川アンダー ザ ブリッジ",
+        "description": "ニノが河川敷の外へ…！ 失恋死の危機を乗り越えリクは追う！ 河川敷から始まった電波なラブコメついに完結！",
+        "image": "http://books.google.com/books/content?id=A57FDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 3,
+        "booklist": "4477975e-9c7a-4dde-81a1-caf41dc3e1a6"
+      },
+      {
+        "id": "25308c8f-8679-4085-abcc-13ac56068e3a",
+        "title": "異世界おじさん",
+        "description": "17年間の昏睡状態から目覚めたおじさんは、異世界からの帰還者だった……。甥っ子たかふみと共同生活を始めたおじさんが語る、新感覚異世界＆異文化コメディ！",
+        "image": "http://books.google.com/books/content?id=cCt6DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 4,
+        "booklist": "4477975e-9c7a-4dde-81a1-caf41dc3e1a6"
+      }
+    ],
+    "is_completed": true
+  },
+  {
+    "id": "069ebcbb-f06a-45be-ad71-4271f293bd95",
+    "type": {
+      "id": "50257c87-7406-4f59-a3d4-8a02126ab825",
+      "type": "ギャグ",
+      "booklist": {
+        "is_completed": null
+      }
+    },
+    "owner": {
+      "id": "b41f95b2-91a9-4bb9-813e-05ab6001c6de",
+      "username": "真田葵生",
+      "is_superuser": false
+    },
+    "books": [
+      {
+        "id": "f70190da-cdd9-4e75-b108-67d582743de4",
+        "title": "あそびあそばせ",
+        "description": "まさかのオリヴィア帰国!?その時、華子と香純の取った行動とは…。濃すぎる新キャラも登場で、ますます賑やか♪爆笑お遊戯コメディ、ついに10巻突入です!!",
+        "image": "http://books.google.com/books/content?id=kXPzDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 0,
+        "booklist": "069ebcbb-f06a-45be-ad71-4271f293bd95"
+      },
+      {
+        "id": "f4418201-4bfb-42f7-b59e-ac18b7cd1f01",
+        "title": "銀魂",
+        "description": "ある歪んだ思惑から月詠に接近したかつての師匠・地雷亜。弟子を裏切る非道な師に、銀時が怒りの刃で立ち向かう。だが地雷亜の強さは想像を絶し……!? 他にもあの女の酒グセとか、歯医者でドリられたりとか。",
+        "image": "http://books.google.com/books/content?id=fT3MCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 1,
+        "booklist": "069ebcbb-f06a-45be-ad71-4271f293bd95"
+      },
+      {
+        "id": "5f171004-2605-465f-bce3-a8443b40e167",
+        "title": "斉木楠雄のΨ難",
+        "description": "陰謀により空助の側についた鳥束は、新能力“悪魔憑き”を使い楠雄の体を強制的に乗っ取ることに成功。楠雄の体を使って、今までの恨みを晴らすべく行動を開始した鳥束に、なすすべもない楠雄。空助の真意とは――!?",
+        "image": "http://books.google.com/books/content?id=v65TDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 2,
+        "booklist": "069ebcbb-f06a-45be-ad71-4271f293bd95"
+      },
+      {
+        "id": "768e3e8b-e715-448b-a295-9f03b5cd0406",
+        "title": "日常",
+        "description": "普段はおとなしめな夢見る女子高生・みおのまわりにはロボやら大福やら謎なものがいっぱい。五巻でも微妙にすれ違い続ける日常。話題のポストモダンギャグ第五巻!",
+        "image": "http://books.google.com/books/content?id=3fmIewtH1RwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 3,
+        "booklist": "069ebcbb-f06a-45be-ad71-4271f293bd95"
+      },
+      {
+        "id": "75fda383-7ff3-448a-ae17-0219833cf393",
+        "title": "ポプテピピック",
+        "description": "概要情報なし",
+        "image": "http://books.google.com/books/content?id=KmtUDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 4,
+        "booklist": "069ebcbb-f06a-45be-ad71-4271f293bd95"
+      }
+    ],
+    "is_completed": true
+  },
+  {
+    "id": "00d225df-d53f-4c11-bfc5-6019a8a6a055",
+    "type": {
+      "id": "50257c87-7406-4f59-a3d4-8a02126ab825",
+      "type": "ギャグ",
+      "booklist": {
+        "is_completed": null
+      }
+    },
+    "owner": {
+      "id": "3b0f0ea8-0efe-451b-ad80-5950adf25b0e",
+      "username": "石田優希",
+      "is_superuser": false
+    },
+    "books": [
+      {
+        "id": "583472d4-c07c-474f-811f-9ff8ea001749",
+        "title": "銀魂",
+        "description": "在江戶，因為突然從宇宙來的異人「天人」勢力的抬頭加上頒布廢刀令，使得武士走上衰退的道路。但是有個人依然堅持武士的靈魂…。他叫做?田銀時。這個喜歡吃甜食＆又無厘頭的傢伙，說不定能將腐敗的江戶給一分為二呢……？",
+        "image": "http://books.google.com/books/content?id=_3ItDwAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+        "order": 0,
+        "booklist": "00d225df-d53f-4c11-bfc5-6019a8a6a055"
+      },
+      {
+        "id": "98a510f3-d446-40de-97b5-aafcc772cdbb",
+        "title": "拷問バイトくんの日常",
+        "description": "Twitter・pixivで話題騒然&同人版が即完売のブラックコメディがついに単行本化! ここは殺しや拷問が合法化された世界。 拷問会社で働くアルバイトのセロは、先輩のシウとともに、日々楽しく拷問にいそしんでいた。 そこに新人バイトのミケとヒューも加わって――? アットホームでゆる~い職場と、エグい拷問のギャップに中毒者続出! アナタの性癖にぶっ刺さる、ちょっぴりダークなお仕事コメディ★ 2023年4月刊",
+        "image": "http://books.google.com/books/content?id=_JOtzwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+        "order": 1,
+        "booklist": "00d225df-d53f-4c11-bfc5-6019a8a6a055"
+      },
+      {
+        "id": "ae157498-a4aa-4c6c-9d2b-83cc61e84071",
+        "title": "幼稚園WARS",
+        "description": "私は全世界のイケメンの味方です 後輩ハナ、突然の裏切り！ しかし彼女もまた、裏で糸を引いていた父に撃たれてしまう…。絶対絶命のピンチの中、爆発に巻き込まれたはずのリタが姿を現す!! 一触即発の真剣遊戯を制するのは…!? 他クラスのイケメン担任も新登場！ バイオレンス×ラブコメディ第2巻!!",
+        "image": "http://books.google.com/books/content?id=V3CwEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 2,
+        "booklist": "00d225df-d53f-4c11-bfc5-6019a8a6a055"
+      },
+      {
+        "id": "8a9bcc62-cf5b-45a7-87f5-75e51fdd6873",
+        "title": "モブサイコ100",
+        "description": "自己表現がヘタな超能力少年、通称・モブ。普通の生き方にこだわり超能力を封印しているモブだが、感情が高ぶり数字が100になったとき…少年の身に何かが起こる!!!!アマチュアWEBコミック界最強の漫画家ONEが描く、笑いと涙と驚きと…闘いの日々！",
+        "image": "http://books.google.com/books/content?id=oWf4CgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 3,
+        "booklist": "00d225df-d53f-4c11-bfc5-6019a8a6a055"
+      },
+      {
+        "id": "c2ec0ca6-3f36-45ba-805a-e55b2f5d9bfc",
+        "title": "魔王城でおやすみ",
+        "description": "【無料試し読み閲覧期間2017/10/13～2017/10/31】 かつて、人と魔が存在していた時代… 魔王は人間の姫をさらい、自らの城に幽閉した。 人々は怒り、勇者は姫を救うために旅立つ！！ そんな中、檻の中で姫は想う… 「寝る以外、する事ない」 安眠する方法を探すため、囚われの姫が魔王城で好き勝手！ 新感覚、睡眠ファンタジーコメディー！！",
+        "image": "http://books.google.com/books/content?id=zaI5DwAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+        "order": 4,
+        "booklist": "00d225df-d53f-4c11-bfc5-6019a8a6a055"
+      }
+    ],
+    "is_completed": true
+  },
+  {
+    "id": "78a9f81a-eb03-4360-a688-14abb84e69f1",
+    "type": {
+      "id": "50257c87-7406-4f59-a3d4-8a02126ab825",
+      "type": "ギャグ",
+      "booklist": {
+        "is_completed": null
+      }
+    },
+    "owner": {
+      "id": "3df9f382-6aca-4585-bc64-183b4e0504ca",
+      "username": "福井拓真",
+      "is_superuser": false
+    },
+    "books": [
+      {
+        "id": "39bdd7a2-07ad-4193-9ff2-0ed1be41e2ba",
+        "title": "日常",
+        "description": "普段はおとなしめな夢見る女子高生・みおのまわりにはロボやら大福やら謎なものがいっぱい。四巻に待ち受けるのはさらに微妙な日常。話題のポストモダンギャグ第4巻!",
+        "image": "http://books.google.com/books/content?id=Sd7cwAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+        "order": 0,
+        "booklist": "78a9f81a-eb03-4360-a688-14abb84e69f1"
+      },
+      {
+        "id": "097bf895-7c41-4025-98f2-9a8be95d561a",
+        "title": "僕とロボコ",
+        "description": "単身赴任で不在だったパパが、1年ぶりに帰宅する事にご機嫌なボンド。だが、パパが帰れない事を聞き落胆する。見兼ねたロボコは、ボンドを慰めようとパパになりきり…!? 僕とロボコの愉快な誤奉仕メイド物語第11巻!!",
+        "image": "http://books.google.com/books/content?id=iDmYEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 1,
+        "booklist": "78a9f81a-eb03-4360-a688-14abb84e69f1"
+      },
+      {
+        "id": "461225bc-d80b-45fb-abde-9a4e7cb3feab",
+        "title": "サチ録～サチの黙示録～",
+        "description": "【デジタル版限定！「少年ジャンプ+」掲載時のカラーページを完全収録!!】悪魔と天使がひとりの人間を審査し、その結果で人類を存続させるか滅亡させるかを決める「人間神判」。全人類の代表として選ばれたのは、稀代のクソガキ小学生・上野サチ（6歳）だった！ 人類の存亡をかけた、悪魔と天使と人間のヘンテコ共同生活が今始まる！",
+        "image": "http://books.google.com/books/content?id=UfXYEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 2,
+        "booklist": "78a9f81a-eb03-4360-a688-14abb84e69f1"
+      },
+      {
+        "id": "fa1ef6de-3c5e-4b84-beb1-5381c87ead66",
+        "title": "SKET DANCE",
+        "description": "牛のウ●コが大活躍（？）のスケット版『さるかに合戦』に始まり、久々のJソン先生登場まで、どこを読んでもハズレなし！ 占い師とのバトルやボッスンのおり紙なども必見!! そしてキャプテンからの依頼とは…!?",
+        "image": "http://books.google.com/books/content?id=Xj_MCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 3,
+        "booklist": "78a9f81a-eb03-4360-a688-14abb84e69f1"
+      },
+      {
+        "id": "542f4264-c038-4cea-93f7-15049efaa0a6",
+        "title": "異世界おじさん",
+        "description": "駆け出し冒険者のアリシアが勇者であることが判明し、異世界ファンタジーめいてきた物語は、ついにおじさんを王都へといざなう。熱量がヤバい「メガドライブミニ」コラボエピソードも収録の異世界コメディ第４巻！",
+        "image": "http://books.google.com/books/content?id=OvrbDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 4,
+        "booklist": "78a9f81a-eb03-4360-a688-14abb84e69f1"
+      }
+    ],
+    "is_completed": true
+  },
+  {
+    "id": "26e90ab0-448a-4e0f-bb47-1b51b1b343c0",
+    "type": {
+      "id": "50257c87-7406-4f59-a3d4-8a02126ab825",
+      "type": "ギャグ",
+      "booklist": {
+        "is_completed": null
+      }
+    },
+    "owner": {
+      "id": "6a0a1e44-ea0e-4226-a290-4baae2e4ab82",
+      "username": "秋山明日香",
+      "is_superuser": false
+    },
+    "books": [
+      {
+        "id": "95e186d4-c537-4093-8ed7-a90bdd4499ee",
+        "title": "銀魂",
+        "description": "銀さんの財布をスッた少年。吉原一番の花魁を買うつもりだと話す少年の真意とは!? 悲運に翻弄される母子の為に一肌脱ぐ万事屋。だが事は、吉原を統べる“夜王”を敵に回す大騒乱に。暗雲漂う吉原に神楽因縁の人物が!!",
+        "image": "http://books.google.com/books/content?id=ZejKCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 0,
+        "booklist": "26e90ab0-448a-4e0f-bb47-1b51b1b343c0"
+      },
+      {
+        "id": "df393332-6303-46ee-b29b-d0ca8d96da89",
+        "title": "血界戦線―魔封街結社―",
+        "description": "紐育(ニューヨーク)崩壊後、一夜にして構築された都市・ヘルサレムズ・ロット。異界と現世が交わるこの魔都に於いて、世界の均衡を保つ為に暗躍する秘密結社が存在した!!",
+        "image": "http://books.google.com/books/content?id=VuPKCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 1,
+        "booklist": "26e90ab0-448a-4e0f-bb47-1b51b1b343c0"
+      },
+      {
+        "id": "1cdf781b-b4b2-43d6-be77-a3992837c73d",
+        "title": "クールドジ男子",
+        "description": "クールで少し近寄りがたいけど、カッコイイ男子たち。しかし彼らは――全員ドジ!!!! ドジだからこそ身近に感じる。ドジだからこそ愛おしい。読めばアナタもきっと好きになる☆ ドジさえクールにキマる男子たちの日常コメディ、第１巻！ Twitterで「いいね」累計200万突破の超話題作がフルカラーコミックス化！ ここでしか読めない描き下ろし50p超を収録!! ※デジタル版限定特典：描き下ろしページ1P収録",
+        "image": "http://books.google.com/books/content?id=3jPGDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 2,
+        "booklist": "26e90ab0-448a-4e0f-bb47-1b51b1b343c0"
+      },
+      {
+        "id": "31cd011b-66ab-4e4b-84a1-d6d70d35ff84",
+        "title": "Angel Beats! -Track ZERO-",
+        "description": "【電子書籍版特典：2015年配信の『Angel Beats！ -Track ZERO-』のカラーイラストを巻末に再収録！】 TVアニメで 描かれる以前の『Angel Beats!』が美麗なイラストと麻枝 准の文章で紡がれるーー！ ※本作品は2015年発売の『Angel Beats！ -Track ZERO-』を加筆・再編集し、電子書籍化したものです。",
+        "image": "http://books.google.com/books/content?id=Nd3cDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 3,
+        "booklist": "26e90ab0-448a-4e0f-bb47-1b51b1b343c0"
+      },
+      {
+        "id": "05040ff3-e473-459a-8c71-bbbcb5aef099",
+        "title": "聖☆おにいさん",
+        "description": "近年、日本で流行り始めたイースターを巡って真剣天界しゃべり場、勃発！永遠の中二病・悪魔マーラと、その新しいしもべのやり取りに、ブッダが涙を流した訳は…!?神・イエスにとっての神であるアノ人や、初登場の出産関連の守護聖人や大食いの悪魔などなど特盛メンツでお届けします!!",
+        "image": "http://books.google.com/books/content?id=I0V5DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 4,
+        "booklist": "26e90ab0-448a-4e0f-bb47-1b51b1b343c0"
+      }
+    ],
+    "is_completed": true
+  },
+  {
+    "id": "b9fbb834-24b7-49b1-9c39-bceda044fe4a",
+    "type": {
+      "id": "50257c87-7406-4f59-a3d4-8a02126ab825",
+      "type": "ギャグ",
+      "booklist": {
+        "is_completed": null
+      }
+    },
+    "owner": {
+      "id": "ccaf3e84-c7b8-4855-a658-19a6924b9592",
+      "username": "竹元亨舟",
+      "is_superuser": false
+    },
+    "books": [
+      {
+        "id": "ccb50f4c-ffa8-49bd-a322-a7fc9cecfcd9",
+        "title": "ギャグマンガ日和",
+        "description": "古今東西のネタを盛り込んだ、めくるめくギャグマンガ登場。うすた京介先生を始め各界から絶賛を受けたヘンテコワールドがキミの臓腑をじわじわ刺激する！ 伝説の読切「夢―赤壁の戦い―」「青春のしたたり」も収録！",
+        "image": "http://books.google.com/books/content?id=95TLCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 0,
+        "booklist": "b9fbb834-24b7-49b1-9c39-bceda044fe4a"
+      },
+      {
+        "id": "2868551e-a843-4ff6-b99d-66a55b0f73e4",
+        "title": "究極超人あ～る",
+        "description": "春風高校に転校してきた少年・R・田中一郎くん。その正体は実はアンドロイドだった！おもしろければよいとの理由でRは光画部に入れられ、さらには部長にされてしまうのだが！？ボンヤリ型の高校生アンドロイドと超愉快な仲間たちがくり広げる大騒ぎ！！全まんがファン必読、噂の大ヒット・ギャグ！！",
+        "image": "http://books.google.com/books/content?id=vpDyCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 1,
+        "booklist": "b9fbb834-24b7-49b1-9c39-bceda044fe4a"
+      },
+      {
+        "id": "24140f86-d869-44cb-87dd-a04f0f1c35c0",
+        "title": "Dr.スランプ",
+        "description": "【ページ数が多いビッグボリューム版！】天才科学者(？)の則巻千兵衛が作った人間型ロボット・アラレちゃんが暴れまくるパワフルGAGワールド！ ペンギン村を舞台に、個性あふれるキャラクター達が続々登場！",
+        "image": "http://books.google.com/books/content?id=TUPHCwAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+        "order": 2,
+        "booklist": "b9fbb834-24b7-49b1-9c39-bceda044fe4a"
+      },
+      {
+        "id": "cde53242-9608-47ab-94e4-369d38785cb7",
+        "title": "ドラえもん",
+        "description": "手足七本目が三つ（ねこの手もかりたい）（小三 71年01月号）／ ドラえもんだらけ（小三 71年02月号）／ のろのろ、じたばた（小三 71年03月号）／ タイムマシンで犯人を（小四 71年04月号）／ うそつきかがみ（小四 71年05月号）／ あやうし！ライオン仮面（小四 71年06月号）／ かげがり（小四 71年07月号）／ アリガターヤ（小四 71年08月号）／ ロボ子が愛してる（小四 71年09月号）／ ドラえもんの歌（小四 71年10月号）／ プロポーズ作戦（小四 71年11月号）／ 夜の世界の王さまだ（小四 71年12月号）／ 勉強べやの大なだれ（小四 72年01月号）／ のび太のおよめさん（小四 72年02月号）／ ★最終回＜2＞ドラえもんがいなくなっちゃう！？（小四 72年03月号）／ ★再開の予告（小五 73年03月号）／ 石ころぼうし（小六 73年04月号）／ してない貯金を使う法（小六 73年05月号）／ N・Sワッペン（小六 73年06月号）／ ママのダイヤを盗み出せ（小六 73年07月号）／ 珍加羅峠の宝物（小六 73年08月号）／ 怪談ランプ（小六 73年09月号）／ 月給騒動（小六 73年10月号）／ 未来からの買いもの（小六 73年11月号）／ 一生に一度は百点を…（小六 73年12月号）／ いやなお客の帰し方（小六 74年01月号）／ 出さない手紙の返事をもらう方法（小六 74年02月号）／ ユメコーダー（小六 74年03月号）",
+        "image": "http://books.google.com/books/content?id=TNdAEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 3,
+        "booklist": "b9fbb834-24b7-49b1-9c39-bceda044fe4a"
+      },
+      {
+        "id": "502cb634-cfd7-44f7-ac02-703ce16c5f7c",
+        "title": "ペンギンの問題",
+        "description": "シリーズ累計310万部を超え、 小学生だけでなく大人も巻き込んで大ヒットとなった『ペン問』。 謎のペンギン小学生「木下ベッカム」が巻き起こすクールギャグが、 過激さ、シュールさを「プラス」してかえってきた！ ぞくぞく登場する新ペンギンや新キャラクターが早くも話題。 ふたたび大ブームを起こすこと間違いなしの『ペン問＋』 その待望の第1巻が登場です！ 旧作ファンはもちろん、この1巻から読んでももちろん楽しめます！！",
+        "image": "http://books.google.com/books/content?id=DFr8CgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 4,
+        "booklist": "b9fbb834-24b7-49b1-9c39-bceda044fe4a"
+      }
+    ],
+    "is_completed": true
+  },
+  {
+    "id": "babbec8a-2d94-49ea-9efc-26578f025a97",
+    "type": {
+      "id": "50257c87-7406-4f59-a3d4-8a02126ab825",
+      "type": "ギャグ",
+      "booklist": {
+        "is_completed": null
+      }
+    },
+    "owner": {
+      "id": "3b8d45cf-5669-41e6-980c-67c7246a3ea9",
+      "username": "藤川 雄翔",
+      "is_superuser": false
+    },
+    "books": [
+      {
+        "id": "3836db47-97e6-4da3-abe0-981e42e6b879",
+        "title": "君のことが大大大大大好きな100人の彼女",
+        "description": "「好き」っていいたい！ いわれたい！ 中学卒業式に100回目の失恋をした愛城恋太郎は、高校でこそ初めての彼女を！と願う。そんな彼の前に現れた恋の神様が告げた未来は「高校生活で出会う“運命の人”は100人。しかし彼女達は、幸せになれなければなんやかんや（中略）あって…死ぬ」 突然始まるDEAD OR LOVEな純愛ハーレムライフ!! 絶対に脱落しない・させない！ 負け彼女（ヒロイン）0の多人数（ハーレム）LOVEコメディの新発明・新回答の第1巻!!",
+        "image": "http://books.google.com/books/content?id=Tc7YDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 0,
+        "booklist": "babbec8a-2d94-49ea-9efc-26578f025a97"
+      },
+      {
+        "id": "9c9d75c7-29ac-4626-a329-8b2d96a14cbc",
+        "title": "翼くんはあかぬけたいのに",
+        "description": "高校入学を機に上京してきた翼くん。 住まいはなんと、表参道のオシャレシェアハウス！ 独特かつ致命的なファッションセンスを持つ翼くんと、 オシャレだけど一風（かなり？）変わった同居人達との 生活は波乱だらけで…？ 「ヒバナ」と「マンガワン」で同時連載されていた 人気コメディ、超待望のコミックス第1巻！",
+        "image": "http://books.google.com/books/content?id=g-w0DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 1,
+        "booklist": "babbec8a-2d94-49ea-9efc-26578f025a97"
+      },
+      {
+        "id": "0cc9ab8c-cd44-4c92-ab8c-7c85a9f2c08e",
+        "title": "ぐらんぶる",
+        "description": "海沿いの街で一人暮らしを始めた北原伊織は衝撃の大学デビューを果たす。出会ったのは美女とダイビング、そして愛すべき野郎ども！ バカを描かせたら天下一品の井上堅二と、裸の若者を描く達人・吉岡公威が繰り出す、酒とノリがあふれる最高のキャンパスライフ!!",
+        "image": "http://books.google.com/books/content?id=0YDHBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 2,
+        "booklist": "babbec8a-2d94-49ea-9efc-26578f025a97"
+      },
+      {
+        "id": "34bd8a4b-c207-497e-a899-7b9aa24350d8",
+        "title": "放課後ひみつクラブ",
+        "description": "【デジタル版限定！「少年ジャンプ+」掲載時のカラーページを完全収録!!】「私立ユーカリの葉学園」に入学した新一年生・猫田悠一くん、部活は何にしようか思案中、不可解なクイズと不思議な美少女に出くわす。彼女の名は蟻ケ崎千歳、『放課後ひみつクラブ』の部長と名乗る。学園の隠された謎を解き明かすのが使命なんだとか…。何か放っておけない気持ちになった猫田くんは入部を即決、真実を求め、二人だけのクラブ活動開始へ…!? 蟻ケ崎さんと猫田くん、絶妙なコンビで贈る学園“ひみつ”コメディ開幕!!",
+        "image": "http://books.google.com/books/content?id=11-eEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 3,
+        "booklist": "babbec8a-2d94-49ea-9efc-26578f025a97"
+      },
+      {
+        "id": "b189136b-a41a-494e-af46-4c65df92829a",
+        "title": "限界煩悩活劇オサム",
+        "description": "【デジタル版限定！「少年ジャンプ+」掲載時のカラーページを完全収録!!】怨霊…それは荒ぶる感情の塊。ギャルJK・春山カイカのアパートに現れたのは、現世に強い恨みを残した腐女子霊だった。腐女子除霊師・乾オサムはカイカの依頼を受けて除霊へ赴くも、対峙した怨霊は不倶戴天の“逆カプ者”で!? 推しへの愛を拳に乗せて、語らいぶつけ合いスッキリ成仏！ 煩悩まみれの新感覚除霊コメディ、ここに開幕!!",
+        "image": "http://books.google.com/books/content?id=5V-eEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 4,
+        "booklist": "babbec8a-2d94-49ea-9efc-26578f025a97"
+      }
+    ],
+    "is_completed": true
+  },
+  {
+    "id": "40731886-de1c-48ad-b358-d626b1346a2b",
+    "type": {
+      "id": "50257c87-7406-4f59-a3d4-8a02126ab825",
+      "type": "ギャグ",
+      "booklist": {
+        "is_completed": null
+      }
+    },
+    "owner": {
+      "id": "a59fa2f6-06f4-464f-9942-18bbd3afabc7",
+      "username": "藤本直樹",
+      "is_superuser": false
+    },
+    "books": [
+      {
+        "id": "14768df3-5830-484f-b6a5-c8bfe793fc25",
+        "title": "日常",
+        "description": "普段はおとなしめな夢見る女子高生・みおのまわりにはロボやら大福やら謎なものがいっぱい。五巻でも微妙にすれ違い続ける日常。話題のポストモダンギャグ第五巻!",
+        "image": "http://books.google.com/books/content?id=3fmIewtH1RwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 0,
+        "booklist": "40731886-de1c-48ad-b358-d626b1346a2b"
+      },
+      {
+        "id": "2e53dce6-ac8f-4099-a205-514fb66447f5",
+        "title": "村井の恋",
+        "description": "修学旅行の一件をごまかすため、山門先生は田中にプロポーズをする。 村井はその姿を見て、あまりのショックで深い眠りについてしまう。 そんな中、山門先生と田中の結婚の噂が職員室まで届いていて…!? 堂々完結!! 波乱万丈の恋の行方やいかに!!?",
+        "image": "http://books.google.com/books/content?id=5UlyEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 1,
+        "booklist": "40731886-de1c-48ad-b358-d626b1346a2b"
+      },
+      {
+        "id": "d12f139f-dcb8-4bc1-a33b-706cd3cdc200",
+        "title": "銀魂",
+        "description": "銀さんの財布をスッた少年。吉原一番の花魁を買うつもりだと話す少年の真意とは!? 悲運に翻弄される母子の為に一肌脱ぐ万事屋。だが事は、吉原を統べる“夜王”を敵に回す大騒乱に。暗雲漂う吉原に神楽因縁の人物が!!",
+        "image": "http://books.google.com/books/content?id=ZejKCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 2,
+        "booklist": "40731886-de1c-48ad-b358-d626b1346a2b"
+      },
+      {
+        "id": "43887624-89ec-4191-af86-ab0c1a345adb",
+        "title": "今日から俺は！！",
+        "description": "概要情報なし",
+        "image": "http://books.google.com/books/content?id=ldj6CgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 3,
+        "booklist": "40731886-de1c-48ad-b358-d626b1346a2b"
+      },
+      {
+        "id": "9dc8f705-8745-4d63-9354-a80b74dd0884",
+        "title": "鬼灯の冷徹",
+        "description": "猫好好ちゃん、大繁殖！ 十二巻にしてついに100話到達！ 100話目の鬼灯はと言うと、閻魔大王の逸話に興味津々。人間で言うところの15歳頃の鬼灯はと言うと、授業サボって呪いの金棒に興味津々。そして仕事柄…いや、半分趣味で残酷な童話に興味津々な鬼灯は「おおかみと7ひきのこやぎ」の山羊達から直接話をきくため西洋の天国へ！ ちっちゃい頃から鬼灯とつるんでた友達2人の名前も明らかに！",
+        "image": "http://books.google.com/books/content?id=kFvGBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 4,
+        "booklist": "40731886-de1c-48ad-b358-d626b1346a2b"
+      }
+    ],
+    "is_completed": true
+  },
+  {
+    "id": "f40be5c4-847f-4edd-b3bd-eb0e8c8a8d0d",
+    "type": {
+      "id": "50257c87-7406-4f59-a3d4-8a02126ab825",
+      "type": "ギャグ",
+      "booklist": {
+        "is_completed": null
+      }
+    },
+    "owner": {
+      "id": "8e8e57a1-912a-4c9e-a3aa-68729845f66c",
+      "username": "酒向ひばり",
+      "is_superuser": false
+    },
+    "books": [
+      {
+        "id": "fb9afc30-78d1-4429-8d56-caaffee31ee6",
+        "title": "磯部磯兵衛物語〜浮世はつらいよ〜",
+        "description": "花のお江戸に暮らす青年武士・磯部磯兵衛の夢は立派な武士になること。そのため武士道学校に通い、日々精進…する予定!? 実際は励まず学ばず勤しまず、ぐっだぐだな日々を送る磯兵衛の物語、幕を開けるで候。（『磯部磯兵衛物語』読切作品4本同時収録）",
+        "image": "http://books.google.com/books/content?id=dkHKCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 0,
+        "booklist": "f40be5c4-847f-4edd-b3bd-eb0e8c8a8d0d"
+      },
+      {
+        "id": "c2e63354-8108-413b-97eb-e00cf8b7f2b5",
+        "title": "カッコカワイイ宣言！",
+        "description": "世界で1、2位を争うくらいに暴力的な美貌を持つかおちゃん。ちょっぴりドジなのがたまにキズだけど、そんなことはこの美貌の前ではなんの影響力も持たないってことは、みんなの常識だよね？",
+        "image": "http://books.google.com/books/content?id=obLKCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 1,
+        "booklist": "f40be5c4-847f-4edd-b3bd-eb0e8c8a8d0d"
+      },
+      {
+        "id": "53daaa1f-3e13-49b2-978f-91237b19077f",
+        "title": "ギャグマンガ日和",
+        "description": "古今東西のネタを盛り込んだ、めくるめくギャグマンガ第13弾。一人多い七福神や、連載2回目が最終回の伝説の漫画家、変な能力ばかりのエスパー軍団、もちろん聖徳太子と小野妹子の迷コンビも大活躍するよ!!",
+        "image": "http://books.google.com/books/content?id=yjjKCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 2,
+        "booklist": "f40be5c4-847f-4edd-b3bd-eb0e8c8a8d0d"
+      },
+      {
+        "id": "f0e30192-5fa7-47a8-bac9-2943c49fb7ed",
+        "title": "ゴゴゴ西遊記―新悟空伝―",
+        "description": "装い新たになって登場！ 大人気西遊記ギャグまんが、待望の第1巻！！ 自他ともに認める卑怯で最強な妖怪、孫悟空と心やさしき高僧、三蔵法師が出会い、始まる天竺への旅！ 読者コンテストで選ばれた新コスチュームも超必見だ！！",
+        "image": "http://books.google.com/books/content?id=h6v9CgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 3,
+        "booklist": "f40be5c4-847f-4edd-b3bd-eb0e8c8a8d0d"
+      },
+      {
+        "id": "c2a79b47-1d11-4a64-a2b0-eb2d087e807c",
+        "title": "世紀末リーダー伝たけし！",
+        "description": "【ページ数が多いビッグボリューム版！】ポッポ小学校に入学したたけしは生まれ持った熱きリーダー魂とオッサン顔で、たちまち町中にその名をとどろかす。友達のピンチ、悪人の襲来、ダンディコンテスト、学園祭、遠足…誰かが困ったときに必ず解決してくれる、まさにリーダー的存在なのだ！ リーダーとしての証を問う［ボンチュー編］を収録したワイド判第1巻はジャンプコミックス約1、2巻分の超絶ボリューム!! さらに“しまぶー”書き下ろしコラム＆キャラ履歴書など爆笑おまけページも大充実!!!",
+        "image": "http://books.google.com/books/content?id=CCzHCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "order": 4,
+        "booklist": "f40be5c4-847f-4edd-b3bd-eb0e8c8a8d0d"
+      }
+    ],
+    "is_completed": true
+  }
+]
