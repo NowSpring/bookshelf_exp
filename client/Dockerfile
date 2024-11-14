@@ -12,7 +12,7 @@ COPY mysite/vite-project ./
 
 COPY . .
 
-ENV HOST https://react-frontend-4z2i5enysq-uc.a.run.app
+ENV HOST https://react-frontend-3637277477.asia-northeast1.run.app
 
 EXPOSE 5173
 

@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-_x^04@l0bss&609xt(2(^ey4_!d839@k5#p(g*+y!g18s_dg*m
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["*", "django-backend-4z2i5enysq-an.a.run.app"]
+ALLOWED_HOSTS = ["*", "https://django-backend-3637277477.asia-northeast1.run.app"]
 
 
 # Application definition
@@ -94,7 +94,7 @@ DATABASES = {
   'default': {
     'ENGINE': 'django.db.backends.postgresql',
     'NAME': 'bookshelf',
-    'HOST' : '/cloudsql/elite-fabric-425215-v3:asia-northeast1:django-backend',
+    'HOST' : '/cloudsql/elite-fabric-425215-v3:asia-northeast1:django-backend-02',
     'PORT': '5432',
     'USER': 'test',
     'PASSWORD': 'test',
@@ -152,13 +152,13 @@ CORS_ALLOWED_ORIGINS = [
     'http://localhost:5173',
     'http://0.0.0.0:5173',
     'http://127.0.0.1:5173',
-    'https://react-frontend-4z2i5enysq-an.a.run.app',
+    'https://react-frontend-3637277477.asia-northeast1.run.app',
 ]
 
 CORS_ALLOW_ALL_ORIGIN = True
 # CORS_ALLOW_CREDENTIALS = True
 
-CSRF_TRUSTED_ORIGINS = ['https://django-backend-4z2i5enysq-an.a.run.app']
+CSRF_TRUSTED_ORIGINS = ['https://django-backend-3637277477.asia-northeast1.run.app']
 
 REST_FRAMEWORK = {
     'DEFAULT_AUTHENTICATION_CLASSES': [
