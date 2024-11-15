@@ -215,18 +215,18 @@ class RecBookViewSet(viewsets.ModelViewSet):
           status=status.HTTP_400_BAD_REQUEST
         )
 
-      # BookListを通じてRecBookを取得
+      # BookListを通じてRecBookを取得し、owner__usernameでソート
       rec_books = RecBook.objects.filter(
         booklist__type_id=booklisttype_id
-      ).select_related('booklist__owner')
+      ).select_related('booklist__owner').order_by('booklist__owner__username')
 
       # ユーザーごとにグループ化
       grouped_data = []
-      for owner_id, books in groupby(rec_books, key=lambda x: x.booklist.owner):
+      for owner_username, books in groupby(rec_books, key=lambda x: x.booklist.owner.username):
         books_list = list(books)
         if books_list:
           grouped_data.append({
-            'username': books_list[0].booklist.owner.username,
+            'username': owner_username,
             'rec_books': [{
               'title': book.title,
               'description': book.description,
