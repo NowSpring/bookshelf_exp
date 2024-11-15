@@ -11,7 +11,7 @@ if [ ! -f "$INIT_FLAG" ]; then
     python manage.py migrate
 
     # スーパーユーザーの作成
-    echo "from django.contrib.auth import get_user_model; User = get_user_model(); User.objects.create_superuser('admin', 'admin@example.com', 'admin') if not User.objects.filter(username='admin').exists() else None" | python manage.py shell
+    echo "from django.contrib.auth import get_user_model; User = get_user_model(); User.objects.create_superuser(username='admin', email='admin@co.jp', password='admin') if not User.objects.filter(username='admin').exists() else None" | python manage.py shell
 
     # 各種初期データの作成
     python manage.py create_members
