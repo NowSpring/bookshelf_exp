@@ -90,14 +90,20 @@ WSGI_APPLICATION = 'config.wsgi.application'
 # Database
 # https://docs.djangoproject.com/en/3.2/ref/settings/#databases
 
+# DATABASES = {
+#   'default': {
+#     'ENGINE': 'django.db.backends.postgresql',
+#     'NAME': 'bookshelf',
+#     'HOST' : '/cloudsql/elite-fabric-425215-v3:asia-northeast1:django-backend-02',
+#     'PORT': '5432',
+#     'USER': 'test',
+#     'PASSWORD': 'test',
+#     }
+# }
 DATABASES = {
-  'default': {
-    'ENGINE': 'django.db.backends.postgresql',
-    'NAME': 'bookshelf',
-    'HOST' : '/cloudsql/elite-fabric-425215-v3:asia-northeast1:django-backend-02',
-    'PORT': '5432',
-    'USER': 'test',
-    'PASSWORD': 'test',
+    'default': {
+        'ENGINE': 'django.db.backends.sqlite3',
+        'NAME': BASE_DIR / 'db.sqlite3',
     }
 }
 
